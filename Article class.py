@@ -71,7 +71,7 @@ def _get_tags(self): #Fix
     return tags_list
 
 
-def _create_article_content_file(self, content):
+def _create_article_content_file(self):
     """
     Creates a text file containing the article content in a subfolder
     """
@@ -80,6 +80,8 @@ def _create_article_content_file(self, content):
         os.mkdir("article content files")
 
     with open(f'{self.id}.txt', 'w') as f:  # The file will have the id name.
+        paragraphs = self._soup.find_all('p')
+        content = "\n".join(paragraphs)
         f.write(content)
 
 
