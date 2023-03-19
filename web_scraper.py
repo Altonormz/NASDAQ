@@ -4,6 +4,8 @@ monkey.patch_all()
 import grequests
 from bs4 import BeautifulSoup
 
+BATCH_SIZE = 10
+PAGES = 1000
 
 def scrape_page(URL):
     """
@@ -42,14 +44,17 @@ def save_links(links_list):
 
 def main():
     new_links = []
-    for i in range(1, 1000, 10):
+    for i in range(1, PAGES, BATCH_SIZE):
 
         ten_pages = [f'https://www.nasdaq.com/news-and-insights/topic/markets/page/{j}' for j in
-                     range(i, i + 10)]
+                     range(i, i + BATCH_SIZE)]
         responses = get_response(ten_pages)
         for url in responses:
-            new_links = new_links + scrape_page(url)
-        print(f'Batch number {i // 10 + 1}/100 done')
+            if url.status_code == 200:
+                new_links = new_links + scrape_page(url)
+            else:
+                print(f"Request failed with status code: {url.status_code}")
+        print(f'Batch number {i // BATCH_SIZE + 1}/100 done')
     print(new_links)
     save_links(new_links)
 
