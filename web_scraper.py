@@ -1,4 +1,5 @@
 from gevent import monkey
+
 monkey.patch_all()
 import grequests
 from bs4 import BeautifulSoup
@@ -28,15 +29,29 @@ def get_response(urls):
     return responses
 
 
+def save_links(links_list):
+    """
+    Save the links into a file
+    """
+    with open(f'links_list.txt', 'w') as f:
+        for link in links_list:
+            f.write(link + '\n')
+
+    print('Finished making the file')
+
+
 def main():
     new_links = []
     for i in range(1, 1000, 10):
+
         ten_pages = [f'https://www.nasdaq.com/news-and-insights/topic/markets/page/{j}' for j in
-                     range(i, i+10)]
+                     range(i, i + 10)]
         responses = get_response(ten_pages)
         for url in responses:
             new_links = new_links + scrape_page(url)
+        print(f'Batch number {i // 10 + 1}/100 done')
     print(new_links)
+    save_links(new_links)
 
 
 if __name__ == "__main__":
