@@ -1,0 +1,60 @@
+February 27, 2023 — 05:25 am EST
+
+      Written by
+                        Anthony Di Pizio for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Share prices of Nvidia (NASDAQ: NVDA) took a tumble over the last 12 months amid the broader sell-off in the technology sector, and they remain down 30% from their all-time high. But the company just released its results for fiscal 2023 (which ended Jan. 29), and the details suggest this might be a dip that investors will regret not buying. 
+Revenue appears to have stabilized across most of its core segments, but more notably, CEO Jensen Huang gave some juicy new information on theearnings callrelating to Nvidia's world-leading artificial intelligence (AI) applications. 
+Image source: Getty Images.
+Cloud computing technology allows businesses to move their operations online without having to maintain their own physical servers. Instead, a handful of technology giants operate data centers at scale to make cloud services cheap and easy to access for organizations of any size.
+Microsoft Azure and Alphabet's Google Cloud are two of the industry's top three cloud providers. Jensen Huang just told investors that his company would be partnering with these two to deliver Nvidia AI cloud services, putting advanced AI at the fingertips of almost every business. 
+Nvidia will leverage the substantial scale of those cloud providers to drop its AI services into the hands of millions of potential customers, eliminating the need to build a customer base of its own from scratch. 
+Nvidia is often regarded as the pioneer of AI technology. It designs the most-powerful semiconductors in the world geared toward training and developing AI models, and it has built the world's most-advanced AI supercomputers.
+Its DGX supercomputer is already accessible to Oracle cloud customers, and it will be at the fingertips of Azure and Google Cloud customers soon, too. 
+The result: Over the next 10 years, Huang said he believes Nvidia will help to accelerate the development of AI by 1 million percent. And considering that platforms like ChatGPT have already whipped the tech world into an AI frenzy, the future could be astounding.
+The company experienced a bumpy fiscal 2023 as inflation ripped through the economy sending interest rates surging, which placed pressure on household finances. Consumers were spending less on big-ticket items like new computers, which ravaged Nvidia's gaming segment in particular.
+The company's fiscal 2023 quarterly revenue peaked in the first quarter before falling on a sequential basis in the second and third quarters. But in the fourth quarter, it stabilized at $6.05 billion, an increase of 2% sequentially. Notably, the gaming segment specifically jumped 17% year over year. These might be early signs that the worst of the slowdown is over.
+Zooming out to the annual picture, Nvidia's data center segment grew by 41% year over year during fiscal 2023, with revenue topping $15 billion. This business unit is now the company's largest, and it's the epicenter of its AI initiatives, so investors should keep a close eye on it during the new fiscal year.
+But there was one more noteworthy positive. During the fourth quarter, its automotive segment grew by a whopping 135% year over year. With just $294 million in revenue for the quarter, it's still quite small -- but it probably won't be that way for long.
+It's home to Nvidia's Drive platform, an end-to-end solution providing hardware and software to car manufacturers wanting to offer self-driving capabilities. 
+The company hasn't revealed much about the automotive segment's pipeline recently, but as of the first quarter, it had $11 billion in sales lined up over the next six years, with 35 automakers signed on. So it could be a few short years away from having a substantial impact on companywide revenue.
+Nvidia is a quintessential company of the future. Producing the world's most advanced semiconductors means it could own an outsize share of what is estimated to be a $1.5 trillion industry by 2030. But factor in AI, and the numbers start to enter the stratosphere. According to a prediction by Cathie Wood's ARK Invest, AI is set to add $200 trillion to the global economy by supercharging the productivity of knowledge workers: those in programming, science, law, and information technology. Since Nvidia's AI applications will be at the fingertips of businesses globally through the cloud, the company is going to play a dominant role in creating that value. 
+Another estimate by ARK Invest suggests the autonomous-vehicle business could be worth $14 trillion by 2027. Since Nvidia is producing a platform technology that could be used by any manufacturer, its financial opportunity could dwarf that of competitors like Tesla, whose self-driving tech is reserved for its own cars. 
+A simple economic recovery could also see Nvidia reclaiming the 27% revenue drop in its gaming segment during fiscal 2023, which could give its fiscal 2024 financials a strong boost. 
+With so many irons in the fire, the 30% dip in Nvidia stock is a golden long-term buying opportunity for investors.
+Find out why Nvidia is one of the 10 best stocks to buy now
+Our award-winning analyst team has spent more than a decade beating the market. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed their ten top stock picks for investors to buy right now. Nvidia is on the list -- but there are nine others you may be overlooking.
+Click here to get access to the full list!
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Suzanne Frey, an executive at Alphabet, is a member of The Motley Fool's board of directors. Anthony Di Pizio has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Alphabet, Microsoft, Nvidia, and Tesla. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

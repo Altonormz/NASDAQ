@@ -1,0 +1,64 @@
+March 16, 2023 — 07:12 am EDT
+
+      Written by
+                        Bram Berkowitz for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Three banks have closed or been put under receivership over the past week. Of the three, the one that still prompts the most questions is Signature Bank (NASDAQ: SBNY), largely because it seemed to have enough capital and liquidity to survive before regulators shut it down on Sunday.
+I'm not suggesting that regulators shouldn't have closed the bank, or that the bank didn't need to be closed, just that the situation is still a bit murky.
+We know that Silvergate Capital (NYSE: SI) and Silicon Valley Bank, which was owned by SVB Financial (NASDAQ: SIVB), saw significant deposit outflows that resulted in the two banks having to sell bonds that were massively underwater, which effectively wiped out most or all of their equity.
+Silvergate suggested in a regulatory filing prior to its closing that it was likely less than "well capitalized." SVB had enough bond losses on its books to wipe out all of its tangible common equity, which likely happened when depositors pulled $42 billion of deposits on March 9.
+Image source: Getty Images.
+We also know that at the end of 2022, Signature had tangible common equity of about $7.3 billion. Total unrealized losses in Signature's available-for-sale (AFS) bond portfolio, which are bonds the bank intends to sell prior to maturity, were roughly $2.5 billion. But these losses are marked to market -- that is, valued at the current market price -- and therefore had already been subtracted from equity. Signature also had about $762 million of unrealized losses in its held-to-maturity (HTM) bond portfolio, which are not marked to market.
+So, assuming Signature had to sell both of these bond portfolios and take the losses, it still would have been looking at more than $6.5 billion of tangible common equity. The bank also had very strong capital ratios at the end of 2022. So while this write-down would have hurt, I suspect its capital levels would have still been more than adequate.
+Signature also appears to have been in a much better position from a liquidity standpoint. In fact, on March 8 the bank released updated financials. The bank reported having $4.54 billion in cash, borrowing balances of more than $6.5 billion, and more than $89 billion in deposits, which was up since the start of 2023. Furthermore, the bank said it had an additional borrowing capacity of roughly $29 billion.
+This week, Bloomberg cited an unnamed source saying Signature's outflows on Friday amounted to 20% of deposits, which would be close to $18 billion. While certainly substantial, it looks like the bank could have covered that amount with cash on hand and its borrowing capacity. Even if the bank did have to sell bonds, it probably could have sold its AFS book without needing to dip into the HTM book.
+Interestingly, Bloomberg reported Tuesday that regulators seized Signature after they "lost faith" in the bank.
+"The bank failed to provide reliable and consistent data, creating a significant crisis of confidence in the bank's leadership," New York's Department of Financial Services (NYDFS) said in a statement. "The decision to take possession of the bank and hand it over to the FDIC [Federal Deposit Insurance Corp.] was based on the current status of the bank and its ability to do business in a safe and sound manner on Monday."
+Former congressman Barney Frank, who sat on Signature's board of directors and helped author a critical banking regulation (Dodd-Frank) that was implemented following the Great Recession, said that the closure caught him by surprise.
+"By Sunday morning, the executives of the bank believed they had satisfied the need for the data and had secured the capital from the discount window and elsewhere," Frank said.
+Frank also said he thought deposit outflows had stabilized by Sunday morning, but NYDFS said that withdrawal requests continued to pile up through the weekend. Still, federal banking regulators didn't announce they were going to backstop deposits until Sunday night, which seems to have somewhat stabilized the situation at other banks facing similar pressure.
+Like Silvergate, Signature had developed a real-time payments network that crypto exchanges and institutional investors used to transact fiat dollars in real time. Both Silvergate and Signature have come under intense scrutiny after the collapse of FTX, which had been a major client of Silvergate.
+While it looked like Silvergate would be facing significant regulatory issues, it was more unclear if Signature would face those same challenges. Management had outright said on the bank's lastearnings callin January that it hadn't violated the Bank Secrecy Act (BSA) or anti-money laundering (AML) rules due to its relationship with FTX.
+"With the FTX, it wasn't a matter of BSA/AML. Everyone thought that he (Sam Bankman-Fried) was legitimate and he ended up being very [Bernie] Madoff-like. So, I don't think anyone could say that they knew that and we catch it," Signature's CEO, Joe DePaulo, said in that call.
+Signature COO Eric Howell also pointed out that while the bank had planned to add FTX to its payments network, it hadn't yet completed the integration process and therefore didn't have any client-related transactions related to FTX on its platform.
+Still, on Tuesday night Bloomberg reported that Signature had been facing a criminal probe related to its crypto business and whether or not the bank had done enough to identify money laundering through its payments network. But Bloomberg also said that Signature had not yet been accused of wrongdoing. Additionally, when asked about the matter, NYDFS said the closure of Signature "had nothing to do with crypto."
+A big part of what led to the demise of Silvergate and SVB is that each bank had too much deposit concentration in one sector. Most of Silvergate's deposits came from crypto clients, while more than half of SVB's deposits came from venture capital and private equity firms.
+Signature had exposure to venture capital, private equity, and crypto-related deposits. And like SVB, most of its deposits were not covered by the FDIC, with more than 94% of deposits in excess of $250,000. Signature also served a lot of wealthy clients and real estate investors that likely had the ability to move a lot of deposits at once.
+But the deposit base was still more diverse than SVB and Silvergate. At the end of 2022, only 4% of the bank's deposits came from venture capital and private equity clients, while crypto-related deposits were down to 16.5% of total deposits in January. 
+Also, many thought the issues at Silvergate and SVB would end up being a net positive for Signature. A host of crypto firms, including Coinbase, actually began using Signature's payments system and moved deposits over to the bank after Silvergate found itself on the brink of collapse in early March. Compass Point analysts also said in a research note on March 10 that they viewed the recent disruptions at Silvergate and SVB as positives for Signature.
+As of this writing Wednesday, I think a lot of questions still remain about the closure of Signature. While it does seem like the bank had sufficient liquidity and capital to handle significant deposit outflows, perhaps withdrawals that built up over the weekend were insurmountable to overcome. It would have been interesting to see what might have happened if the bank had stayed open until Sunday night when federal regulators announced the backstopping of deposits. 
+Then of course, maybe there is some truth that crypto issues led to the demise of the bank or that regulators simply lost patience with management and their ability to get accurate information. I do feel like Signature has not always been the best when it comes to disclosing information, particularly when it comes to its crypto business. The bank didn't even begin issuing a quarterly earnings slide deck until the start of 2022, which I always found bizarre for a bank of its size.
+The collapse of Signature may have been unavoidable and the most likely scenario does seem to be a deposit run of epic proportions. But what transpired is a lot less clear than what happened at Silvergate and SVB.
+10 stocks we like better than WalmartWhen our award-winning analyst team has an investing tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Walmart wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+Stock Advisor returns as of March 8, 2023
+SVB Financial provides credit and banking services to The Motley Fool. Bram Berkowitz has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Coinbase Global and SVB Financial. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

@@ -1,0 +1,52 @@
+March 10, 2023 — 09:28 am EST
+
+      Written by
+                        Dan Caplinger for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Stock markets looked ready for a turbulent start on Friday morning. Earlier in the morning, stock index futures suggested that Wall Street might continue to push stocks lower after Thursday's rout. However, futures moved higher after the release of the latest U.S. employment report, which showed that the economy added 311,000 jobs in February. That sent futures on the Dow Jones Industrial Average (DJINDICES: ^DJI) into positive territory, albeit just barely.
+Yet there were still concerns among investors in many individual stocks. Software giant Oracle (NYSE: ORCL) reported its latest quarterly financial results, and investors weren't satisfied with everything they saw. Even steeper losses in DocuSign (NASDAQ: DOCU) stock pointed to greater pressures on up-and-coming software-as-a-service (SaaS) companies. You can get all the details below.
+Image source: Getty Images.
+Shares of Oracle fell 4% in premarket trading Friday morning. The software giant reported solid financial results for the fiscal third quarter that ended Feb. 28, but investors had hoped to see more evidence of stronger numbers going forward.
+Oracle's key metrics were mixed. Revenue climbed 18% year over year to $12.4 billion, showing continued growth. Earnings dropped by about a fifth to $0.68 per share. On an adjusted basis, though, Oracle's bottom line moved slightly higher by about 7% to $1.22 per share, which was at the upper end of the guidance that the software company had offered earlier.
+Oracle tried to highlight the success of its cloud business, which saw revenue jump 45% during the quarter to $4.1 billion. Yet despite solid growth rates for its cloud infrastructure and cloud application products, Oracle wasn't able to deliver the same magnitude of gains in its enterprise resource planning software product lines. That seemed to disturb investors who had wanted to see even larger growth rates across the entire cloud line.
+Some fear that Oracle has been late to the game in taking maximum advantage of cloud computing trends. Moreover, with Oracle projecting a 16% sales increase in the current quarter, investors are looking closely to see if enterprise customers pull back on their software spending.
+DocuSign shares took an even bigger hit early Friday, falling 13% in premarket trading. The electronic signature and document management company kept seeing incremental gains for its business, but shareholders seem to have wanted even more growth in revenue and profit.
+DocuSign's numbers for the fiscal fourth quarter ending Jan. 31 showed modest growth, albeit not at the pace that investors saw in recent years. Revenue of $660 million was up 14% year over year. Margin levels improved somewhat, helping to boost adjusted earnings to $0.65 per share, up from $0.48 per share in the year-ago period. Free cash flow soared more than 60% to $113 million for the period.
+Yet investors weren't entirely comfortable with DocuSign's guidance for the near future. In the first quarter of the new fiscal year, DocuSign expects sales of $639 million to $643 million. For the full year, projections for around $2.7 billion in revenue imply that annual growth will slow to just 7%, compared to a 19% rise in the just-ended fiscal year.
+DocuSign has hoped to broaden its popular e-signature business to encompass broader document management services. With some customers pulling back on their IT budgets, however, it's far from clear that DocuSign will be able to recover fully from the huge drop its stock suffered in recent years.
+Indeed, if companies like Oracle and DocuSign don't get back to their past pace of growth, it could cause a loss of confidence throughout the stock market. That in turn could extend the bear market longer than just about anyone wants.
+10 stocks we like better than OracleWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Oracle wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of March 8, 2023
+ 
+Dan Caplinger has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends DocuSign. The Motley Fool recommends the following options: long January 2024 $60 calls on DocuSign. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

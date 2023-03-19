@@ -1,0 +1,304 @@
+February 28, 2023 — 09:30 pm EST
+
+      Written by
+                        Motley Fool Transcribing for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Image source: The Motley Fool.
+Sarepta Therapeutics (NASDAQ: SRPT)Q4 2022 Earnings CallFeb 28, 2023, 4:30 p.m. ET
+Operator
+Good afternoon and welcome to the Sarepta Therapeutics fourth quarter and full year 2022earnings call [Operator instructions] As a reminder, today's conference call is being recorded. At this time, I will turn the call over to Mary Jenkins, associate director, investor relations. Please go ahead.
+Mary Jenkins -- Senior Vice President, Investor Relations
+Thank you, Valerie, and thank you all for joining today's call. Earlier this afternoon, we released our financial results for the fourth quarter and full year 2022. The press release is available on our website at sarepta.com, and our 10-K was filed with the Securities and Exchange Commission this afternoon. Joining us on the call today are Doug Ingram, Ian Estepan, Dallan Murray, and Dr.
+Louise Rodino-Klapac. After our formal remarks, we'll open the call for Q&A. I'd like to note that during this call, we will be making a number of forward-looking statements. Please take a moment to review our slide on the webcast which contains our forward-looking statements.
+10 stocks we like better than Sarepta TherapeuticsWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.* 
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Sarepta Therapeutics wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of February 8, 2023
+
+These forward-looking statements involve risks and uncertainties, many of which are beyond Sarepta's control. Actual results could materially differ from these forward-looking statements. And any such risks can materially and adversely affect the business, the results of operations, and trading prices for Sarepta's common stock. For a detailed description of applicable risks and uncertainties, we encourage you to review the company's most recent annual report on Form 10-K filed with the SEC as well as the company's other SEC filings.
+The company does not undertake any obligation to publicly update its forward-looking statements, including any financial projections provided today, based on subsequent events or circumstances. I'll now turn the call over to president and CEO, Doug Ingram, who will provide an overview of our recent progress. Doug? 
+Doug Ingram -- Chief Executive Officer
+Thank you, Mary. Good afternoon, everybody, and thank you for joining Sarepta Therapeutics for our fourth quarter and full year 2022 financial results conference call. 2023 may be the most eventful year in Sarepta's event-filled history. Our Biologics License Application, or BLA, for our gene therapy SRP-9001 for Duchenne muscular dystrophy, will be a significant bellwether moment: first, for the Duchenne families who are waiting without the luxury of patients for a therapy that might arrest the brutal decline associated with this disease; and next for the promise of gene therapy as a class to deliver meaningful improvements in the lives of patients with rare degenerative diseases, not at some distant vanishing points in the future but in time to do good now.
+And given the keen interest in the 9001 BLA submission, I'm going to comment on the BLA review before I move to quarterly and yearly performance. As you will recall, in the fall of last year, we submitted our BLA for SRP-9001 to treat ambulant Duchenne patients. And in the fourth quarter, the FDA accepted the BLA for filing, granted 9001 priority review and set May 29th, 2023, as our action date. We have been diligently prosecuting the BLA.
+We have by now completed a very productive mid-cycle review with the division. At the mid-cycle, the division requested additional CMC information, and we have by now provided answers to all of those questions. The division formally informed us as well at the mid-cycle meeting that they see no significant safety issues that have been identified. And the division has determined that there is no need for an advisory committee meeting for SRP-9001 BLA.
+As you may have read, FDA has announced that the Office of Tissues and Advanced Therapies, or OTAT, is being reorganized and a new super office entitled the Office of Therapeutic Products, or OTP, is being established. The goal is to improve alignment, increase resources and capacity and enhance expertise. A couple of thoughts. First, Sarepta is delighted by the establishment of OTP.
+We believe it will enhance reviews and serve Dr. Peter Mark's publicly stated vision to lean in and accelerate the transformative potential of cell and gene therapy. Second, FDA has stated that the reorganization and establishment of OTP will not impact any time lines. And we can confirm that we have not experienced any delay or disruption of any kind as a result of this reorganization.
+Indeed, we see the establishment of OTP as unequivocally positive and a potentially great benefit to patients. So going forward, we're going to focus on the following: first, answering any remaining questions the FDA may have on the file; second, preparing for and managing preapproval inspections. The FDA has already scheduled three preapproval manufacturing inspections and along with our manufacturing partner, Catalent, we are preparing to make those inspections a success; third, building inventory for launch; and fourth, of course, completing our launch readiness. Now I provided an update on the mid-cycle today as there has been a significant amount of interest in whether the division would see the need for an advisory committee.
+However, from here, we will be focusing on prosecuting the BLA, and we'll provide an update on or after the 9001 action date. Moving now to performance. As one ponders how Sarepta may execute the launch of 9001, if given that opportunity, I would ask you to consider the team's consistent performance quarter-over-quarter and year over year, serving the Duchenne community with our three approved therapies: Exondys, Vyondys, and Amondys. From an end-market perspective, 2022 was yet another year where our cross-functional team, including commercial, medical affairs, patient services, access and reimbursement, and manufacturing and supply chain, to name a few, executed together and delivered for our patients.
+Fourth quarter total revenue stood at $258.4 million, while net product revenue came in at $235.9 million. That is a 32% increase over the same quarter of the prior year. Full year total revenue came in at $933 million, and net product revenue for the year came in at $843.8 million, representing a 38% year-over-year increase. For the last 5 years, we have grown at a consistent 40% compounded annual growth rate, all of which performance comes from serving the Duchenne community and none of which comes from price increases.
+Now as we announced at the JPMorgan Conference in January, for 2023, our net product revenue guidance for our three currently approved PMO therapies, excluding the impact of a 9001 approval, is $925 million or greater. Moving back to SRP-9001 for a moment. We are commencing studies this year to ensure that we have the broadest label for SRP-9001 as is possible, consistent with the science. We have already commenced our study to limit mutation-related exclusions.
+Further, in the coming months, we will be starting a study in the non ambulant population called Envision or Study 303. And we will commence two separate studies with alternative approaches to removing preexisting antibodies to make SRP-9001 available to rh74 NAV-positive patients as well. Additionally, we are making significant progress with our limb-girdle pipeline as Dr. Louise Rodino-Klapac will discuss in a moment as she provides updates across our research and development activities.
+On the RNA platform, we will complete enrollment of the Momentum study this quarter. Momentum, as you know, is our study for our first next-generation peptide-conjugated PMO, also known as PPMO, next SRP-5051 designed to treat Duchenne patients who are exon 51 amenable. Momentum will read out later this year, and if successful, we will discuss a filing for SRP-5051 with the neurology division this year. I am proud of the progress that we have made these last 6 years.
+And yet it pales in comparison to the good that we can do in the coming years together. We have the potential to improve the lives of countless patients and to greatly reward those who have been committed to and invested in this mission. Indeed, the opportunity in front of us is breathtaking. To realize that opportunity, we will need laser-focused and tenacious execution, but as Sarepta has proven time and again, this is a team that knows how to execute.
+And with that, let me turn the call over to our head of R&D and chief scientific officer, Dr. Louise Rodino-Klapac. Louise?
+Louise Rodino-Klapac -- Executive Vice President, Chief Scientific Officer
+Thanks, Doug. The accomplishments of 2022 and the opportunities before us in 2023 and beyond speak to the promise of science to fundamentally impact and change the lives of patients around the world. My deepest gratitude to our R&D colleagues across RNA, gene therapy and gene editing for their extraordinary work to get us where we are today. And where we are today represents an important moment in genetic medicine and an important moment for Sarepta.
+Firstly, we were thrilled to learn last November that the FDA accepted our BLA for review via the Accelerated Approval pathway for our lead gene therapy candidate, SRP-9001. This decision was based on our ability to show a robust expression of the SRP-9001 dystrophin protein, a shortened functional version of dystrophin serving as a surrogate endpoint reasonably likely to predict clinical benefit in patients with Duchenne muscular dystrophy. Duchenne results from a mutation in the gene that codes for dystrophin. Dystrophin acts as a shock absorber in our muscle, attaching to the muscle membrane and distributing force as we move, thereby protecting our muscles from damage.
+Individuals with Duchenne lack dystrophin, and as a result, their muscles become progressively worse. Our goal with SRP-9001 is to change the course of the fatal disease by treating the underlying cause of Duchenne with a onetime gene therapy that delivers functional dystrophin to the muscle. Based on well-established precedent, the FDA has approved four therapies to date using short and functional dystrophin as a surrogate endpoint. Further, Sarepta has generated the most compelling preclinical biomarker and clinical functional results to date.
+What is particularly interesting about SRP-9001, but not completely surprising based on the strong scientific underpinning of our construct, is at the early SRP-9001 data provided read-through to our positive clinical experience with the therapy. Over the course of 10-plus years, I along with Dr. Jerry Mendell built researched, and tested numerous constructs to determine what areas of the protein were functional and protective. We eventually identified an optimal gene cassette that will be able to retain protective and functional elements and fit easily into AAV, thereby enabling its delivery.
+This gene cassette was packaged into our AAV of choice, rh74, and we chose MHCK7 as our promoter. We are pleased with the early data, which showed robust expression across skeletal, diaphragm, and cardiac muscle. And as a result of that expression as well as the dystrophin protein demonstrating functional benefits, we saw significant restoration of function of the clinical target dose. To understand the significance of the results and their importance in the context of a viable therapy for Duchenne, it's critical to understand the dystrophin-associated protein complex, or DAPC.
+DAPC is a collection of proteins to which dystrophin attaches. In its absence, these proteins disassemble. Individuals with Duchenne don't have a functioning dystrophin-associated protein complex. Understanding this, when we inserted a functional dystrophin protein, we saw up-regulation of the DAPC in animal models.
+More specifically, we saw an almost one-for-one up-regulation of DAPC when there was expression of the SRP-9001 dystrophin, confirming the protective properties of the protein. Further, we saw significant reduction increase in kinase or CK levels. CK is an enzyme associated with muscle damage. The reduction in CK provided further proof that SRP-9001 was reasonably likely to predict clinical benefit.
+The strength of this early work gave us the confidence and conviction to advance SRP-9001 into the clinic. Since 2018 and across multiple studies, we've dosed over 140 patients, more than any other gene therapy being developed for Duchenne, and the clinical results have surpassed our expectations. SRP-9001 demonstrated robust expression of dystrophin far above what literature would suggest is necessary to be protective of muscle. All of it is properly localized at the muscle membrane or sarcolemma where it acts as a shock absorber.
+We also developed a cell-based potency assay that shows that SRP-9001 is active, functional and protective at the muscle membrane. And as in the animal models with robust expression of SRP-9001, we saw significant reduction in CK. Finally, expression of SRP-9001 in patients leads to up-regulation of the DAPC. In addition to all of this compelling evidence, we are also able to show functional benefit versus what natural history would predict.
+NSAA, or the North Star Ambulatory Assessment, is our primary functional endpoint. We were able to show benefit across one-, two- and four-year time points. In summary, based on the totality of the data, we were able to provide objective evidence that SRP-9001 qualifies as a disease-modifying agent and at the levels of dystrophin expressed based on vast clinical evidence and experience are reasonably likely to predict clinical benefit in patients with Duchenne. As Doug mentioned in his opening comments, since the agency is not planning on holding an advisory committee for SRP-9001, the team is focused on responding to any remaining requests.
+As a reminder and because we are in active review with the FDA, we do not anticipate publicly sharing additional data cuts from the SRP-9001 studies leading up to the 2023 regulatory milestones and the Embark data readout, which is on track for the fourth quarter of this year. Continuing now with our gene therapy platform and our limb-girdle muscular dystrophy programs. We were pleased to announce earlier this month the first patient was dosed in study SRP-9003-102, also known as Voyagene. Voyagene is a Phase 1 study evaluating SRP-9003 for the treatment of limb-girdle muscular dystrophy type 2E in ambulant adult patients and nonambulant patients using clinical process SRP-9003 material.
+Combined with positive expression and functional data shared from our initial study, SRP-9003-101, we believe the data from Voyagene will give us insights into a broader patient population as we finalize plans for a global Phase 3 study using commercially representative process material that we intend to begin later this year. In addition, we plan to commence a systemic pilot study for our SRP-604 -- 6004 dual-vector rh74-mediated gene therapy to treat LGMD2E characterized by the absence of the protein dysperlin. We believe our gene therapy platform is well suited to generate medicines for the limb-girdle muscular dystrophies. Our work in this area continues on pace and represents a key priority for Sarepta.
+Turning now to our RNA platform. Momentum study for our next-generation PPMO, SRP-5051, is ongoing and we remain on track to announce data toward the back half of 2023. Further, we were pleased to complete enrollment in the Essence trial, our post-marketing requirement for golodirsen and casimersen. And lastly, we are making good progress with our MIS51ON study, and it continues on pace.
+In closing, I want to take a moment to recognize Rare Disease Day and the over 300 million individuals around the world living with a rare disease. This is my life's work and I along with my colleagues at Sarepta will not rest until we do our part in advancing the science and developing the therapies for waiting patients. I would also like to say thank you to the patients and their families whose generously gift of their time and commitment to our trials. We could not undertake this important work without you.
+I will now turn the call over to Dallan for an update on our commercial activities. Dallan?
+Dallan Murray -- Senior Vice President, Chief Commercial Officer
+Thank you, Louise, and good afternoon. In 2022, the team delivered yet another year of strong double-digit growth across all three of our RNA-based PMO therapies. As Doug noted, our full year net product revenue was $843.8 million, which beat the upper end of our upwardly revised 2022 guidance of $825 million to $840 million. This represented more than $230 million in growth over 2021 and a growth rate that approached 40% year over year.
+I'll take a moment to highlight some of our full year 2022 achievements for our PMO franchise. The team started the year in a strong position by successfully navigating the beginning of the year insurance changes and reauthorizations. This led to a reauthorization rate in the low to mid-90s throughout 2022. This robust start, coupled with continued high adherence rates and strong ex U.S.
+revenues, served as the foundation for full year net product revenue growth of approximately 13% generated with Exondys 51 and net product revenue of roughly $511 million. For Vyondys 53, we ended 2022 in a strong leadership position and market share. Vyondys 53 exceeded $100 million in revenues, ending the year with $117.4 million in total net product revenue and over 30% growth compared to 2021. And last but not least, the team's continued execution on Amondys 45 produced exceptional growth in 2022 of over 200% with total net product revenue of $214.8 million.
+As we've noted in previous calls, our ex U.S. growth continues to accelerate and represented roughly 11% of our overall net product revenues in 2022. Ex U.S. net product revenue was $96.3 million for the full year of 2022.
+Our performance in 2022 is the result of a highly committed and effective team focused on serving the nearly 30% of patients on metal wire therapies with the level of urgency that Duchenne requires. Turning now to our performance in the fourth quarter of 2022. We ended the year on a high note with net product revenues of $235.9 million. Once again, the team executed and grew the RNA-based PMO business by more than 30% over the fourth quarter of 2021 and 13% over the prior quarter.
+I'll now outline individual net product revenues for the fourth quarter of 2022 for our three approved RNA-based PMO therapies. For Exondys 51, net product revenue of $146 million represented roughly 22% growth over Q4 of '21. Vyondys 53 fourth quarter 2022 net product revenue totaled $28.5 million, representing roughly 15% growth versus the fourth quarter of 2021. And finally, Amondys 45 net product revenue was $61.4 million in Q4 of 2022, representing nearly 80% growth versus the fourth quarter of 2021.
+As the business evolved and grew throughout 2022, we see more variability in our quarter-over-quarter revenue numbers due mainly to ex U.S. ordering patterns. We have observed lumpy quarter-to-quarter fluctuations and seasonality with our ex U.S. orders.
+We expect this trend to continue going forward. For example, sales in the fourth quarter of 2022 were robust due to very strong ex U.S. sales of $36.9 million. This strength allowed us to far exceed expectations for the quarter.
+However, we do not expect the same dynamic to persist into the first quarter of 2023. We want to provide you this level of visibility to help you model our revenues for the year. Our forecast anticipates this dynamic, and it is reflected in our 2023 PMO net product revenue guidance of greater than $925 million, which we issued in January. Despite the quarterly fluctuations, overall, we expect a strong year and are confident in our guidance.
+Again, I'm proud of what we accomplished in 2022. And most importantly, I'm grateful for our team's enduring commitment to the Duchenne community and the patients we serve. This commitment to operational excellence will serve us in the patient community well as we apply the lessons learned to the upcoming launch of SRP-9001. In parallel with the team's execution of our existing business in 2022, the customer organization build for SRP-9001 is on track and nearly complete.
+Importantly, engagement with key gene therapy sites and U.S. payers is well underway. If SRP-9001 is approved, the team is once again prepared to demonstrate their capabilities and hard-fought expertise in our fourth launch into the Duchenne space with the first gene therapy to serve the patient community. And now I'll turn the call over to Ian Estepan for an update on our financials.
+Ian?
+Ian Estepan -- Chief Financial Officer
+Thanks, Dallan. Good afternoon all. This afternoon's financial results press release provided details for the fourth quarter and full year of 2022 on a non-GAAP basis as well as a GAAP basis. Please refer to the press release available on Sarepta's website for a full reconciliation of GAAP to non-GAAP financial results.
+For the three months ended December 31st, 2022, the company recorded total revenues of $258.4 million, which consists primarily of net product revenues and collaboration revenues, compared to revenues of $201.5 million for the same period of 2021, an increase of $56.9 million. Net product revenue for the fourth quarter of 2022 from our PMO exon skipping franchise was $235.9 million, compared to $178.7 million for the same period of 2021. The increase in net product revenue primarily reflects increasing demand for our products. For the quarters ended December 31st, 2022, and 2021, we recognized $22.5 million and $22.7 million of collaboration and other revenues, respectively, which primarily relates to our collaboration arrangement with Roche.
+The reimbursable co-development costs under the Roche agreement totaled $51.7 million for the fourth quarter of 2022, compared to $29.7 million for the same period of 2021. On a GAAP basis, we reported a net loss of $109.2 million or $1.24 and $122 million or $1.42 per basic and diluted share for the fourth quarter of 2022 and 2021, respectively. We reported a non-GAAP net loss of $46.5 million or $0.53 per basic and diluted share in the fourth quarter of 2022, compared to a non-GAAP net loss of $66 million or $0.77 per basic and diluted share in the fourth quarter of 2021. In the fourth quarter of 2022, we recorded approximately $30.8 million in cost of sales, compared to $31.7 million in the same period of 2021.
+The decrease in cost of sales is primarily due to write-off of certain batches of our products not meeting the quality specifications for the three months ended December 31st, 2021, with no similar activity in the same period of 2022 and a decrease in our royalty payments during the three months ended December 31st, 2022, due to changes in our BioMarin royalty terms. On a GAAP basis, we recorded $213.8 million and $197.3 million in R&D expenses for the fourth quarter of 2022 and 2021, respectively, a year-over-year increase of $16.5 million. The increase is primarily due to increases in upfront and milestone expenses. On a non-GAAP basis, R&D expenses were $186.8 million for the fourth quarter of 2022, compared to $175.5 million for the same period of 2021, an increase of $11.3 million.
+Now turning to SG&A. On a GAAP basis, we recorded approximately $120.5 million and $78.1 million of expenses for the fourth quarters of 2022 and 2021, respectively, an increase of $42.4 million. The increase was driven primarily by an increase in stock-based compensation expense primarily due to additional expense recognized through the CEO grant modification agreement executed in 2022. On a non-GAAP basis, the SG&A expenses were $86.6 million for the fourth quarter of 2022, compared to $60.1 million for the same period of 2021, an increase of $26.5 million.
+On a GAAP basis, we recorded $5.5 million in other income net for the fourth quarter of 2022, compared to $16.1 million in other expense net for the same period of 2021. The change is primarily due to an increase in interest income due to the investment mix of our investment portfolio as well as the reduction of interest expense incurred as a result of the repayment of our December 2019 term loan for the three months ended December 31st, 2022. We expect that both SG&A and R&D expenses will be higher in 2023 as we build inventory and prepare for the launch of SRP-9001. The increases in expenses will however be partially offset by the growth in our revenue.
+We had approximately $2 billion in cash, cash equivalents and long-term restricted cash at December 31st. And we've made tremendous progress over the course of 2022, and this upcoming year has the potential to dwarf all that we have previously accomplished. I'm particularly pleased that we are well capitalized to execute on all of our plans that we've outlined today on the call. And with that, I'll turn the call back over to Doug for Q&A.
+Doug?
+Doug Ingram -- Chief Executive Officer
+Thank you very much, Ian. Valerie, let's open up the lines for questions and answers.
+Operator
+Thank you.[Operator instructions] Our first question comes from the line of Anupam Rama of J.P. Morgan. Your line is open.
+Anupam Rama -- JPMorgan Chase and Company -- Analyst
+Hey, guys. Thanks so much for taking the question and congrats on all the progress. I noticed in the press release and Doug, in your comments as well that the FDA noted no major safety concerns in the filing for 9001. Was there any commentary on the mid-cycle review on the external control arm and that analysis? If I remember correctly that that was a prespecified analysis by the FDA? And then quickly on manufacturing.
+Doug, in your opening comments, did you say that the site inspections have been scheduled? Thank you so much.
+Doug Ingram -- Chief Executive Officer
+Yes. Thank you very much for your questions, Anupam. So first, as you noted, on safety, the -- at the mid-cycle review of the division explicitly in writing informed us that they saw no -- they see no significant safety issues with the filing with 9001. That would -- that should come as a little surprise, I suppose, to those who know our profile, but it was, to say the least, gratifying and encouraging that the FDA saw it the way we saw it.
+As -- I'm not going to get into a lot of detail on the review beyond what I've already said. I will say on the clinical side of things, we're in an active review. As you know, there are lots of questions and analyses that we've done and questions we've answered. I can at least say at the mid-cycle review, the division did not identify any significant issues or material deficiencies with the clinical data set at all.
+So that's where we are as of the mid-cycle. And then finally, as it relates to the site inspections, yes, all of the manufacturing inspections have been scheduled.
+Anupam Rama -- JPMorgan Chase and Company -- Analyst
+Thanks so much for taking our questions.
+Operator
+Thank you. One moment, please. Our next question comes from the line of Brian Abrahams of RBC. Brian Abrahams of RBC, your line is open.
+Brian Abrahams -- RBC Capital Markets -- Analyst
+Hey, good afternoon. Thanks for taking my question and congrats on all the progress. Is there anything more you can say, at least more broadly, on the nature of the CMC dialogue in preparation for the manufacturing inspections? And I guess I'm curious, your level of manufacturing confidence and overall comfort that there'd be sufficient time post these inspections to rectify any minor issues that might come up and still have sufficient time to build supply. And then just maybe quickly, I'm wondering also if the FDA provided any specific reasons as to why no Adcom would be required.
+I know sometimes they give specifics on that. Thanks.
+Doug Ingram -- Chief Executive Officer
+Yeah. Thank you very much for that, Brian. First on CMC, there -- I think as everyone knows, and certainly we've talked about before with respect to BLAs and I think, in particular, with gene therapy, the CMC part of the submission in the Q&A is some of the most significant ones. As I mentioned before, as it relates to all of the questions that the agencies had, we were current and have answered all of their questions.
+So we feel like we're in very good shape there. We feel like we're in very good shape with those questions. As it relates to the timing of the preapproval inspections themselves, yes, we're very, very confident in the timing. So we -- I'm not going to go into detail on the schedules, but we're confident about the schedules and the timing and the ability to adapt ourselves.
+We don't, as we sit here today, have any reason to believe that there would be a delay in our PDUFA date for this or any other reason right now, at least as of now. And then as it relates to the decision that there wasn't a need for an advisory committee, there really isn't any additional color other than we had the mid-cycle. They confirmed they saw no safety issues -- significant safety issues with the program. They didn't identify any significant clinical issues or major deficiencies and then determine that they didn't need an Adcom.
+That's where we are right now.
+Operator
+Thank you. One moment, please. Our next question comes from the line of Colin Bristow of UBS. Your line is open.
+Colin Bristow -- UBS -- Analyst
+Hey. Good afternoon and congrats on all the progress. Another one on the Adcom or lack thereof. You -- previously, you had stated that your -- one of the focal points of the outcome you're anticipating would be the surrogacy of truncated dystrophin.
+Did FDA comment on its comfort around this? Or is this something that's part of an ongoing dialogue that is just part of the review process? And then maybe just on the manufacturing supply side, if you are approved on the PDUFA, can you just talk about the number of patients you expect to be able to supply at launch and how this will build over time?
+Doug Ingram -- Chief Executive Officer
+Sure. First, I would say that entire discussion, that's kind of the fundamental issue in the review is the use of short and functional dystrophin is reasonably likely to predict a clinical benefit. As it relates to the Adcom comments, we see this -- we obviously see the decision to lead Adcom as a positive. We had a very productive mid-cycle review.
+We're not going to speculate on what this means from the probability of success. But what we would say is that given that we know that there are no significant safety issues, that there isn't going to be an Adcom. We can then spend our time really focusing on answering any remaining questions preparing for and executing our preapproval inspections and doing that successfully, making sure that we're launch-ready and building inventory for launch. We haven't given exact patient numbers as it relates to manufacturing, but what we've said, and we stand by it, is that our goal is to launch this therapy and serve this community without back orders with all patients getting the therapy as soon as they are able to get it from an access and reimbursement perspective.
+And we want to be in a position to do that, and we will be.
+Operator
+Thank you. Our next question comes from Matthew Harrison of Morgan Stanley.
+Matthew Harrison -- Morgan Stanley -- Analyst
+Great. Thanks very much. Appreciate the question. I guess two just follow-ups for me.
+I know we've touched on many of the major issues here. But first, just on manufacturing. Can you just talk, to the extent you can, in a bit more detail? Are these multiple facilities or just lines in the same facility that are being inspected? How comprehensive is this inspection versus maybe what you were expecting or thought you might see? And then just secondly, on the inventory and the supply that you are building now. Is there any chance or any reason that the supply you've started to build now could not be used? Could you just talk about supply you have now versus supply you're continuing to build.
+Thanks.
+Doug Ingram -- Chief Executive Officer
+Yes. So first of all, on the inspections, there are three separate facilities. They are exactly as we anticipated. In fact, I would say none of the questions that have been posed and none of the inspection notices that we've received have been at all a surprise.
+We've been very well prepared for them. So we're in good shape there. From an inventory and supply perspective, we're on track. And no, we don't think there's any significant risk that inventory that we build will be able to be used commercially.
+So we're tracking there. A lot of work to do as an organization. Site readiness is a significant issue. Building inventory is a significant issue.
+Completing this review and satisfying any remaining questions or comments or analysis the FDA is extremely important to us, and we need to focus on that as well. But the team is very, very focused on all of this, and we're we're working over time to ensure that we have a successful BLA review.
+Operator
+Thank you. Our next question comes from the line of Tazeen Ahmad of Bank of America. Your libne is open.
+Tazeen Ahmad -- Bank of America Merrill Lynch -- Analyst
+Hi. Good afternoon. Thanks for taking my questions. Can you give us a sense of how the doctors' offices or facilities that the patients would have to go to might have to make any adjustments? Is the infrastructure already there for high demand for the physicians to be able to meet the potential volume demand that we would expect upon an approval? I don't know what your checks are telling you, but I'd love to hear some color on that.
+Doug Ingram -- Chief Executive Officer
+Yes. I mean, I think the first thing I'll say is that we start in a very good place, probably in a very privileged place because of SMA and because of Zolgensma. So a significant percentage of the experts -- neuromuscular experts that would be treating patients with Duchenne muscular dystrophy with 9001 have previous experience with zalgentima. So we're starting with at a good place.
+Now certainly, I'm going to turn this over to Dallan to provide any additional color that I missed, but I would say there's certainly a lot of work still that we need to do to make sure that very specific to 9001, the sites are up, ready to go, properly educated and ready to make this therapy a success. Our goal at launch is to have about 50 of those sites up and running. That would serve just about 80% of the Duchenne community, and then over time to be up as high as about 70 sites over the course of the next couple of quarters beyond that. But Dallan, what have I missed there?
+Dallan Murray -- Senior Vice President, Chief Commercial Officer
+No. I think you covered it, Doug. And I think these sites are really at the forefront of precision genetic medicine. And they have a lot on their plates, but they're absolutely heroic and they are -- we're working already with whatever we can do from an educational standpoint prior to approval that is compliant and appropriate.
+So the team is out there today engaging with the sites. Every site is different. But they are -- it's -- these are centers of excellence that are already treating these patients, the Duchenne muscular dystrophy patients. So they'll be ready to go, and we'll be ready to go.
+Operator
+Thank you. Our next question comes from the line of Robert Fink of Guggenheim. Your line is open.
+Unknown speaker
+This is Robert on for Debjit. How quickly can Sarepta reimbursement agreements in place following approval in the race to launch? Thank you.
+Doug Ingram -- Chief Executive Officer
+I'll turn this over to Dallan as well. The short answer is that we're going to be ready to go on day one. It doesn't mean kids are going to get infused on day one. There's a process here, the access and reimbursement process, and having to get tested for neutralizing antibodies and the policies have to get finalized.
+But the team is already doing an enormous amount of work with not only sites but payers right now so that we're in a position to begin to serve the community day one post-approval, assuming that we're fortunate and get approved. Dallan?
+Dallan Murray -- Senior Vice President, Chief Commercial Officer
+Yes. Yes, we'll be ready in terms of day one. And we're already engaging with payers. And so I think we're going to do everything we can to accelerate that for eligible patients on day one and learn the lessons from past launches.
+Ian Estepan -- Chief Financial Officer
+One thing just to add to that -- I think one thing just to add to that is that you guys have good precedent on what you've seen in terms of our launches for our PMO exon skipping franchise. And obviously, to Doug's and Dallan's point, it takes time to get patients on therapy and through the access and reimbursement system. And obviously, there's state Medicaid and getting through the drug utilization review board process, right? So it is going to take a couple of quarters for patients to work through, and you've seen that before. But then once we really work through those reimbursement steps, I think you're going to see very, very strong uptake.
+Operator
+Thank you. Our next question comes from the line of Gena Wang of Barclays. Your line is open. Again, Gena Wang of Barclays, your line is open.
+Gena Wang -- Barclays -- Analyst
+Thank you. I have two quick questions. Doug, you mentioned that there are still remaining questions from the FDA. What are the natures of these remaining questions? And do you expect late-cycle review will be mainly focusing on these questions and no new questions remaining? And the second question is regarding the three sites.
+Do any of these three sites have established commercial experience with iCELLis manufacturing?
+Doug Ingram -- Chief Executive Officer
+Well, there's not a lot -- there's not a ton of history. I'll answer the last question first. I remind you that what we're doing is not a first is nearly a first. So you're not going to find a lot of organizations around the world are going to have an enormous amount of experience with commercial iCELLis unless they happen to be Novartis.
+What I will say is -- so when we're in an active review, one of the things I tried to make the point of in my script is that we provided detail about the mid-cycle review, frankly, because there was this significant interest in whether we were having an advisory committee or not. We're now in the active review itself. It's an ongoing dialogue and questions and answers. And in respect of that discussion and dialogue with the agency item, I'm not going to go into a ton of detail along the way.
+There will be a late-cycle review, and then we'll see where we are. The inspections will be completed. And then if all goes well, of course, you'll have an answer certainly by May 29th. And we hope it's a positive one.
+We certainly think the patients deserve it.
+Operator
+Pardon me. The line of Ritu Baral of Cowen.
+Ritu Baral -- Cowen and Company -- Analyst
+Hi, guys. Thanks for taking the question. Doug, just back to the Adcom for a second. When FDA put in their minutes, they were going to have an Adcom, and now they're saying they don't.
+It sounds like they had a question around the biomarker that at least they figured out that they can answer on their own at this point. Does that revolve around any additional data sets or analysis around the ongoing or follow-up for 102 or 103 that they've requested that you've submitted? Or is it really just sort of questions as you've discussed? And then just a quick one on CMC. The plants, the Harmon plant and the 2 others, have you done -- completed mark inspections at all of them? Are you inspection-ready?
+Doug Ingram -- Chief Executive Officer
+I'll answer the last question first. We are undoubtedly inspection-ready. We're just saying that. We're an organization that doesn't want to get surprised.
+So we are very much inspection-ready, and we've done all the work to put ourselves in a good position. And that gets to the first -- to get the first -- the answer to the first question as well. So let me make sure I dispel perhaps a misunderstanding. There wasn't a point in which the agency said to us in writing that you're going to have an Adcom and then later determined that we didn't need an Adcom.
+What did occur is that we said in connection with the BLA submission that we should all assume there's going to be an Adcom. And given an opportunity to do this the second time, I would do that exactly the same way a second time. Why? Because we needed to be ready for an advisory committee meeting. There's an enormous amount of work that goes into preparing for an advisory committee meeting, and we wanted to make sure that we had a mindset that had us in a good position.
+So that to the extent that the FDA, the division determined that it was wise or necessary to take external scientific advice that we'd be well prepared to participate in that Adcom. It was at the mid-cycle review, both in the written agenda and at the mid-cycle that the agency had -- has, for the first time, told us that they don't need an Adcom for this fall. So that's where we are with respect to that.
+Operator
+Thank you. One moment, please. Our next question comes from the line of Joe Schwartz of H.C. Wainwright.
+Beth Feindt-Scott -- H.C. Wainwright and Company -- Analyst
+This is Beth on for Joe. Thanks for taking our question. We are wondering how much precedent you believe that Exondys' Accelerated Approval on the basis of dystrophin expression provides for 9001? Specifically, we're also wondering if you've been able to quantify the benefit of higher expression of a less complete micro-dystrophin compared to the lower expression of a more complete shortened dystrophin produced by exon skippers and if this is something that FDA has been considering throughout the review.
+Doug Ingram -- Chief Executive Officer
+OK. Let me -- yes. Let me answer this question. Let me start with the second part of it then work to the first part of it because there's a fundamental misunderstanding, and it's understandable that you have the misunderstanding, but there's a misunderstanding of the underlying science when one assumes that the 9001 dystrophin, which is shortened, is sort of vastly shortened.
+And then the dystrophin that's made by Exondys or Vyondys or Amondys or in the case of one of our competitors, Bill, is very lightly edited. I think there are those who might imagine that the resulting dystrophin is one exon smaller. That isn't the case. The exon skipping occurs to place to restore the reading frame and allow the messenger RNA to make dystrophin.
+That reading frame is restored by the removal of that exon, and then it will naturally include also the removal of the parts of the gene that are associated with a mutation. And so for instance, the resulting dystrophin that you can make can be 40% shorter, smaller and get very functional versus wild-type dystrophin. And that's the same case in natural history with Becker-like dystrophin. Becker dystrophin can be 50% or more shortened from full-length dystrophin.
+But so long as the reading frame is impacted, it can make dystrophin and it retains the right hinges and repeats and the right anchoring places, then it's functional. And that's the same thing with the 9001 dystrophin. This is a reasonable approximation of another -- any other Becker-like dystrophin, just like Exondys and Amondys and Vyondys and they'll test so make. And so that -- so from at least our perspective, the precedent for Exondys and Vyondys and Amondys and Bitexco is very relevant here.
+Those therapies, while there's -- it's a different mechanism to get there because it's the use of exon skipping and anthronic therapy, it is the same underlying concept, where what you're doing is providing to the patient a shortened but functional dystrophin which will protect them. The biggest difference in addition to the mechanism of action being different, here, we're using a gene cassette to make the dystrophin. The biggest difference between these two is the amount of dystrophin we're making. We are making well over and multiples of an order of magnitude more dystrophin with our gene cassette than we can make with the PMOs today given the delivery limitations there.
+And so a couple of things. And then kind of going on here, but so we say, number one, do I think there's a significant amount of precedent? I absolutely do. And I think there's an enormous amount of precedent for the idea that shortened functional dystrophin is the right kind of biomarker recently likely to predict clinical benefit. It's the right kind of upstream biomarker that we should all be looking for.
+And then second of all, there is not a significant difference in what's happening with 9001 and what happens with the PMOs other than the amount of dystrophin we're making. And then one final thing I'll say as long as I'm on my soap box on this topic, one must remember that in nature, better dystrophin is the result of mutations. So the fact that these kids can make dystrophin -- kids or adults in the case of Becker, I think the average age -- average mortality rate of Beckers as well into the 60s on average, the fact they can make dystrophin is a happy accident. They still have a reading frame and they can make dystrophin.
+9001 is different. Dr. Rodino-Klapac along with her partner, Dr. Jerry Mendell, worked for well over a decade to purpose build a construct that would be shortened, deliverable but functional.
+And in the end, they were able to not only do that, do it safely and do it in a way that creates a robust amount of expression, and our position is protection. So there's my long-winded answer to your very simple question.
+Operator
+Thank you. Our next question comes from the line of Judah Frommer of Credit Suisse. Your line is open.
+Judah Frommer -- Credit Suisse -- Analyst
+Yeah. Hi, guys. Thanks for taking the question. Just curious if Embark came up in any way in the mid-cycle communication and if so, in what context? And kind of same question for conversations, pre-commercialization conversations with payers.
+Is Embark coming up as a topic of conversation there?
+Doug Ingram -- Chief Executive Officer
+As it relates to the mid-cycle, there was no explicit discussion in the market, the mid-cycle. On pre-commercial discussions, certainly, we discussed the entire program and it includes the confirmatory trial, Embark. So yes. Dallan, if there's anything I missed there, let me know.
+Dallan Murray -- Senior Vice President, Chief Commercial Officer
+No. That's exactly right.
+Operator
+Thank you.Our next question comes from the line of Gil Blum of Needham. Your line is open. Our next question comes from the line of Neil -- of Gil Blum of Needham. Your line is open.
+Gil Blum -- Needham and Company -- Analyst
+Thank you. One quick technical. Isn't May 29th a holiday? Doesn't that have any effect on the filing? And the other question I have is, do you think the payer pathway is going to follow closely kind of the road map set by Zolgensma? Thanks.
+Doug Ingram -- Chief Executive Officer
+So on the first of, yes, it is a holiday. Officially, May 29th is our PDUFA date. So we would we assume we could hear on May 29th. This is a Memorial Day or we'll hear the business day before then, which would be May 26th, if I'm not mistaken, or we would hear the day after May 29th.
+But we're using May 29 because that is indeed the actual PDUFA date. So I think the question on the payer approach, I think the payer approach, Zolgensma is probably one construct. I think we have an enormous amount of Duchenne-specific experience with the payer community. Obviously, we've now been supporting three therapies.
+The earliest approval happened over six years ago. So I think we're in very good shape to have productive dialogue with payers about access and reimbursement for 9001, assuming that we're able to get approved.
+Operator
+Thank you. One moment, please. Our next question comes from the line of Danielle Brill of Raymond James. Your line is open.
+Danielle Brill -- Raymond James -- Analyst
+Hi, guys. Thanks for the question. Doug, I have a question on the micro-dystrophin follow-up data. I believe we saw 60-week data from Part 1 of Study 102.
+Do you have additional expression data at that time point or any expression data at later time points? And then random question, do you see any legal risk for 9001 from Regenxbio IP claims? Thank you.
+Doug Ingram -- Chief Executive Officer
+On the second question, I'll answer and say no, we don't. On the first question, I'll turn it over to Louise, if you understand what -- I didn't fully understand the question. Apologies.
+Louise Rodino-Klapac -- Executive Vice President, Chief Scientific Officer
+Yes. It was just about additional time points. There's no additional biopsy time points in the that we have.
+Operator
+Thank you. One moment, please. Our next question comes from the line of Hartaj Singh of Oppenheimer.
+Hartaj Singh -- Oppenheimer and Company -- Analyst
+Great. Thank you and congratulations on a very big step forward. Looking forward to many more. Just a question actually on SRP-9003.
+I know you've got the Voyagene trial starting the Phase 1. You're doing additional work. Doug, you're also doing a lot of work around characterizing the material -- the clinical material, commercial, etc.. If you could just talk to that, but also just talk to us a little bit about the Phase 3 design could look like.
+I believe you've indicated that could start later this year. Thank for the question.
+Doug Ingram -- Chief Executive Officer
+Yes. Louise, do you want to take that?
+Louise Rodino-Klapac -- Executive Vice President, Chief Scientific Officer
+Yes. Thanks for that question. Certainly, in -- we're looking at this closely. This is an ultrarare indication, and so we're looking at all the data we have to date in both the ambulatory population and now this new population that we're spending, which is the older ambulatory and nonambulatory.
+And so the totality of the patient population could be captured in that Phase 3 design. So we don't have it finalized yet. But all of the results from these two trials will be taken into consideration when we have the ultimate study design for that Phase 3 study.
+Operator
+Thank you. Our next question comes from Yun Zhong of BTIG. Your line is open.
+Yun Zhong -- BTIG -- Analyst
+Thanks for the question. So my question is actually also on the limb-girdle program. And I was wondering, what is the purpose of the Phase 1 study? And what kind of information are you trying to get? And given the small prevalence of the indication, what's your thinking on the patient allocation enrolled patient into the current study? I don't believe you have disclosed the size of the study versus maybe saving patients for future pivotal study.
+Doug Ingram -- Chief Executive Officer
+Yes. I'll touch on it briefly and then I'll -- Louise can answer it and correct me when I get this wrong. I mean the reason that we're doing -- there are two reasons why we've done this clinical experience study. The first is that it gives us an opportunity to explore the safety and expression of the therapy in a broader patient population than we would typically do for our pivotal trial itself.
+So we will glean important information. And the second reason that we did it is that we had clinical material available to us. So for the pivotal trial, we need to have commercially appropriate material, and that has to be material. That would be appropriate.
+So the launch of the therapy, we have very appropriate clinical material right now, and it seemed appropriate to make good of it to get additional insight and also, frankly, to provide a benefit at the same time. Louise?
+Louise Rodino-Klapac -- Executive Vice President, Chief Scientific Officer
+I think you characterized it well. Just emphasizing that this is a different patient population than we've previously studied in older patients where we can look at safety and efficacy in nonambulatory and older ambulatory, which is an important component of this preplan population.
+Operator
+Thank you. Our next question comes from the line of Kristen Kluska of Cantor. Your line is open.
+Rick Miller -- Cantor Fitzgerald -- Analyst
+This is Rick on for Kristen. In the press release, you mentioned that the Catalent agreement structures how Catalent could support multiple gene therapy candidates in the LGMD pipeline. So could you maybe go into a little detail here on what this might mean in terms of whether this could deal with clinical-grade material or potentially commercial-grade material for later-stage trials in LGMD? Thanks.
+Doug Ingram -- Chief Executive Officer
+Yes. Relationship with Catalent our goal is to -- they would potentially have the opportunity to manufacture for us to limb-girdle. Really, our goal going forward is to try to have commercial represented a material from the first inpatient clinical trial. Historically, as we evolve from Nationwide Children's Hospital, as you know, the first study with 9001 started with clinical material there.
+Likewise, 9003 started with clinical material provided by Nationwide. But the fastest pathway forward is to have commercial representative material from the beginning, and that's going to be our goal. And the potential of doing that with Catalent is a significant one.
+Operator
+Thank you. Our next question comes from Gavin Clark-Gartner of Evercore. Your line is open.
+Gavin Clark-Gartner -- Evercore ISI -- Analyst
+Phase 2 excluded exons 1 through 17. But as you noted, you've been dosing patients inside that range. Have you had any discussion FDA on getting some of those exons included in the initial label? And is there any chance that something in here could represent a major amendment? Thanks.
+Doug Ingram -- Chief Executive Officer
+It won't be a major amendment because our BLA went in with the assumption that we would have a narrower exclusion. We already had good scientific rationale for why the labeled exclusions needed should be narrower, that we were being overly exclusive in those mutations. And then to support that thesis we've started this, and we're nearly done enrolling a study to explore those mutations. It's going quite well right now.
+But our initial BLA went in with the request that we have a narrower exclusion in our proposed label in connection with our initial BLA submission made that same assumption.
+Operator
+Thank you. One moment, please. Our next question comes from the line of Salveen Richter. Your line is open.
+Unknown speaker
+Hi. It's [Inaudible] on for Salveen. Congrats on the progress. Just wondering how you're thinking about uptake in between that period after the Accelerated Approval but before Embark reads out.
+Any physician or payer commentary that some might wait to prescribe to see Embark? And can you just remind us how long it takes for patients to get tested for eligibility?
+Doug Ingram -- Chief Executive Officer
+So we don't -- with our current thinking based on all of our discussions both with thought leaders and with certainly patient groups and families is that people wouldn't wait -- waiting is not a viable option for people with this degenerative disease. I would note that by the end of this call, somewhere around the world, a kid with Duchenne will have died and another kid will be going on event. And another kid will go into a wheelchair, never to get back out of a wheelchair. So the luxury of patients isn't there for these families.
+So we don't intend to -- we don't imagine that people would wait for other readouts down the road and put their kids at risk, at least that's not our current assumption nor do we think it's the assumption of the treating physicians either. Certainly, those who have seen what 9001 can do, I don't think would want to wait. As far as the process, Dallan, do you want to touch on the process itself.
+Dallan Murray -- Senior Vice President, Chief Commercial Officer
+Yes. Yes. And just to underscore what you said about the urgency, Doug. That's what we're seeing out there as well.
+And I think in terms of what the team has for the process, the data is to have a fully enrolled confirmatory trial at the time of approval is just -- is such an incredible position to be in. And so that's going to inform all of our dialogue going forward on this.
+Operator
+Thank you. I'm showing no further questions at this time. I'd like to turn the call back over to Doug Ingram for any closing remarks.
+Doug Ingram -- Chief Executive Officer
+Well, thank you very much, everyone, for joining us this evening and for your very good questions. It is a point any. I think as Dr. Rodino-Klapac back noted that today is indeed Rare Disease Day.
+We are completely committed to using great science and moving as fast as possible to bringing a better life to Duchenne patients and beyond Duchenne patients to other rare disease patients. And I look forward to updating people along the way. Although I will note yet again that as it relates to the BLA for 9001, the next substantive update you'll get is on or around May 29th, which is our action date. So thank you all very much, and have a lovely evening.
+Operator
+[Operator signoff]
+Duration: 0 minutes
+Mary Jenkins -- Senior Vice President, Investor Relations
+Doug Ingram -- Chief Executive Officer
+Louise Rodino-Klapac -- Executive Vice President, Chief Scientific Officer
+Dallan Murray -- Senior Vice President, Chief Commercial Officer
+Ian Estepan -- Chief Financial Officer
+Anupam Rama -- JPMorgan Chase and Company -- Analyst
+Brian Abrahams -- RBC Capital Markets -- Analyst
+Colin Bristow -- UBS -- Analyst
+Matthew Harrison -- Morgan Stanley -- Analyst
+Tazeen Ahmad -- Bank of America Merrill Lynch -- Analyst
+Unknown speaker
+Gena Wang -- Barclays -- Analyst
+Ritu Baral -- Cowen and Company -- Analyst
+Beth Feindt-Scott -- H.C. Wainwright and Company -- Analyst
+Judah Frommer -- Credit Suisse -- Analyst
+Gil Blum -- Needham and Company -- Analyst
+Danielle Brill -- Raymond James -- Analyst
+Hartaj Singh -- Oppenheimer and Company -- Analyst
+Yun Zhong -- BTIG -- Analyst
+Rick Miller -- Cantor Fitzgerald -- Analyst
+Gavin Clark-Gartner -- Evercore ISI -- Analyst
+
+More SRPT analysis
+All earnings call transcripts
+This article is a transcript of this conference call produced for The Motley Fool. While we strive for our Foolish Best, there may be errors, omissions, or inaccuracies in this transcript. As with all our articles, The Motley Fool does not assume any responsibility for your use of this content, and we strongly encourage you to do your own research, including listening to the call yourself and reading the company's SEC filings. Please see our Terms and Conditions for additional details, including our Obligatory Capitalized Disclaimers of Liability.
+The Motley Fool has no position in any of the stocks mentioned. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

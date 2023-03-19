@@ -1,0 +1,57 @@
+March 08, 2023 — 10:15 am EST
+
+      Written by
+                        Justin Pope for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Sentiment can change on Wall Street as the wind blows; graphics processing unit (GPU) leader Nvidia (NASDAQ: NVDA) declined roughly 59% over the first nine months of 2022. But it has been a different story since October; shares have climbed more than 94% in less than six months. Yet the stock is somehow still down 30% from its highs.
+Sounds promising, right? Let's take a breath before rushing to place that buy order; some concerns could keep Nvidia's stock from continuing its skyward trajectory. Don't let the fear of missing out (FOMO) tempt you into making a hasty decision. Here is what the fundamentals say about Nvidia's path forward.
+There is a lot to like about Nvidia; it's the world's leading discrete GPU company. Discrete GPUs are separate from a computer's central processing unit (CPU) and have dedicated memory. This means they can handle higher workloads, making them suitable for gaming, blockchain, artificial intelligence, and other computing-intense applications.
+Several of these applications have grown recently, which has been great for Nvidia's business. In the chart, you can see how much revenue and profits have soared over the last decade.
+
+Nvidia Revenue (TTM) data by YCharts
+But a shaky economy and COVID-19 disruptions in China have hurt Nvidia's business in recent quarters. In fact, revenue and free cash flow declined throughout Nvidia's 2023 fiscal year (ending Jan. 29, 2023). And business is still slowing with management guiding for $6.5 billion in revenue for Q1 of its fiscal 2024 year (roughly Q1 of the 2023 calendar year), a 21% year-over-year decline.
+The recent run in the stock has sent Nvidia's valuation upward; it now trades at a forward price-to-earnings ratio (P/E) of 53, an 18% premium to its average P/E over the past decade. Whenever a stock trades above or below its long-term norms, I ask whether it's an anomaly (something that will correct over time) or if something has fundamentally changed to justify this new valuation.
+
+Nvidia PE Ratio data by YCharts
+In Nvidia's case, one could ask: Has the company fundamentally justified a 20% premium to its long-term average? Its earnings per share (EPS) averaged roughly 23% annual growth over the past 10 years. However, analysts expect annual EPS growth to average 17% over the next three to five years.
+Said differently, Nvidia's stock has gotten more expensive despite an expectation for slower growth moving forward. There's a lot of evidence that Nvidia is an outstanding technology stock; its lifetime market-beating returns help make that case. So while you shouldn't necessarily sell shares, here is why new money, or those looking to buy Nvidia shares, should use caution.
+Nvidia earned $3.34 per share for the fiscal year 2023, which ended Jan. 29, 2023. Analysts believe earnings will increase next year to $4.48 per share, which is how the forward P/E of 53 is calculated. Since Nvidia just started its fiscal year 2024, the stock is overvalued based on profits almost a year into the future.
+Now, hypothetically assume that earnings grow by 17% annually per estimates; that means EPS would increase to $5.18 in the fiscal year 2025, a forward P/E of 45. In other words, investors could face zero returns over the next two years if the stock reverts to its average P/E. That doesn't factor in other risks like slower growth pushing the P/E below long-term norms or if Nvidia comes up short of estimates.
+There's no guarantee in investing. Sometimes, investing is as simple as stacking the odds in your favor (due diligence, attractive valuation, etc.) the best you can and hoping that your companies prove you right. Buying Nvidia today leaves investors with more that can go wrong than more that can go right, making the stock riskier than you might think.
+If you're investing with a longer time frame (say, at least five years) and want to own the stock, consider a dollar-cost averaging strategy to build your position slowly over time. That way, you can buy on the way down if shares fall back from their recent momentum.
+Find out why Nvidia is one of the 10 best stocks to buy now
+Our award-winning analyst team has spent more than a decade beating the market. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed their ten top stock picks for investors to buy right now. Nvidia is on the list -- but there are nine others you may be overlooking.
+Click here to get access to the full list!
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Justin Pope has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Nvidia. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

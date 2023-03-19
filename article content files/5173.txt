@@ -1,0 +1,51 @@
+March 08, 2023 — 05:51 am EST
+
+      Written by
+                        Dominic Basulto for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Despite a seemingly nonstop series of market meltdowns and crypto fiascos last year, Ethereum (CRYPTO: ETH) emerged as the clear leader of the Layer-1 blockchain space by the end of 2022. Fresh off The Merge, which was completed successfully in September, Ethereum now appears poised for its next round of growth.
+For that reason, there hasn't been as much attention as expected paid to some of the former crypto darlings -- such as Solana (CRYPTO: SOL) and Avalanche (CRYPTO: AVAX) -- that once were touted as "Ethereum killers." In fact, Solana and Avalanche were two of the worst-performing cryptos of the year in 2022. But as the crypto rebound begins to pick up pace, I think these two could outpace Ethereum in coming years.
+For all of its much-hyped recent network outages, Solana remains a faster and cheaper blockchain network than Ethereum. Case in point: Solana is capable of 50,000 transactions per second, almost on par with what Visa (NYSE: V) can handle (65,000 transactions per second). In comparison, even post-Merge, Ethereum is still nowhere near the 100,000 transactions per second originally promised. To make up for its clear deficiencies in this area, Ethereum relies on a confusing mix of Layer-2 scaling solutions.
+Image source: Getty Images.
+Solana's tremendous speed and throughput capacity, combined with very low transaction fees, is what made it a crypto darling before the market crash of 2022. And we're just now starting to see a number of ways that Solana is able to leverage this speed and throughput capacity for real competitive advantage. In 2022, it launched two new strategic initiatives -- Solana Pay and Solana Mobile -- and now plans to integrate them into an overarching web3 strategy that will include the world's first crypto phone. In 2023, the burgeoning Solana ecosystem will include the integration of Helium (CRYPTO: HNT), a decentralized mobile network for the Internet of Things.
+Moreover, Solana is starting to chip away at the dominance of Ethereum in several key verticals. For example, in the non-fungible token (NFT) space, Ethereum used to reign unchallenged, and all the best new NFT collections always launched on Ethereum. That's not always the case anymore, and Solana now ranks as the No. 2 player in the NFT arena. It's much the same story in areas such as blockchain gaming and decentralized finance (DeFi), where Ethereum is starting to see the erosion of its first-mover advantage.
+In a similar manner to Solana, Avalanche exploded onto the scene with incredibly fast transaction processing speeds, low fees, and considerably more throughput capacity than Ethereum. For good reason, Avalanche emerged as a favorite with DeFi users, who prize speed and pricing when closing transactions. 
+And now it looks like Avalanche is about to capitalize on some of this promise. In terms of DeFi, one stated goal of Avalanche is to "digitize the world's assets," and it has taken a number of steps forward on this front. In 2022, one noteworthy example was its ability to tokenize a massive, multibillion-dollar healthcare fund from KKR (NYSE: KKR), one of the biggest private equity players on the planet.
+Avalanche is also building out a much wider depth of offerings for its ecosystem, including major inroads into GameFi (a combination of gaming and finance). But the really big news is Avalanche's ability to sign partnership agreements with the likes of Amazon (NASDAQ: AMZN). In January, the company's Amazon Web Services (AWS) unit announced that it would begin offering Avalanche blockchain services to enterprise and government clients. It has also signed a partnership agreement with Tencent Cloud, the cloud computing unit of Chinese internet giant Tencent Holdings. If either of these deals blossom into something big, it could have a huge impact on the future price of Avalanche.
+From my perspective, Solana and Avalanche still have very intriguing long-term growth stories. In 2021, both were touted as some of the hottest names to watch in 2022. Instead, we got a series of collapses, meltdowns, crashes, and implosions in the crypto sector. Faced with so much carnage, investors rightly made a beeline to safety. Against that backdrop, Ethereum looked like the safe option.
+But look at what has happened thus far in 2023. Solana popped 108% out of the gate, and Avalanche is up by an impressive 50.8% year to date. In comparison, Ethereum is up 30% for the year. In a risk-off scenario, Solana and Avalanche looked like terrible investments. But in a risk-on scenario, these two cryptos might just end up having superior long-term growth prospects than Ethereum. For that reason, I think both could outpace Ethereum.
+10 stocks we like better than SolanaWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Solana wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+John Mackey, former CEO of Whole Foods Market, an Amazon subsidiary, is a member of The Motley Fool’s board of directors. Dominic Basulto has positions in Amazon.com and Ethereum. The Motley Fool has positions in and recommends Amazon.com, Avalanche, Ethereum, KKR, Solana, Tencent, and Visa. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

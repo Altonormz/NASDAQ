@@ -1,0 +1,54 @@
+March 13, 2023 — 07:21 am EDT
+
+      Written by
+                        Jea Yu, MarketBeat Contributor for                             
+        
+
+
+
+
+MarketBeat ->
+
+
+
+
+ 
+Social media platform Snap Inc. (NYSE: SNAP) stock has been rallying as Congress persists in its efforts to ban social media video platform TikTok in the U.S. This trend has been boosting shares of other U.S. social media platforms like Meta Platforms Inc. (NASDAQ: META) and Pinterest Inc. (NASDAQ: PINS).
+The company has been suffering from declining digital advertising sales as companies rein in their marketing budgets. Snapchat has grown its quarterly daily average users (DAUs) to 375 million, up 17% in Q4 2022. Most of the growth is happening internationally, but the average revenue per user (ARPU) is lower with foreign users than U.S. users.
+Full-year 2022 revenues rose 12% YoY to $4.6 billion. Most revenues come from advertising products Snap Ads and AR Ads. Its ARPU fell to $3.47 in Q4 2022, compared to $4.06 in Q4 2021. Snap Ads are video ads up to 10 seconds long that can be targeted to particular audiences based on variables like demographics, location, interest, and behaviors. AR Ads involve augmented reality, where users can interact with virtual objects in real-world contexts and backgrounds. It overlaps 3D animations onto the user's camera view utilizing Snapchats AR technology.
+The company opted not to give forecast expectations for Q1 2023 due to market uncertainty. However, they did mention an internal forecast of revenues falling from (2%) to (10%) YoY.
+Snapchat's primary audience is comprised of Gen-Z and Millennials. Its highest demographic users are between the ages of 15 to 25 and comprise 48% of its users. Ages 26 through 35 represent 30% of its users. India has the highest concentration of Snapchat users, around 144.35 million, followed by the U.S., with 108 million.
+In the U.S. 65% of the 18 to 29-year-old demographic uses Snapchat. The average user opens the Snapchat app 30 times per day. TikTok has 61% of the 12 to 34-year age group in the U.S. using its app. TikTok is the third most used social media app in the U.S.
+Democratic Colorado Senator Michael Bennett (D) sent a letter to Tim  Apple Inc. (NASDAQ: AAPL) CEO Tim Cook and Alphabet Inc. (NASDAQ: GOOGL) CEO Sundar Pichai pleading to remove the TikTok app from their respective app stores. He cited privacy and security concerns.
+He noted that the average TikTok user spends 80 minutes daily on the app. Chinese law dictates that companies must support and cooperate with state intelligence work. Its parent company ByteDance has had problems with aggressive data collection methods. Senator Bennett argued that there's too much risk of China weaponizing the data and platform to influence its users.
+On Feb. 6, 2023, Texas Governor Greg Abbott released details of a statewide Model Security Plan for Prohibited Technologies applicable to all state agencies. This plan bans using TikTok on state-issued devices due to security concerns. In the U.S., 27 states have issued TikTok bans on state-issued mobile devices.
+Governor Abbott commented, "The security risks associated with using TikTok on devices used to conduct the important business of our state must not be underestimated or ignored.” He continued, “Owned by a Chinese company that employs Chinese Communist Party members, TikTok harvests significant amounts of data from a user’s device, including details about a user’s internet activity." The plan bans downloading TikTok and other prohibited technology to government-issued phones, laptops, tablets, and desktop computers with the capacity for interest connectivity. This also bans employees and contractors doing state business on prohibited technology-enabled personal phones.
+On March 7, 2023, Senate Intelligence Committee Chairman Mark Warner (D) unveiled the RESTRICT Act. The bill targets restricting or banning technology from adversarial nations. Warner pointed out the history of individual bans from Kaspersky Labs to Huawei to ZTE and TikTok. He cited that rather than playing whack-a-mole, there needs to be a "comprehensive approach to evaluating and mitigating" the technology threats from adversarial nations, including China, Russia, Venezuela, North Korea, Cuba, and Iran.
+The bipartisan legislation was co-sponsored by Republican Senator John Thune back by 12 senators. Senator Thune said, "It's safe to assume that if the CCP is willing to lie about its spy balloon and cover up the origins of the worst pandemic in 100 years, they'll lie about using TikTok to spy on American citizens."
+ 
+The daily candlestick chart has an ascending triangle of a flat top around $12.44 with a rising trendline that commenced off the $8.05 low in December 2022. The ascending triangle attempted a breakout on Mar. 7, 2023, as shares hit a high of $12.67. Still, SNAP fell on a gap the next day under the rising trendline to test the daily 20-period exponential moving average (EMA) at $10.62.
+The daily 50-period MA supports overlapping the daily market structure low (MSL) trigger at $10.24. The sharp pullback is causing the daily stochastic to start crossing back down. Shares must return above the rising trendline at $11.49 to resume the triangle breakout attempt. Pullback support levels are at $9.85, $9.31, $8.88, and $8.05.
+ 
+ 
+ 
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

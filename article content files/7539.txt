@@ -1,0 +1,65 @@
+March 02, 2023 — 05:52 am EST
+
+      Written by
+                        Keith Speights for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+For 14 years, international professional services company Deloitte has published its annual Tech Trends report. In it, the team at Deloitte attempts to identify new technologies that could gain tremendous momentum in the near future. Here are Deloitte's six technology trends to watch in 2023 -- and my picks for three stocks to buy to profit from those trends.
+Deloitte's latest Tech Trends report highlights three technology trends that the company calls "enduring eternities of modern computing":
+1. Immersive internet
+The "immersive internet" encompasses augmented reality, virtual reality, and the metaverse. Deloitte predicts that some businesses will succeed by focusing entirely on these new technologies. Others will benefit from them by simplifying their operations and by providing employees with new and better opportunities to learn.
+2. Increased trust in AI
+Current generative AI applications such as OpenAI's ChatGPT have become incredibly popular. However, users have also learned that they can't always trust the information given by these apps. Deloitte thinks that businesses will learn to trust AI as the technology advances over the next few years. This will be necessary if AI is to be used in making decisions.
+3. Increased adoption of metacloud tools
+The shift from on-premises hosting of apps and data to the cloud has been underway for several years. Many organizations use multiple clouds, and managing multicloud environments can be complicated. Deloitte believes that the increased adoption of metacloud tools that sit above multiple clouds will help simplify multicloud management.
+In addition, Deloitte pointed to three other tech trends it calls "foundational forces" that enable businesses to integrate their existing systems with new innovations:
+4. Increased flexibility in managing tech workforces
+The competition for highly skilled technology talent has heated up. Deloitte's latest report noted that organizations can't simply hire for their current tech needs because skills become outdated quickly. The report stated that companies will have to be increasingly flexible and creative in hiring new staff and managing their tech workforces.
+5. Increased adoption of decentralized architectures
+Perhaps the most important benefit of decentralized architectures is that they foster trust between unrelated parties. Deloitte thinks that this will drive increased adoption of blockchain technology and lead to the rise of Web3 -- a decentralized version of the internet.
+6. Modernization of legacy mainframe systems
+There have been predictions that mainframe systems would eventually disappear for decades. But those predictions haven't come true. Many organizations still use mainframes extensively, and Deloitte doesn't envision that they will be replaced. Instead, the company believes that mainframes will be modernized to "connect and extend" to new technologies.
+Few, if any, stocks will benefit from all six of the tech trends identified by Deloitte, but I think these three check off several of the boxes.
+Amazon (NASDAQ: AMZN) could be a major player in the immersive internet as businesses use Amazon Web Services (AWS) to host their AR, VR, and metaverse apps. As a leader in AI, the company should be instrumental in building trust in AI technology as well. AWS already supports blockchain and could play a key role in the increased adoption of decentralized architectures.
+It's quite possible, though, that Amazon might not help foster increased adoption of metacloud tools. As the biggest cloud hosting provider, the company would certainly prefer to supply all of organizations' cloud needs instead of only being a part of their solutions.
+We could take most of what was just stated about Amazon and apply it to Microsoft (NASDAQ: MSFT). The tech giant also operates a major cloud hosting service called Azure. Microsoft's cloud will no doubt host the AR, VR, and metaverse apps for many organizations. Azure also supports the development of Web3 apps using ConSenSys' Quorum Blockchain Service.
+Sure, Microsoft has had some embarrassing issues with the launch of its ChatGPT-powered Bing. However, the company could still play an important part in increasing trust in AI. It will also likely be an important resource for companies in better managing their tech workforces. For example, Microsoft's GitHub Copilot can automate some programming tasks, enabling software developers to focus on more complex operations.
+Nvidia (NASDAQ: NVDA) will almost certainly benefit from the rise of the immersive internet. The company's graphics processing units (GPUs) are already the gold standard in powering gaming systems. They should enjoy increased demand from AR, VR, and the metaverse. In addition, Nvidia markets a metaverse product called Omniverse that allows customers to create 3D designs and simulations.
+This company just might be the biggest winner of all in the AI revolution. Its GPUs are already widely used in AI processing. All of the leading cloud hosting platforms, including AWS and Azure, use Nvidia's GPUs. The company's chips are also ideal for handling the intense processing required by distributed ledger technologies such as blockchain.
+My view is that some of the six trends discussed in Deloitte's latest Tech Trends report will be more important than others. I suspect that AI and the immersive internet will be especially huge over the next decade and beyond.
+All of these trends, though, present opportunities for investors over the long run. I predict that buying shares of Amazon, Microsoft, and Nvidia at today's prices will look really smart a few years from now.
+Find out why Nvidia is one of the 10 best stocks to buy now
+Our award-winning analyst team has spent more than a decade beating the market. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed their ten top stock picks for investors to buy right now. Nvidia is on the list -- but there are nine others you may be overlooking.
+Click here to get access to the full list!
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+John Mackey, former CEO of Whole Foods Market, an Amazon subsidiary, is a member of The Motley Fool's board of directors. Keith Speights has positions in Amazon.com, Microsoft, and Nvidia. The Motley Fool has positions in and recommends Amazon.com, Microsoft, and Nvidia. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

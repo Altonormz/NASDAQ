@@ -1,0 +1,52 @@
+February 24, 2023 — 05:00 pm EST
+
+      Written by
+                        Harsh Chauhan for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+The interest in artificial intelligence (AI) applications is heating up thanks to the rising popularity of ChatGPT, OpenAI's Microsoft-backed chatbot. This seems to have triggered a race between tech giants around the globe to build AI applications capable of generating images, audio, text, video, or code based on user prompts.
+With the generative AI market expected to grow at a compound annual rate of 34% over the next decade, hitting $200 billion in annual revenue in 2032, it is not surprising to see that the likes of Alphabet, Meta Platforms, Amazon, and others are looking to make the most of this opportunity. Microsoft, for instance, has reportedly made an investment of $10 billion in OpenAI to integrate generative AI into its offerings. Alphabet recently revealed Bard and said that it is working to offer more generative AI services.
+With all of that said, this race to develop generative AI applications such as chatbots could be a boon for ASML Holding (NASDAQ: ASML). Let's see how this Dutch semiconductor giant could turn out to be a top AI player in the long run.
+The demand for AI chips is expected to grow much faster than the overall semiconductor market. Allied Market Research estimates that the AI chip market could generate over $263.6 billion in annual revenue by 2031 compared to just $11.2 billion in 2021, clocking a compound annual growth rate (CAGR) of 37.1%. For comparison, global semiconductor sales are anticipated to increase at 7% a year through 2030 and exceed $1 trillion in revenue, according to DigiTimes.
+AI chips are different from general-purpose chips such as central processing units (CPUs). That's because AI chips need to be much faster and more power-efficient than general-purpose chips to carry out a huge number of calculations at the same time, integrating machine learning and AI algorithms so that they can mimic the human brain. As a result, AI chips should have more bandwidth and computational capacity than CPUs, and they should also be more power-efficient to carry out multiple massive calculations on a huge scale.
+The way to generate more computational power while increasing power efficiency concurrently is by shrinking the size of chips. That's because the transistors on a chip manufactured using smaller process nodes (measured in nanometers) are closely packed together. This increases the processing power of the chip and reduces power consumption. So, the higher computational power needed for running AI applications will create the need for chips made using smaller process nodes.
+This is where ASML comes in. ASML's website states that applications such as AI "drive demand for the chipmaking systems that produce smaller, faster, cheaper, more powerful and energy-efficient microchips." More specifically, the Dutch giant's extreme ultraviolet (EUV) lithography machines allow chipmakers to reduce the size of chips. ASML's EUV machines can produce 7-nanometer (nm), 5nm, and 3nm chips in large volumes, and it is not surprising to see that the demand for machines producing these advanced process nodes has been healthy.
+Taiwan Semiconductor Manufacturing, popularly known as TSMC, which is the world's largest semiconductor foundry and an ASML customer, got 54% of its revenue from selling 7nm and 5nm chips in the fourth quarter of 2022. For perspective, the company generated $20.5 billion in revenue during the quarter, which shows the massive size of the market for advanced chip nodes.
+This year, TSMC plans to introduce 3nm chips, which will be followed by 2nm chips in 2025. It is worth noting that TSMC's supply of 3nm chips is already sold out as demand for them is higher than what the company can supply this year. And with the advent of applications such as generative AI, chipmakers should continue witnessing strong demand for smaller chips.
+As a result, the demand for ASML's machines should remain healthy especially considering that it has a monopoly in EUV lithography. In simpler words, ASML's machines are going to play a critical role in the proliferation of AI applications.
+The demand for machines capable of making advanced chips that can power applications such as AI explains why ASML has a massive backlog and is witnessing solid growth in orders. The company received 30.7 billion euros worth of bookings in 2022, which was more than its annual revenue of 21 billion euros.
+It also has a huge backlog of orders worth 40 billion euros, which is the reason why ASML expects at least 25% revenue growth in 2023. With the addition of new catalysts such as generative AI and the secular growth of the semiconductor market, ASML seems to have a bright future ahead of it. Of course, the stock is richly valued with a price-to-earnings ratio of 41 compared to the Nasdaq 100's multiple of 25. But ASML could justify this valuation by delivering attractive long-term growth, which is why investors may want to buy this potential AI winner before it becomes more expensive.
+10 stocks we like better than ASMLWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and ASML wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Suzanne Frey, an executive at Alphabet, is a member of The Motley Fool's board of directors. John Mackey, former CEO of Whole Foods Market, an Amazon subsidiary, is a member of The Motley Fool's board of directors. Randi Zuckerberg, a former director of market development and spokeswoman for Facebook and sister to Meta Platforms CEO Mark Zuckerberg, is a member of The Motley Fool's board of directors. Harsh Chauhan has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends ASML, Alphabet, Amazon.com, Meta Platforms, Microsoft, and Taiwan Semiconductor Manufacturing. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

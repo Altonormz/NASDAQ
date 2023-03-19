@@ -1,0 +1,164 @@
+March 08, 2023 — 01:30 pm EST
+
+      Written by
+                        Motley Fool Transcribing for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Image source: The Motley Fool.
+Full Truck Alliance (NYSE: YMM)Q4 2022 Earnings CallMar 08, 2023, 7:00 a.m. ET
+Operator
+Ladies and gentlemen, good day and welcome to Full Truck Alliance's fourth quarter and full year 2022earnings conference call Today's conference is being recorded. At this time, I would like to turn the conference over to Mao Mao, head of investor relations. Please go ahead.
+Mao Mao -- Investor Relations
+Thank you, operator. Please note that today's discussion will contain forward-looking statements relating to the company's future performance, which are intended to qualify for the safe harbor from liability as established by the U.S. Private Securities Litigation Reform Act. Such statements are not guarantees of future performance and are subject to certain risks and uncertainties, assumptions, and other factors.
+Some of these risks are beyond the company's control and could cause actual results to differ materially from those mentioned in today's press release and discussion. A general discussion of the risk factors that could affect FTA's business and financial results is included in certain filings of the company with the SEC. The company does not undertake any obligation to update this forward-looking information except as required by law. During today's call, management will also discuss certain non-GAAP financial measures for comparison purposes only.
+10 stocks we like better than Full Truck AllianceWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.* 
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Full Truck Alliance wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of February 8, 2023
+
+For a definition of non-GAAP financial measures and a reconciliation of GAAP to non-GAAP financial results, please see the earnings release issued earlier today. Joining us today on the call from FTA's management side are Mr. Hui Zhang, our founder, chairman, and CEO; and Mr. Simon Cai, our CFO.
+Management will begin with prepared remarks, and the call will conclude with the Q&A session. As a reminder, this conference is being recorded. In addition, a webcast replay of the call will be available on FTA's investor relations website at ir.fulltruckalliance.com. I want to now turn the call over to our founder, chairman, and CEO, Mr.
+Zhang. Please go ahead. 
+Hui Zhang -- Founder and Chief Executive Officer
+[Foreign language]
+Mao Mao -- Investor Relations
+Hello, everyone. Thank you for joining us today on our fourth quarter and full year 2022earnings conference call During the year, uncertainties persisting within the macroenvironment posed various challenges to our operations. Despite these headwinds, we are pleased with our performance in the fourth quarter as we are ending 2022 on a strong note.
+Hui Zhang -- Founder and Chief Executive Officer
+[Foreign language]
+Mao Mao -- Investor Relations
+Over the past year, we achieved progress across all of our business segments that are in different stages of development. We took steps to standardize our platform data management and upgrade the network security system by leveraging big data and advanced freight-matching algorithms. This enhanced the users' experience by providing them with high-quality, efficient, and full coverage capacity network services in a secure network environment. Additionally, we made considerable efforts in platform process simplification, improved app usability, and user misconduct rectification.
+These actions mainly include building a shipper rating system, creating the five-star shipper accreditation, launching a trucker growth pilot program, and cracking down on malicious price-cutting behavior. By maximizing both shippers' and truckers' experience and elevating operational efficiency, we expanded our high-value services to more shippers and truckers during the year and safeguarded their rights and interests. As we ended 2022, we were pleased to see a revival in user growth in terms of both shippers and truckers, fueled by reinstating new user registrations in June. With the number of high-quality users growing on the platform, we are improving our platform ecosystem to provide a more secure transaction environment for our users.
+Furthermore, as corporate social responsibility is one of our core values, we lowered the number of truckers -- trucks with empty loads, saving energy and reducing carbon emissions through implementing new technological innovations, further contributing to the green development of the transportation industry.
+Hui Zhang -- Founder and Chief Executive Officer
+[Foreign language]
+Mao Mao -- Investor Relations
+For the full year, our gross transaction value and the number of fulfilled orders reached RMB 261.1 billion and 119 million, respectively. While our business was adversely affected by repeated resurgence of COVID outbreaks at the beginning of the fourth quarter, road freight began to recover following the full removal of COVID restrictions in December. In the fourth quarter, the GTV reached RMB 72 billion, while the number of fulfilled orders was 32.6 million. Our average shipper MAUs reached 1.88 million, representing a 19.7% increase year over year.
+With the strong aforementioned tailwinds, total net revenue in the fourth quarter surged by 34.5% year over year to RMB 1.92 billion. As for our non-GAAP financial measures, our adjusted net income reached RMD 445.8 million in the fourth quarter. On a full year basis, the total net revenues from our platform soared by 44.6% year over year to RMB 6.73 billion and non-GAAP adjusted net income increased by 209.8% to RMB 1,395.4 million.
+Hui Zhang -- Founder and Chief Executive Officer
+[Foreign language]
+Mao Mao -- Investor Relations
+Looking ahead into 2023, in the wake of the post-pandemic era, activity within the entire freight industry is well on its way to a full recovery. China's unswerving support for private enterprises and the platform economy positions the country for a revival in social and economic activity. This renewed energy reaffirms our commitment to our long-term vision and strategic direction of our platform's development. We will keep advancing our technological innovations by leveraging big data, matching algos, and artificial intelligence to create more value for users across different industries.
+While promoting the green transformation of China's transport industry, we will push forward in solidifying our industry leadership position and further expand our market share, creating greater value for users, shareholders, and other stakeholders.
+Hui Zhang -- Founder and Chief Executive Officer
+[Foreign language]
+Mao Mao -- Investor Relations
+To further demonstrate our confidence in the company's long-term prospects, today, we announced that the board of directors authorized a share repurchase program under which the company may repurchase up to 500 million of ADS over the next 12 months. The company plans to fund repurchase from its existing cash balance.
+Hui Zhang -- Founder and Chief Executive Officer
+[Foreign language]
+Mao Mao -- Investor Relations
+Thank you. With that, I will now turn the call over to our CFO, Simon, who will elaborate further on our fourth quarter progress and go over our operational and financial results in more details.
+Simon Cai -- Chief Operating Officer
+Thank you, Mr. Zhang, and hello, everyone. Today, as usual, I will first go over some of the highlights for the quarter, followed by a brief overview of our key financials. The quarter began with the lingering pandemic challenges weighing on the economy.
+While the fourth quarter is the traditional peak season for freight transport, various regions continued to experience certain fluctuations in freight volume in October and November due to rolling COVID policies which negatively impacted our business. Following the removal of COVID restrictions in December, the order volume from the platform gradually ramped up, reaching the full year peak in early December. However, in mid-December, the order volume declined due to a large number of truckers getting infected with COVID, which affected overall transport capacity. As infected truckers returned to work and transport capacity recovered after the Chinese New Year, we see activity within the freight industry resurging from the lows of last year.
+Despite the many disruptions, our average fulfillment rate reached approximately 24% in fourth quarter, increasing on a monthly basis, with our average fulfillment rate reaching 26.4% in December. The increase in fulfillment rate was due to easing COVID policies, which strengthened truckers' willingness to take freight orders, while we also progressively restored the supply and demand balance between truckers and shippers. Moreover, with the resumption of new user registration, the overall number of shippers on the platform grew, of which most of them are direct shippers with relatively higher fulfillment rate as compared to middlemen, and therefore, contributed to our improved fulfillment rate. Now, looking specifically at our users, we were able to maintain the previous quarter's momentum that was ignited by the revival of new users' registration.
+The continued uptake in the overall users during the fourth quarter pushed our average shipper MAUs to 1.88 million or a year-over-year increase of 19.7%. Our average trucker MAUs, including those fulfilling and responding to orders, remained stable month over month, with 3.5 million active truckers fulfilling shipments in the past 12 months. In the last four quarters and -- the 12-month rolling retention rate of both shipper members and the next month's retention rate of truckers who responded to orders remained steady at around 85%. Our ability to maintain a high retention rate demonstrated once again the high degree of stickiness of our overall user base.
+Along with our high user gains, we are optimizing our overall user composition, as the number of both 688 members and nonpaying members, which typically are direct shippers, continued to increase in the fourth quarter. More importantly, the contribution from these two types of users further increased to about 45% in terms of number of fulfilled orders, which we expect will increase further as the user scale continues to expand. This year, the acquisition of new users will remain a high priority. In addition to our traditional online marketing and promotional activities, we will explore new initiatives and marketing channels to attract high-value users and build brand awareness such as precise marketing toward consumer user scenarios and marketing through users' social networks.
+At the same time, we will strengthen our offline user acquisition strategy through our ground promotion teams, combined with our local operations, to reach target user groups both online and offline. As we move into 2023, we remain focused on improving our services, acquiring and retaining users, and allocating more resources on branding and marketing in order to gradually replace the inefficient acquaintance truckers model. We plan to attract more low- and medium-frequency direct shippers through online channels and improving the user experience for their first-time fulfillment in order to boost the conversion rate of nonpaying users into paying members. Now, briefly turning to our platform, in the fourth quarter, we continued to invest resources in creating a trusted transaction environment and improving the healthiness of the platform's ecosystem.
+We simplified users' complaint process and made it more accessible and user-friendly. For instance, our hotline upgrades make it easier for users to access customer service and the complaint button on the app's order detail page allows users a one-click access to the complaints section. We also fundamentally improved our product functionalities to reduce the possibility of disputes. As an example, in order -- in response to shippers' order cancellation, we added trucker comment feature to allow trucker's voice to be heard, hence encouraging rational shipments and reducing frictions between shippers and truckers.
+Another notable accomplishment for us in the fourth quarter was widening the penetration of our shipper rating system's coverage, which enhances the role of users' credit in our ecosystem and protects the interest of both truckers and shippers. As the number of five-star high-quality shippers continue to increase and we gain more recognition from truckers and shippers, we have seen a significant decline in order cancellation rate by these five-star shippers. Subsequently, the average fulfillment rate of five-star shippers is 21.8% points higher than that of the platform as a whole. As we proceed, we will continue to refine and improve our rating system on both ends in order to regulate and discipline their behaviors.
+Turning to our online transaction service, the segment maintained sustainable growth in the fourth quarter amid the volatile macroenvironment, showing a 67.4% increase year over year to RMB 447.8 million. This increase was primarily driven by improved commission rate. In the fourth quarter, our online transaction service covered roughly 50% of the transaction GTV or 60% if measured by fulfilled orders. For the full year, commission penetration by number of orders has increased by nearly 8 percentage points to approximately 56%.
+Looking ahead, we will beef up our investment to strengthen our platform's fulfillment and transaction assurance services. Furthermore, as we expand our users, we will refine our tiered commission strategy based on freight-matching time and freight amount and dynamically adjust our commission policies. Additionally, given the fact that transaction disputes are normal occurrence in this industry, we will continue to improve our data label algo in order to improve fulfillment efficiency and help with dispute resolution, and ensure that truckers are provided with high-quality, high-priced goods for -- from shippers -- from direct shippers, which should gradually improve our user composition and ultimately contribute to a higher commission rate. In summary, during 2022, we continued to improve the platform's ecosystem's governance and elevated the users' experience.
+While ensuring network system security and optimizing platform data regulations, we implemented an active user acquisition strategy once new user registrations resumed, which expanded our user -- our platform's user base and created value for our users. We're proud of our team for their dedicated -- their dedication and hard work under the conditions created by COVID restrictions. Going forward, we will direct that same spirit to sharpen our performance by leveraging digitalization technologies to improve our algo's matching accuracy and efficiency, broaden our products and services for direct shippers, and acquire more high-quality users. As the freight industry gradually recovers, we will continue to harness our core advantages to provide users with service quality assurances and boost our commercialization capabilities, further fortifying our leading industry position.
+Now, I'd like to provide a brief overview of our fourth quarter 2022 and full year 2022 financials. Given the limited time for today's call, I will be presenting some abbreviated financial highlights. We encourage you to read through our press release issued earlier today for details. Our total revenue for the year was RMB 6.7 billion, representing a 44.6% increase year over year.
+Net revenues for the fourth quarter were RMB 1.9 billion, representing a 34.5% increase year over year. For 2022, our net revenue from freight-matching services, including service fees from freight brokerage models, membership fees from listing models, and commissions from online transaction services, were RMB 5.7 billion, up 43.3% from 2021; and RMB 1.6 billion for the fourth quarter, up 31.4% year over year, primarily due to the rapid growth in transaction commissions, as well as an increase in revenues from our freight brokerage service. Revenues from freight brokerage service reached RMB 3.4% for 2022, up 34.5% year over year. On a quarterly basis, net revenue increased by 24% to RMB 943.6 million in the fourth quarter, primarily driven by continued growth in transaction volume as a result of improved user penetration.
+Revenues from freight listing service were RMB 852.4 million for the full year, up 13.2% year over year, and rose 11.2% year over year in the fourth quarter to reach RMB 223.1 million, primarily due to an increase in total paying members. Revenues from transaction commissions amounted to RMB 1.4 billion in 2022, representing a 107.4% increase year over year. On a quarterly basis, the net revenue amounted to 447.8 million in the fourth quarter, representing a 67.4% increase year over year, primarily driven by a -- expanded take rate, as well as improved commission penetration. Revenue from value-added services were RMB 1.1 billion in 2022, representing 51.7% increase year over year.
+For the fourth quarter, net revenues increased to RMB 308.1 million, representing a 53.7% increase year over year, mainly attributable to an increase in revenue from credit solutions and other value-added services. Cost of revenue from the fourth quarter was RMB 951.8 million, compared with RMB 658.2 million in the prior-year period. The increase was primarily due to an increase in VAT, related tax surcharges, and other tax costs, net of tax refunds from government authorities. These tax-related costs net of refunds totaled RMB 857.4 million, representing an increase of 54.3% from RMB 555.5 million in the same period in 2021, primarily due to continued increase in transaction activities involving our freight brokerage service.
+Our sales and marketing expenses in the fourth quarter were RMB 281.1 million, compared with 239.4 million in the prior-year period. The increase was primarily due to an increase in salary and benefits expenses driven by higher sales and marketing headcount, as well as increase in online advertising and marketing expenses. General and administrative expenses in the fourth quarter were RMB 408.2 million, compared with RMB 1.6 billion in the prior-year period. The decrease was primarily due to lower share-based compensation expenses, partially offset by an increase in professional service fees.
+R&D expenses in the fourth quarter were RMB 250.2 million, compared with RMB 233.6 million in the prior-year period. The increase was primarily due to an increase in salary and benefits expenses, driven by higher R&D headcount. Loss from operations in the fourth quarter was RMB 5.3 million, compared with RMB 1.4 billion in the same period of 2021. Net income in the fourth quarter was RMB 195.7 million, compared with a net loss of RMB 1.3 billion in the same period of 2021.
+Under non-GAAP measures, our adjusted operating income in the fourth quarter was 200 -- was RMB 248.4 million, compared with RMB 159.1 million in the same period of 2021. Our adjusted net income in the fourth quarter was RMB 445.8 million, compared with RMB 242.8 million in the same period of 2021. Basic and diluted net income per ADS were RMB 0.18 in the fourth quarter, compared with basic and diluted net loss per ADS of RMB 1.23 in the same period of 2021. Non-GAAP adjusted basic and diluted net income per ADS were RMB 0.42 in the fourth quarter, compared with non-GAAP adjusted basic and diluted net income per ADS of RMB 0.23 in the same period of 2021.
+As of December 31, 2022, our cash and cash equivalents, restricted cash, and short-term investments totaled RMB 26.3 billion, compared with RMB 26 billion as of December 31, 2021. As of December 31st last year, the total outstanding balance of the on-balance sheet loans, consisting of the total principal amount and all accrued and unpaid interest, net of provisions, of the loans funded through our small loan company and the trusts established by us, was RMB 2,648.4 million, compared with RMB 1,777.7 million as of December 31, 2021. And the total nonperforming loan ratio for these loans were around 2% as of the end of last year, which was flat compared with that of December 31st in 2021. Looking at our business outlook for the first quarter of 2023, we expect our total net revenues to be between RMB 1.56 billion and RMB 1.64 billion, representing a year-over-year growth rate of approximately 16.9% to 23%.
+These forecasts reflect the company's current and preliminary views on the market and operational conditions, which are subject to changes and cannot be predicted with reasonable accuracy as of the date hereof. In late January, we were forced to defend ourselves against groundless allegations in a published short-seller report. Upon receipt of the report, the audit committee quickly launched an independent investigation, with the assistance of third-party professional advisors, including an international law firm and an outside forensic accounting experts from a big four accounting firm. Today, we announced the substantial completion of the internal review, which were conclusive in its findings that the key allegations were not substantiated.
+We sincerely appreciate the trust and support we have received from our investors during this period and want to take this opportunity to publicly reiterate our commitment to maintaining high standards, transparency, and timely disclosure in compliance with the rules of the New York Stock Exchange. That concludes our prepared remarks. We would now like to open the call to Q&A. Operator, please go ahead.
+Operator
+Thank you. We will now begin the question-and-answer session. [Operator instructions] And our first question today comes from Ronald Keung with Goldman Sachs. Please go ahead.
+Ronald Keung -- Goldman Sachs -- Analyst
+[Foreign language] Thank you, management. Just want to ask about that bit. The pandemic impact is mostly behind us, and we're also seeing the overall kind of macro economy kind of improving. So, against this backdrop, in 2023, how do you view the overall strategy, direction of the company and what are the company's business priorities this year? Thank you.
+Hui Zhang -- Founder and Chief Executive Officer
+[Foreign language]
+Mao Mao -- Investor Relations
+Our priority for 2023 is to reinforce our platform's core competitiveness and enhance user stickiness. The removal of pandemic controls has been a game changer for us as business activities return to normal. As demand and supply gradually resume, we will double our efforts in building our brand equity, along with improving operations at both user end. For truckers, we plan to successively implement our trucker hierarchical management strategy in various regions throughout the country.
+Truckers will be incentivized to improve service quality, as well as to increase their activity level. On the shipper side, we will intensify and broaden new user acquisition and in combination with a series of operational activities, including promoting users' first-time fulfillment and converting nonpaying users into 688 members, thereby increasing shippers' use -- usage frequency and user stickiness.
+Hui Zhang -- Founder and Chief Executive Officer
+[Foreign language]
+Mao Mao -- Investor Relations
+This year, we will remain focused on full truckload transportation to solidify a more comprehensive foundation for the platform business. As for our new business initiatives, we will take a steady approach of validating the innovative business models while balancing scale and efficiency. Thank you. Next one, please.
+Operator
+Thank you. Apologies, everybody. And our next question today comes from Charlie Chen with China Renaissance. Please go ahead.
+Charlie Chen -- China Renaissance -- Analyst
+[Foreign language] In the fourth quarter, the platform's fulfilled GTV rose by 3.5% and average freight rate increased by 6% quarter over quarter. What are the reasons for these changes and how do you see the freight rate trending going forward? Thank you.
+Simon Cai -- Chief Operating Officer
+Thank you. Let me address the rest of the questions in English. Our sequential GTV growth in the past quarter was primarily attributable to an upswing in users -- in new users following the resumption of new user registration, which partially offset the pandemic's negative drags on business. As we face the bottlenecks due to transportation capacity constraints from the pandemic control measures, short-term freight rates rose, which had a persistent and lagging impact on transaction volume.
+When the pandemic control measures were lifted in December, the demand recovered, as evidenced by our platform data. Yet, the supply was not fully able to -- was not able to fully catch up with demand. However, this issue was gradually resolved after the Chinese New Year as more truckers returned to work. Regarding the freight rate, its increase in the fourth quarter was primarily due to higher fuel prices in 2022, in addition to the changes in the imbalance of supply and demand resulting from the pandemic.
+Looking ahead into 2023, while fuel prices are still high, the pandemic's impacts are gradually receding. As such, we expect the overall freight rate to slowly return to a reasonable price range. The freight rate is affected by a variety of external factors, including fuel prices and highway toll fess, among other things, which are difficult to predict and they are impacted by factors that are beyond our control. In comparison, the platform's fulfilled order volume is a better reflection of our overall operating capabilities.
+And this is also why we mentioned -- as we mentioned previously, we will no longer focus and disclose GTV-related operating metrics starting from the first quarter onwards.
+Charlie Chen -- China Renaissance -- Analyst
+Thank you.
+Operator
+Thank you. Our next question today comes from Jiulu Li with CICC. Please go ahead.
+Jiulu Li -- CICC -- Analyst
+[Foreign language] The number of fulfilled orders decreased by 2.5% quarter over quarter in the fourth quarter. What are the factors that contributed to this? How do you see the volume of fulfilled orders trending in the first quarter? Thanks.
+Simon Cai -- Chief Operating Officer
+Yeah. Firstly, we see the negative impacts of pandemic weighed on our operation in the last quarter. And these headwinds are -- were most -- were more pronounced in October and November as we experienced various -- varying degree of logistics disruptions in some of the key provinces with large freight volumes such as Hunan, Anhui, Henan, Shandong, and Hubei. Subsequently, the overall transaction volume was below our expectations around 11/11, the e-commerce sales promotion season.
+The average daily transaction volume only began to rebound after the removal of pandemic control measures in December and gradually reached its peak for 2022 by year-end. However, the upturn in orders from newly registered users in the fourth quarter partially offset the pandemic's adverse effects. Judging from our operating performance since January this year, the freight volume recovered better than expected after the Chinese New Year as it achieved outstanding year-on-year growth. In the absence of any unexpected external changes, we anticipate a year-on-year increase at low teens in overall order volume in the first quarter and both -- as both demand and supply recover.
+Operator
+Thank you. And our next question today comes from Cherry Leung with Bernstein. Please go ahead.
+Cherry Leung -- AllianceBernstein -- Analyst
+[Foreign language] So, I'll do it in English. Can you please provide an update on your shipper members' expansion? And do you see any changes in the truckers' and shippers' activities in the quarter? Thank you.
+Simon Cai -- Chief Operating Officer
+Thank you. In the fourth quarter, we continued to advance our shipper membership strategy. As a result, the number of shipper members grew to 730,000, up almost 20% year over year. The growth was primarily attributable to an increase in our 688 members who are mostly direct shippers, as our year-over-year growth in the 688 members exceeded 30%.
+Additionally, as part of our strategy to increase user growth, we remained focused on prioritizing user experience in the fourth quarter. For example, we committed to improve the fulfillment rate of new nonmember users' first three orders on our platform and increased our telemarketing coverage. This facilitated user conversion upon initial purchase of membership, thereby enabling us to reach our target of high-quality membership user growth. With respect to user activity, truckers' ability to respond to orders and fulfillment capabilities fell slightly on the third quarter due to the pandemic control measures in October and November.
+That being said, our platform's users still displayed strong stickiness, resulting in a steady retention rate quarter over quarter. Going forward, as the industry recovers and we continue to strengthen our brand, we expect to maintain high level of stickiness and growth from both shippers and truckers.
+Operator
+Thank you. And ladies and gentlemen, our next question today comes from Thomas Chong with Jefferies. Please go ahead.
+Thomas Chong -- Jefferies -- Analyst
+[Foreign language] Thanks, management, for taking my questions. Due to the macro tailwinds, can you elaborate more about your full year outlook in terms of volume growth, as well as full year revenue guidance? Thank you.
+Simon Cai -- Chief Operating Officer
+Thank you for -- first quarter to date, we are very pleased to see that the demand from both shippers and truckers have recovered significantly, and we expect the overall order volume to deliver sequential growth quarter over quarter. Following this trend, we're confident to achieve a year-over-year growth in the high teens to low 20s for order volume on a full year basis. On the revenue front, we expect our total revenues for the first quarter to be between RMB 1.56 billion to -- and RMB 1.64 billion, representing a year-over growth rate of approximately 16.9% to 23%. We expect the primary driver for the revenue will be continued growth in transaction commissions.
+For 2023, we expect revenues from transaction commissions to maintain a healthy growth rate as our user base and our volume continue to grow. At the same time, we remain committed to boosting the level of commission penetration, as well as to further enhance our overall commission rate.
+Operator
+Thank you. And ladies and gentlemen, this concludes our question-and-answer session. I'd like to turn the conference back over to management for any final remarks.
+Mao Mao -- Investor Relations
+Thank you once again for joining us today. If you have any further questions, please feel free to contact us at Full Truck Alliance or TPG Investor Relations. Have a good day.
+Operator
+[Operator signoff]
+Duration: 0 minutes
+Mao Mao -- Investor Relations
+Hui Zhang -- Founder and Chief Executive Officer
+Simon Cai -- Chief Operating Officer
+Ronald Keung -- Goldman Sachs -- Analyst
+Charlie Chen -- China Renaissance -- Analyst
+Jiulu Li -- CICC -- Analyst
+Cherry Leung -- AllianceBernstein -- Analyst
+Thomas Chong -- Jefferies -- Analyst
+More YMM analysis
+All earnings call transcripts
+This article is a transcript of this conference call produced for The Motley Fool. While we strive for our Foolish Best, there may be errors, omissions, or inaccuracies in this transcript. As with all our articles, The Motley Fool does not assume any responsibility for your use of this content, and we strongly encourage you to do your own research, including listening to the call yourself and reading the company's SEC filings. Please see our Terms and Conditions for additional details, including our Obligatory Capitalized Disclaimers of Liability.
+The Motley Fool has no position in any of the stocks mentioned. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

@@ -1,0 +1,65 @@
+March 07, 2023 — 10:30 am EST
+
+      Written by
+                        Anthony Di Pizio for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+If you've been watching the tech world in 2023, you've probably noticed plenty of chatter about OpenAI's artificial intelligence-powered chatbot, ChatGPT. It has fascinated investors and prompted them to think about where this advanced technology could go next.
+Cathie Wood is the head of Ark Investment Management, and the firm is a great resource for that information because it's solely focused on making bets on the most innovative up-and-coming technologies. In its Big Ideas 2023 report, it made some bold predictions about the future of AI.
+Ark predicts the cost to train generative AI models could sink by 70% per year between now and 2030. Two years ago, it would run an organization about $4.6 million to train a language model to a GPT-3 level of performance (which is what ChatGPT is built upon). By the end of this decade, assuming Ark's forecasts come true, that cost would be as little as $30. 
+That means the world's knowledge workers -- like lawyers, scientists, and computer programmers -- will soon be leaning on the power of AI to complete tasks more efficiently. Ark thinks this will substantially boost the productivity of the workforce -- by as much as tenfold for the average programmer, for example. 
+Naturally, that paves the way for major financial upside. The investment firm predicts AI could add as much as $200 trillion in output to the global economy by 2030. That would translate to about $14 trillion in revenue for AI software companies, including one of the present industry leaders, C3.ai (NYSE: AI). C3.ai just reported its results for its fiscal 2023 third quarter (which ended Jan. 31), and investors responded to the report by sending the AI stock soaring by 20%. Here's why C3.ai could be one of the greatest winners of the coming AI revolution.
+OpenAI might be getting most of the attention right now, but C3.ai has pushed the boundaries of innovation for years, successfully monetizing AI and forging partnerships with the world's largest technology companies. It builds ready-made and customizable applications for 236 customers across at least nine industries, offering them turnkey tools to access the power of AI. 
+C3.ai continues to build out its distribution network by selling its applications jointly with significantly larger partners. It has developed a full suite of AI tools alongside oil services giant Baker Hughes that are specifically designed to serve fossil fuel companies. AI can help them reduce their emissions and predict equipment failures that could, if left unaddressed, lead to catastrophic environmental disasters. 
+Additionally, C3.ai has joined forces with the top three providers of cloud services -- Amazon Web Services (AWS), Microsoft Azure, and Alphabet's Google Cloud. Those providers benefit by improving their service offerings through the power of AI, driven by C3.ai. 
+Here's why that's important. A joint study determined that developers could build AI applications 26 times faster by using C3.ai on AWS compared to using just AWS alone. The amount of code programmers needed to write was slashed by 99%, and the timelines for deploying those applications were 15 times faster. 
+When it comes to using AI to significantly boost the productivity of programmers, C3.ai is already several steps ahead of the game.
+The company is in the process of transitioning from a subscription-based revenue model to one based on consumption instead. This means it doesn't have to enter into nuanced negotiations about subscription pricing with every potential customer. Clients can simply onboard and pay as they go. This would open the floodgates for more businesses to gain access to C3.ai's applications.
+Its deal growth -- representing its pipeline -- jumped 35% year over year last quarter. This is a new metric it just began reporting. 
+But this revenue model shift does create short-term headwinds. It's going to take time for customers to scale up their usage under the consumption model, and that process is still in its early stages, which is why C3.ai's revenue contracted by 4.4% year over year in fiscal Q3 to $66.7 million. That was, however, better than the company's guidance range of $63 million to $65 million, which is a key reason C3.ai stock jumped after the report. 
+Through the first nine months of its fiscal 2023, though, its revenue rose 7.7% to $194 million. 
+C3.ai says once customers scale up, revenue should return to growth of 30% or above (from fiscal 2024). The chart below describes how that is expected to play out. 
+Image source: C3.ai.
+Internally, C3.ai thinks its addressable opportunity will be worth $791.5 billion by 2026. That was actually revised higher from $596 billion (by 2025) in the previous quarter, which highlights how fast things are moving in the AI space. 
+Of course, that's a just fraction of Ark's $14 trillion figure, and the truth might well be somewhere in the middle. Regardless, it's a substantial leap from the $265 million in sales C3.ai is expecting to generate by the end of fiscal 2023, so the company looks to have a long runway for growth. 
+C3.ai says it has a first-mover advantage in the AI space, and it's still investing heavily in growth at the expense of profitability. It increased its research and development spending by 54% through the first nine months of fiscal 2023 to ensure it maintains its leadership position. 
+As a result, the company has lost $203.8 million so far this fiscal year. However, it still has $770 million in cash, equivalents, and short-term investments on its balance sheet, so there's enough padding for it to maintain that loss rate in the medium term. 
+C3.ai stock has soared by a whopping 147% this year so far, including a 20% jump after reporting its Q3 earnings. Still, it has a market capitalization of just $2.8 billion at the moment. But volatility is nothing new for this stock -- it listed on the public markets in December 2020 at $42 per share and quickly soared to an all-time high of $161. It was driven by the hype around artificial intelligence; after all, C3.ai was a first-of-its-kind enterprise AI company.
+When the company didn't produce the hyper-growth investors anticipated, its stock price sank, and was punished further amid the tech sell-off in 2022. But there are clear signs of a comeback now, and this time, it's more likely to stick given its high-profile partnerships, growing customer base, and new revenue model that should drive expansion. 
+
+Considering the rumored value of OpenAI is in the vicinity of $29 billion, C3.ai perhaps isn't getting the credit it deserves. That's especially true given the company is developing its own generative AI technology that could be used in search tools just like ChatGPT. 
+Once you add in the incredible value of its future opportunities, this stock could be set for substantial gains, particularly over the next five to 10 years.
+10 stocks we like better than C3.aiWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and C3.ai wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Suzanne Frey, an executive at Alphabet, is a member of The Motley Fool’s board of directors. John Mackey, former CEO of Whole Foods Market, an Amazon subsidiary, is a member of The Motley Fool’s board of directors. Anthony Di Pizio has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Alphabet, Amazon.com, and Microsoft. The Motley Fool recommends C3.ai. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

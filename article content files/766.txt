@@ -1,0 +1,87 @@
+March 16, 2023 — 01:46 pm EDT
+
+      Written by
+                        BNK Invest for                             
+        
+
+
+
+
+BNK Invest ->
+
+
+Looking at options trading activity among components of the S&P 500 index, there is noteworthy activity today in Analog Devices Inc (Symbol: ADI), where a total volume of 17,165 contracts has been traded thus far today, a contract volume which is representative of approximately 1.7 million underlying shares (given that every 1 contract represents 100 underlying shares).  That number works out to 47.3% of ADI's average daily trading volume over the past month, of 3.6 million shares.  Especially high volume was seen for the $175 strike put option expiring March 24, 2023, with 4,083 contracts trading so far today, representing approximately 408,300 underlying shares of ADI.  Below is a chart showing ADI's trailing twelve month trading history, with the $175 strike highlighted in orange:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Northrop Grumman Corp (Symbol: NOC) options are showing a volume of 4,452 contracts thus far today.  That number of contracts represents approximately 445,200 underlying shares, working out to a sizeable 46.8% of NOC's average daily trading volume over the past month, of 951,865 shares.
+Particularly high volume was seen for the $440 strike put option expiring March 17, 2023, with 623 contracts trading so far today, representing approximately 62,300 underlying shares of NOC.  Below is a chart showing NOC's trailing twelve month trading history, with the $440 strike highlighted in orange:
+
+
+
+
+
+
+
+
+
+
+
+
+And DexCom Inc (Symbol: DXCM) saw options trading volume of 11,964 contracts, representing approximately 1.2 million underlying shares or approximately 46.3% of DXCM's average daily trading volume over the past month, of 2.6 million shares.
+Particularly high volume was seen for the $75 strike put option expiring September 15, 2023, with 6,191 contracts trading so far today, representing approximately 619,100 underlying shares of DXCM.  Below is a chart showing DXCM's trailing twelve month trading history, with the $75 strike highlighted in orange:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+For the various different available expirations for ADI options, NOC options,  or DXCM options,  visit StockOptionsChannel.com.
+
+
+Today's Most Active Call & Put Options of the S&P 500 »
+
+
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

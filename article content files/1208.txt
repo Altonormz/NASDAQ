@@ -1,0 +1,55 @@
+March 16, 2023 — 06:35 am EDT
+
+      Written by
+                        Anthony Di Pizio for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Artificial intelligence (AI) holds great promise to be a wide-ranging transformative technology for this generation. According to an estimate by McKinsey, 70% of all companies could be using it in some capacity by 2030. A separate prediction by analysts at Ark Investment Management, led by prominent technology investor Cathie Wood, suggests AI will add $200 trillion to the global economy by that time.
+How can investors benefit from all of that value being created?
+They could start by looking into the many companies already implementing AI to supercharge their businesses. Then they could perhaps venture off the beaten path to find some of the most attractive opportunities in this sector. Cohu (NASDAQ: COHU) and Duolingo (NASDAQ: DUOL) are two examples of less obvious picks that use AI in unique ways. 
+Here's why these two companies, each valued at under $5 billion, are destined to be much bigger in the long run.
+The semiconductor sector is responsible for producing the advanced computer chips that power an increasing number of electronics and digital experiences. From smartphones to the data centers that host cloud-based email accounts, semiconductor hardware is the driving force behind all of that technology. 
+Companies are calling upon chipmakers to push the boundaries of innovation, as technologies like AI require a substantial amount of computing power to run. Cohu doesn't produce any chips itself, but the testing and handling equipment it makes is key to the manufacturing process. As chips shrink with each generation to find use inside increasingly smaller devices or as sensors inside vehicles, it becomes increasingly difficult to inspect the chips for defects without slowing down the fabrication process. 
+Cohu has systems in its portfolio that can autonomously inspect chips of almost any size at scale without compromising speed. How? By using artificial intelligence. The company uses infrared scanning in the inspection process, and its proprietary AI algorithms can tell the difference between a structural crack or a harmless scratch -- even if those defects are as small as five micrometers. For context, the average human hair is about 70 micrometers thick. 
+Cohu had a tough year in 2022 as the semiconductor sector took a breather. The company saw both its revenue and its earnings contract. But its eye is on the long term, and over the next three to five years, management believes the company will generate $1 billion in annual sales (on average) with $4 in earnings per share, which would mark a convincing return to growth. 
+Given Cohu stock trades at $37 right now, its forward price-to-earnings (P/E) ratio is just 9.2 based on the above forecast. That means the stock would have to more than double in the coming years just to trade in line with the Nasdaq-100 technology index, which trades at a P/E of 25 right now. That feels like a great opportunity for investors given the growing importance of the chip sector. 
+It is estimated that 2 billion people worldwide are trying to learn a foreign language. Duolingo was founded in 2011 to deliver a new type of language learning experience for that market by using technology, and it quickly rocketed to the top of the industry. Its platform is mobile-first, and its app has been downloaded more than 500 million times across all devices. 
+Duolingo places a gamified, interactive, and social education experience right at the user's fingertips, making them feel a long way from the classroom. A record 60.7 million people are active each month on the platform (and growing). 
+An increasing percentage of those users pay for a subscription to unlock additional features. As of the recent 2022 fourth quarter, 4.2 million users were paying, which represented 7.8% of the monthly active user base. But that number could be set to grow significantly thanks to the introduction of new AI-powered learning tools Duolingo recently started rolling out. 
+Duolingo has invested in AI since 2013, but it's now at the stage where it can make a difference to users on a very personal level. The company partnered with OpenAI, the developer of ChatGPT, to create "Explain My Answer," which will offer feedback to each user based on their mistakes in a given lesson. Plus, its new "Roleplay" feature will serve as a live conversational tool to help users improve their speaking and interacting skills. 
+The new features will be available under a separate paid subscription tier called Duolingo Max, opening the door to another monetization opportunity. 
+Duolingo delivered $369.5 million in revenue during 2022, growing by 47% year over year and blowing away its original guidance of $342 million. That financial growth could be accelerated with the help of AI, and given Duolingo stock sits 38% below its all-time high amid the broader tech sell-off, this could be a great time to buy. 
+10 stocks we like better than CohuWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Cohu wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of March 8, 2023
+ 
+Anthony Di Pizio has no position in any of the stocks mentioned. The Motley Fool has no position in any of the stocks mentioned. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

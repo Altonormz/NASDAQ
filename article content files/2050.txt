@@ -1,0 +1,60 @@
+March 14, 2023 — 10:55 am EDT
+
+      Written by
+                        BNK Invest for                             
+        
+
+
+
+
+BNK Invest ->
+
+
+Investors in nVent Electric PLC (Symbol: NVT) saw new options become available this week, for the March 17th expiration.   At Stock Options Channel, our YieldBoost formula has looked up and down the NVT options chain for the new March 17th contracts and identified the following call contract of particular interest.
+The call contract at the $45.00 strike price has a current bid of 20 cents.  If an investor was to purchase shares of NVT stock at the current price level of $44.33/share, and then sell-to-open that call contract as a "covered call," they are committing to sell the stock at $45.00.  Considering the call seller will also collect the premium, that would drive a total return (excluding dividends, if any) of 1.96% if the stock gets called away at the March 17th expiration (before broker commissions).  Of course, a lot of upside could potentially be left on the table if NVT shares really soar, which is why looking at the trailing twelve month trading history for nVent Electric PLC, as well as studying the business fundamentals becomes important.   Below is a chart showing NVT's trailing twelve month trading history, with the $45.00 strike highlighted in red:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Considering the fact that the $45.00 strike represents an approximate 2% premium to the current trading price of the stock (in other words it is out-of-the-money by that percentage), there is also the possibility that the covered call contract would expire worthless, in which case the investor would keep both their shares of stock and the premium collected.  The current analytical data (including greeks and implied greeks) suggest the current odds of that happening are 71%.  On our website under the contract detail page for this contract, Stock Options Channel will track those odds over time to see how they change and publish a chart of those numbers (the trading history of the option contract will also be charted).   Should the covered call contract expire worthless, the premium would represent a 0.45% boost of extra return to the investor, or 54.89% annualized, which we refer to as the YieldBoost.
+
+
+
+The implied volatility in the call contract example above is 36%.
+Meanwhile, we calculate the actual trailing twelve month volatility (considering the last 251 trading day closing values as well as today's price of $44.33) to be 30%.  For more put and call options contract ideas worth looking at, visit StockOptionsChannel.com.
+
+Top YieldBoost Calls of the S&P 500 »
+
+
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

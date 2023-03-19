@@ -1,0 +1,80 @@
+February 27, 2023 — 08:34 am EST
+
+      Written by
+                        Leo Sun for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Nvidia's (NASDAQ: NVDA) stock surged 14% on Feb. 23 after its latest earnings report. In the fourth quarter of fiscal 2023, which ended on Jan. 29, the chipmaker's revenue dropped 21% year over year to $6.05 billion but cleared analysts' expectations by $30 million. Its adjusted earnings per share (EPS) fell 33% to $0.88 but also topped the consensus forecast by $0.08.
+For the full year, Nvidia's revenue stayed nearly flat at $26.97 billion as its adjusted EPS declined 25%. That represented a significant slowdown from its 61% revenue growth and 78% adjusted EPS growth in fiscal 2022.
+Image source: Nvidia.
+Those growth rates seem anemic, but investors had already tempered their expectations for Nvidia amid the semiconductor sector's cyclical slowdown. The stock also remains nearly 30% below its all-time high from November 2021. Let's take a fresh look at Nvidia's business and see if its stock will climb higher this year.
+During the fourth quarter, Nvidia generated 60% of its revenue from data center chips, 30% from gaming chips, and the remaining 10% from professional visualization, automotive, and OEM chips. Its core data center and gaming businesses fired on all cylinders throughout the pandemic as the usage of cloud-based services surged and more people stayed at home and upgraded their work and gaming PCs. However, both businesses suffered severe slowdowns over the past year.
+Segment
+Q4 2022
+Q1 2023
+Q2 2023
+Q3 2023
+Q4 2023
+Gaming revenue growth (YOY)
+37%
+31%
+(33%)
+(51%)
+(46%)
+Data center revenue growth (YOY)
+71%
+83%
+61%
+31%
+11%
+Total revenue growth (YOY)
+53%
+46%
+3%
+(17%)
+(21%)
+Data source: Nvidia. YOY = year over year. 
+Nvidia's sales of gaming GPUs declined over the past three quarters as fewer people played video games or bought new PCs in a post-lockdown world. The collapse of the cryptocurrency market exacerbated that pain as miners flooded the secondhand market with cheaper GPUs.
+However, Nvidia's gaming revenue still rose 16% sequentially in the fourth quarter and ended its two consecutive quarters of sequential declines. During the conference call, CFO Colette Kress said it had "largely" overcome the market's inventory correction in gaming GPUs, and it was experiencing some "early signs of recovery" in China as the country relaxed its zero-COVID restrictions. Kress expects that sequential growth to continue in the first quarter of fiscal 2024.
+The growth of Nvidia's data center business also cooled off as the macro headwinds forced companies to rein in their cloud spending. However, the secular growth of the AI market cushioned that blow -- since many data center operators still rely on Nvidia's top-tier GPUs to process AI tasks. During the call, Kress claimed that AI adoption had reached an "inflection point" as OpenAI's ChatGPT enabled "people to experience AI firsthand" while demonstrating "what's possible with generative AI."
+Kress also pointed out that Nvidia's H100 -- its successor to the A100 Tensor Core GPU, which powers ChatGPT -- "arrived just in time to serve the development and scale out of inference of large language models." Kress expects those tailwinds to boost Nvidia's data center revenue both sequentially and year over year in the first quarter.
+Nvidia expects to generate about $6.5 billion in revenue in the first quarter of fiscal 2024, which would represent a 22% decline from the prior-year quarter but 7% sequential growth from the fourth quarter. It expects its adjusted gross margin to come in at 66%-67% -- compared to 65.5% a year earlier and 63.3% in the fourth quarter. That expansion indicates that Nvidia's dominance of the data center and gaming GPU markets still gives it plenty of pricing power.
+Nvidia's smaller rival AMD posted an adjusted gross margin of 51% last quarter. Nvidia's share of the discrete GPU market also expanded from 83% to 88% between the third quarters of 2021 and 2022, according to JPR, as AMD's share shrank from 17% to 8%.
+Nvidia didn't provide any precise guidance for the rest of the year, but most other chipmakers are expecting a cyclical recovery in the second half. For now, analysts expect Nvidia's revenue and adjusted EPS to rise 8% and 28%, respectively, for the full year. In fiscal 2025, they expect its revenue and adjusted EPS to increase another 24% and 34%, respectively.
+We should take those estimates with a grain of salt, but Nvidia's sequential growth in gaming and data center revenues suggests its business is stabilizing. However, its stock is still richly valued at 49 times forward earnings. AMD, which is growing slower due to its heavier exposure to the PC market through its CPUs, trades at 25 times forward earnings.
+Nvidia's long-term prospects still look bright, but the hype regarding ChatGPT and other AI services seems to be inflating its multiples. Therefore, I expect Nvidia's stock to stagnate this year until its business catches back up to its valuations.
+Find out why Nvidia is one of the 10 best stocks to buy now
+Our award-winning analyst team has spent more than a decade beating the market. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed their ten top stock picks for investors to buy right now. Nvidia is on the list -- but there are nine others you may be overlooking.
+Click here to get access to the full list!
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Leo Sun has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Advanced Micro Devices and Nvidia. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

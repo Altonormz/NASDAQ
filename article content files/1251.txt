@@ -1,0 +1,57 @@
+March 16, 2023 — 05:05 am EDT
+
+      Written by
+                        Anthony Di Pizio for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Inflation refers to a broad rise in the price of goods and services, and it's a term that much of the country has become more familiar with over the last 18 months. Everything from the price of a haircut to the price of a car rises on occasion, and it erodes consumers' purchasing power as a result. Over the last 18 months or so, the rate of that rise has far exceeded what many consider to be normal.
+The Consumer Price Index (CPI) is the primary measure of inflation and represents a year-over-year change in the price of a representative group of goods and services. The number is released by the U.S. Bureau of Labor Statistics each month. Since peaking at a 40-year high in June 2022, it has declined for eight consecutive months.
+The February annualized inflation rate -- which was reported on March 14 -- stood at 6%, which was the lowest reading since September 2021. It's still far above the Federal Reserve's target rate of 2%, but the downward trajectory is crystal clear. 
+
+The continued decline is a welcome relief for stock market investors, particularly those exposed to the technology sector. Rising inflation tends to send interest rates higher as a counterbalance, which not only increases the cost of capital but also gives investors safer alternatives for where to invest their money. They tend to sell their riskier assets, like technology stocks, as a result. 
+As a result, the Nasdaq-100 tech index remains down 26% from its all-time high, which is heavily underperforming the more diversified S&P 500 (it's down 18%). But after February's CPI number was released, the Nasdaq-100 led the major indexes higher with a gain of 2% on the day. 
+If the decline in inflation continues, here are two stocks that could be among the biggest winners. 
+Among the biggest losers from high inflation are those companies that rely on selling advertising spots on their platforms. As the owner of Google, Alphabet (NASDAQ: GOOGL)(NASDAQ: GOOG) fits squarely into that category because its search business is responsible for most of the company's overall revenue.
+A slowing economy leads to consumers tightening their belts which leads to businesses tightening their budgets over concerns about slowing revenue. One easy way to trim a business budget is to cut back on marketing and ads. This means fewer dollars flowing to companies like Google. In the fourth quarter of 2022, Google's search segment (where they advertise) didn't grow at all -- in fact, its revenue shrank by 3% compared to Q4 2021. 
+Alphabet also owns YouTube, the world's largest video streaming platform, which relies on advertising income too. Its revenue shrank in both the third and fourth quarters, highlighting businesses' declining marketing budgets. YouTube has faced other headwinds. For example, its users are migrating to its short-form video iteration called Shorts, which monetizes at a lower rate than long-form videos. But that platform will be key in the future because it's designed to compete with ByteDance's TikTok, and as it achieves scale over time, it should become a driver of revenue growth rather than a detractor.
+Google continues to hold a 93% market share in the search industry, despite facing a rare threat from Microsoft's Bing search engine, which recently integrated with OpenAI's ChatGPT. Google's dominance means it stands to be one of the biggest winners when the economy recovers and advertising dollars come flooding back into the industry.
+Alphabet stock remains down 37% from its all-time high, and based on its $4.56 in earnings per share last year, it trades at a price-to-earnings (P/E) ratio of 20.5. Not only is that near the cheapest levels since 2014, but it's also 18% cheaper than the Nasdaq-100 index's 25.1 P/E. That sounds like a great buying opportunity with the inflation headwind easing off. 
+Datadog (NASDAQ: DDOG) has developed an analytics platform designed for companies operating in the cloud. Having an online presence means a business can access more customers without investing in additional physical stores, and it also allows them to reduce friction in their day-to-day processes. But managing all that digital infrastructure can be a challenge.
+That's why Datadog is so important. Its platform can automatically alert businesses to bugs or technical issues with their online channels before they have a material effect on the customer experience. Sometimes, a website or mobile application will encounter problems for a very specific subset of users, and it won't be apparent to the business until complaints are made or revenue is lost. But Datadog is constantly monitoring for those very scenarios.
+The company was an outlier in 2022. Amid all the economic turmoil, and despite the technology sector being decimated, Datadog raised its full-year revenue guidance three times -- and then it still blew away the revised estimates when its final results came in. The company generated $1.68 billion in revenue for the year, up a whopping 63% compared to 2021. 
+Datadog also saw 47% growth in the number of customers spending at least $1 million per year, which emphasizes the growing need for its platform among larger organizations with more complex cloud infrastructure. 
+Here's the obvious question: If Datadog grew that quickly in a deteriorating economic environment throughout 2022, how fast could it grow in 2023 with inflation falling and conditions improving? Investors might be about to find out, and given that Datadog stock is still down 66% from its all-time high amid the broader tech sell-off, this might be a great time to be a buyer.
+10 stocks we like better than AlphabetWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Alphabet wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of March 8, 2023
+ 
+Suzanne Frey, an executive at Alphabet, is a member of The Motley Fool's board of directors. Anthony Di Pizio has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Alphabet, Datadog, and Microsoft. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

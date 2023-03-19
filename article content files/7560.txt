@@ -1,0 +1,62 @@
+March 02, 2023 — 05:08 am EST
+
+      Written by
+                        Danny Vena for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+After losing half its value last year, Nvidia (NASDAQ: NVDA) has been on fire so far in 2023, with shares up roughly 62%. While that's impressive in its own right, it pales in comparison to the stock's long-term performance. In fact, since its debut in 1999, Nvidia has gained nearly 2,900% -- even after the recent market plunge.
+This leaves investors with a quandary. Given the stock's significant gains over the past two decades, potential investors might wonder if they've already missed their best chance to own Nvidia. Let's look at the available evidence to see if the stock is still a buy.
+Image source: Getty Images.
+The economic headwinds over the past year obscure a compelling opportunity for Nvidia. The narrative has changed from its broader prospects, instead focusing on the near-term challenges resulting from the downturn. Nvidia historically generated the lion's share of its revenue from the high-end graphics processing units (GPUs) used by gamers, but with the uncertain economy, many have chosen to make do with their existing processors.
+Nvidia's recent results seem to support that view. In its fiscal 2023 fourth quarter (which ended Jan. 29), revenue of $6.05 billion fell 21% year over year, while adjusted earnings per share (EPS) of $0.88 declined 33%. 
+Furthermore, given the pullback in business spending, demand for semiconductors used for cloud computing, artificial intelligence (AI), and data centers could falter. However, investors too focused on the present may miss the forest for the trees.
+While past performance is no guarantee of future results, it does help provide context.
+As recently as its 2023 fiscal first quarter (which ended May 1, 2022), Nvidia was setting new growth benchmarks. The company reported record quarterly revenue of $8.29 billion, up 46% year over year, while adjusted EPS of $1.36 grew 49%. 
+Those results came in the wake of its record-setting fiscal 2022, as sales of $26.9 billion grew 61%, generating record EPS of $3.85, which surged 123%. 
+The totality of the situation suggests that Nvidia is a victim of circumstance, with its results held back by the prevailing macroeconomic headwinds.
+Yet despite the challenges, Nvidia is still the undisputed leader in the discrete desktop GPU market, with a dominant 82% share in the fourth quarter of 2022 -- even as total GPU shipments declined 38%. This shows that when the recovery begins, as it no doubt will, Nvidia's rebound should be swift, fueled by pent-up demand for its state-of-the-art processors. 
+Management commentary that accompanied its fourth-quarter results went so far as to suggest that the worst has passed.
+"Gaming is recovering from the post-pandemic downturn, with gamers enthusiastically embracing the new Ada architecture GPUs with AI neural rendering," CEO Jensen Huang said.
+Yet while gaming has historically been Nvidia's bread and butter, sales in the data center segment became the major breadwinner over the past year. 
+Huang noted the importance of the segment and pointed to an important growth driver in his remarks.
+"AI is at an inflection point, setting up for broad adoption reaching into every industry," he said. "From start-ups to major enterprises, we are seeing accelerated interest in the versatility and capabilities of generative AI."
+The excitement surrounding chatbots -- underpinned by generative AI -- has reached a fever pitch in recent months. Microsoft turned heads with a $10 billion investment in ChatGPT and its creator, OpenAI. Not to be left out of the conversation, Alphabet quickly debuted its conversational chatbot, Bard. This all benefits Nvidia, as its GPUs are instrumental in powering AI technology.
+Furthermore, the vast majority of AI takes place in the cloud, as roughly 70% of companies derive their AI capabilities via cloud-based software, according to a study done by Deloitte. Nvidia is the processor of choice for all the major cloud providers. Amazon Web Services (AWS), Google Cloud, and Microsoft Azure all depend on Nvidia's GPUs and accelerators, as do Baidu Cloud, Alibaba Cloud, and Tencent Cloud. 
+With multiple secular tailwinds, including gaming, cloud computing, and artificial intelligence, driving its growth, it's clear Nvidia has a bright future.
+With all that going for it, some investors might still balk at buying Nvidia, as it's never been cheap in terms of traditional valuation measures. The stock is currently selling for 16 times next year's expected sales, when most experts agree a reasonable price-to-sales ratio is between 1 and 2.
+That said, given the company's decades-long history of strong growth and gale-force secular tailwinds, I would argue that Nvidia stock is worth every penny.
+Find out why Nvidia is one of the 10 best stocks to buy now
+Our award-winning analyst team has spent more than a decade beating the market. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed their ten top stock picks for investors to buy right now. Nvidia is on the list -- but there are nine others you may be overlooking.
+Click here to get access to the full list!
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Suzanne Frey, an executive at Alphabet, is a member of The Motley Fool's board of directors. John Mackey, former CEO of Whole Foods Market, an Amazon subsidiary, is a member of The Motley Fool's board of directors. Danny Vena has positions in Alphabet, Amazon.com, Baidu, Microsoft, Nvidia, and Tencent. The Motley Fool has positions in and recommends Alphabet, Amazon.com, Baidu, Microsoft, Nvidia, and Tencent. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

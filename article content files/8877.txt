@@ -1,0 +1,60 @@
+February 27, 2023 — 02:28 pm EST
+
+      Written by
+                        Keith Noonan and Parkev Tatevosian for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Demand for high-performance semiconductors has never been higher. But even the world's leading semiconductor companies have seen dramatic valuation pullbacks in the face of macroeconomic pressures. Leading processor player Advanced Micro Devices (NASDAQ: AMD) has seen its stock fall roughly 52.5% from its peak level. Meanwhile, semiconductor fabrication leader Taiwan Semiconductor Manufacturing Company (NYSE: TSM) is trading down roughly 38% from its high.
+Which of these top semiconductor stocks looks like the better buy on the heels of recent sell-offs? Read on to see why two Motley Fool contributors have differing takes on which company looks like the better investment at today's prices. 
+Image source: Getty Images.
+Parkev Tatevosian: Advanced Micro Devices is admittedly facing difficult near-term prospects as pandemic-driven demand has faded. As a result of the pandemic, folks suddenly needed to learn, work, and entertain themselves more at home. That increased demand for AMD's CPUs and GPUs since they are inputs to desktop and laptop computers.
+However, once people buy a computer, they typically don't upgrade it for several years. The boom during the early part of the pandemic brought forward sales for AMD, but there's been a deceleration in growth in late 2022 and into 2023. 
+That said, AMD has excellent prospects in the long run. Folks will be demanding more processing power from their electronics, which AMD has proven it can deliver. Further, if you look beyond the volatility in recent years, AMD has grown revenue at a compounded annual rate of 15.8% in the last decade. 
+That growth helped boost AMD's operating income from $85 million to $1.26 billion in that same time frame. The company's sales and profits will be constrained over the next several quarters given the demand picture, but that's arguably already priced into its valuation. AMD stock trades at a forward price-to-earnings ratio of 25.68, near the lowest it has traded for in several years.
+
+AMD PE Ratio (Forward) data by YCharts
+Keith Noonan: TSMC stands as the world's leading provider of contract fabrication services. By some accounts, the company accounts for roughly 55% of overall contract chip production and over 90% of foundry services for high-performance chips. While there are typically multiple companies vying for leadership in most corners of the semiconductor market, the fab space has one clear leader -- and that's TSMC.  
+TSMC stock has seen pullbacks in conjunction with investors becoming more cautious about growth stocks and generally more risk-averse in the face of continued economic turbulence, but I think there's a very good chance the stock will bounce back and go on to reach new highs. 
+With the stock trading at roughly 15 times expected earnings, TSMC looks attractively valued for long-term investors. 
+
+TSM PE Ratio (Forward) data by YCharts
+It's worth keeping in mind that the chip industry has historically been prone to cyclical trends, but these seem to be smoothing out thanks to the fact that semiconductors are powering most key technology trends.
+In the recently reported fourth quarter, TSMC managed to grow revenue 26.7% year over year to reach nearly $20 billion, and the business posted a gross profit margin of 62.2%, an operating margin of 52%, and a net profit margin of 47.3% on strong demand for new-generation chip nodes. And despite the macroeconomic challenges at hand, it looks like the company is on track to deliver midteens revenue growth this year. The company grew sales 16.2% year over year in January.
+From 2021 through 2026, TSMC expects to grow revenue at a compound annual growth rate between 15% and 20% and to post a gross margin of 53% and a return on equity above 25%. The company's leading position in the fab space is allowing it to post strong margins and efficiently generate profits, and that should continue.
+Ultimately, I think that TSMC's dominant position in the fab space gives it a lower risk profile compared to AMD while still also offering plenty of potential for long-term capital appreciation. That's not to say that I think that AMD stock looks like a bad buy. Far from it. But I believe the fabrication leader's risk-reward profile is more appealing in the current market climate.
+Investors seeking a dedicated play in the processor space will almost certainly find a lot more to like about AMD. On the other hand, those seeking a pick-and-shovel play to benefit from the growth of the overall chip industry would be better off putting their money behind TSMC. 
+For investors seeking broad exposure to the semiconductor industry, buying both AMD and TSMC stock could be the best move.
+10 stocks we like better than Advanced Micro DevicesWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Advanced Micro Devices wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Keith Noonan has no position in any of the stocks mentioned. Parkev Tatevosian, CFA has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Advanced Micro Devices and Taiwan Semiconductor Manufacturing. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

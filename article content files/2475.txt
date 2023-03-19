@@ -1,0 +1,64 @@
+March 13, 2023 — 03:08 pm EDT
+
+      Written by
+                        Thomas Yeung for                             
+        
+
+
+
+
+InvestorPlace ->
+
+
+InvestorPlace - Stock Market News, Stock Advice & Trading Tips
+If you wanted to build a profitable bank, how would you do it?
+The founders of SoFi (NASDAQ:SOFI) certainly had the right idea. Instead of lending to businesses (which tend to chase after the lowest-possible interest rates), why not loan cash to rich kids instead? Or at least the kids you think will become rich in the future.
+It’s a business that has worked. Mostly, anyway. In January, the company reported that its net interest margin had expanded to 5.94% after seeing deposits rise 46% in the quarter. And though SoFi still loses money every quarter because of its significant marketing expenses, analysts believe the bank could generate as much as $260 million in profits by 2025.
+But there’s a problem:
+What happens if these depositors want their money back? And all at once?
+
+
+This thorny issue has sunk not one… but three different banks already. On March 8, Silvergate Capital (NYSE:SI) announced it was ceasing operations. Two days later, SVB Bank (NASDAQ:SIVB) would do the same. Signature Bank (NASDAQ:SBNY) followed suit over the weekend.
+The problem, of course, is that banks often have a mismatch between deposits and liabilities. The money left by bank depositors can be called back on demand. It’s as simple as walking up to the teller and asking for your money back. Meanwhile, the liabilities (i.e. mortgages, commercial notes, bonds) are often less liquid and can require time to sell off. In finance, it’s called a maturity mismatch — which might also describe a lot of failed first dates. Even highly profitable banks can find themselves insolvent if every depositor asks for their money back simultaneously.
+Now, we might wonder why a company like Silvergate didn’t just leave its deposits in liquid treasuries or money market accounts. 3-month treasuries alone yield almost 5% today, so a bank that “borrows” from customer deposits at 0% could technically receive 5% net interest on every dollar it draws in.
+But banks aren’t always given a choice. Risk-free yields in 2020 were near-zero, and any firm looking to cover overheads would have needed to buy into mortgages and other illiquid loans. (There’s also a profit motive that incentivizes risk-taking). These assets can then annoyingly remain on a bank’s balance sheet for decades.
+SoFi, too, has plenty of these illiquid liabilities. As of Dec. 31, 2022, the online bank had $8.5 billion in personal loans, $4.8 billion in student loans, and $77 million of home loans on its balance sheet. 84% of SoFi’s personal loan book matures between 1 to 5 years, while 84% of student loans mature after 5 years.
+From this standpoint, SoFi is even riskier than the average bank. Most diversified financial institutions focus on treasuries and government-guaranteed mortgages that can be bought and sold to other banks. Meanwhile, SoFi’s loan book has virtually no ready market.
+But the online bank has an ace up its sleeve:
+SoFi funds these riskier loans with “safer” deposits (i.e., retail banking deposits).
+It’s a trick that other lenders use to lower their overall risk. Banks know retail deposits are stickier than business accounts, so many will spend enormous amounts to entice these depositors. Some, like Bank of America (NYSE:BAC), do it by building a comprehensive branch network. Others like Discover (NYSE:DFS) and SoFi cross-sell financial products to gain a toe-hold. The end goal is all the same:
+“Sticky” deposits that cost virtually nothing to maintain.
+This is important because SoFi needs stable deposits. And it changes their risk profile entirely.
+
+Still, SoFi’s stock has tumbled over fears of contagion. Investors know the company’s assets are highly illiquid. And widespread panic among depositors could theoretically cause a bank run.
+SoFi is also relatively cagey about the details of its deposits. Its annual filings fail to report the number of accounts that exceed the $250,000 FDIC insurance limit or the nature of its depositors. In the past week, SoFi has lost almost 20% of its share value on these concerns.
+To be fair, most banks are similarly vague. Regulators had trouble disentangling the assets at Citigroup (NYSE:C) and AIG (NYSE:AIG) during the financial crisis, and even institutions like Wells Fargo (NYSE:WFC) routinely seem not to know who their customers are. Signature Bank’s CEO promoted his company as a “well-diversified, full-service commercial bank” as little as four days before regulators took over.
+SoFi, too, might see further decreases in its share price. Banks are notoriously opaque about their balance sheet strength, and investors have no trouble in punishing a bank stock if it seems on the edge.
+Still, SoFi’s declines will most likely prove temporary. Banks today are far better capitalized than in 2008, and the Federal Reserve is far more cautious about letting large financial institutions fail.
+SoFi’s unusual business model also puts it at far less risk of a bank run. It’s largely ignored the easy deposits from business banking, choosing the more challenging route of retail deposits. And the interest rate issues plaguing other regional banks aren’t as pronounced at SoFi. The startup’s reliance on shorter-term personal loans gives its assets a shorter duration than most.
+That means shares of SoFi likely retain their $10-$15 fair value, a 2x-3x upside. The company’s tangible book value is expected to grow around 9% in 2024 and 14% in 2025 as young depositors increase their savings, suggesting that a book value premium is in order. (I hesitate to give any higher valuation, however, since the return on equity is only expected to reach 3.2% by 2025).
+It won’t be a straight ride to the top, of course. Lower share prices generally make bank stocks less attractive so a collapse to $3 will change my views on SoFi’s stock.  But because SoFi’s risks are so different from those at Silicon Valley bank and others, it’s a risk that speculators should be willing to take.
+On the date of publication, Tom Yeung did not hold (either directly or indirectly) any positions in the securities mentioned in this article. The opinions expressed in this article are those of the writer, subject to the InvestorPlace.com Publishing Guidelines.
+Tom Yeung is a market analyst and portfolio manager of the Omnia Portfolio, the highest-tier subscription at InvestorPlace. He is the former editor of Tom Yeung’s Profit & Protection, a free e-letter about investing to profit in good times and protecting gains during the bad.
+The post SoFi Stock Alert: Buy the Dip on This Fintech Darling appeared first on InvestorPlace.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

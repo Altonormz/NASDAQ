@@ -1,0 +1,73 @@
+Asia-Pacific equity markets all finished the day ahead. Taiwan’s TAIEX closed near flat, up 0.06%, South Korea’s KOSPI advanced 0.17%, Australia’s ASX All Ordinaries rose 0.32%, and China’s Shanghai Composite and Hong Kong’s Hang Seng closed higher by 0.54% and 0.68%. Japan’s Nikkei gained 1.56% following yesterday’s U.S. market gains while Retail names had a strong day while India’s SENSEX rose 1.53% as Banking names rallied. By mid-day trading, European equity indices are up across the board, and U.S. futures point to a positive open as equities are looking to snap their recent week-over-week losing streak.
+As we move toward today’s market open, favorable February Service sector data so far this morning and softer inflation data out of the Eurozone are helping lift stocks. However, soon after stocks start trading, we will get February Service PMI data from S&P Global and the Institute for Supply Management. While both sets are expected to show that part of the economy growing nicely, taking a cue from Fed Chair Powell’s recent comments, the market will be watching closely for signs of inflation cooling. Should the findings confirm inflation in that part of the economy is stickier than previously expected, we could see a bearish mood take over the market.
+Even with that data in hand, how the market finishes out the week will likely hinge on what today’s parade of Fed heads has to say about inflation and next steps for monetary policy. Dallas Fed President Lorie Logan speaks at a workshop about market dysfunction in the morning. Fed board member Michelle Bowman hosts a panel at the same event in the afternoon. Atlanta Fed President Raphael Bostic is back again at midday, but only making opening remarks. Richmond Fed President Tom Barkin speaks at Stanford after the market’s close.
+We could very well be in for a volatile market session today as stocks pivot based on what the data tells us and then how those Fed heads shape how it’s interpreted.
+International Economy
+The final February reading for the au Jibun Bank Japan Services PMI was revised to 54.0 from the preliminary reading of 53.6, signaling solid expansion for that part of the economy.
+The February Caixin China General Services PMI climbed to 55.0, up from 52.9 in the previous month, depicting the fastest rate of expansion in activity since last August.
+The S&P Global Eurozone Services PMI was revised lower to 52.7 in February, down from the preliminary estimate of 53.0 and January's 50.8 figure. Despite the move lower, the data still pointed to the fastest rate of expansion in the service sector since last June. Producer prices in the Euro Area rose 15% YoY in January, easing sharply from December’s 24.5% increase, marking the lowest level of producer inflation since August 201. On a MoM basis, producer prices declined by 2.8%, far more than the forecasted 0.3% decline. The driver for that sequential drop was the 9.4% MoM fall in energy prices, which was mitigated by increases for other goods vs. December.
+The S&P Global/CIPS UK Services PMI was revised modestly higher to 53.5 in February from the initial reading of 53.3 and January’s 48.7 figure.
+Domestic Economy
+At 9:45 AM ET, S&P Global will publish its final February Service PMI and the market consensus sees it coming in at 50.5 vs. January’s 46.8. That will be quickly followed by ISM’s February Non-Manufacturing PMI at 10 AM ET, which is expected to fall to 54.5 from 55.2 the prior month.
+Markets
+Traders had some bounce in their step yesterday after Fed governor comments suggested that they may be considering the latest round of dour inflation data as “a blip” and not as an indication that their policies are having a hard time taking hold. The Russell 2000 advanced 0.22%, both the S&P 500 and the Nasdaq Composite gained over 0.70% while the Dow reversed its recent slump, gaining 1.05%. Sectors we all positive except for Consumer Discretionary (-0.33%) pulled down by Tesla’s (TSLA) 5.85% drop, and Financials (-0.48%) as banks saw some selling pressure. In individual names, Okta Inc (OKTA) leaped 13.26% on a strong reported quarter, upbeat guidance, and a number of target price increases from analysts.
+Here’s how the major market indicators stack up year-to-date:
+Before trading kicks off for U.S.-listed equities, after almost 700 earnings reports over the last four trading days, the only two companies expected to report their quarterly results before equity markets open today that are likely to influence events are Hibbett (HIBB) and Ranpack (PACK).
+Shares of EV charging company ChargePoint (CHPT) are under pressure following January quarter revenue coming up short relative to expectations despite rising ~93% YoY. Adding to the pressure, the company issued downside revenue guidance for the current quarter of $122-$132 million vs. the $156.8 million consensus.
+Despite delivering a January quarter beat and issuing upside guidance, shares of Zscaler (ZS) traded off in after-market trading last night. For its January quarter, the company delivered EPS of $0.37 vs. the $0.29 consensus as revenue soared 51.7% YoY to $387.6 million nicely topping the $364.78 million consensus. For the current April quarter, Zscaler sees revenue of $396-$398 million vs. the $387.4 million consensus with EPS of $0.39 also ahead of the $0.31 consensus.
+Semiconductor company Marvell (MRVL) also reported mixed results for its January quarter with revenue that edged out the consensus forecast, but its bottom line results of $0.46 per share fell shy of expectations by $0.01. For the current quarter, Marvell issued downside guidance for both revenue and EPS as it contends with a combination of inventory corrections and product mix changes. The company expects these headwinds to subside later in the year.
+February quarter results from Costco (COST) were mixed with better than expected EPS of $3.30, but its top line of $55.27 billion fell short of the $55.61 consensus forecast. Comparable sales for the quarter (excluding the impacts from changes in gasoline prices and foreign exchange) came in at 6.8% while its e-commerce comps of -8.7%.
+IPOs
+The near-term IPO calendar is relatively light, so no significant IPOs slated to price this week. Readers looking to dig more into the upcoming IPO calendar should visit Nasdaq’s Latest & Upcoming IPOs page.
+After Today’s Market Close
+Once again friends we have made it to the end of the week, and we have no companies slated to report their quarterly results after equities markets close for the day and the week. Those looking for more on which companies are reporting when, head on over to Nasdaq’s Earnings Calendar.
+Monday, March 6
+Tuesday, March 7
+Wednesday, March 8
+Thursday, March 9
+Friday, March 10
+“Just the discipline of having to put your thoughts in order with somebody else is a very useful thing.” ~ Charlie Munger
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+Christopher (Chris) Versace is the Chief Investment Officer and thematic strategist at Tematica Research. The proprietary thematic investing framework that he’s developed over the last decade leverages changing economic, demographic, psychographic and technology landscapes to identify pronounced, multi-year structural changes. This framework sits at the heart of Tematica’s investment themes and indices and builds on his more than 25 years analyzing industries, companies and their business models as well as financial statements. Versace is the co-author of “Cocktail Investing: Distilling Everyday Noise into Clear Investing Signals” and hosts the Thematic Signals podcast. He is also an Assistant Professor at NJCU School of Business, where he developed the NJCU New Jersey 50 Index.
+Mark Abssy is Head of Indexing at Tematica Research focused on index and Exchange Traded Product development. He has product development and management experience with Indexes, ETFs, ETNs, Mutual Funds and listed derivatives. In his 25 year career he has held product development and management positions at NYSE|ICE, ISE ETF Ventures, Morgan Stanley, Fidelity Investments and Loomis Sayles.  He received a BSBA from Northeastern University with a focus in Finance and International Business.
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+Type a symbol or company name. When the symbol you want to add appears, add it to My Quotes by selecting it and pressing Enter/Return.
+Copy and paste multiple symbols separated by spaces.
+                
+These symbols will be available throughout the site during your session.
+
+
+
+Type a symbol or company name. When the symbol you want to add appears, add it to My Quotes by selecting it and pressing Enter/Return.
+Copy and paste multiple symbols separated by spaces.
+                
+These symbols will be available throughout the site during your session.
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+Type a symbol or company name. When the symbol you want to add appears, add it to Watchlist by selecting it and pressing Enter/Return.
+Copy and paste multiple symbols separated by spaces.
+                
+These symbols will be available throughout the site during your session.
+
+
+
+Type a symbol or company name. When the symbol you want to add appears, add it to Watchlist by selecting it and pressing Enter/Return.
+Copy and paste multiple symbols separated by spaces.
+                
+These symbols will be available throughout the site during your session.
+
+These symbols will be available throughout the site during your session.

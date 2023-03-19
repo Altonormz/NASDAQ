@@ -1,0 +1,77 @@
+March 17, 2023 — 11:18 am EDT
+
+      Written by
+                        Vaishali Doshi for                             
+        
+
+
+
+
+Zacks ->
+
+
+Industry Description
+The Zacks Computer-Storage Devices industry houses companies that design, develop, manufacture and market various hard disk drives (HDDs) and solid-state drives (SSDs). These drives are utilized in PCs, laptops, mobiles, servers, network-attached storage (NAS) devices, video game consoles, digital video recorders and other consumer electronic devices. A few industry participants, including Pure Storage, provide software-defined all-flash solutions that are uniquely fast and cloud-capable for customers. Many industry players offer high-performance modular memory subsystems, mount and blade server systems, enterprise storage and data management software and hardware products and services. Some industry participants also provide purpose-built servers for storing and accessing data over a shared network or the Internet.
+4 Trends Shaping the Computer - Storage Industry's Future
+New Normal Trends & Rapid Implementation of 5G Opening New Business Avenues: The adoption of a hybrid work model has triggered demand for data-intensive applications like video conferencing and cloud services. Effective storage is essential for harnessing data and is expected to raise demand for high-storage capable SSDs and internal memory in advanced smartphones. Accelerated deployment of 5G and rebound in the smartphone market will likely propel the industry to newer heights. Extensive implementation of cloud computing solutions, increased Internet usage and rapidly-growing media and regulatory compliance, driven by coronavirus-led work-from-home setup, have led to a data explosion for enterprises.
+Innovation in Cloud Storage Technologies to Drive Adoption: Extensive storage options from collocated hardware (such as hard disks and tape drives) to many cloud storage solutions have put the industry on a growth trajectory. The industry players are well poised for growth on the back of a rapid increase in the amount of data, the complexity of data formats and the need to scale resources at regular intervals. The companies rely on Artificial Intelligence for IT Operations (AIOps) and machine learning (ML) to manage and optimize storage solutions. To streamline data storage, companies are relying on virtualization technologies. As more data is amassed from IoT, companies are turning to edge computing architecture to reduce latency and boost flexibility. Kubernetes storage is becoming increasingly popular as it facilitates greater agility and scalability. This has bolstered the deployment of high-capacity mass storage products, which is a positive for industry players.
+Macro Headwinds Likely to Prove a Drag on IT Spending: Per a Gartner report, worldwide IT spending is expected to increase 2.4% in 2023 compared with 2022 levels and reach around $4.5 billion. The research firm’s earlier forecast stood at growth of 5.1%. The geopolitical disruptions, inflationary pressures and protracted supply chain troubles are a major concern. Consumers are deferring spending on the purchase of devices, which is likely to affect the IT spending growth in 2023. However, the report added that despite headwinds, enterprises are increasing spending on digital business initiatives, which bodes well for industry participants.
+Slowing Momentum in PC Shipments Might Hinder Growth Prospects: Worldwide PC shipments dropped 28.5% to 65.3 million units in the fourth quarter of 2022, according to the data compiled by Gartner. The latest Gartner report depicts the end of the massive spike in PC demand due to the pandemic-led work-from-home and online learning wave. In the fourth quarter, sales were affected by the anticipation of a global recession, inflation and higher interest rates. This has led to careful IT spending by business organizations. A slowing PC market does not augur well for the industry participants.
+Zacks Industry Rank Indicates Dim Prospects
+The Zacks Computer Storage is housed within the broader Zacks Computer And Technology Sector. It carries a Zacks Industry Rank #194, which places it in the bottom 22% of more than 249 Zacks industries.The group’s Zacks Industry Rank, which is the average of the Zacks Rank of all the member stocks, indicates dim near-term prospects. Our research shows that the top 50% of the Zacks-ranked industries outperform the bottom 50% by a factor of more than 2 to 1.Before we present a few stocks you may want to consider for your portfolio, considering bright prospects, let us look at the industry’s recent stock-market performance and valuation picture.
+Industry Lags S&P 500 and Sector
+The Zacks Computer-Storage Devices industry lags both the Zacks S&P 500 composite index and the broader sector in the past year.The industry has lost 26.3% over this period compared with the S&P 500’s decline of 12.5%. The broader sector has declined 15.6% in the same time frame.
+One-Year Price Performance
+
+Industry's Current Valuation
+On the basis of forward 12-month P/E (or Price/Earnings), which is a commonly used multiple for valuing computer storage devices companies, we see that the industry is currently trading at 25.22X compared with the S&P 500’s 17.77X. It is also above the sector’s forward-12-month P/E of 22.38X.In the past five years, the industry has traded as high as 30.63X and as low as 10.28X, with the median being 15.27X, as the charts below indicate.
+Forward 12-Month Price-to-Earnings (P/E) Ratio
+
+Forward 12-Month P/E Ratio
+ 
+3 Computer-Storage Devices Stocks to Add to Watchlist
+NetApp: NetApp’s performance is benefiting continued strength in the Public Cloud segment. The company is well-positioned to gain from data-driven digital and cloud transformations. Frequent product launches and secular trends in Artificial Intelligence (AI) and high-performance computing bode well.The company is likely to benefit from new product launches like BlueXP. Strategic collaborations with VMware and Amazon Web Services bode well in the long term. However, the weakening IT spending environment, especially cloud cost optimization and the shift from high-performance all-flash arrays to low-cost solutions amid a lower spending environment are likely to remain as headwinds, at least in the near term.NetApp carries a Zacks Rank #3 (Hold).  You can see the complete list of today’s Zacks #1 (Strong Buy) Rank stocks here.   The Zacks Consensus Estimate for fiscal 2023 earnings for the company has remained unchanged at $5.41 per share in the past 30 days. Its long-term earnings growth rate is pegged at 8.8%.
+Price and Consensus: NTAP
+
+Pure Storage: Pure Storage’s performance is driven by continued momentum in product and subscription services’ revenues. In the last reported quarter, the quarterly revenues jumped 14% to $810.2 million. Subscription revenues is gaining from robust adoption of Evergreen subscription services. Frequent product launches and increasing customer base are major tailwinds.Also, the share repurchase program is noteworthy. For fiscal 2023, PSTG returned $219 million to shareholders by repurchasing 7.8 million shares. The company authorized an incremental $250 million share-repurchase plan.Going ahead, the slowdown in customers’ purchasing expectations owing to rising concerns about tightening monetary actions by the Federal Reserve System are headwinds.Pure Storage carries a Zacks Rank #3. The Zacks Consensus Estimate for fiscal 2024 earnings for the company improved 3.1% to $1.32 per share in the past 30 days. Its long-term earnings growth rate is pegged at 9.2%.
+Price and Consensus: PSTG
+
+Teradata: Teradata Corporation is a leading provider of hybrid cloud analytics software. It has evolved from an enterprise database company to an enterprise analytics platform provider. The company was spun off from NCR Corporation in August 2007.Teradata’s performance is buoyed by solid growth in public cloud annual recurring revenues. Increasing cloud deals and strong momentum in the Americas, Europe, the Middle East & Africa and the Asia Pacific and Japan regions is driving cloud recurring revenues. Cost improvements in subscription and cloud business remain positive. The company is gaining momentum among customers on the back of its analytics platform Vantage on-prem, which remains a tailwind. However, declining recurring, perpetual and consulting revenues affected the quarterly performance.Teradata carries a Zacks Rank #3. The Zacks Consensus Estimate for 2023 earnings for the company improved 6.5% to $1.96 per share in the past 30 days. Its long-term earnings growth rate is pegged at 15.8%.
+Price and Consensus: TDC
+ 
+
+
+Zacks Names "Single Best Pick to Double" 
+
+	From thousands of stocks, 5 Zacks experts each have chosen their favorite to skyrocket +100% or more in months to come. From those 5, Director of Research Sheraz Mian hand-picks one to have the most explosive upside of all.
+
+	It’s a little-known chemical company that’s up 65% over last year, yet still dirt cheap. With unrelenting demand, soaring 2022 earnings estimates, and $1.5 billion for repurchasing shares, retail investors could jump in at any time.
+
+	This company could rival or surpass other recent Zacks’ Stocks Set to Double like Boston Beer Company which shot up +143.0% in little more than 9 months and NVIDIA which boomed +175.9% in one year.
+Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report
+NetApp, Inc. (NTAP) : Free Stock Analysis Report
+Teradata Corporation (TDC) : Free Stock Analysis Report
+Pure Storage, Inc. (PSTG) : Free Stock Analysis Report
+To read this article on Zacks.com click here.
+Zacks Investment Research
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

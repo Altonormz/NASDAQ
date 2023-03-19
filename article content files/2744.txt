@@ -1,0 +1,51 @@
+March 13, 2023 — 11:18 am EDT
+
+      Written by
+                        Trevor Jennewine for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Many growth stocks are trading down sharply over the last 18 months. High inflation and outsized interest rates already precipitated an economic slowdown, and some investors sold growth stocks to hedge against a possible recession. As a result, PayPal (NASDAQ: PYPL) and Zscaler (NASDAQ: ZS) saw their share prices plunge 74% and 71% from all-time highs, respectively, and both stocks currently trade near 52-week lows.
+Wall Street apparently sees that as a buying opportunity. The consensus among analysts is that PayPal and Zscaler stocks will both outperform the broader market over the next 12 to 18 months. In fact, PayPal has a median price target of $97 per share, which implies a 32% upside from its current share price. And Zscaler has a median price target of $150 per share, which implies 42% upside from its current share price.
+Is it time to buy these two growth stocks trading near 52-week lows?
+PayPal stumbled early last year. Economic uncertainty prompted management to cut full-year guidance and withdraw the medium-term financial targets outlined at its 2021 investor day. But management also took steps to reduce costs and refocus investments on three key areas: PayPal checkout, Braintree checkout, and the PayPal and Venmo digital wallets. Those efforts paid off throughout 2022, and they have positioned the company for an even better 2023.
+PayPal continued to gain market share last year. Revenue increased 8% to $27.5 billion, outpacing the 7% growth in global retail sales. Additionally, investors should be pleased with the progress management made on cost control. PayPal cut more than $900 million in expenses in 2022, causing its non-GAAP earnings growth rate to rebound from negative 28% in the first quarter to positive 11% in the fourth quarter. Better yet, management expects to cut an additional $1.9 billion in expenses this year, which should boost the non-GAAP earnings growth rate to 18% in 2023.
+Of course, economic headwinds like high inflation and unfavorable foreign exchange rates will undoubtedly weigh on revenue in the coming quarters, but the long-term investment thesis is rock solid: PayPal operates one of the largest payment networks, with 435 million active accounts. It is the most accepted digital wallet in North America and Europe, and the leader in online payment processing, with about 42% market share, according to Statista. In short, PayPal is perfectly positioned to benefit as digital payments become more popular.
+With that in mind, the number of digital wallet users will increase at 11% annually through 2026, according to Juniper Research, and digital payment volume is forecast to grow by nearly 12% annually through 2027. For that reason, investors can reasonably expect double-digit percentage revenue growth from PayPal for many years. And with shares trading at 3.1 times sales, a discount to the three-year average of 8.9 times sales, now is a good time to buy this growth stock. But PayPal is best viewed as a long-term investment. There is no guarantee the stock will outperform the market in the coming year, even if Wall Street analysts believe otherwise.
+Zscaler provides solutions for network security and workload protection. Its security service edge (SSE) platform inspects internet traffic and enforces zero-trust policies in the cloud rather than corporate data centers. That allows businesses to rid themselves of costly on-premises appliances like secure web gateways, while providing users (and workloads) with fast and secure access to the web, cloud services, and private applications.
+Zscaler's SSE handles 280 billion requests and records 300 trillion security signals on a daily basis, and every data point makes its machine learning (ML) engine better at detecting malicious behavior. That flywheel effect is particularly powerful because Zscaler operates the largest network security cloud in the world, meaning its ML engine is informed by more data than any other vendor. That advantage theoretically results in better threat protection. Indeed, consultancy Gartner has named Zscaler an industry leader for the last 11 years.
+Accolades from analysts are great, but Zscaler has also delivered strong financial results on a consistent basis. Revenue increased 52% to $388 million in the second quarter of fiscal 2023 (ended Jan. 31, 2023), and free cash flow climbed 114% to $63 million. As a caveat, management expects slower revenue growth of 38% in the current quarter due to lengthening sales cycles brought on by the challenging economy. But the company should have no problem reaccelerating revenue growth in the long run.
+Gartner estimates that 80% of enterprises will adopt SSE architecture by 2025, up from 20% in 2021, and Zscaler has long been an industry leader. Yet it has captured just 2% of its $72 billion addressable market, leaving plenty of untapped potential for patient shareholders. And with the stock trading at 11.1 times sales, a discount to the three-year average of 36.7 times sales, now is a good time to buy a small position.
+10 stocks we like better than PayPalWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and PayPal wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of March 8, 2023
+ 
+Trevor Jennewine has positions in PayPal and Zscaler. The Motley Fool has positions in and recommends PayPal and Zscaler. The Motley Fool recommends Gartner and recommends the following options: short April 2023 $70 puts on PayPal. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

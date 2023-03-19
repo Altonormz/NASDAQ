@@ -1,0 +1,67 @@
+As the new year begins, markets remain volatile, as concerns about persistently high inflation have been replaced by fears that central banks’ efforts to contain inflation might cause a recession. But as investors and advisors navigate this challenging environment, certain exchange-traded fund (ETF) strategies have excelled, especially ETFs tied to higher-quality fixed income assets. Even though last year was the worst bond market in decades, the global bond ETF industry had a banner year. Global industry-wide bond as of year-end 2022, per BlackRock Global Business Intelligence data. Given this momentum, the global bond ETF market is now poised to reach $2 trillion in assets under management (AUM) this year and $5 trillion in AUM by the end of the decade, according to estimates from iShares, which globally offers more than 1,250 ETFs managed by parent company BlackRock.
+Structured as a fund that invests in various fixed income securities or Treasuries, bond ETFs provide investors with a low-cost way to pursue income, diversify their portfolio and seek to mitigate risk. iShares, which launched the first bond ETFs in the U.S. in July 2002 (LQD, SHY, IEF, and TLT), noted in a recent report that bond ETFs have become fundamental to fixed income investing over the last two decades as they connect the fragmented fixed income markets with transparent and liquid on-exchange trading. With the increase in interest rates that has resulted from central bank monetary tightening efforts, investors are finding bond ETFs as an attractive alternative to traditional fixed income securities, as interest rate increases can lead to a drop in bond prices.
+“The future looks bright for the growth of bond ETFs because they help all types of investors take on the thorniest problems in fixed income. In fact, we think that the challenges associated with high inflation and rising interest rates will attract more first-time ETF investors and prompt existing investors to find new ways to use these versatile investment tools,” BlackRock President Rob Kapito and Global Head of ETF and Index Investments Salim Ramji stated in the report, titled “All Systems Go.”
+While it took the bond ETF industry 17 years to reach $1 trillion AUM, the road to $2 trillion will likely take far less time, with four powerful growth drivers that iShares believes will rapidly accelerate bond ETF adoption.
+In a traditional 60/40 portfolio made up of stocks and bonds, bond ETFs can be highly useful building blocks to help construct the “40” portion – the 40% of the portfolio that is allocated to bonds.
+“Adding or subtracting exposures through bond ETFs — for instance, modulating between high yield and government bonds — can help investors build evolved portfolios by calibrating objectives such as income, capital preservation, or equity risk diversification,” iShares noted in its report.
+Based upon conversations with investors, iShares has found that more investors are recognizing the benefits of blending bond ETFs with active strategies to better meet investment objectives and avoid unwanted risks.
+“We have observed an increasing number of wealth investors looking to diversify risk assets at the portfolio level with simple bond ‘barbell’ strategies consisting of broad, index bond ETFs and actively managed fixed income mutual funds that seek non-correlated returns,” according to iShares.
+Since the start of the global pandemic, institutional investors have become one of the fastest-growing adopters of bond ETFs due to their resilience, driven by the product’s transparency, access, liquidity and portfolio efficiency.
+Specifically, iShares found that active managers who historically built portfolios exclusively with individual bonds are now incorporating bond ETFs as tools for liquidity management, portfolio efficiency, and potential portfolio-level alpha generation.
+“While many managers have consistently used bond ETFs to rapidly dial up or down tactical risk exposures, some are beginning to realize that bond ETFs can also represent ‘betas’ (long-term, core market exposures) and ‘tilts’ (a persistent allocation to a specific return exposure, for example, high yield) that can replace a cumbersome number of individual bonds in portfolios,” iShares reported.
+Over the past two decades, bond ETFs have reshaped the structure of fixed income markets, helping to drive electronification, algorithmic bond pricing and portfolio-oriented trading. With the advances in electronic trading and algorithmic pricing of individual bonds, bond ETFs have helped improve transparency and liquidity in underlying bond markets. Looking ahead, iShares expects bond ETFs to play an even greater role in the way investors access fixed income markets.
+In more recent years, many of the newer bond ETFs are providing more precise fixed income exposures, empowering investors to build increasingly customized portfolios, hedge risks and capture opportunities. These bond ETFs break down asset classes into more granular exposures across various types of credit, sectors, durations, sustainability profiles and other risk factors.
+“The next generation of ETF innovation is just beginning,” according to iShares, which expects this next generation of more active bond ETFs to reach $1 trillion in AUM by 2030 — a significant increase from about $200 billion presently. “It will focus on combining sophisticated strategies such as sustainability, factors, and an ever-growing number of defined outcomes.”
+Given the current state of the markets, investors and advisors have an opportunity to add bond ETFs to seek to mitigate risk in their portfolios. iShares offers a number of bond ETFs that can help guard against rising interest rates and complement or replace existing fixed income holdings. For instance, the iShares 1-5 Year Investment Grade Corporate Bond ETF (IGSB), which invests in short-term U.S. investment grade corporate bonds, currently provides reduced duration relative to According to iShares, as of Jan. 31, 2023, IGSB had an effective duration of 2.61 years, compared to the iShares Broad USD Investment Grade Corporate Bond ETF (USIG), which had an effective duration of 7.01 years.
+Additionally, the iShares® iBonds® ETF suite offers investors and advisors a group of bond funds that hold a diversified portfolio of bonds with similar maturity dates, suitable for a conservative or aggressive strategy. The iBonds ETF suite covers several asset classes, including U.S. Treasuries, municipal bonds, and both investment grade and high-yield fixed income. Each ETF in this suite is designed to provide regular interest payments and distribute a final payout in its stated maturity year, similar to traditional bond laddering strategies. However, the funds’ unique structure is designed to help investors easily build bond ladders with only a handful of funds.
+“We believe that evolved portfolios will increasingly feature bond ETFs as essential elements for calibrating risks and opportunities while simultaneously increasing liquidity and lowering costs. What’s more, we believe that institutional investors will continue to increase adoption of this powerful technology, and bond ETF innovation will bring to market more precise tools for portfolio construction and risk management,” according to iShares.
+Carefully consider the iShares Funds' investment objectives, risk factors, and charges and expenses before investing. This and other information can be found in the Funds' prospectuses or, if available, the summary prospectuses which may be obtained by visiting www.iShares.com or www.blackrock.com. Read the prospectus carefully before investing.
+Investing involves risk, including possible loss of principal.
+Fixed income risks include interest-rate and credit risk. Typically, when interest rates rise, there is a corresponding decline in the value of debt securities. Credit risk refers to the possibility that the debt issuer will not be able to make principal and interest payments. Non-investment-grade debt securities (high-yield/junk bonds) may be subject to greater market fluctuations, risk of default or loss of income and principal than higher-rated securities. An investment in the Funds is not insured or guaranteed by the Federal Deposit Insurance Corporation or any other government agency and its return and yield will fluctuate with market conditions.
+Shares of ETFs trade at market price, which may be greater or less than net asset value. The iShares® iBonds® ETFs (“Funds”) will terminate within the month and year in each Fund’s name. An investment in the Fund(s) is not guaranteed, and an investor may experience losses and/or tax consequences, including near or at the termination date. In the final months of each Fund's operation, its portfolio will transition to cash and cash-like instruments. As a result, its yield will tend to move toward prevailing money market rates, and may be lower than the yields of the bonds previously held by the Fund and lower than prevailing yields in the bond market.
+Diversification and asset allocation may not protect against market risk or loss of principal. Transactions in shares of ETFs may result in brokerage commissions and may generate tax consequences. All regulated investment companies are obliged to distribute portfolio gains to shareholders. There can be no assurance that an active trading market for shares of an ETF will develop or be maintained.
+The strategies discussed are strictly for illustrative and educational purposes and are not a recommendation, offer or solicitation to buy or sell any securities or to adopt any investment strategy. There is no guarantee that any strategies discussed will be effective. The information presented does not take into consideration commissions, tax implications, or other transactions costs, which may significantly affect the economic consequences of a given strategy or investment decision.
+The iShares Funds are distributed by BlackRock Investments, LLC (together with its affiliates, “BlackRock”).
+© 2023 BlackRock, Inc. or its affiliates. All Rights Reserved. BLACKROCK and iSHARES are trademarks of BlackRock, Inc. or its affiliates. All other trademarks are those of their respective owners.
+Discover the latest exchange-traded funds (ETFs) listed on Nasdaq.
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+Type a symbol or company name. When the symbol you want to add appears, add it to My Quotes by selecting it and pressing Enter/Return.
+Copy and paste multiple symbols separated by spaces.
+                
+These symbols will be available throughout the site during your session.
+
+
+
+Type a symbol or company name. When the symbol you want to add appears, add it to My Quotes by selecting it and pressing Enter/Return.
+Copy and paste multiple symbols separated by spaces.
+                
+These symbols will be available throughout the site during your session.
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+Type a symbol or company name. When the symbol you want to add appears, add it to Watchlist by selecting it and pressing Enter/Return.
+Copy and paste multiple symbols separated by spaces.
+                
+These symbols will be available throughout the site during your session.
+
+
+
+Type a symbol or company name. When the symbol you want to add appears, add it to Watchlist by selecting it and pressing Enter/Return.
+Copy and paste multiple symbols separated by spaces.
+                
+These symbols will be available throughout the site during your session.
+
+These symbols will be available throughout the site during your session.

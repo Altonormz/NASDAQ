@@ -1,0 +1,61 @@
+February 28, 2023 — 06:15 am EST
+
+      Written by
+                        Keithen Drury for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+The internet is an old technology, but is rapidly changing without many consumers knowing about it. Instead of one company having servers at a particular location that houses networking equipment, many are hosting them on the cloud, where businesses like Cloudflare (NYSE: NET) take care of the hosting aspects.
+Cloudflare is one of the leaders in this space, but it is full of competitors. So let's break down the bull and bear cases and determine whether Cloudflare is a stock that is worth buying.
+When a single location hosts a website, it opens up many problems. First, that host could be overwhelmed by website access through heavy traffic or a distributed denial-of-service (DDoS) attack. Second, if someone is trying to navigate to the site from the other side of the world, they might experience slow speeds. Third, the power could go out at the host location, disrupting access to the website. While these are just some problems that occur by hosting a website yourself, Cloudflare can solve these issues.
+Cloudflare hosts websites in over 275 cities, meaning it isn't dependent on one location. Additionally, because these data centers are placed worldwide, 95% of the world's population is within 50 milliseconds of these locations, so users will experience unparalleled speeds no matter where they are. 
+From the cybersecurity aspect, it has protection against DDoS attacks, bot management, and firewall protection, among many more offerings. 
+Cloudflare has a robust product, but is the stock worth buying?
+Since its public debut, Cloudflare has consistently grown its revenue rapidly.
+
+NET Revenue (Quarterly YoY Growth) data by YCharts
+Although this metric is decelerating, a 42% increase in revenue is nothing to sneeze at. In 2023, management expects another strong year of growth, with revenue rising 36% to 38% over 2022's figure.
+Cloudflare is also capturing a key cohort of customers: those who spend more than $100,000 annually.
+Data source: Cloudflare. 
+It's unlikely that these massive customers will switch away from Cloudflare because they are deeply integrated into the product. Moreover, with 61% of its revenue coming from large customers, it has a strong foothold in many companies' IT strategies. 
+While Cloudflare isn't profitable, it is doing its best to get there. Operating expenses rose 34% compared to 42% revenue growth, so management is doing its job to control expenses. Furthermore, the company slowed its hiring pace far before anyone else did in 2022 because it saw concerning trends. This displays management's good judgment, a crucial part of any investment.
+The bull case for Cloudflare is that it still has a long way to go to capture its full market opportunity and is improving profitability along the way. But there are some caveats to this argument.
+Even the best companies bought at the wrong price can be terrible investments. With the stock trading at an expensive price-to-sales ratio, Cloudflare is teetering on that edge.
+
+NET PS Ratio data by YCharts
+Furthermore, Cloudflare has plenty of competition. Customers can get similar offerings from any major cloud provider: Alphabet's Google Cloud, Amazon Web Services, or Microsoft Azure. While Cloudflare would contend its solution is the best because it focuses solely on its niche, some of the largest customers may stick with their cloud computing provider to make IT management easier.
+These are some serious points investors must consider, but I still think the bull case outweighs the bear. If Cloudflare's solution weren't top-notch, it wouldn't be outpacing the big three in growth. While its valuation is expensive, Cloudflare's market opportunity and execution will always earn the stock a premium, so it may never look cheap. But, if the business continues to perform as it has, the shares should still do well.
+I think Cloudflare's stock has strong potential, and investors should consider adding it to their portfolios if they are willing to hold it for three to five years.
+10 stocks we like better than CloudflareWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Cloudflare wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Suzanne Frey, an executive at Alphabet, is a member of The Motley Fool's board of directors. John Mackey, former CEO of Whole Foods Market, an Amazon subsidiary, is a member of The Motley Fool's board of directors. Keithen Drury has positions in Alphabet, Amazon.com, and Cloudflare. The Motley Fool has positions in and recommends Alphabet, Amazon.com, Cloudflare, and Microsoft. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

@@ -1,0 +1,51 @@
+March 02, 2023 — 09:14 am EST
+
+      Written by
+                        Trevor Jennewine for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Many growth stocks fell sharply this past year as high inflation and rising interest rates dragged the Nasdaq Composite into a bear market. It's generally not a good thing when a stock takes a hit, but that drawdown did create a compelling buying opportunity where Datadog (NASDAQ: DDOG) is concerned, at least according to Wall Street. The stock is currently down 54% from its high, but 28 out of the 36 analysts who follow Datadog said they believe it will outperform the market over the next year.
+Is it time to buy this growth stock?
+Datadog offers observability and security software. Its platform provides real-time visibility across the corporate technology stack, aggregating data from every system and service to help businesses identify and resolve performance problems and security threats. Datadog provides over 600 integrations that make its software easy to deploy, and its platform leans on artificial intelligence (AI) to automate anomaly detection, root cause analysis, and incident alerts.
+The company received widespread praise from industry analysts. Datadog was recently recognized as a leader in application performance monitoring by Gartner, and it was recognized as a leader in AI for IT operations by Forrester Research. Datadog also achieved a strong market presence in other software verticals, including cloud infrastructure monitoring, log monitoring, and database monitoring.
+That success stems from its broad portfolio and its prodigious capacity for innovation. In 2018, Datadog became the first company to unify metrics, traces, and logs -- the "three pillars of observability" -- on a single platform. Since then, the company has branched into cloud security and several new categories of observability software, including developer experience and digital experience monitoring, and its pipeline is still packed with upcoming product releases.
+In a nutshell, the Datadog platform helps businesses keep their critical applications and infrastructure performing and secure while also eliminating the complexity created by disjointed single-point solutions. That value proposition will only become more relevant in the future, as digital transformation and cloud migration make the corporate IT environment more nebulous and complex. With that in mind, Datadog believes its total addressable market will grow at 11% annually to reach $62 billion by 2026.
+Datadog reported strong financial results last year. Its customer count climbed 23% to 23,200, and the average customer spent 30% more, indicating that more businesses are expanding usage and adopting multiple products. In turn, revenue increased 63% to $1.7 billion and non-GAAP earnings soared 104% to $0.98 per diluted share.
+However, management believes its financial performance will worsen materially in 2023. Guidance implies revenue and non-GAAP earnings will grow just 24% and 11%, respectively, this year. That could certainly lead to volatility in the stock price. But patient investors have no cause for alarm. Many businesses are scrutinizing spending decisions more closely in an effort to control costs against the backdrop of an uncertain economy, and Datadog is not immune to that headwind.
+Fortunately, economic turbulence is a temporary problem, and Datadog should have no problem regaining its momentum in a more favorable environment.
+Currently, shares trade at 14.7 times sales, a discount to the three-year average of 23.7 times sales, and a reasonable price to pay given Datadog's growth potential. Patient investors should indeed consider taking a small position in this growth stock right now.
+That said, there is no guarantee that Datadog will outperform the market over the next year, even if the consensus forecast on Wall Street implies otherwise. But I think investors who hold the stock for at least five years will be well rewarded.
+10 stocks we like better than DatadogWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Datadog wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Trevor Jennewine has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Datadog. The Motley Fool recommends Gartner. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

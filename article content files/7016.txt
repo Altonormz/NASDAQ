@@ -1,0 +1,51 @@
+March 02, 2023 — 03:09 pm EST
+
+      Written by
+                        Billy Duberstein for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Shares of semiconductor equipment maker Aehr Test Systems (NASDAQ: AEHR) were falling hard in Thursday trading, declining as much as 34.7% before recovering strongly to a still-unpleasant 11.7% decline as of 2:30 p.m. EST.
+Aehr Test makes burn-in equipment used in the production of silicon carbide (SiC) chips, a material that is projected to be a big growth area thanks to future usage of silicon carbide chips in electric vehicles (EVs).
+After posting solid fourth-quarter numbers and investors increasingly realizing that SiC will be a hot commodity in future years, Aehr's stock had appreciated a lot in 2023. However, at Tesla's (NASDAQ: TSLA) Investor Day last night, Tesla announced it had engineered a way to use far less SiC in future electric vehicle models in an effort to lower costs.
+In last night's presentation, Tesla said its new drivetrain platform will be able to run with 75% less silicon carbide. The presentation stated that since Tesla designs more of its processors and chip packages in-house versus other automakers, it will be able to lower the number of processors and therefore the amount of heat generated and moving by electrons through its chip system.
+Silicon carbide wafers are necessary for power electronics in autos because of their heat-resistant properties; however, the production of silicon carbide is expensive and hard to scale, according to the presentation. This is why Tesla touted its ability to use less of it in the future, which should lower Tesla's costs of production relative to competitors. 
+If true, then this would be a bit of a headwind to the silicon carbide-focused semiconductor stocks as well as equipment companies that help produce these types of chips, such as Aehr.
+As mentioned earlier, Aehr was up a lot this year and was trading at an expensive valuation prior to this announcement. In fact, even after today's drop, the stock is still up about 54% on the year and trades at a price-to-earnings (P/E) ratio of 65. 
+Image source: Getty Images.
+While today's drop was unpleasant, the reaction here may be overdone for some SiC-focused stocks. Silicon carbide will continue to grow and scale, and likely, SiC producers will find ways to lower costs. Moreover, not every electric vehicle maker will be able to design all of its components in-house and achieve the cost savings Tesla may achieve. Finally, this Tesla pitch was a presentation about its future designs, and some historical Tesla announcements haven't quite panned out as initially advertised, such as its initial self-driving timeline.
+On the other hand, should Tesla achieve this feat, lower costs could also lead Tesla to garner a lot more market share in the future EV market. But if that happens, it may also mean Tesla has accelerated EV adoption more broadly, which may actually be a benefit for SiC demand. 
+Therefore, while the announcement was a concern, investors may want to potentially look to buy dips in SiC-focused stocks if they fall further. While SiC may not grow quite as fast in the future if Tesla's engineering does what it says, SiC should still be a high-growth area, given the global electrification of vehicles, the power grid, power generation, and industrial manufacturing.
+10 stocks we like better than Aehr Test SystemsWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Aehr Test Systems wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Billy Duberstein has no position in any of the stocks mentioned. His clients may own shares of the companies mentioned. The Motley Fool has positions in and recommends Tesla. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

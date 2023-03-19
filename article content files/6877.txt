@@ -1,0 +1,58 @@
+March 03, 2023 — 05:00 am EST
+
+      Written by
+                        Jeremy Bowman for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Arguably, no big company is more associated with AI (artificial intelligence) these days than Microsoft (NASDAQ: MSFT).
+The Windows owner has made headlines after OpenAI, the start-up it has invested $10 billion in, launched ChatGPT three months ago, a generative AI chatbot that has taken the world by storm, signing up more than 100 million users in just a few weeks.
+While every big tech company is working on some form of AI technology, Microsoft seems to be the most aggressive at this point. It has already launched a new version of its Bing search engine that integrates ChatGPT technology into searches, improving responses and allowing for follow-up questions, and it has embedded the technology in other products like Windows, its Azure cloud-infrastructure service, and its Edge web browser.
+CEO Satya Nadella seems to relish the potential for AI to turn the tables in markets like search and has called AI the next major computing platform, enthusiastically talking up its potential at every turn over the last few months.
+The chart below helps explain why Microsoft is so eagerly plowing billions into artificial intelligence.
+Image source: Motley Fool.
+As you can see, Microsoft has a diverse array of revenue streams. In fact, it's the most diversified big tech company, drawing revenue from a wide range of products, including its cloud business led by Azure, its Office software suite, and Windows operating systems. However, the company also brings in significant revenue from businesses like gaming through Xbox, the LinkedIn professional social network, search and news revenue like Bing, enterprise computing services, and devices like Surface tablets.
+That wide range of revenue drivers gives the company a number of potential applications for AI and ChatGPT technology, and Azure gives it the computing power to run them. Additionally, the company has an embedded base of enterprise customers eager to use such tools.
+Behind Amazon Web Services (AWS), Microsoft Azure is the largest cloud-infrastructure business in the world, and Azure AI is purposefully built to run large AI models. 
+Microsoft explains that it uses a unique architecture design that combines the fastest graphics processing units, or GPUs, "to enable AI model training and inference at scale." 
+Nadella has called AI a new race in tech, and when discussing the potential in search, he said that gross margins in the industry would continue to come down, implying that it would be a contest of computing power, and whoever has the most efficient and scalable infrastructure will be well positioned.
+Microsoft customers can take advantage of AI tools in a broad array of applications. For example, companies can build machine-learning models using Azure Machine Learning, a suite of tools designed for end-to-end deep learning. 
+At Microsoft 365, its comprehensive productivity platform, Microsoft users can take advantage of AI tools that can improve writing and design, help visualize charts in Excel, and better manage your inbox.
+Windows is also empowered with AI and machine-learning tools, and the company just launched its AI-powered Bing search engine and Edge web browser, which has attracted the most attention of any of its new products.
+Microsoft isn't alone in pushing the frontier of AI. Meta Platforms just opened a new large language-model research tool called LLaMA, and Alphabet introduced Bard AI, its competitor to ChatGPT, just a day after Microsoft unveiled the new Bing.
+Apple is also working on various AI tools, though the iPhone maker tends to be more secretive than its big tech peers.
+These investments could unlock a wave of new revenue streams as AI tools add value to conventional online routines like search, but if you're looking for an AI stock to bet on here, Microsoft looks like a good choice.
+Its Azure cloud-infrastructure platform gives it a computing advantage, and it has a number of different ways to take advantage of new AI tools. Additionally, its partnership with OpenAI gives it a key advantage. While investors will be watching closely to see if the new Bing will gain market share, there are plenty of other ways for the company to leverage the power of AI.
+10 stocks we like better than MicrosoftWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Microsoft wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Suzanne Frey, an executive at Alphabet, is a member of The Motley Fool’s board of directors. John Mackey, former CEO of Whole Foods Market, an Amazon subsidiary, is a member of The Motley Fool’s board of directors. Randi Zuckerberg, a former director of market development and spokeswoman for Facebook and sister to Meta Platforms CEO Mark Zuckerberg, is a member of The Motley Fool's board of directors. Jeremy Bowman has positions in Amazon.com and Meta Platforms. The Motley Fool has positions in and recommends Alphabet, Amazon.com, Apple, Meta Platforms, and Microsoft. The Motley Fool recommends the following options: long March 2023 $120 calls on Apple and short March 2023 $130 calls on Apple. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

@@ -1,0 +1,61 @@
+March 05, 2023 — 07:30 am EST
+
+      Written by
+                        Travis Hoium for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Investors always need to think about the value of their investments, especially when interest rates are rising and growth is slowing in many markets. And given that backdrop, some high-profile stocks look like they're priced for perfection. 
+Given where their operations are right now, I think growth stocks Nvidia (NASDAQ: NVDA), Enphase Energy (NASDAQ: ENPH), and Tesla (NASDAQ: TSLA) are all getting a little too expensive. Here's a look at why. 
+There's no doubt that Nvidia is the dominant company in graphics cards today. But how much of its growth over the last three years was pandemic related and unsustainable?
+We know that Ethereum's transition from proof of work (calculations that were often done on Nvidia graphics cards) to proof of stake hurt demand, and the drop in gaming PC sales hasn't helped, either.
+In the fourth quarter of 2022, revenue plunged 21% to $6.05 billion and there was weakness across the board. Some of that business might never come back. 
+One positive sign is data-center revenue growth of 11% to $3.62 billion, and management thinks the growth of AI will fuel more growth. But the stock looks too expensive given the recent struggles.  There is also uncertainty about exactly what chips will be used in AI in the long term.
+
+NVDA Revenue (TTM) data by YCharts. TTM = trailing 12 months.
+You can see that Nvidia has an extremely high price-to-earnings multiple of 134 and an astronomical price-to-sales ratio of 22. That's expensive, but I think we just need to look at management's actions to know the stock is too expensive.
+Nvidia filed for a shelf registration of $10 billion this week, which would allow the company to sell a variety of stock and debt. The company doesn't need the cash for operations at the moment, so this could be management telling us the stock is so expensive that it will take advantage by selling some stock. 
+It's true that Enphase Energy has been a growth machine over the last five years, recovering from a point where it almost went bankrupt. The company is riding the increase in module-level power electronics, which are now mandated in many parts of the world, and relatively little competition. But will the growth last? 
+
+ENPH revenue (TTM) data by YCharts.
+Historically, hardware components in renewable energy systems have been commoditized, including solar panels and inverters. In time, I think the same will happen for Enphase's products.
+The company isn't doing anything proprietary, turning direct current into alternating current, and the price of the microinverter now exceeds the price of the solar panel by a wide margin. So, competition is likely to put pressure on the business. 
+Paying 77 times earnings and 13 times sales for a company that might be at the peak of its growth and profitability is a high risk. That's why I think the stock is too expensive. 
+In all likelihood, Tesla's peak profitability is behind us for the foreseeable future. The company generated a gross margin of 25.6% in 2022 while growing production to 1.3 million vehicles. But the company started discounting vehicles in December, and it cut prices by as much as 20% in January 2023, which will affect margins dramatically this year. 
+The problem for Tesla is that price reductions are coming as management says the cost of goods sold are increasing. It appears that the company is prioritizing increasing production growth -- planning internally to make 2 million vehicles this year -- over maintaining profitability. 
+Despite the likely decline in earnings in 2023, the stock trades for a whopping 57 times 2022 earnings, nearly 10 times the multiple of competitors. Investors are paying a big premium for a company that's discounting vehicles, which hasn't historically been a good time to buy an auto stock. 
+These are all great companies, but investors shouldn't pay any price for a great company. Value matters, and right now it doesn't look like there's much value in these three stocks. 
+Find out why Nvidia is one of the 10 best stocks to buy now
+Our award-winning analyst team has spent more than a decade beating the market. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed their ten top stock picks for investors to buy right now. Nvidia is on the list -- but there are nine others you may be overlooking.
+Click here to get access to the full list!
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Travis Hoium has positions in Ethereum and has the following options: long March 2023 $250 puts on Tesla. The Motley Fool has positions in and recommends Ethereum, Nvidia, and Tesla. The Motley Fool recommends Enphase Energy. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

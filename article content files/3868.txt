@@ -1,0 +1,55 @@
+March 10, 2023 — 09:01 am EST
+
+      Written by
+                        Adam Spatacco for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Whether we realize it or not, we interact with cybersecurity protocols nearly every day. Corporations are increasingly requiring multifactor authorization on company-issued devices in an effort to thwart potential hacks. Additionally, banks and other businesses in the financial arena now often text or email customers unique numerical codes each time they want to access their accounts that they must enter in addition to their passwords in order to do so. 
+The use cases for cybersecurity seem to only be growing. It's not surprising that companies of all sizes are pursuing these end markets. Although giants like Microsoft and Alphabet have made major investments in their cybersecurity offerings over the last few years, smaller companies like CrowdStrike and Zscaler (NASDAQ: ZS) in particular have gained noticeable momentum in the marketplace. 
+Early this month, Zscaler reported results for its fiscal 2023 second quarter. Let's dig in and analyze those results, as well as the overall health of the business, and see if Zscaler stock has entered oversold territory. 
+In its fiscal Q2, which ended Jan. 31, Zscaler's revenue increased by 52% year over year to $388 million. During theearnings call CEO Jay Chaudhry highlighted the company's dollar-based net retention rate, which was over 125%.
+Given that this metric is over 100%, Zscaler is far outselling any churn it experiences, and expanding use cases within its existing customer base. These expansions directly correlate to the company's robust top-line growth. Even more importantly, the increases in revenue have positively impacted the company's profitability profile. For the quarter, Zscaler's GAAP net loss was $57.5 million. By comparison, its net loss during the second quarter of fiscal 2022 was $100.4 million. In one year, the company has nearly cut its loss profile by half.
+"Our disciplined approach to growth is reflected in our strong operating profit and free cash flow, both of which doubled on a year-over-year basis," boasted Chaudhry. Given the improvement in free cash flow, Zscaler strengthened its balance sheet, which carried $1.3 billion in cash as of the end of the quarter.
+Management's guidance for the full year was for $1.6 billion in total revenue, equating to roughly 45% growth. Although this would be a slowdown in revenue growth, investors should not discount a company that is growing over 40% annually and trimming its losses. 
+Image Source: Getty Images
+Zscaler was a stock market darling during the early phases of the COVID-19 pandemic. However, over the last 12 months, the stock is down by a whopping 41%. Moreover, after it reported its fiscal Q2 results on March 2, the stock slid by more than 12%. 
+Following the earnings report, analysts at Wells Fargo and BMO Capital reduced their price targets on the cybersecurity company. BMO cut its target from $145 per share to $133 per share, while Wells Fargo decreased its target from $160 per share to $156 per share. Despite these reductions, both banks maintained their buy-equivalent ratings on the stock. 
+Although Zscaler is clearly growing its top line and expanding its free-cash-flow margin, Wall Street may be spooked about its slowdown in growth. Big tech has made it clear that corporate budgets are tight, sales cycles are becoming longer, and investor expectations need to be adjusted given the slowdown in economic activity. 
+But even with this said, investors should try not to miss the forest for the trees. It is becoming more clear that the software and technology industries will face near-term cyclical headwinds. However, despite these challenges, some companies are still able to grow at high double-digit percentage rates. There are long-term secular tailwinds in many of these tech sectors, and cybersecurity is no exception. 
+As of the time of this writing, Zscaler stock trades at around $110 per share. While Wells Fargo and BMO reduced their price targets on it, both banks foresee significantly higher share prices for Zscaler within the next year. It could be argued that the stock became oversold following theearnings call
+For context, some of Zscaler's largest competitors are Okta and CrowdStrike. CrowdStrike trades at a price-to-sales ratio of nearly 14 while Okta's ratio is just 7.2. Zscaler is slightly cheaper than CrowdStrike, with a price-to-sales ratio of about 12.5.
+ Given the precipitous drop following the earnings, coupled with management's bullish outlook, and Wall Street's price targets, Zscaler looks appealing at this valuation. If you currently hold a position, now may be an opportune time to add shares. And for investors with long time horizons, now may be an ideal time to accumulate shares and buy the dip. 
+10 stocks we like better than ZscalerWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Zscaler wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Suzanne Frey, an executive at Alphabet, is a member of The Motley Fool's board of directors. Wells Fargo is an advertising partner of The Ascent, a Motley Fool company. Adam Spatacco has positions in Alphabet, CrowdStrike, Microsoft, Okta, and Zscaler. The Motley Fool has positions in and recommends Alphabet, CrowdStrike, Microsoft, Okta, and Zscaler. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

@@ -1,0 +1,73 @@
+Seeing the world (again) through the eyes of a child is enlightening. Young people strive to improve daily. They are naturally curious, determined to figure things out and responsive to positive feedback.
+In my experience, as we age, there is a tendency to become less curious and more docile, and we typically don’t get the degree of feedback we do as children.
+In a relatively short amount of time, my son has “leveled up” his baseball skills with consistent practice. He’s moved from t-ball to local house league games to a competitive travel team that will play its first (out-of-state) tournament in April. All throughout, he’s been practicing with a purpose – to improve.
+There is no substitute.
+A similar path is readily available if you’re interested in taking your options trading to the next level.
+As children, we are exposed to countless new experiences, and our world expands exponentially. Curiosity kicks in. Young people face “challenges” with a unique mindset. In fact, children don’t often view these situations as challenges. They see opportunities to learn and have fun.
+To advance your use of options, it may be best to take an adolescent approach.
+Perhaps you’ve been exposed to equity or index options over the past few years. A typical starting point is buying a call (or put) and, ideally, learning by evaluating how that option performs. We need a feedback mechanism in place. The evaluation is imperative. In my estimation, that’s the difference between how/why children learn and how adults often fail to advance their understanding.
+Sometimes, early success using options can be a curse. Allow me to explain. In capital markets, people tend to “keep score” based on profit and loss, which makes a lot of sense. We associate profits with progress, but that’s not always the case.
+I’ve heard countless stories about new option users buying/selling options (insert any strategy), making money and conflating their profits with understanding. Often, they will then start trading in a bigger size. If they originally traded 1 contract, then they start trading 2 or 3 lots. If they began trading 5 lots, maybe then they would trade 10.
+The problem is they likely haven’t received feedback on how/why the option strategy worked.
+Absent an understanding of why the 1-lot or 5-lot trade made money – this approach is bound to fail. It’s akin to adding a second floor to a ranch home without testing the soil or foundation to see if the weight can be supported.
+P&L doesn’t tell the whole story because options, like life, are complex. Elevating your comfort level with complex products takes time and refinement. You need to understand why you made (or lost) money. Was it purely a function of underlying price (directional exposure)? Was there profit attributable to a tick up (or down) in implied volatility levels? Did you manage to scalp gamma (realized vol > implied)?
+Did you just get lucky? It happens.
+This type of analysis is how you give yourself the feedback that we get more frequently as children.
+Another way to develop depth with your options knowledge is to employ a strategy with a very specific objective. Generally, that will involve a spread trade (vertical or calendar) or perhaps using an option in conjunction with an underlying security (buy write/put write).
+Sticking with the sports theme here (MLB opening day is weeks away), it’s shifting from individual to team workouts. Longer-term success in sports or capital markets involves an understanding of how the parts work toward a common goal.
+In 1970, Bob Gibson had a 23-7 record for the 1970 St. Louis Cardinals. He had a great year and won the National League Cy Young award (best pitcher). However, the team went 76-86 and ended the season in 4th place, well behind the Pittsburgh Pirates.
+That’s like having a great trade but not accounting for either other (market) positions that are mediocre or bad. The math doesn’t add up.
+An architect helps their clients understand the risks, rewards and costs associated with construction. Nasdaq offers an “Options Architect” to help active and prospective market participants understand the hypothetical performance of various strategies over a specific time frame. There’s no hourly rate to employ Nasdaq’s Options Architect – so consider doing so before you continue your portfolio construction!
+Once you put a strong foundation in place, the alternatives are endless. The issue is putting in proper support involves difficult work with little visible reward. There’s a very natural desire to rush toward the “good parts,” whether it’s the 3rd-floor library with great views, a Little League World Series trophy or higher account values. These become eminently possible if you’ve established solid fundamentals.
+Challenge yourself to go deeper and wider before you build up. It takes time, but it’s worth it.
+P.S.
+A couple years ago, we taught our son the right way to throw a baseball.
+Next month, he’ll be a starting pitcher for a super competitive 10U baseball squad (he’s the youngest kid on the team at 8). He understands the value of putting in the hard work behind the scenes.
+In case it wasn’t clear – I’m proud.
+Now he throws like this:
+If you have questions (ideally about Nasdaq-100® Index Options (NDX) as opposed to baseball) – Ask us: indexoptions@nasdaq.com
+Nasdaq® is a registered trademark of Nasdaq, Inc. The information contained above is provided for informational and educational purposes only, and nothing contained herein should be construed as investment advice, either on behalf of a particular security or an overall investment strategy. Neither Nasdaq, Inc.  nor any of its affiliates makes any recommendation to buy or sell any security or any representation about the financial condition of any company. Statements regarding Nasdaq-listed companies or Nasdaq proprietary indexes are not guarantees of future performance. Actual results may differ materially from those expressed or implied. Past performance is not indicative of future results. Investors should undertake their own due diligence and carefully evaluate companies before investing. ADVICE FROM A SECURITIES PROFESSIONAL IS STRONGLY ADVISED.
+© 2023. Nasdaq, Inc. All Rights Reserved.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+Kevin Davitt is the Head of Nasdaq’s Index Options Content. Kevin spent years focused on options education with an index emphasis at Cboe Global Markets. Prior to his exchange work, Kevin traded index, equity, and commodity futures and options as a market maker at a variety of well-known firms. Davitt is a graduate of Marquette University. He’s a proud Evans Scholar alum and enjoys reading, live music, running and coaching youth baseball.
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+Type a symbol or company name. When the symbol you want to add appears, add it to My Quotes by selecting it and pressing Enter/Return.
+Copy and paste multiple symbols separated by spaces.
+                
+These symbols will be available throughout the site during your session.
+
+
+
+Type a symbol or company name. When the symbol you want to add appears, add it to My Quotes by selecting it and pressing Enter/Return.
+Copy and paste multiple symbols separated by spaces.
+                
+These symbols will be available throughout the site during your session.
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+Type a symbol or company name. When the symbol you want to add appears, add it to Watchlist by selecting it and pressing Enter/Return.
+Copy and paste multiple symbols separated by spaces.
+                
+These symbols will be available throughout the site during your session.
+
+
+
+Type a symbol or company name. When the symbol you want to add appears, add it to Watchlist by selecting it and pressing Enter/Return.
+Copy and paste multiple symbols separated by spaces.
+                
+These symbols will be available throughout the site during your session.
+
+These symbols will be available throughout the site during your session.

@@ -1,0 +1,60 @@
+March 14, 2023 — 05:30 am EDT
+
+      Written by
+                        Anders Bylund for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Stablecoins are digital currencies designed to maintain a stable value against a reference asset, such as the U.S. dollar. However, a rash of bank liquidations in and around the crypto market is shaking up these supposed models of safety and stability.
+Can those supposed paragons of digital steadiness be trusted in the long run? Let's think about that.
+The sudden liquidations of  Silvergate Capital (NYSE: SI), Silicon Valley Bank (NASDAQ: SIVB), and Signature Bank (NASDAQ: SBNY) sent immediate ripples through the cryptocurrency market. Dollar-based stablecoins are taking this crisis on the chin, drifting far away from their intended price of $1 per token.
+Stablecoins are meant as a reliable and predictable alternative to other cryptocurrencies, which are often known for their volatility. But recent events have demonstrated that even stablecoins are not immune to market forces. The price of USD Coin (CRYPTO: USDC) fell as low as $0.88 in the early morning hours of Saturday, March 11. Sector leader Tether (CRYPTO: USDT) briefly rose to $1.02 last Thursday.
+These moves may not sound like much, but they are massive system shocks in the context of a stablecoin's long-term firmness. The weekend's chart squiggles are pretty blatant, to misquote punk rock legend Glen Matlock:
+
+Tether Price data by YCharts.
+The stablecoins regained their footing on Monday morning, trading less than 1% away from their ideal $1 value, as their backing organizations found ways to sidestep the collapsed banks. Still, the bank liquidations that triggered the liquidity crisis have sown the seeds of uncertainty and anxiety, casting a shadow over the stability of stablecoins.
+USD Coin posted some of the largest price drops in this crisis due to its tight connections to some of the liquidating banks.
+Circle Internet Financial, which manages this stablecoin in a partnership with crypto-trading platform giant Coinbase (NASDAQ: COIN), held $3.3 billion of USD Coin's cash support at Silicon Valley Bank.  When the California Department of Financial Protection and Innovation closed that bank, nearly 8% of USD Coin's cash reserves appeared to be locked in the vaults of a collapsing bank and perhaps lost forever. Furthermore, Circle held cash at Silvergate and Signature Bank as recently as January, adding to the cash risk.
+That's why USD Coin's price chart dipped 12% lower as the banking crisis played out. With so much of the stablecoin’s cash reserves parked in potentially unreachable bank accounts, investors worried that the stablecoin might be the target of a digital bank run of sorts. If most of USD Coin's holders wanted to cash in their holdings overnight and Circle couldn't access some of its backing cash, it would be a disaster much like what happened to the liquidating banks in the first place.
+The risk faded quickly as the Federal Reserve promised to provide funds to account holders at the banks in question. As a result, Circle is free to move its cash from Silicon Valley Bank and other trouble spots to more robust financial institutions. Circle's Tether reserves are now held primarily with BlackRock (NYSE: BLK) and Bank of New York Mellon (NYSE: BK), two highly respected investment banks.
+So USD Coin returned to exactly $1 on Monday morning as the stablecoin dodged a banking bullet.
+Tether showed the other side of the same coin. The largest stablecoin, under the management of the iFinex group that also runs the popular Bitfinex crypto exchange, posted unusual gains in this banking crisis.
+This group keeps its bank relationships close to the vest, but Tether seems unlikely to have any cash accounts with Silvergate, Signature Bank, or Silicon Valley Bank. Despite its best efforts to keep the details secret, Tether is known to prefer banks in the Bahamas. Its Treasury bonds are reportedly held on American soil by financial giant Cantor Fitzgerald, leaving the usual crypto-friendly suspects out of the equation.
+So Tether saw rising investor interest when USD Coin was caught in a bad light, and its token price rose above its expected $1 value. A 2% outperformance is a big deal when the chart normally can be drawn with a ruler and no adjustments.
+Stablecoins help crypto exchanges facilitate transactions and provide liquidity in crypto markets. If stablecoins can't live up to their unshakable name, the resulting instability would disrupt the growth and adoption of cryptocurrencies. But there are some reasonable ways to tackle these challenges.
+One way out is to improve the regulatory framework around cryptocurrencies in general and stablecoins in particular. By increasing regulatory oversight and reporting transparency, stablecoins can improve their stability and trustworthiness.
+Another solution is to diversify the cash reserves that back stablecoins. As the crypto market evolves, stablecoins should have better access to large, robust banks that used to turn a cold shoulder to digital assets. Through holding cash in multiple high-quality banks and financial institutions, stablecoin issuers can mitigate the risk of bank failures and improve the resilience of stablecoins.
+Overall, the recent events have highlighted the need for greater transparency, regulation, and risk management in the stablecoin market. But despite these challenges, stablecoins backed by solid cash assets still look like useful and valuable tools in a growing crypto market.
+10 stocks we like better than USD CoinWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and USD Coin wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of March 8, 2023
+ 
+SVB Financial provides credit and banking services to The Motley Fool. Anders Bylund has positions in Coinbase Global and Silvergate Capital. The Motley Fool has positions in and recommends Coinbase Global and SVB Financial. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

@@ -1,0 +1,54 @@
+March 01, 2023 — 08:00 am EST
+
+      Written by
+                        Adam Spatacco for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+The technology-heavy Nasdaq Composite Index got off to a hot start this year. However, even equities are not immune to Newton's "what goes up, must come down" law of physics. While several companies in the software industry have beaten guidance and surprised investors during this earnings season, a common denominator for them has been that their near-term outlooks remain underwhelming. As a result, tech stocks in particular have fallen in the wake of January's fleeting surges, and valuations are beginning to normalize.
+Investors could argue that some of these companies have entered oversold territory, and that they may represent compelling long-term buys at their current valuations. One such company is the analytics platform Datadog (NASDAQ: DDOG). 
+Datadog's platform is interesting because it operates at the intersection of several growing end markets, among them cloud computing, data monitoring, and other information technology operations. While big tech companies like Amazon, Microsoft, and Alphabet all have strong presences in these markets, Datadog has been able to separate itself and compete with these behemoths.
+Research firm Gartner publishes annual reports that benchmark technology companies of all sizes and industries. Within these reports, Gartner includes an illustrative exhibit that it calls the "magic quadrant" -- a visual representation of company cohorts that ranks businesses in categories such as "market leader," "visionary," "niche player," etc.
+In 2022, Gartner placed Datadog in the highly coveted top-right corner of the magic quadrant in the application performance monitoring (APM) category. This region of the graph features companies with well-thought-out and complete visions, as well as strong abilities to execute on them. For reference, Datadog was ranked above Amazon Web Services, Cisco, and Microsoft.  
+While the giants of big tech may enjoy larger operating budgets, Datadog has clearly executed on its vision on a consistent basis and has done so with significantly less capital. However, even a top dog is not immune to broader economic conditions. As the big tech leaders have warned during recent earnings calls, corporate budgets are tight and demand for expensive software is slackening. Despite its solid fourth-quarter performance, Datadog's near-term outlook was a bit muted.
+In 2022, Datadog reported $1.7 billion in revenue, which represented an increase of 63%. Moreover, its free cash flow was $354 million, which represented 41% growth. However, despite that cash flow influx, Datadog's free cash flow margin decreased from 24% in 2021 to 21% in 2022. Management attributed that margin deterioration primarily to an increase in property, plant, and equipment purchases. Given that Datadog is still in growth mode and very much investing in its roadmap, it is not entirely surprising to see some fluctuations in margins from year to year. The more important takeaway is that the company is growing its revenue at a far greater pace than its costs, which has led to more cash flow on an absolute basis.
+Despite its relatively smaller size, a number of reputable financial institutions are covering Datadog's stock from an equity research standpoint, including Bank of America, Goldman Sachs, JP Morgan, Morgan Stanley, and Wells Fargo.
+Following its Q4 report, Wall Street seemed divided about the stock. However, peeling the onion may show a different picture. While many of the banks cut their price targets on Datadog, several others raised theirs. Moreover, even after those price reductions, several banks still see upside relative to where the stock trades today. For example, Goldman reduced its target from $128 per share to $114 per share, but that still implies a roughly 50% upside from its price as of this writing. 
+Despite the disparities in how analysts responded to the Q4 results, the most encouraging common denominator is that the majority of these banks still have buy or buy-equivalent ratings on the stock. 
+Image Source: Getty Images.
+Currently, Datadog's profitability profile is volatile because it remains in growth mode. In some quarters, the company is nominally profitable, while during others, it operates at a net loss. For this reason, valuation metrics such as the price-to-earnings ratio are not entirely useful to gauge the stock.
+Another metric to analyze is price-to-sales multiple. Datadog's current trailing-12-month price-to-sales ratio is nearly 15. For reference, it was approximately 46 in March 2021, so the market is applying a significantly lower valuation to Datadog than it was about a year ago. However, during the last 12 months, the company has grown revenue by more than 60% and generated more free cash flow, which it has invested back into the business.
+Given that the overwhelming majority of Wall Street banks that follow the stock remain bullish on Datadog, and that the company's valuation has seemingly been discounted, the stock could be worth a look for your portfolio.
+10 stocks we like better than DatadogWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Datadog wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+John Mackey, former CEO of Whole Foods Market, an Amazon subsidiary, is a member of The Motley Fool's board of directors. Suzanne Frey, an executive at Alphabet, is a member of The Motley Fool's board of directors. Wells Fargo is an advertising partner of The Ascent, a Motley Fool company. Bank of America is an advertising partner of The Ascent, a Motley Fool company. JPMorgan Chase is an advertising partner of The Ascent, a Motley Fool company. Adam Spatacco has positions in Alphabet, Amazon.com, and Microsoft. The Motley Fool has positions in and recommends Alphabet, Amazon.com, Bank of America, Cisco Systems, Datadog, Goldman Sachs Group, JPMorgan Chase, and Microsoft. The Motley Fool recommends Gartner. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

@@ -72,6 +72,9 @@ class Article:
         return tags_list
 
     def set_info(self, response):
+        """
+        Sets the article information to the class from the response.
+        """
         soup = get_soup(response)
         self.title = self._get_title(soup)
         self.authors = self._get_authors(soup)
@@ -81,7 +84,7 @@ class Article:
 
     def _create_article_content_file(self, soup):
         """
-        Creates a text file containing the article content in a sub folder.
+        Creates a text file containing the article content in a subfolder.
         """
         if not os.path.isdir("article content files"):
             os.mkdir("article content files")
@@ -90,16 +93,18 @@ class Article:
                 paragraphs = soup.find_all('p')
                 content = "\n".join([p.get_text() for p in paragraphs])
                 f.write(content)
-        except:
-            print(f"Could not find content for article: {self.id_num}")
+        except Exception as e:
+            print(f"Error writing content for article {self.id_num}: {e}")
 
     def __str__(self):
+        """
+        Returns a string representation of the Article object.        """
         message = f"ID: {self.id_num}, Name: {self.title}, Authors: {self.authors}, Date: {self.date}, Tags: {self.tags}, URL: {self.url}"
         return message
 
     def row_info(self):
         """
-        Returns the article information in panda row format
+        Returns the article information in panda row format.
         """
         data = {'id': self.id_num,
                 'title': self.title,
@@ -117,38 +122,39 @@ def get_soup(response):
     return BeautifulSoup(response.content, "html.parser")
 
 
-def setting_info(article_list):
+def setting_info(article_list, df):
     """
-    using requests with retries, timeout and changing the proxy for each request
-    :param article_list: list of Article class
-    :return: creates a dataframe with the article info, and prints the article short info without content
+    Takes a list of Article objects and creates a dataframe with the article information.
+    Prints the article short information without the content.
+    The article content will be saved into a text file in a sub-folder named "article content files".
     """
     ua = UserAgent()
     headers = {'user-agent': ua.random}
     rs = (grequests.get(t.url, headers=headers, timeout=TIMEOUT) for t in article_list)
+
+    countdown = 0
+
     for response in grequests.imap(rs, size=BATCH_SIZE):
         if response.status_code == 200:
             article = next(t for t in article_list if t.url == response.url)
             article.set_info(response)
             print(article)
+
+            new_row_df = pd.DataFrame([article.row_info()])
+            df = pd.concat([df, new_row_df], ignore_index=True)
+            countdown += 1
+            if countdown >= 500:
+                df.to_csv('article_info.csv', index=False)
+                countdown = 0
         else:
             print(f"Request failed with status code: {response.status_code}")
-    return article_list
 
-
-def articles_to_dataframe(article_list):
-    data = []
-    for article in article_list:
-        row = article.row_info()
-        data.append(row)
-    df = pd.DataFrame(data)
     df.to_csv('article_info.csv', index=False)
-    print("File created")
 
 
 def get_articles():
     """
-    Returns a list of Article class objects that contain id number, and url to an article
+    Returns a list of Article objects containing the id number and URL of an article.
     """
     try:
         with open('links_list.txt', 'r') as f:
@@ -163,8 +169,9 @@ def get_articles():
 
 def main():
     article_list = get_articles()
-    article_list = setting_info(article_list)
-    articles_to_dataframe(article_list)
+    columns = ['id', 'title', 'authors', 'date', 'tags', 'URL']
+    df = pd.DataFrame(columns=columns)
+    setting_info(article_list, df)
 
 
 if __name__ == "__main__":

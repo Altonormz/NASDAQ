@@ -1,0 +1,51 @@
+March 12, 2023 — 10:01 pm EDT
+
+      Written by
+                        Bram Berkowitz for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+After a chaotic few days, U.S. banking regulators announced late Sunday that depositors at Silicon Valley Bank will be able to access all their funds on Monday morning, helping the bank's tech-heavy clientele avoid financial catastrophe. The bank entered receivership on Friday after trading of its parent company, SVB Financial Group (NASDAQ: SIVB), was halted.
+Regulators also announced similar protections for customers of Signature Bank (NASDAQ: SBNY), a $110 billion asset bank that was shut down by the New York Department of Financial Services on Sunday.
+Depositors at both Silicon Valley Bank and Signature will be able to access their funds Monday. In a joint statement, the Federal Deposit Insurance Corp. (FDIC), Treasury Department, and  Federal Reserve said, "Today we are taking decisive actions to protect the U.S. economy by strengthening public confidence in our banking system."
+The three agencies added that "no losses associated with the resolution of Silicon Valley Bank will be borne by the taxpayer."
+Many of SVB's customers wondered what might happen if they couldn't access their funds this week to do things like meet payroll, pay bills, and fulfill other short-term obligations. The vast majority of deposits at SVB had been in excess of the $250,000 limit nominally insured by the FDIC, which is rather unique for the industry.
+In their statement, the three agencies also said "shareholders and certain unsecured debtholders will not be protected," which is in line with Treasury Secretary Janet Yellen's statement early Sunday that there would be no government bailout. Senior management has also been removed, and any losses to the FDIC's Deposit Insurance Fund to support these measures will be recovered through the FDIC assessment charges that banks pay every year, the agencies said in their statement.
+To help SVB and Signature pay out all of their deposits Monday, the Fed is creating a new Bank Term Funding Program (BTFP), which will make loans of up to one year to qualifying banks that will be collateralized by various government-backed bonds. The Treasury Department is planning to use $25 billion from its Exchange Stabilization Fund to serve as a "backstop" for the BTFP, although the Fed does not expect to have to dip into these funds.
+Shares of Signature Bank had been hit hard this past week, down more than 37%. The bank was facing struggles from all sides. Not only had Signature been facing similar challenges as SVB, but the bank operated a real-time payments network similar to crypto bank Silvergate Capital (NYSE: SI). Silvergate announced last week that it would wind down its operations and liquidate its assets.
+SVB's collapse had to do with the fact that the bank was facing massive deposit outflows but had invested its deposits into longer-term bonds that were trading at huge losses because of soaring interest rates (bond yields and bond values have an inverse relationship). At the end of 2022, Signature had about $7.3 billion of tangible common equity and about $3.2 billion of unrealized losses in its available-for-sale (AFS) and held-to-maturity (HTM) bond portfolios. So, if the bank faced significant deposit outflows and had to sell these bonds to cover the outflows it could have wiped out a substantial amount of shareholder equity. Still, most of these losses were in the AFS book, which is marked to market and therefore already accounted for.
+Signature had already been working to reduce its exposure to digital-asset-related clients that had come to the bank to use its real-time payment network, which better facilitated crypto trading. Silvergate saw an acceleration of crypto-related deposit outflows in the first few months of this year, so perhaps Signature did too, but as of Sunday night the specific reasons regulators closed the bank were not clear.
+It's great news that depositors are going to be made whole on Monday. If they hadn't been, many young companies -- both in the public and private markets -- could have struggled or even outright failed.
+The bad news here is that another bank was closed, with regulators citing "systemic risk." Hopefully, the fact that all depositors are covered will shore up confidence in the banking system.
+Another question is whether or not a buyer will emerge for SVB. Regulators have said that would be the best outcome for the failed bank, but they didn't seem to have a buyer lined up as of Sunday night.
+10 stocks we like better than WalmartWhen our award-winning analyst team has an investing tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now… and Walmart wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+Stock Advisor returns as of March 8, 2023
+SVB Financial provides credit and banking services to The Motley Fool. Bram Berkowitz has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends SVB Financial. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

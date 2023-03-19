@@ -1,0 +1,57 @@
+February 28, 2023 — 10:28 am EST
+
+      Written by
+                        Anthony Di Pizio for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+The Nasdaq-100 index is often used as a yardstick for the technology sector's performance because it hosts 100 of the largest tech companies listed on the Nasdaq stock exchange. 
+The Nasdaq-100 plunged by 33% in 2022, marking its worst year since the global financial crisis in 2008. Thankfully, 2023 is off to a more positive start, with the index jumping by as much as 17%. But investors aren't out of the woods just yet, because concerns about inflation and rising interest rates have knocked it off those highs in February.
+Despite this shaky period, certain tech companies are delivering spectacular growth in their underlying businesses, which isn't necessarily being reflected in their stock prices. That spells opportunity for investors. Here are three picks that might be worth buying on the dip.
+Confluent (NASDAQ: CFLT) is pioneering an emerging industry called data streaming, and it's changing your life without you knowing it. Many of the real-time experiences you enjoy on your smartphone and other digital devices are powered by the technology, and an estimate by the International Data Corp. predicts 90% of the world's 1,000 largest companies will be using it by 2025. 
+Confluent's customers number in the thousands, including 991 that are spending at least $100,000 per year with the company. Familiar names like Walmart and Domino's Pizza are on Confluent's roster, and they're using data streaming in different ways. 
+Walmart, for example, designed its inventory management system around the technology. Its physical and online stores speak to each other behind the scenes in real-time, so when a particular product flies off the shelves, it's replenished before it runs out of stock. Put simply, Confluent is the reason you can walk into Walmart and find exactly what you're looking for almost every time. Domino's uses Confluent to get a granular, real-time overview of what's happening in each of its stores. 
+Confluent generated $585.9 million in revenue during 2022, up 51% year over year, but that's a mere fraction of what it says is a $60 billion total addressable market. While its stock remains heavily beaten down, Wall Street is as bullish as ever and not a single analyst tracked by The Wall Street Journal recommends selling. 
+Datadog (NASDAQ: DDOG) is flying on the back of a surge in the adoption of cloud computing. As more businesses shift their operations online, their digital presence grows more complex. Datadog offers a monitoring platform that can automatically trawl for bugs and issues that might otherwise go unnoticed. 
+Datadog can be used for e-commerce, financial services, and everything in between. Now that companies are serving millions of customers through online channels, it's more difficult to determine whether they're having a positive experience. Sometimes a drop in revenue is the only indicator, at which point it's too late to save the relationship. Datadog can alert the business to website or mobile app issues that might only be affecting a small subset of users, so even the most underrepresented customers (by sales) are taken care of. 
+Despite the economic slowdown in 2022, Datadog was one of just a handful of companies that constantly exceeded forecasts. It raised its revenue guidance not once, not twice, but three times throughout the year, finally delivering $1.68 billion -- up 63% compared to 2021. 
+Datadog is yet another stock for which Wall Street holds an overwhelmingly bullish consensus. The majority of analysts tracked by The Wall Street Journal have given it the highest possible buy rating, and not a single one recommends selling. 
+Technology giants Amazon, Microsoft, and Google parent Alphabet have a combined market capitalization of almost $4 trillion. Competing with them is no easy feat, especially for a tiny company like DigitalOcean (NYSE: DOCN) with a worth of just $3 billion. 
+DigitalOcean is a provider of cloud services, but its target customers are small to mid-sized businesses that are either in start-up mode or have fewer than 500 employees. Whether those enterprises need simple data storage and website hosting, or more advanced cloud tools to develop software or stream video to customers, DigitalOcean has a solution. 
+Not only is the company competing with the likes of Amazon Web Services, Microsoft Azure, and Google Cloud -- which are the cloud sector's top three providers -- but in many respects, it's winning. In the recent fourth quarter of 2022, it grew its revenue by 36% year over year, a faster pace than each of those industry leaders. 
+DigitalOcean has found success by offering its customers transparent pricing, direct support, and a simple platform with one-click tools that allow for easy deployment, eliminating the need for expensive in-house technical staff. It isn't necessarily worthwhile for the cloud giants to compete with DigitalOcean on those points, because they make most of their money from larger organizations with more complex needs and much bigger budgets.
+DigitalOcean generated $576 million in total revenue during 2022, but it estimates its addressable opportunity could be as large as $98 billion in 2023, so it has barely scratched the surface. For investors, the best gains could come over the long term, because that opportunity is projected to nearly double to $195 billion by 2026. 
+With DigitalOcean stock down 75% from its all-time high, this might be a great chance to get in ahead of that growth.
+10 stocks we like better than ConfluentWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Confluent wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Suzanne Frey, an executive at Alphabet, is a member of The Motley Fool's board of directors. John Mackey, former CEO of Whole Foods Market, an Amazon subsidiary, is a member of The Motley Fool's board of directors. Anthony Di Pizio has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Alphabet, Amazon.com, Confluent, Datadog, DigitalOcean, Domino's Pizza, Microsoft, and Walmart. The Motley Fool recommends Nasdaq. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

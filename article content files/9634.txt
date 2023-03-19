@@ -1,0 +1,87 @@
+February 24, 2023 — 03:32 pm EST
+
+      Written by
+                        BNK Invest for                             
+        
+
+
+
+
+BNK Invest ->
+
+
+Looking at options trading activity among components of the Russell 3000 index, there is noteworthy activity today in Splunk Inc (Symbol: SPLK), where a total volume of 7,959 contracts has been traded thus far today, a contract volume which is representative of approximately 795,900 underlying shares (given that every 1 contract represents 100 underlying shares).  That number works out to 42.7% of SPLK's average daily trading volume over the past month, of 1.9 million shares.  Particularly high volume was seen for the $140 strike call option expiring January 19, 2024, with 1,000 contracts trading so far today, representing approximately 100,000 underlying shares of SPLK.  Below is a chart showing SPLK's trailing twelve month trading history, with the $140 strike highlighted in orange:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kratos Defense & Security Solutions, Inc. (Symbol: KTOS) saw options trading volume of 2,460 contracts, representing approximately 246,000 underlying shares or approximately 42.3% of KTOS's average daily trading volume over the past month, of 581,025 shares.
+Especially high volume was seen for the $12.50 strike call option expiring March 17, 2023, with 659 contracts trading so far today, representing approximately 65,900 underlying shares of KTOS.  Below is a chart showing KTOS's trailing twelve month trading history, with the $12.50 strike highlighted in orange:
+
+
+
+
+
+
+
+
+
+
+
+
+And SP Plus Corp (Symbol: SP) saw options trading volume of 381 contracts, representing approximately 38,100 underlying shares or approximately 42.2% of SP's average daily trading volume over the past month, of 90,375 shares.
+Especially high volume was seen for the $35 strike put option expiring July 21, 2023, with 308 contracts trading so far today, representing approximately 30,800 underlying shares of SP.  Below is a chart showing SP's trailing twelve month trading history, with the $35 strike highlighted in orange:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+For the various different available expirations for SPLK options, KTOS options,  or SP options,  visit StockOptionsChannel.com.
+
+
+Today's Most Active Call & Put Options of the S&P 500 »
+
+
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

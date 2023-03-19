@@ -1,0 +1,56 @@
+March 05, 2023 — 07:25 am EST
+
+      Written by
+                        Anthony Di Pizio for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Warren Buffett's Berkshire Hathaway investment firm is known for making large, long-term bets on companies with proven business models that generate mountains of cash. Berkshire has owned shares of Coca-Cola for 35 years, as one example. In a move that was somewhat out of character, the firm invested in technology company Snowflake (NYSE: SNOW) in 2020, which continues to make operating losses and doesn't pay a dividend. The holding represents just 1.9% of Berkshire's $325 billion portfolio, so it's a relatively small bet on what is a rapidly growing cloud computing industry. 
+Amid the broader sell-off in the technology sector, Snowflake stock is down 64% from its all-time high. Here's why investors with a five- to 10-year time horizon might find the current discount extremely appealing, especially given this company's high-profile partnerships. 
+Data is becoming the driving force behind modern organizations. It helps deliver valuable insights about customers, and it leads companies down more efficient paths for their operations. The cloud is where much of that data is collected and stored, but extracting its value isn't always straightforward. 
+Large organizations tend to have more complex cloud networks, and they often use more than one provider of cloud services -- Amazon Web Services, Microsoft Azure, and Alphabet's Google Cloud being the top three. As a result, data can sometimes wind up siloed in different locations, which makes visibility and coordination a challenge.
+That's one of the problems Snowflake's Data Cloud solves for its clients. It serves as a centralized platform-agnostic hub for data coming in from all sources, thanks to integrations with the above-mentioned cloud providers, which recognize their customers need what Snowflake delivers. From there, it becomes a powerful engine for analytics so businesses can derive insights based on the whole picture rather than fragmented data sets. 
+Additionally, Snowflake just made its Snowpark tool available to customers. Developers within large organizations often code across different programming languages, which leads to data silos and complicated architectures. Snowpark brings teams together to work within one platform, regardless of language, storing data securely in one place. 
+The company says data engineering and machine learning are two use cases in focus for Snowpark right now. 
+For the fiscal year 2023 (ended Jan. 31), Snowflake generated $1.9 billion in revenue, which represented a year-over-year growth rate of a whopping 70%. But it expects a slowdown in that growth rate to 40% in fiscal 2024 as businesses become more cost-conscious in this difficult economic environment. That's the core reason Snowflake stock was in the red after reporting this round of financials. 
+But as cloud adoption continues to grow, Snowflake's platform will become increasingly critical. It's evident by its customer metrics, including its net revenue retention rate, which came in at 158% in the fiscal 2023 fourth quarter. This implies existing customers were spending 58% more than they were in the year-ago period. 
+Snowflake had 330 customers spending at least $1 million annually, up 79% year over year, highlighting the surging demand among larger, more complex organizations. But its overall client base is diverse, with a total of 7,828 businesses on board, including more than one-quarter of the Forbes Global 2,000. 
+Snowflake's expectations for longer-term growth can be observed in its hiring habits. It scooped up 1,892 new employees during fiscal 2023, taking its total headcount to 5,884. The company was a net hirer in every single quarter of the year. 
+Image source: Getty Images.
+Snowflake is still investing heavily in growth through marketing and research and development. As a result, it has consistently sacrificed profitability in favor of customer acquisition and building out its product pipeline. Its net loss came in at $796 million in fiscal 2023, which was steeper than its fiscal 2022 result, though it was actually an improvement by one metric -- as a percentage of revenue, it fell from 55% to 38%. 
+It hints that the company is gradually achieving scale, and it could trend toward a breakeven point over time. But Snowflake does have a fortress balance sheet with more than $4 billion in cash, equivalents, and short-term investments on hand, so it can afford to run at its fiscal 2023 loss rate for years to come. 
+While those sizable net losses don't jive with a typical Buffett-Berkshire Hathaway investment, Snowflake has its eye on what could be a $248 billion addressable market by 2026. Based on the company's $1.9 billion in revenue last fiscal year, it hasn't even penetrated 1% of that value yet, so there could be a long runway for growth ahead.
+The cloud isn't going away, nor is the need for what Snowflake offers -- even the world's largest providers of cloud services acknowledge that, given their partnerships. Therefore, investors might consider the 64% dip in its stock price (from its all-time high) an intriguing long-term buying opportunity. 
+10 stocks we like better than SnowflakeWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Snowflake wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Suzanne Frey, an executive at Alphabet, is a member of The Motley Fool's board of directors. John Mackey, former CEO of Whole Foods Market, an Amazon subsidiary, is a member of The Motley Fool's board of directors. Anthony Di Pizio has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Alphabet, Amazon.com, Berkshire Hathaway, Microsoft, and Snowflake. The Motley Fool recommends the following options: long January 2024 $47.50 calls on Coca-Cola. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

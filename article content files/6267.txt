@@ -1,0 +1,60 @@
+March 05, 2023 — 06:30 am EST
+
+      Written by
+                        Nicholas Rossolillo, Anders Bylund, Billy Duberstein for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+2022 was the year the market hit the reset button on stock valuations. After months of enduring a bear market that reduced stock prices by 30% or more, many growing and profitable businesses now have stocks with very reasonable valuations. It's high time for investors looking for long-term game-changing returns to go shopping. 
+Three Fool.com contributors write below about why they believe The Trade Desk (NASDAQ: TTD), Applied Materials (NASDAQ: AMAT), and Cloudflare (NYSE: NET) are three great companies with beaten-up stock prices. They also explain why they think these stocks are worth a buy right now. 
+Nicholas Rossolillo (The Trade Desk): There were lots of ways to assess digital ad software company The Trade Desk's fourth-quarter 2022 performance, and most of them were incredibly positive. While the digital ad industry languished during a period of economic slowdown and uncertainty, The Trade Desk picked up market share at the expense of its big tech peers (like Alphabet's Google and Meta Platforms' Facebook). The Trade Desk CEO Jeff Green pointed out on theearnings callthat large competitors were posting negative 2% to negative 9% year-over-year revenue performance in the final months of 2022. 
+The Trade Desk, meanwhile, posted revenue growth of 24% year over year to $491 million. Generally accepted accounting principles (GAAP) net income was $71 million, or $0.14 per share, up from just $0.02 per share in Q4 the year prior. That reverses some net losses from earlier in 2022, although The Trade Desk points out it has been profitable on an annual basis since 2013. 
+On a free cash flow basis, The Trade Desk delivered big time in 2022. Free cash flow was $457 million for the full year, up 43% from 2021. When adjusting for stock-based compensation issued to Green and other employees, The Trade Desk continued to crank out profitable per-share gains for shareholders.  
+The company frequently highlights it isn't just a beneficiary of the long and gradual migration to digital ads. It's also gaining market share in the digital marketing space as brands and the agencies they work with seek out more efficient ways to advertise -- rather than simply blanketing the web and other outlets with campaigns that are inefficient or difficult to measure. The Trade Desk's solutions are an answer, providing trackable and transparent solutions that also meet consumer privacy demands. 
+Of course, The Trade Desk stock currently carries its typical "expensive" price tag. Shares trade for 61 times trailing-12-month free cash flow. Based on average analyst consensus, shares trade for 38 times one-year forward earnings per share. For investors looking for an absolute steal of a deal, this isn't the stock. But The Trade Desk has been bucking expectations for years and is emerging as the best company to own in the digital ad space for the long term. With the stock still down over 50% from all-time highs, I remain a buyer. 
+Billy Duberstein (Applied Materials): Given the long-term outlook for semiconductors, today's low valuations, and government-funded incentives to build more local chip capacity, the semiconductor equipment sector seems to be attractive for the long-term investor. Of the equipment companies, Applied Materials is the largest by revenue, and the most diverse. But the news for Applied shareholders got even better over the last couple of weeks.
+First, Applied reported solid fiscal first-quarter 2023 earnings that came in better than expected when factoring in all of the headwinds in the semiconductor industry today, especially in PCs and smartphones. Yet Applied was able to defy the downturn, reporting 7% growth in the January-ended quarter. Moreover, Applied guided to flat growth in the upcoming quarter, absent a $250 million headwind due to a problem with a particular supplier, which management believes it will recover in the following quarter. 
+The relative outperformance versus expectations and peers was due to Applied's innovations for trailing-edge nodes, specifically in ion implant machines for power semiconductors. While the rest of the sector is in the dumps, power semiconductors have actually been booming, thanks to increased chip content in electric and autonomous vehicles, as well as other industrial applications.
+But the story got even better last Tuesday, when Applied revealed an entirely new type of pattern-shaping semiconductor machine called Spectra. This new type of machine, which has been in the works for six years, essentially enhances the effectiveness of extreme ultraviolet (EUV) lithography.
+While EUV has been revolutionary in giving chipmakers the ability to shrink transistors to tiny sizes, even EUV has limitations in terms of shrinking spaces in between the ends of transistors, or "tip to tip" spacing. Thus, in order to get transistors close enough for the most advanced chips, leading-edge chipmakers often have to go through two EUV runs, or "double patterning" two masks on top of one another. 
+However, the new Spectra pattern-shaping machine gives foundries the ability to shape and manipulate the lithography pattern after the fact, extending transistor trenches to get even closer to one another. That enables chipmakers to make advanced chip designs that would normally require double patterning in a single step.
+Cutting out this extra step could save chipmakers an extra $250 million in capital costs per fab, along with $50 per wafer, while also lowering electricity and water usage. EUV machines can cost about $150 million, so if you need one fewer machine, that alone means Applied should be able to charge a hefty price for this new device.
+If those savings hold true, this new type of machine will likely be used in all leading-edge nodes, with increasing usage as chipmakers move to more and more complex designs over time. Also, since this machine cuts out steps in the process, there may be less of a need for extra machines from the other semicap equipment makers, making Applied a relative winner.
+That makes Applied probably the most attractive in an already attractive sector, especially since the stock still trades at a P/E ratio of just 15. 
+Anders Bylund (Cloudflare): Content delivery and network security expert Cloudflare should be the talk of the town right now. For example:
+Yet, Cloudflare's stock chart lags the Nasdaq Composite index over the last 52 weeks and the last six months. I agree that shares aren't exactly cheap at 20 times sales with negative earnings. However, this stock deserves a robust price premium due to Cloudflare's position of leadership at the crossroads of fast content delivery and intelligent network security.
+You're paying for a market leader, and Cloudflare delivers. Also, the stock is actually affordable in the context of its own history of lofty valuations. Cloudflare looks like a no-brainer buy these days.
+Find out why Trade Desk is one of the 10 best stocks to buy now
+Our award-winning analyst team has spent more than a decade beating the market. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed their ten top stock picks for investors to buy right now. Trade Desk is on the list -- but there are nine others you may be overlooking.
+Click here to get access to the full list!
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Suzanne Frey, an executive at Alphabet, is a member of The Motley Fool's board of directors. Randi Zuckerberg, a former director of market development and spokeswoman for Facebook and sister to Meta Platforms CEO Mark Zuckerberg, is a member of The Motley Fool's board of directors. Anders Bylund has positions in Alphabet, Nvidia, and Trade Desk. Billy Duberstein has positions in Alphabet, Applied Materials, Meta Platforms, and Trade Desk. His clients may have positions in the stocks mentioned. Nicholas Rossolillo and his clients have positions in Alphabet, Applied Materials, Cloudflare, Meta Platforms, Nvidia, and Trade Desk. His clients may have positions in the stocks mentioned. The Motley Fool has positions in and recommends Alphabet, Applied Materials, Cloudflare, Meta Platforms, Nvidia, and Trade Desk. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

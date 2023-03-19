@@ -1,0 +1,161 @@
+March 09, 2023 — 01:00 pm EST
+
+      Written by
+                        Motley Fool Transcribing for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Image source: The Motley Fool.
+Nano-X Imaging (NASDAQ: NNOX)Q4 2022 Earnings CallMar 09, 2023, 8:30 a.m. ET
+Operator
+Good day, and welcome to the Nanox Q4 2022earnings conference call At this time, all participants are in a listen-only mode. After the speaker presentation, there will be a question-and-answer session. [Operator instructions] Please be advised that today's conference is being recorded.
+I would now like to hand the conference over to your speaker, Mr. Mike Cavanaugh, investor relations. Please go ahead.
+Mike Cavanaugh -- Investor Relations
+Good afternoon, and thank you for joining us today. Earlier today, Nano-X Imaging Limited released its financial results for the quarter ended December 31, 2022. Our release is currently available on the Investor section of the company's website. Erez Meltzer, chief executive officer, and Ran Daniel, chief financial officer, will host this morning's call.
+Before we get started, I would like to remind everyone that management will be making statements during this call that include forward-looking statements regarding the company's financial results, research and development, manufacturing and commercialization activities, regulatory process operations, and other matters. These statements are subject to risks, uncertainties, and assumptions that are based on management's current expectations as of today and may not be updated in the future. Therefore, these statements should not be relied upon as representing the company's views as of any subsequent date. Factors that may cause such a difference include but are not limited to those described in the company's filings with the Securities and Exchange Commission.
+10 stocks we like better than Nano-X Imaging Ltd.When our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.* 
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Nano-X Imaging Ltd. wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of March 8, 2023
+
+We will also refer to certain non-GAAP financial measures to provide additional information to the investors. A reconciliation of the non-GAAP to GAAP measures is provided with our press release with the primary differences being non-GAAP net loss attributable to ordinary shares, non-GAAP cost of revenue, non-GAAP gross profit, non-GAAP gross profit margin, non-GAAP research and development expenses, non-GAAP sales and marketing expenses, non-GAAP general and administrative expenses, and non-GAAP basic and diluted loss per share. With that, I'd now like to turn the call over to Erez Meltzer. 
+Erez Meltzer -- Chief Executive Officer
+Thank you, Mike, and thank you all for joining us on the call today. As in previous calls, I will provide a business overview before turning the call over to Ran Daniel for a review of our financial results, to be followed by Q&A session to close. Reporting on our first quarter and the full year of 2022, which was also my first full year as a CEO of Nanox, this year marked our transformation into a more mature organization. I'm pleased with the progress our team had made on multiple fronts as we move forward toward the commercialization of Nanox.ARC system alongside our regulatory efforts in the U.S.
+and Europe. Key commercialization works during include the work to begin deploying the Nanox.ARC in the first markets in Africa, establishment of additional production facilities, and a new commercial collaborations. During the year, we established our organizational processes, efficiencies, business integrations, and cost-saving initiatives that will help drive our company forward. We believe that the work to create a more efficient infrastructure has put us in a good position.
+I'll start with our efforts to obtain regulatory clearance in the U.S. and Europe, both of which are high priority for us. As previously announced, on September 26th, 2022, we submitted a 510(k) premarket notification to the FDA for the second version of our multisource Nanox.ARC 3D digital tomosynthesis system. As part of the continuous dialogue with the FDA, we have been providing and continue to provide the FDA with additional information and address any questions in a timely manner when requested during its evaluation process, including in the past few weeks.
+We will announce the FDA final decision once we receive it. On other regulatory news, we continue to pursue the CE mark in the European Union with a Notified Body whom we previously engaged. Nanox is currently upgrading its systems and processes to comply with the requirements of the new medical device regulation, MDR, in Europe. We understand that the E.U.
+and the Notified Body are experiencing high volume of requests for CE marking and technical files updating due to the changes in regulation from MD to MDR. Therefore, the CE marking process and timeline are yet to be determined by the Notified Body. I would like to now take a few minutes to discuss our progress toward commercialization of the Nanox.ARC system, which we are aiming to begin first in Nigeria and Ghana. Since our last update call, I am happy to report on our first shipments of Nanox.ARC systems for training and demonstration purposes to Nigeria and Ghana.
+Demo units of the Nanox.ARC have received import licenses for installment and testing, both in Ghana and Nigeria. In Ghana, Nanox.ARC unit has been installed in the University of Ghana Medical Center, Limited, UGMC, one of the largest and most advanced hospitals in Ghana, for demo and training purposes, including clinical use, which is pending local regulatory clearance. I recently visited Ghana with ARC Division team representative for the launch of the Radiology Learning Center in UGMC. The kickoff event was organized by our local distributor, and it was successful with full attendance.
+In Nigeria, the system is in process of installation and is currently undergoing regulatory review by the Nigerian Nuclear Regulatory Authority, the NNRA. Both Nanox.ARC installments will serve as locations for testing, training, and education before we expect our commercial partners to take steps to roll out the medical imaging solution to areas without current access to medical imaging systems and address patient needs. Launching the Nanox.ARC first in West Africa where many communities lack medical imaging and advanced healthcare is in line with our vision to increase early detection of medical conditions that are discoverable by X-ray by improving access to imaging. These are the first steps of many toward our goal for closing the health equity gap in medical imaging.
+In line with these efforts, we have also launched the previously announced partnership with BIO Ventures for Global Health, BVGH, a nonprofit organization dedicated to solving global health issues by forming connections between people, resources, and ideas. This program is near completion of its first phase, which includes an education and training series of expert-led seminar to train Nigerian and African healthcare professionals on imaging topics. I would now like to provide two updates regarding R&D and manufacturing. We are in the process of consolidating our intellectual property and R&D located in different locations around the world with a goal of establishment -- a facility in Israel that will serve as a knowledge and R&D center which will complement the facilities we now have in Korea and Japan.
+We are in the process of entering into agreements with additional third-party manufacturers for tubes and MEMs X-ray chips based on, among other things, cost effectiveness to help ensure an adequate supply to meet our future production goals and facilitate systems enhancement over time. Now, turning to our Nanox AI and teleradiology business, which were fully integrated into the Nanox organization over the course of 2022. Following the acquisitions of Nanox AI and USARAD in November 2021, we continue to see revenue generation from these important business segments. These revenues help conserve cash and continue to demonstrate the utility of these additional services to healthcare systems and support our belief that our complimentary deep-learning analytics and teleradiology services will add significant value to the fully integrated Nanox.ARC system upon deployment.
+I'm also very excited about a new partnership. Last month we announced a key collaboration between Nanox AI and Nuance Precision Imaging Network, a Microsoft company. More than 12,000 healthcare facilities and the 80% of U.S. radiologists will use Nuance.
+PowerScribe radiology reporting and PowerShare Image Sharing solution will now be able to seamlessly access Nanox AI solutions. With that, I would like to turn the call over to Ran Daniel, chief financial officer, to review our financial results.
+Ran Daniel -- Chief Financial Officer
+Thank you, Erez. We reported a GAAP net loss for the fourth quarter of 2022 of $44.8 million, compared with a net loss of $22.0 million in the fourth quarter of 2021, which increase was largely due to expenses related to increased research and development expenses and goodwill impairment related to the acquisition of Nanox AI, which was mitigated by a decrease in our general and administrative expenses and an increase in our obligation in connection with the merger and acquisitions, mainly due to the settlement with the former shareholders of Nanox AI. Revenues for the fourth quarter of 2022 were $2.1 million, and gross loss was $1.7 million on a GAAP basis. Revenue from teleradiology services for the same period was $2.0 million, with a gross profit of $0.3 million on a GAAP basis and a gross profit of $0.8 million on a non-GAAP basis, which represents a gross profit margin of approximately 40% on a non-GAAP basis.
+The decrease in the company's revenue in the gross profit margin in the fourth quarter of 2022 is mainly due to the revenues from the data monetization project in the amount of $0.3 million that did not recur in the fourth quarter of 2022. Research and development expenses for the fourth quarter of 2022 were $7.1 million, as compared to $6.4 million for the comparable period in 2021. The increase in our research and development expenses was mainly due to the development of the multisource Nanox.ARC and the Nanox.CLOUD. Sales and marketing expenses for the fourth quarter of 2022 were $1.5 million, as compared to $1.9 million for the comparable period in 2021.
+The decrease was mainly due to a decrease in our cost of labor and share-based compensation. General and administrative expenses for the fourth quarter of 2022 were $8.2 million, as compared to $10.9 million for the comparable period in 2021. The decrease was largely due to a decrease in our cost of labor and share-based compensation, which was mitigated by the company's legal fees due to the SEC investigation and class action litigation as described in the company's Form 6-K filed today and Form 20-F for the year ended December 31st, 2021, filed on May the 2nd, 2022 and subsequent filings with the U.S. Securities and Exchange Commission.
+Turning to our balance sheet. As of December 31st, 2022, we had cash, cash equivalents, and marketable securities of approximately $102.9 million, which are composed from $77.7 million of cash, cash equivalents, and short-term marketable securities and $25.2 million of long-term marketable securities. Further, we had $3.5 million loans from bank as of December 31st, 2022. As of December 31st, 2022, we had property and equipment net of approximately $43.6 million.
+During the year, we completed the construction of the company's fabrication facility in Korea and primarily purchased machinery and equipment to be used in our operations. As of December 31st, 2022, we had approximately 55.1 million shares outstanding as, compared to 5.8 million shares outstanding as of December 31st, 2021. The increase was mainly due to the issuance of 2.6 million ordinary shares for -- to the former shareholders of Nanox AI under a settlement agreement with respect to any additional amount that could be granted under the merger's agreement dated August 3rd, 2021. With that, I will hand the call back over to Erez.
+Erez Meltzer -- Chief Executive Officer
+Thank you, Ran. 2022 was the year during which we laid our multiple building blocks for our future success, and we believe that we are in a good position for an equally productive 2023. We made good progress toward commercializing the Nanox.ARC in Ghana and Nigeria. We successfully integrated the Nanox AI and USARAD acquisitions, which added important components to our anticipated end-to-end imaging solutions.
+And importantly, we are advancing our regulatory work in the U.S. and E.U. It has taken a lot of work to get to this point, and we are excited to be deploying demonstration units of the Nanox.ARC in our first markets in Africa and working to receive FDA clearance in the U.S. As always, we appreciate your support of Nanox and look forward to engaging with you, our investors, in the coming months.
+I would like to mention that the Nanox management team will be in New York City from March 20th through March 22nd for investor meetings. If you would like to meet with us there, please contact our investor relations partner at ICR Westwicke. Operator, please open up the call for questions.
+Operator
+Thank you. [Operator instructions] One moment while we compile the Q&A roster. And today's question will come from the line of Jeff Cohen with Ladenburg. Your line is open.
+Jeff Cohen -- Ladenburg Thalmann and Company -- Analyst
+Hi, Erez and Ran. How are you?
+Erez Meltzer -- Chief Executive Officer
+We're OK. Thank you, Jeff.
+Jeff Cohen -- Ladenburg Thalmann and Company -- Analyst
+Great. So, firstly, could you talk about the R&D consolidation? I know you're building out the facility in Korea, and also you have some facilities in Japan, facilities singular. Can you talk about the consolidation there as far as manufacturing and throughput on both devices, tubes, magnets, etc.?
+Erez Meltzer -- Chief Executive Officer
+Yes, of course. First of all, as you know, we are manufacturing the MEMs in the facility in Korea. Right now, we are getting the tubes from Korea. And at the same time, we are developing other sources for both the chips and the and the tubes in the U.S.
+and Europe. At the same time, what we thought and I think that I mentioned it in the in the last call, what we believe is that as we go for the future, we have to centralize all the activities and especially the knowledge of future chips and future tubes in Israel. And therefore, we are building the center of knowledge. The people that we are hiring and we have hired already who are expert in semiconductors and MEMs, as well as the tubes, everything will be consolidated in Israel.
+And and from there, we will develop the future products in the future. Since we spoke about more [Inaudible] and more products which will be part of the hardware, we would like to ensure that all of this will be in Israel. We mentioned that we plan to source and explore tubes from various suppliers, as mentioned, and, basically, to have our own subsidiary in most advanced supplying tubes. But in addition, to -- not to rely on one source and to have the knowledge in Israel as mentioned.
+Jeff Cohen -- Ladenburg Thalmann and Company -- Analyst
+OK. Got it. And, Ran, on the impairment charge, 36.5, does that conclude the case at hand that that was a noncash or cash charge that you took in the fourth quarter?
+Ran Daniel -- Chief Financial Officer
+No, this is a noncash charge. It's -- and you can find it as part of our non-GAAP adjustments. In the 6-K, you'll see the schedule of the non-GAAP. And as you know, this is a non-GAAP item.
+Jeff Cohen -- Ladenburg Thalmann and Company -- Analyst
+OK. Got it.
+Ran Daniel -- Chief Financial Officer
+A GAAP item, sorry. It's adjusted for non-GAAP purposes.
+Jeff Cohen -- Ladenburg Thalmann and Company -- Analyst
+Got it. And the units in Nigeria and Ghana, it's one in each territory thus far?Erez MeltzerTo begin with, yes. And more are planned to be shipped to other territories that we are in the process of getting the -- the approvals. The one thing I can mention, and I will probably elaborate about Ghana, Ghana is the first operating units in a medical organization or a medical hospital.
+I was there two weeks ago. The -- we actually had the opening because it was the first system. You know, as you can imagine, for us, it's a big thing. The interesting part was that the installation was very quick.
+The -- we have right now more sustainable product or system. And the event that was organized by the distributor was with a few hundred people with radiologists, with clinicians, with hospital managers, with bankers, with financial people from all kinds of financial, and, of course, government people. And it was very impressive. And we have to have these type of events or these type of launches in the very near future.
+We already started the training center there, so there is a training room and training facility. And it's part of the education that the physicians and the radiologists are getting there.
+Got it. And then lastly for us, could you talk about -- it doesn't look like there's any guidance or outlook. But could you give us some general commentary as far as the AI business and how '23 may read out or grow?
+Erez Meltzer -- Chief Executive Officer
+First -- so, the answer is, of course, we announced the agreement with Nuance. I think it was two weeks ago or something like that. Only in the last week, we signed two new agreements. We have three on the ground right now in the U.S.
+and with a full -- full effort and full steam ahead to get on board. We have already also engaged with a strategic group that helps us to build the go-to-market strategy and action plan. So, we are -- all the engines are full steam ahead.
+Jeff Cohen -- Ladenburg Thalmann and Company -- Analyst
+Got it. OK. Perfect. That does it for us.
+Thanks for taking the questions.
+Erez Meltzer -- Chief Executive Officer
+Thank you.
+Ran Daniel -- Chief Financial Officer
+Thank you.
+Erez Meltzer -- Chief Executive Officer
+Thank you, Jeff.
+Operator
+Thank you. One moment for our next question. And that will come from the line of Ross Osborn with Cantor Fitzgerald. Your line is open.
+Ross Osborn -- Cantor Fitzgerald -- Analyst
+[Inaudible] And thank you for taking our questions. So, we're pleased to see the initial deployments. So, maybe, I'll start there. When were the systems deployed in Ghana and Nigeria? And when you would expect them to transition from training to commercial use?
+Erez Meltzer -- Chief Executive Officer
+The system in -- first, these are a few steps in the process. First, you have to get an import license, which we received in both countries. Then you build the demo center or the demo unit, which were built in both countries. Then the unit is being installed first in Ghana and later in Nigeria.
+The system in Ghana is already operating, and Nigeria, is in the process to -- following the approval of the NNRA to import the system. Then, we're waiting for the license to operate and then the license to sell. Same with Ghana, we are waiting for the license to sell. And as soon as we have this license, we can ship more units to Ghana -- as soon as we get it.
+Ross Osborn -- Cantor Fitzgerald -- Analyst
+I think Ghana is a bit further along, so maybe, I'll start there. I believe it includes 350 systems. [Technical difficulty] since you operate.
+Erez Meltzer -- Chief Executive Officer
+I hope that I heard your question. I said the agreement with Ghana is, yeah, 350. And we will start deployment as soon as we -- as soon as we have the regulatory -- the local regulatory approval there. One of the things that regarding to the previous question that you said, we already have a system in one of the hospitals in Israel.
+We're just about to install another hospital in Israel. In the first one, the system is operating. We got a lot of samples from this operation or this unit. And the other one, we are in the final process of getting another -- another approval from Israel to to do another hospital.
+As soon as we get it, we'll start to get the samples in the other hospitals as well.
+Ross Osborn -- Cantor Fitzgerald -- Analyst
+Lastly for us, is there any update on your work for the Nanox AI expanded [Technical difficulty].
+Erez Meltzer -- Chief Executive Officer
+What was the question? Any update on the Nanox AI? Ross, what was the question?
+Operator
+It seems as though we have lost Ross. [Operator instructions]
+Erez Meltzer -- Chief Executive Officer
+What I'll try to do. I'll try to address what I think was Ross' question. With respect to Nanox AI, as indicated, we have already signed agreements about a year -- about, I would say, a year ago with one of the [Inaudible]. Lately they have extended the agreement and even signed for another year with 50% increase in the revenues, which are being generated from the hospital.
+We signed the agreement with the marketplace and with Microsoft, the Nuance. And we are starting to work with their clients. This week, we signed another agreement with one of the -- another marketplace, which we are going to get the access to their customers as well. And in the last few days, we signed another agreement, the first one in Europe, also for the implementation of our Nanox AI system.
+So, I hope that this address actually the question that I hope that I understood what was it.
+Operator
+Thank you. Our next question will come from the line of Rahul Rakhit with LifeSci Capital.
+Rahul Rakhit -- LifeSci Capital -- Analyst
+Hey, guys. Thanks for taking the question. I apologize if this has been asked already. I'm kind of bouncing between a couple of calls.
+But I was just wondering if you could touch on your progress in the E.U. and maybe help us understand the timing there. I know there were some updates last quarter, but just hoping to get a read on it in the new year as well.
+Erez Meltzer -- Chief Executive Officer
+Yeah. I think that, basically, there are no real news from the previous call. We signed the engagement letter with the Notified Body. We are aware that, right now, there is a lot of pressure on these units.
+By the way, not to mention the -- a lot of pressure that we understand that the FDA has with people and resources and with a lot of requests. And -- but with respect to the CE, we are waiting for their -- for the process to be initiated or to start. As soon as we get, we have already all the package and all the information ready to be shipped and submitted as soon as we get it. And we hope that this process will start shortly.
+Rahul Rakhit -- LifeSci Capital -- Analyst
+Got it. Thank you. And then one more. You know, in the previous quarter, you talked a little bit about the clinical trials that you were conducting in Israel.
+I was wondering if you could provide a bit more color on any future plans on clinical trials, what images that would ultimately -- what images would ultimately come out of those, and how you kind of use those images to guide the business and drive additional contracts moving forward.
+Erez Meltzer -- Chief Executive Officer
+OK. So, right now, under the Helsinki pyramid that we are -- that we received already in the first hospital, we started to collect clinical samples, images of multiple human body anatomies. And this one, basically, with a lot of -- many types of BMI, many of the body organs, a lot of samples -- we have so far collected probably a few dozen of healthy volunteer scans from skull to toe, including chest. OK.
+And right now, we are planning -- as indicated before, we are planning really shortly to get the permit following in-depth, I would say, inspection of the official bodies of Israel, the independent one, to allow us to go to the next hospital in Israel in which we are going to take another angle of all kinds of modalities and all kinds of samples that will be received. So, altogether, what we are planning to do is to have in Israel two locations. Maybe -- maybe at the end of the year, another third location that will take clinical samples. And to do the -- it's not really clinical trials because we don't need right now to do the clinical trials.
+We take clinical samples, and we do it, as mentioned, with all the modalities. Right now, all the other hospitals or educational offices -- by the way, like the one in Ghana, what we are working with them is to get special permit, by the way, in Europe and in the U.S., to get special permit and to get the clinical trials or clinical samples to be taken working with the hospital in order to expand, first of all, the variety, but also to expand the presence and the understanding of the ARC and the tomosynthesis and to ensure that we are in a process to get it ready once we start the mass deployment. Rahul?
+Operator
+Thank you. As I'm showing no further questions in the queue at this time, thank you all for participating in today's question-and-answer session, as well as today's conference call. This concludes today's program. You may now disconnect.
+Erez Meltzer -- Chief Executive Officer
+Thank you very much.
+Duration: 0 minutes
+Mike Cavanaugh -- Investor Relations
+Erez Meltzer -- Chief Executive Officer
+Ran Daniel -- Chief Financial Officer
+Jeff Cohen -- Ladenburg Thalmann and Company -- Analyst
+Ross Osborn -- Cantor Fitzgerald -- Analyst
+Rahul Rakhit -- LifeSci Capital -- Analyst
+More NNOX analysis
+All earnings call transcripts
+This article is a transcript of this conference call produced for The Motley Fool. While we strive for our Foolish Best, there may be errors, omissions, or inaccuracies in this transcript. As with all our articles, The Motley Fool does not assume any responsibility for your use of this content, and we strongly encourage you to do your own research, including listening to the call yourself and reading the company's SEC filings. Please see our Terms and Conditions for additional details, including our Obligatory Capitalized Disclaimers of Liability.
+The Motley Fool has no position in any of the stocks mentioned. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

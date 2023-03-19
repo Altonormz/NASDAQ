@@ -1,0 +1,56 @@
+March 08, 2023 — 10:09 am EST
+
+      Written by
+                        Nicholas Rossolillo for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+When many investors think of semiconductors, microchips that power PCs, smartphones, and data centers are what first come to mind. But semiconductors extend far beyond computing chips. Semiconductors are also used to manage electricity -- in industrial equipment, renewable energy projects, and battery systems in electric vehicles. Semiconductors are the materials that power ultra-high-definition screens on our devices, too. 
+That brings us to our topic company, Universal Display (NASDAQ: OLED), patent holder and basic material seller for OLED displays. The company is dealing with a downturn arising from the smartphone market, but a big rebound could be in store later in 2023. Here's why I think Universal Display is a buy now.  
+The smartphone market is in the midst of a nasty downturn, and it's dragging Universal Display (UDC from here on) down with it. People are easing up on electronic device purchases after a couple years of boomtime early in the pandemic, at exactly the same time a supply of chips is coming back online. Top mobile device companies like Qualcomm (NASDAQ: QCOM) have already reported an expectation for year-over-year double-digit percentage revenue declines through about the first half of 2023. 
+This same decline in smartphone sales is beginning to affect UDC too, since smartphones are a top end-market. In the fourth quarter of 2022, revenue did manage to rise 16% from a year ago to $169 million. This is driven by higher royalty fees collected from manufacturing partners that make OLED screens for smartphones, TVs, tablets, and wearables. However, full-year 2023 guidance for sales to be $550 million to $600 million represents a decline of as much as 11% from the $617 million hauled in during 2022. 
+This decline is primarily being attributed to flat OLED base material sales, but a fall is expected in royalty revenues as manufacturers pull their activity back in during the smartphone downturn. However, in keeping with other semiconductor company outlooks, UDC expects most of this pain to be realized during the first half of 2023. An epic rebound could be in store in the second half of the year as manufacturing activity picks up pace again. 
+UDC CEO Steven Abramson said on theearnings callthat he continues "to believe that 2024 will be a pivotal year for the OLED industry and for [UDC]." Though ultra-energy-efficient OLED displays are now commonplace in high-end smartphones, new advances in this display technology are beginning to make it a more viable option for the large PC and laptop market -- not to mention in more high-end TVs, and commercial and automotive lighting. 
+Two promising developments are in the works at UDC. First, the company has been working on its blue organic emitter material, saying for years that it's "making excellent progress." The fruits of this labor could be about to pay off, though. Abramson said on the call:
+As we shared last month, we met our preliminary phosphorescent blue target specifications in 2022. We continue to believe that we are on track to introduce our all-phosphorescent [red-green-blue] stack into the commercial market in 2024. We believe that the introduction of our full suite of red, green and blue phosphorescent emissive materials will unlock a vast array of opportunities for higher energy efficiency and higher performance across a broad range of OLED applications. 
+In other words, OLED base material sales (which will help offset weakness in manufacturing and OLED tech patent royalty revenue in 2023) could be headed significantly higher in 2024. 
+As for those manufacturing royalties, the company's OVJP (organic vapor jet printing) process is also making progress. OVJP commercialization is still a few years away, but it could make large-screen OLED production much more affordable. Perhaps 2025 will be the year OVJP starts to make a revenue contribution at UDC. 
+The next six months in particular could get ugly for UDC's finances. Rain or shine, though, this will likely remain a highly profitable business, measured by both GAAP (net income) and adjusted (free cash flow) profit metrics -- just as it has been in past downturns. 
+
+Data by YCharts.
+Shares aren't exactly cheap right this moment. UDC trades for 32 times trailing 12-month earnings per share, and 84 times trailing 12-month free cash flow (the latter metric is elevated after subtracting some one-time items related to inventories and customer catch-up payments). Both of these valuation measures will likely remain elevated for the first half of 2023 as the company wades through the tech device slump. 
+As sales start to heat up again in the second half of 2023 and into 2024, profitability will too. Free cash flow in particular is poised for a monster rally this year. Also bear in mind that of UDC's current $6.7 billion market cap, $577 million of that is cash and short-term investments and another $260 million in long-term investments. UDC also has no debt. 
+Overall, it looks like an ideal time to buy Universal Display shares during this present smartphone market downturn. This is a very strong business on solid financial footing, and it has a long road ahead for growth (albeit lumpy growth, since it's a manufacturing business). I expect the stock to be volatile, and there will likely be some nasty pullbacks in share price, especially in the next six months. But I plan to add on those dips, eyeing the resurgence in growth for the OLED display market later in 2023 and 2024.
+10 stocks we like better than Universal DisplayWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Universal Display wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Nicholas Rossolillo and his clients have positions in Qualcomm and Universal Display. The Motley Fool has positions in and recommends Qualcomm. The Motley Fool recommends Universal Display. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

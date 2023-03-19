@@ -1,0 +1,314 @@
+March 02, 2023 — 04:30 pm EST
+
+      Written by
+                        Motley Fool Transcribing for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Image source: The Motley Fool.
+Stratasys (NASDAQ: SSYS)Q4 2022 Earnings CallMar 02, 2023, 8:30 a.m. ET
+Operator
+Hello, and welcome to the Stratasys Q4 2022 conference call and webcast. [Operator instructions] A question-and-answer session will follow the formal presentation. We ask you to please ask one question and one follow-up. As a reminder, this conference is being recorded.
+It's now my pleasure to turn the call over to Yonah Lloyd, chief communications officer and vice president, investor relations. Please go ahead, sir.
+Yonah Lloyd -- Chief Communications Officer and Vice President of Investor Relations
+Good morning, everyone, and thank you for joining us to discuss our 2022 fourth quarter financial results. On the call with us today are our CEO, Dr. Yoav Zeif; and our CFO, Eitan Zamir. I would like to remind you that access to today's call, including the slide presentation, is available online at the web address provided in our press release.
+In addition, a replay of today's call, including access to the slide presentation, will also be available and can be accessed through the investor relations section of our website. Please note that some of the information you will hear during our discussion today will consist of forward-looking statements, including, without limitation, those regarding our expectations as to our future revenue, gross margin, operating expenses, taxes, and other future financial performance, and our expectations for our business outlook. All statements that speak to future performance, events, expectations, or results are forward-looking statements. Actual results or trends could differ materially from our forecast.
+10 stocks we like better than StratasysWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.* 
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Stratasys wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of February 8, 2023
+
+For risks that could cause actual results to be materially different from those set forth in forward-looking statements, please refer to the risk factors discussed or referenced in Stratasys' annual report on Form 20-F for the 2021 year and for the 2022 year, which will be filed later today U.S. time with the SEC. Please also refer to our operating and financial review and prospects for 2021 and 2022. Please also see the press release that announces our earnings for the fourth quarter of 2022, which is attached as Exhibit 99.1 to a report on Form 6-K that we are furnishing to the SEC today.
+Stratasys assumes no obligation to update any forward-looking statements or information which speak as of their respective dates. As in previous quarters, today's call will include GAAP and non-GAAP financial measures. The non-GAAP financial measures should be read in combination with our GAAP metrics to evaluate our performance. Non-GAAP to GAAP reconciliations are provided in tables in our slide presentation and today's press release.
+I will now turn the call over to our chief executive officer, Dr. Yoav Zeif. Yoav? 
+Yoav Zeif -- Chief Executive Officer
+Thank you, Yonah. Good morning, everyone, and thank you for joining. Our encouraging and profitable results this quarter demonstrate the resilience of our business, the diversity of our offerings, and the overall fiscal health of Stratasys as we performed well against a challenging environment for our entire industry and the broader economy that continues today. Importantly, we deliver our sixth consecutive quarter of profitability on an adjusted basis.
+Our strategy is focused on being the leading innovator and provider of polymer-based additive manufacturing solutions. We have a broad, global, diverse set of both organic and acquired technology offerings and unique go-to-market capabilities. We believe that the partnerships we have today and expect to build in the future will drive their increased adoption and ultimately our overall financial results. We remain laser-focused on managing our operations to effectively execute sustained profitable growth for years to come.
+Our full year results provide great clarity into the potential power of our business model. We generated top-line growth of 7.3% versus 2021. And taking into account the divestment of MakerBot, this past September, we grew 11.4% on a constant currency basis, overcoming inflationary and other pressures that accelerated over the course of the year. Our gross margin for the year, a major focus for the team, was slightly higher despite these many headwinds, as price increases helped offset cost pressures and our new technologies ramp and our operational efficiencies continue.
+We expect gross margin will strengthen in the coming years. For full year 2022, our revenues from manufacturing came in at 32.5% of our total revenues, demonstrating the ongoing transition from prototyping to manufacturing at scale our customers are undergoing today. I am particularly pleased we were also able to deliver $0.15 in adjusted EPS in 2022. Furthermore, we once again ended the quarter with a strong balance sheet that includes no debt.
+This continues to provide stability through challenging times and optionality to support our growth through organic investment, as well as accretive acquisition opportunities that we uncover. We spoke last quarter about the challenges our customers continue to face that are impacting their purchasing behavior. There are still inflationary pressures and concerns around the potential recession, impacting capital spending decisions by our customers. This resulted in headwinds in the second half of 2022 that we still see today with longer sales cycles and occasional deferrals of order continuing to impact our results.
+And while these challenges are causing near-term headwinds, the benefits of 3D printing, such as improved production efficiency, better performing parts, reduced logistics costs, and faster time to market become even more apparent in times like these. Our engagement with customers around all our technologies remained strong, and the results in our service business were the best in eight quarters. It is noteworthy that in 2022, recurring revenue increased meaningfully, with consumables up 7.7% over 2021, excluding MakerBot, and customer support up 11%, both at constant currency. This reflects the fact that the hardware growth of our install base in 2021 and 2022 is driving utilization, which should positively impact long-term sales of higher margin consumables as initial supplies are exhausted.
+2022 was a year of both focused execution and investment. Over the course of the year, we invested to position ourselves for growth in coming years. We acquired Riven, an AI software company which helps customers quickly create consistently accurate and used production parts at scale. We invested in Axial3D, a cloud based AI-driven 3D printing platform that enables healthcare providers to easily segment CT and MRI scans for anatomic models.
+We plan to unlock new sales opportunities in materials, highlighted by our announced Covestro AM acquisition expected to close in the second quarter. And MakerBot joined forces with Ultimaker to form a leading desktop 3D printing company. This move was immediately accretive to our margin, and our large minority stake includes commercial rights to engage their customer as they move through their additive manufacturing journey. We announced our first validated third-party high-performance materials for Stratasys FDM printers.
+These materials, along with the open material license for FDM and Origin, are expected to generate new business opportunities for Stratasys, such as service bureaus in the coming years. We also continue to advance our own materials. For example, we collaborated with Lockheed Martin on our Antero material that is space-ready and published qualification data, enabling others in the industry to use it for aerospace parts. And in healthcare, we created realistic anatomic modeling materials for use with city scales and other images.
+As we expand our offering to support manufacturing across our entire 3D printing technology portfolio, software is critical to crossing the additive manufacturing chasm from early adopters to early majority. This is evidenced by the fact that we have customers who now use multiple Stratasys technologies and are able to rely on the advantages of having a single software application platform, GrabCAD, across all of them, which is truly a differentiator for us. In 2022, we expanded GrabCAD integration with many of our offerings, added new software partners to our GrabCAD platform, and introduced GrabCAD print software for the age H350, Origin One, and the Origin One Dental 3D printer. I'd like to spend a few minutes giving added details on two of our key end markets in healthcare: dental and medical.
+The dental opportunity for Stratasys is one of the largest and most exciting growth avenues for us as a company. Our focus remains on nonelective dental parts, such as dentures, crown bridges, and surgical guides. The dental industry has an overall TAM of well over 50 billion and produces the highest volume of end-use parts in additive manufacturing to date. We believe the dental sector will become one of our strongest growth drivers in the future.
+As we noted would happen on our last call, we are very excited to have recently launched TrueDent, a new resin for using dentures. TrueDent was invented at Stratasys and is exclusively compatible with our J5 DentaJet. It enables labs to create permanent, natural looking dentures with accurate tooth structure, shade, and translucency on one continuous print. It is our first FDA-cleared medical device and is specifically for use in the fabrication of removable dentures and temporary crowns and bridges.
+According to a recent IDATA study, denture represents an over 5 billion opportunity. Today, of the 4.2 million dentures created annually in the U.S., only 5% are created digitally. We believe TrueDent provides the leap in workflow efficiency, required to move the majority of the industry from traditional dentures to 3D-printed ones. In connection with TrueDent, we also announced a partnership with 3Shape, a leader in digital dental workflow.
+3Shape has integrated TrueDent into their denture design module, allowing dental files to seamlessly export to our GrabCAD software. Our customer will benefit with the most accurate path possible, created more quickly and affordably than other traditional milling or additive options on the market. We also recently announced the launch of our newest printer, the J3 DentaJet. The J3 is an entry-level, multi-material solution focused on implant models and surgical guides that we believe provides the very best accuracy in the market and is tailored toward small- and medium-sized labs that represent two-thirds of all labs in the dental industry.
+We have timed these two significant announcement with two major dental trade shows in the U.S. and Germany, LMT LAB DAY last week and the IDS show later this month. And we are meeting with top dental labs at the show. The result is that we expect to start making measurable progress in 2023 on growing our presence in the large dental industry.
+Another key growth area for the company is medical. We formally launched our patient-specific solution made possible by our Q4 investment in Axial3D. With this solution, healthcare providers and medical device companies can use a cloud service to quickly go from medical scan to 3D-printed anatomical model without large upfront capital expenses. The solution uses Axial3D's AI-powered software to prepare medical files for 3D printing and Stratasys 3D printers to provide visual or biomechanically realistic models that are used for pre-operative surgical planning and diagnostic purposes, and fulfilled by Ricoh using our digital anatomy, J5 MediJet or Origin One 3D printers.
+Most surgeons and radiologists are not yet using 3D-printed models, and we believe this service offering can be a way to accelerate majority adoption. Importantly, later this year, we plan to launch a prospective clinical study to prove the value of using patient-specific anatomical models as a pre-operative surgical planning tool. Stratasys will be the first 3D printing manufacturer to run such a study, positioning us to lead this exciting new area with evidence, new service offerings, new marketing tools, and a supportive pool of key opinion leaders that will be part of this trial. We believe that using 3D-printed models as part of pre-operative planning can result in a favorable clinical and economical results, and we look forward to sharing more after we conclude the study.
+I will now turn the call over to our CFO, Eitan Zamir, to share the financial results and our initial outlook for 2023. Eitan?
+Eitan Zamir -- Chief Financial Officer
+Thank you, Yoav, and good morning, everyone. We achieved solid results against an increasingly challenging environment in the quarter and for the full year. Importantly, our OEM business grew 3.2% in the fourth quarter of 2022 on a constant currency basis, as compared to the fourth quarter of 2021. We are particularly proud of the reduction in opex as a percentage of revenues to its lowest level in eight quarters, which shows the progress we are making on driving efficiencies across the platform.
+And we executed on our operating income guidance by meeting our promise to deliver higher than 2% as we continue to improve that metric. In general, our results demonstrate the resilience our diversified offering provides, which led to our sixth consecutive quarter of profitability. Now, let me dive deeper into the numbers. For the fourth quarter, consolidated revenue of 159.3 million was down 4.6%, and revenue adjusted for constant currency was down 2.8% from the prior-year period.
+When adjusted for the MakerBot divestment, revenue grew 1.7% at constant currency. For our OEM business, which would be backing out MakerBot and FDM, revenue was up 3.2% at constant currency. Product revenue in the fourth quarter fell by 5.8% to 111.2 million compared to the same period last year, but grew 1.6% in the fourth quarter, excluding divestitures and on a constant currency basis. Within product revenue, system revenue was down 11.1% to 54.9 million compared to the same period last year.
+Excluding divestitures and on a constant currency basis, fourth quarter system sales were essentially flat year over year. Consumables revenue was essentially flat at 56.3 million in the fourth quarter compared to the same period last year. Excluding divestitures and on a constant currency basis, consumable in the fourth quarter grew 4.4% year over year. Service revenue was 48.1 million for the fourth quarter of 2022, down 1.9% as compared to the same period last year and up by 1.4%, excluding divestitures and on a constant currency basis.
+Within service revenue, customer support revenue grew 1.9% compared to the same period last year and increased by 9.9%, excluding divestitures and on a constant currency basis. For the full year 2022, consolidated revenue was up 7.3%, up 9.6% on a constant currency basis and up 11.4% at constant currency after backing out MakerBot. And for our core OEM business, taking out MakerBot and FDM, growth was 12.5% at constant currency. Product revenue in 2022 grew by 8.3% compared to 2021 and by 13.7% excluding divestitures and on a constant currency basis.
+Within product revenue, system revenue in 2022 increased by 12.6% compared to 2021 and by 20.9% excluding divestitures and on a constant currency basis. Consumable revenue was up by 4.3% in 2022 compared to 2021 and by 7.7% excluding divestitures and on a constant currency basis. For the full year of 2022, service revenue grew by 5.1% compared to 2021 and by 7.1% excluding divestitures and on a constant currency basis. Within service revenue, customer support revenue in 2022 was up by 6.3% compared to 2021 and by 11% excluding divestitures and on a constant currency basis.
+Now, turning to gross margin. GAAP gross margin was 43.1% for the quarter compared to 43.7% for the same period last year. Non-GAAP gross margin was 48.4% for the quarter compared to 48.7% for the same period last year. The year-over-year slight decrease in gross margin was the result of the negative impact, offset somewhat by the carveout of MakerBot.
+For the full year 2022, gross margin was slightly higher year over year, and the price increases helped to offset cost increases. A reminder that our 2022 guidance planned for gross margins to be flat to slightly higher than 2021. And given the increasingly difficult cost environment as the year progressed, we are proud to have been able to deliver on this commitment. GAAP operating expenses were 67.1 million for the quarter compared to 89.2 million during the same period last year, reflecting the elimination of operating expenses of divested entities and further improved operating efficiencies.
+Non-GAAP operating expenses were 72 million for the quarter compared to 79.6 million during the same period last year. Non-GAAP operating expenses were 45.2% of revenue for the quarter, compared to 47.7% for the same period last year, as we continue to focus on operational efficiency improvement. As I just mentioned, opex as a percentage of revenue was the lowest level in eight quarters. For the full year, non-GAAP operating expenses were 45.9% of revenue, an improvement of 220 basis point.
+Regarding our consolidated earnings for the quarter, GAAP operating income for the quarter was 1.6 million compared to a loss of 16.2 million for the same period last year. Non-GAAP operating income for the quarter was 5.1 million compared to 1.7 million for the same period last year. The increase reflects our business scalability and improved operational efficiencies. GAAP net loss for the quarter was 2.4 million, or $0.04 per diluted share, compared to a net loss of $4.8 million, or $0.07 per diluted share, for the same period last year.
+Non-GAAP net income for the quarter was $4.6 million, or $0.07 per diluted share, compared to net income of 0.5 million, or $0.01 per diluted share, in the same period last year. Adjusted EBITDA of 10.7 million for the quarter compared to 7.9 million in the same period last year reflected our improved profitability levels. Regarding our consolidated earnings for the full year 2022, GAAP operating loss was 57.2 million compared to a loss of 79.2 million for 2021, reflecting operational efficiency. Non-GAAP operating income for the year was 13.5 million compared to a loss of 1.7 million in 2021.
+As with gross margins, a reminder that despite the increasing challenges as 2022 progressed, we achieved our non-GAAP operating margin guidance of slightly above 2%, coming at 2.1%. GAAP net loss for the year was 29 million, or $0.44 per diluted share, compared to a net loss of 62 million, or $0.98 per diluted share, for last year. GAAP net loss included a 39.1 million gain from the deconsolidation of MakerBot. Non-GAAP net income for the year was 10.3 million, or $0.15 per diluted share, compared to a loss of $4.3 million, or $0.07 per diluted share, last year.
+Adjusted EBITDA of 36.1 million compared to 22.6 million in 2021 reflected our improved profitability levels. We used 18.1 million of cash in our operations during the fourth quarter, compared to generating 4.4 million of cash from operations in the same quarter last year. The use of cash was primarily driven by increased inventory purchases. Going forward, we will shift from building inventory and return to more normalized levels.
+While there may be a quarter or two lag effect, this change will contribute toward us returning to positive cash flow from operations for 2023. We ended the quarter with 327.8 million in cash, cash equivalents, and short-term deposits, compared to 348.7 million at the end of the third quarter of 2022. During the quarter, we used cash to make investments in companies that we believe will help further advance our strategic goals. Our balance sheet and cash generation profile remains strong, and we are well funded and well positioned to weather near-term challenges and capitalize on value-enhancing market opportunities as they are identified.
+Now let me turn to our initial outlook for 2023. For comparison purposes, 2022 revenue without MakerBot was approximately 625 million. In the back half of last year, we started to see reduced capex spending on hardware as many of our customers positioned for a potential recession, and we expect this trend to continue in 2023. Given that, we expect 2023 revenue to be in a range of 620 million to 670 million subject to potential fluctuations in FX.
+I'll remind you that our first quarter is typically our weakest, the fourth quarter our strongest, and we expect revenue to grow sequentially throughout the year. We also expect the second half of the year to be notably stronger than the first, primarily due to several new products that we're planning to launch. The customer demand feedback for these products has been excellent, and we look forward to share more details later in the year. From a gross margin perspective, full year 2023 is expected to improve modestly to a range of 48% to 49% with the second half stronger than the first half, based primarily on higher revenue.
+We expect gross margins to exceed 50% in the next few years, assuming market conditions improve and our newer technologies and materials ramp. We will continue to invest in our growth engines to generate significant leverage benefit as we responsibly build a strong company from the long term. In 2023, we expect our operating expenses to range between 290 million to 300 million. We expect operating expenses as a percentage of total revenue to be slightly lower for the full year relative to 2022.
+Improving long-term profitability is an important objective for us. And for 2023, we expect to see continued improvement in our earnings. We expect non-GAAP operating margins to be in the range of 2.5% to 3.5% for the full year with improving profitability through the year, and we'll benefit from anticipated revenue growth. For 2023, we anticipate a GAAP net loss of $78 million to $57 million, or $1.12 to $0.83 per diluted share, and non-GAAP net income of $9 million to $17 million, or $0.12 to $0.24 per diluted share.
+I'd like to point out that our adjusted profitability has not seen a sequential decline for the past eight quarters. And while we anticipate some pressure on this metric to start the year, we expect to produce sequential profitability growth as we move through 2023. Adjusted EBITDA for 2023 is expected to be in a range of 35 million to 50 million. We expect to see EBITDA reach 13% to 15% of our revenue longer term as our margins improve over time.
+We expect our capital expenditure for 2023 to range between 20 million to 25 million. Finally, we expect to deliver positive operating cash flow for the full year, primarily driven by the growth anticipated in the second half. With that, let me turn the call back over to Yoav for closing remarks. Yoav?
+Yoav Zeif -- Chief Executive Officer
+Thank you, Eitan. Stratasys produced another year of profitable growth while sharpening our focus on our core OEM offerings. As we have stated time and again, the challenges our customers and our business face today in many ways highlight the benefits of additive manufacturing going forward, resulting in confidence for the years ahead, even as we navigate the current environment. We have the balance sheet strength to continue investing in an expanding portfolio of hardware, materials, and software solutions to broaden our market presence as the relevance and adoption of 3D printing grows.
+Our management team began to forge our path to make Stratasys the leader in polymer 3D printing solutions over two years ago, and the actions we have taken ever since reflect our ongoing execution. I want to thank our global teams for raising to the challenge and helping drive continued profitability as our business growth, creating long-term value for all of our shareholders. With that, let's open it up for questions. Operator?
+Operator
+[Operator instructions] Our first question today is coming from Greg Hallum from -- I'm sorry, Greg Palm from Craig-Hallum. Your line is now live.
+Danny Eggerichs -- Craig-Hallum Capital Group -- Analyst
+Yeah, thanks. This is Danny Eggerichs on for Greg today. I guess we'll just start off more broadly what you're seeing in the market right now. Specifically, any end markets or geographies that you're seeing particular strength or weaknesses?
+Yoav Zeif -- Chief Executive Officer
+Hi. Thank you for the question. It's Yoav. We see more or less what you are seeing on the market.
+It's microeconomic slowdown, no doubt, across the board with some geographies that are less sensitive than the other. But overall, it's across the board. The nice thing with Stratasys is that we are very highly diversified across geographies, across verticals, and across technologies, which put us in a good position to compensate for those, I would say, differentiated behavior of different segments. So, if I'll take aerospace for example.
+We see that it's -- after many quarters that we were suffering there, we see that it's coming up again and start growing post-pandemic. So, that's a great example where our leadership with FDM, big part, take us forward. On the other end, we see some other verticals like, for example, medical, where it's growing but less fast than the aerospace. But the nice thing is that we are the largest player.
+And this size and diversification allow us to compensate between different segments. And this demonstrates growth -- actually, significant growth, almost 10% growth year over year without adjustments, and keep growing, and we'll keep doing it also in the future, and a profitable growth by the way.
+Danny Eggerichs -- Craig-Hallum Capital Group -- Analyst
+Yeah, that's good. Maybe just in terms of the guide, it sounds like a lot of emphasis on more of the second half. And you said there should be some product announcements there that should help that growth. But how good is your visibility levels that makes you confident, you know, in that heightened activity in the second half? And maybe, what could go right or wrong there?
+Yoav Zeif -- Chief Executive Officer
+So, yeah, we are in a macroeconomic challenge, but we have visibility. We believe in H2. And many thing can go right. We have new products in the pipeline.
+Since we have five technologies and we are a tech leader, we -- out of the five technologies, all of them, we are between No. 1 to No. 3. So, in our two PolyJet and FDM, we are No.
+1 by far. And in the other new technologies, we are between one -- between two to three position in the market. So, many things can go right, like the new product across the different platforms. The Covestro impact that we anticipate to close the deal in Q2, and Eitan can elaborate on the impact; the dental offering.
+This is huge. We are disrupting the dental restorative market, and I can elaborate later about it. Our install base, at the end, it's working. It's the largest in the industry, and people can delay because of capex.
+But at the end, they're consuming spare parts and consumable, and you can see that our consumable grew significantly year over year despite the situation.
+Danny Eggerichs -- Craig-Hallum Capital Group -- Analyst
+OK. That's good. I will hop back in line. Thanks.
+Operator
+Thank you. Next question is coming from Paul Chung from JPMorgan. Your line is now live.
+Paul Chung -- JPMorgan Chase and Company -- Analyst
+Hi. Thanks for taking my questions. So, just on the Ricoh partnership, talk about how that deal came about, how to size that relationship, potential for other kind of future collaborations globally, and then margin and revenue contributions we can expect over time. And any kind of similar forays into different verticals would be helpful.
+Yoav Zeif -- Chief Executive Officer
+Thank you, Paul. I think the collaboration with Ricoh is a great example of how we are restructuring some key applications of 3D printing in the end-use part space. So, we're talking here about medical, about anatomic model. It's a market with huge prospects going forward.
+But it's stuck at the high end of the hospital and very high-end operation, surgeries. And we want to democratize it to bring it to dozens of thousands of hospitals. And so, we need to build a network to make this solution really accessible. And you will see that we will do it also in other type of applications.
+So, how will it work? We collaborate and invest in Axial3D. It's an AI. I would say probably the only AI in transforming, for example, CT or MRI files into files that you can print. And they are the front end that are walking with the surgeon or the radiologist.
+They transform without label just a check automatically the file into a 3D printed file. And we are building a network, and Ricoh is the first partner in this network, where they print on our unique solution, the PolyJet solution, for anatomic model, like our DAP and our MediJet, digital anatomic printing, and we have the right software. And we put everything together, and it's an end-to-end solution that really disrupt the market practically because suddenly, it's accessible also for most of the hospitals in the world. And it offers a huge cost savings compared to the current solution where you need to offer practically to order the full kit from third party.
+Paul Chung -- JPMorgan Chase and Company -- Analyst
+OK, great. Thanks for that. And then, second, on, you know, gross margins. Can you talk about the progression there in the past to kind of get back to that 50%? You know, the '23 guide suggests a slight improvement here on flattish revenues.
+But, you know, if we think about '19, you were at 52% at similar run rate revenues. Obviously, this year you're getting hit by -- you know, this year and the past year by component inflation, freight, and others. But as those cost inputs ease, expand on kind of the timing you expect and efficiency gains to kind of get you back to, you know, 50%? Thank you.
+Eitan Zamir -- Chief Financial Officer
+Hi Paul. Thanks for the question. It's Eitan. So, I guess at the start, you see the progress.
+When you look on our last few quarters and you look 2022 versus 2023 guidance, you do see that we have -- we move toward the 50% plus that we believe we can achieve as we scale our business. We have confidence together with our better operational efficiency. We have inventory level that can support our business and help us to better manage the sea versus air freight and, obviously, try to improve our mix with more consumable. Take into consideration the Covestro business that come with better growth margins.
+We still have some headwinds from FX in 2023 compared to 2022. So, that's something that, if you put aside, FX could have been even better. But we have -- we're very proud, very excited about the ability to improve and increase growth margins also in 2023.
+Paul Chung -- JPMorgan Chase and Company -- Analyst
+Great. Thank you.
+Operator
+Thank you. Next question today is coming from Jim Ricchiuti from Needham and Company. Your line is now live.
+Jim Ricchiuti -- Needham and Company -- Analyst
+Hi, thank you. I'm wondering, as you think about your full year guidance, so obviously, you're making some assumptions as it relates to the macro environment, looking out to the -- particularly the second half of the year. I'm wondering how you're framing the opportunities in the legacy prototyping business versus manufacturing where you continue to make some traction. So, what I'm trying to get to, I think, is how you're feeling about that manufacturing portion of the business, which was, what, about a third of the revenues?
+Yoav Zeif -- Chief Executive Officer
+Thank you. That's exactly our strategy. I couldn't say it better. It's clear to us that we have great foundations in prototyping.
+And by the way, you can see it in our gross margin and in our recurring revenues. It exists. We are there. We are solid.
+We have strong recurring revenues. But what is really driving our growth over the last three years is the penetration into manufacturing. And we are already -- we started below 20% of our overall sales, and we are already in three years -- less than three years because we announced this strategy just two and a half years ago. We are already in 32.5% of sales going to manufacturing to the manufacturing floor.
+And we see their great application, application by application. And this transition is something that's really transformed the company, transformed the way, and we are putting many more machines out there. It's a full solution, but the base is a machine. And you can see, by the way, if you will look at any market research, that we grew significantly during 2022 and, at the end of '21, our hardware share of overall sales of the industry.
+So, the strategy is working, and we are focusing on building machines from manufacturing in all the five technologies. Take for example, FDM, because, you know, we are just talking about the new technologies. But the two core technologies of Stratasys, we also transform them into manufacturing. You take FDM, we build FDM for manufacturing.
+We just mentioned the aerospace industry. And we are building machines for big parts that practically -- I don't want to say no one can do, but rarely, someone in the industry can build this quality of part with that accuracy, with the profile of the part and the quality of the part. And we already have hundreds of thousands of parts in the air on airplane. So, this is just FDM.
+And then if you go to PolyJet, what we are doing, we are transforming it into an end-use part machine. I just mentioned the anatomic model, plus dental. This is the holy grave. And we are disrupting the market.
+We just launched our TrueDent', and this is just the first launch. There will be more in the next 12 to 24 months that will disrupt the way dentists are engaging with restorative treatment in dental. And dental is not some -- it's not those solution which is dentures, crown bridges, it's not a nice web. It's a massive, it's not discretionary.
+We are targeting the must have with -- and no one else has a monolithic print. You print it in the printer, in the machine, you take it out, it's ready. We don't need to glue anything. We don't need labor.
+It's a completely new age of dentistry. So, we are very proud of it. And this is exactly the shift from prototyping to manufacturers.
+Jim Ricchiuti -- Needham and Company -- Analyst
+My follow-up is, as you get beyond the Covestro additive manufacturing business acquisition, I guess in Q2. How are you thinking about M&A just in light -- in the current economic environment?
+Yoav Zeif -- Chief Executive Officer
+I think it's an opportunity, to be honest, because we worked really hard over the last -- and really, I need to thank my teams all over the globe. But we built very strong foundation. In foundation, what makes the difference now is tough times. So, we invested in material, we invested in workflow, in pre-processing, in post-processing.
+We are investing in software. We can elaborate on it later on. But this infrastructure, what we call the platform for profitable growth, put us in a very good position in the industry to be part of any M&A activity. We are very attractive as someone that can take many companies to theglobal marketand in a structured way create profitable growth.
+Jim Ricchiuti -- Needham and Company -- Analyst
+Thank you.
+Operator
+Thank you. Next question is coming from Brian Drab from William Blair. Your line is now live.
+Brian Drab -- William Blair and Company -- Analyst
+Hi. Thanks for taking my questions. I was wondering if you could talk about what you've seen in terms of equipment utilization, maybe through the lens of consumables growth or decline, as you moved through 2022. And just wondering if that's begun to soften, given some of the macro challenges.
+Eitan Zamir -- Chief Financial Officer
+Thanks, Brian. We actually -- as we explained in earlier on the call, when you look on our actual 2022 numbers, when you look on recurring revenue, which means consumable and services, consumable grew 2022 versus 2021 by 7.7% adjusted for FX and the MakerBot divestment. And services actually grew double digit, excluding MakerBot and FX. So, we're actually very proud of this journey, very proud of the results of 2022.
+And we believe that 2023, with the addition of Covestro to our consumables offering and with our increased install base also for our new platform, we're very excited and have confidence in our ability to grow this recurring revenue business even further.
+Brian Drab -- William Blair and Company -- Analyst
+OK, thanks. I did see that information in the slides. Just to be clear, I don't know if you want to answer this directly, but what I'm trying to see is, I mean, because consumables growth was 7% for the year, 4% for the fourth quarter. I'm just wondering what you saw, really, from the third quarter to the fourth quarter sequentially, consumables dollars.
+Were they up or down? Thanks a lot.
+Eitan Zamir -- Chief Financial Officer
+So Q3, if the question is Q3 versus Q4, the picture in Q4 is actually better than the picture in Q3 as far as we're concerned with the results in 2022. And we believe that the 2023 quarter will show further improvement, again, due to the addition of Covestro, but also due to the install base that we created for the new platforms, Origin, SAS, and RPS.
+Brian Drab -- William Blair and Company -- Analyst
+OK. Thanks very much.
+Operator
+Thank you. Next question is coming from Troy Jensen from Lake Street Capital Markets. Your line is now live.
+Troy Jensen -- Lake Street Capital Markets -- Analyst
+Hey, gentlemen. Congrats on the nice results and profitability this quarter.
+Yoav Zeif -- Chief Executive Officer
+Thank you.
+Eitan Zamir -- Chief Financial Officer
+Thanks, Troy.
+Troy Jensen -- Lake Street Capital Markets -- Analyst
+You're very welcome. So, Eitan, maybe start with you first, Covestro, we've talked about a few times on the call. I just want to confirm that the guidance doesn't include anything from that acquisition until it closes. And then, can you remind us what contribution it will have for '23?
+Eitan Zamir -- Chief Financial Officer
+Thanks, Troy, for the question. So, it's actually very good question and to clarify for everyone. So, we anticipate Covestro to close during Q2 as Yoav mentioned earlier. Covestro, historically, had roughly $20 million for revenue annualized.
+So, we actually anticipate between $10 million to $15 million of contribution from Covestro. It is reflected in our numbers, in particular in the high end. So, that's something that is good for clarification for the entire group here.
+Troy Jensen -- Lake Street Capital Markets -- Analyst
+And you have said historically it's instantly accretive, right, to both margins and profitability?
+Eitan Zamir -- Chief Financial Officer
+Correct.
+Troy Jensen -- Lake Street Capital Markets -- Analyst
+All right, perfect. And how about -- for Yoav, you're my follow-up, you know, it was probably a year or so, maybe a year and a half ago, you guys started talking about open materials. And I know it is going to be a while before you launch, but for some reason I thought it would've been in the second half of last year that you guys launched open materials. So, I'm curious if you've seen traction with it.
+And I guess I'm specifically thinking about FDM, not Origin.
+Yoav Zeif -- Chief Executive Officer
+So we launched it on the F450 at the end of last year. And practically, we are supplying -- starting to supply now. And on the 450, we see that many of high-end manufacturing players are highly interested in this, because it's completely changed the way they look at additive manufacturing. It's not anymore a closed system where they don't have flexibility.
+They are willing to pay more because we are charging for the open material license. You have to buy the license, but they are willing to pay more. And we are shifting revenues from the material to the software, but we open up new applications for our customers because they can develop by themselves new material. They can -- they have now a much broader portfolio of material just below its first batch of new material, eight new materials.
+It will take us almost four years to develop those eight materials, and we did it in one shot. So, great attraction, and I'm very optimistic about this.
+Troy Jensen -- Lake Street Capital Markets -- Analyst
+Awesome. All right, guys, well, keep up the good work.
+Eitan Zamir -- Chief Financial Officer
+Thank you.
+Yoav Zeif -- Chief Executive Officer
+Thank you.
+Operator
+Thank you. Next question is coming from Shannon Cross from Credit Suisse. Your line is now live.
+Shannon Cross -- Credit Suisse -- Analyst
+Thank you very much. I was just wondering if you could go into a bit more detail on your increased opex. And, like, what is driving the decision to, you know, spend more, where are you spending it at, and how should we think about the opportunity for that to drive increased revenue, you know, in coming years? And then I have a follow-up. Thank you.
+Yoav Zeif -- Chief Executive Officer
+Hi, Shannon. Let me really start with the actual of 2022 and then touch on the 2023 opex. So, when you look for the full year of 2022, we increased revenue by 44 million with an incremental opex of only 6.5 million, which reflects 15% of opex as a percentage of revenue for the full year of 2022. That's something that is part of our scale.
+That's something that is part of our plan. And that's basically our ability to leverage our existing infrastructure with the new businesses that we acquired over the last few years. Now, when you look on our guidance, in particular, on our high end, and maybe if you do the midrange of the guidance, we actually show on the high end 670 million of revenue with 300 million of opex. When you look on that this ratio, that's actually an improvement compared to 2022.
+And when you do the same exercise with the midrange with 645, you actually also see an improvement of opex as a percentage of revenue. So, we continue with the same journey. We continue with our ability to scale our business. We do take into account certain elements that are beyond our control.
+For example, FX impact can negatively -- or FX can negatively impact our opex. So, that's something that could actually be even better if FX stabilized during the year. But overall, as I mentioned, opex is actually improving also in 2023.
+Shannon Cross -- Credit Suisse -- Analyst
+OK, thank you. And then, can you talk about working capital and inventory? Just, you know, how you're thinking about that as you do grow your business. Obviously, you don't need incremental working capital. But then, on the other side, maybe there's some room for optimization of inventory? Thanks.
+Eitan Zamir -- Chief Financial Officer
+Yes. So, thanks Shannon. We're actually reaching inventory levels that can support our business, our growth going forward. That inventory level also help us to improve our gross margin levels.
+It helped us shift to a sea freight versus air freight, which is favorable to our gross margin, and that's something that will also serve us in the next few quarters. But we're reaching a point that it is normalized. It is in the level that will serve our business in the future. And that's why we have confidence in our ability to generate operating cash flow in 2023 due to that fact also.
+Shannon Cross -- Credit Suisse -- Analyst
+OK, thanks. And then, my final question is just I'm curious about the competitive landscape these days. There's obviously been some pressure from -- sorry, from end market perspective given macro. And then, you know, there's challenges for several of the competitors in this space, given, you know, liquidity and where share prices are and all of that and maturity of business models.
+So, can you talk a bit about, you know, what you're seeing when you go into RFPs and, you know, maybe pricing and just, you know, positioning from a competitive standpoint? Thank you.
+Yoav Zeif -- Chief Executive Officer
+Yes, it's definitely challenging times for everyone, but it's also an opportunity for us because we are shining in that times. It happened to us also in the COVID -- in COVID time. It happens to us also now when we are competing. So, someone is putting its future in the hands of a company.
+He would like to see a company like Stratasys, a large player profitable for six consecutive quarter and tech leader. As I said, we are in five technologies, two in No. 1 and the other three, we are in the second or third position. We are leading the vertical.
+For example, if we go for an RFP in aerospace, we have a proven track record of execution, which is highly appreciated by our customer. We have No. 1 service in the industry, and this is not me judging it. It's based on NPS scores and surveys.
+And our customers see that we are walking our talks. And when I'm in front of the customer and I'm promising a superior application fit and that I can solve your problem, they genuinely believe me because I'm not selling him something. I have the whole five technologies, and I'm solving his problem on the spot with the best everything the industry, with the best go-to-market, and with a full solution. And no one has a better material portfolio than us, especially after Covestro.
+So, all these hard work of building those platforms is great to our reputation and put us in a really good place. Good things are happening in Stratasys, and our customers observe it.
+Shannon Cross -- Credit Suisse -- Analyst
+Thank you very much.
+Operator
+Thank you. Next question is coming from Ananda Baruah from Loop Capital. Your line is now live.
+Ananda Baruah -- Loop Capital Markets -- Analyst
+Hey, guys. Appreciate it. Thanks for taking the questions. Yeah, a couple quick ones, if I could.
+How do you guys think about long-term revenue growth, if even just contextually, given that you're putting up pretty attractive revenue growth, call it mid to high single digits kind of with macro challenges, and you have all the new opportunities in front of you, including growing manufacturing as the percentage of sales. And then I have a quick follow-up. Thanks.
+Yoav Zeif -- Chief Executive Officer
+Thank you. So, we work really in the tranches for the last three years to build the platform for profitable growth. So, the moment the trigger will be released in terms of the macro challenges, we are positioned to capture significant growth because we have the growth drivers in this, we have the five technologies, the Origin, the SAS, the RPS. The quality that it's going for end-use parts like dental and the FDM mainly aerospace and automotive.
+So, this is very strong growth driver. The hardware leadership that we have, and you can see it in our hardware share quarter over quarter in every market research. Then, we have the materials, which are critical for growth and the software that we really build something unique based on our large -- actually the largest install base in the industry. And we are leveraging this install base to bring a fantastic solution to our customers.
+And they are willing to pay for it, and we see it in their open material license that we started to sell. So, the growth drivers are in place, the position in the vertical is in place, which create for us the confidence that we can govern the business in the next three to five years.
+Ananda Baruah -- Loop Capital Markets -- Analyst
+And that maybe answers my next question, which was I was going to ask you, not as a commitment or a guide, but just philosophically, do you think there's an opportunity, you know, over time that normalize the company could be a 15% to 20% organic revenue grower?
+Yoav Zeif -- Chief Executive Officer
+I think if you take what I said and calculate, you are there.
+Ananda Baruah -- Loop Capital Markets -- Analyst
+Yup, so that's the answer.
+Yoav Zeif -- Chief Executive Officer
+But you are the analyst.
+Ananda Baruah -- Loop Capital Markets -- Analyst
+Appreciate it, guys.
+Yoav Zeif -- Chief Executive Officer
+Thank you.
+Operator
+Thank you. Next question today is coming from Noelle Dilts from Stifel. Your line is now live.
+Noelle Dilts -- Stifel Financial Corp. -- Analyst
+Hi. Thanks so much, and congrats on the good quarter. I was hoping you could expand on some of your software initiatives and, you know, how you're thinking about the contribution from software over in 2023 and beyond? Thanks.
+Yoav Zeif -- Chief Executive Officer
+So, software -- thank you for the question. Software is, when we are analyzing the different segments in additive manufacturing, there is no doubt that software is one of the -- at the top in terms of opportunities and growth rate. And our unique strategy around software is all about leveraging those unique positions that we have, this large install base that we have that is connected to us. And the fact that it's critical to scale manufacturing.
+So, we go to our customers and we offer them to leverage our living operating system, GrabCAD, that we transform into a platform that, on one hand, is connected to the machine, to the printers -- by the way, it could be in the future, not connected only to our printers, but to others, because we are delivering SDKs and APIs of connectivity. And on the other end, it is open platform to many partners. That way, we put them on one platform across the five technologies. And suddenly, they don't need to use 10 different software.
+They have only one screen where they can have the best simulation of a partner that we are working on, or a way to, you know, put tags on parts because we already have this feature. And they manage the entire digital thread on our platform. And they're willing to pay for it. We have two different offerings.
+One is free. And for specific features we have -- I'm going to request them to pay for it. And it'll be another addition to our recurring revenues that are already very strong in service and material. It will be a great additional contribution.
+And we will, you know, at the right time, we'll explain exactly what our expectations are.
+Noelle Dilts -- Stifel Financial Corp. -- Analyst
+Great. Thank you. And then you've touched on this in some of the comments, but just I guess maybe trying to get a little bit more granular. When you look at your 2023 revenue guidance and sort of the organic element of that, is there a way to kind of think about how you're thinking about like base market growth versus maybe what you would think about as share gain or growth that's coming from that expanded addressable market that you're going to have, you know, following the recent acquisitions and when you close Covestro? Thanks.
+Yoav Zeif -- Chief Executive Officer
+So, I will divide my answer to two. One, we are growing across all technologies. This is amazing. So, in 2022, all our technologies grew one by one, and that creates a lot of confidence with us.
+So, we are not bleeding on any technology, which was not the case in the past. And we have quite good visibility in the future because we have those growth drivers that I already mentioned. And when I'm looking forward, first, we have the three new technologies that almost tripled, more than double our addressable market. And we know exactly what is the share that we are expecting to gain there.
+And our go-to-market, our sales guys, and our partners, sales reps know exactly where and what they need to achieve. Of course, it's given a ramp-up. So, this is a huge state for us to grow. On top of it, what we are doing is that for each one of the technologies, we are developing an end-to-end solution for specific applications.
+Take, for example, the dentures. Take for example -- and this is just the first. The product that we launch now is only the first step. More to come in the next 12 to 24 months.
+So, the application itself is a growth driver for us. Take, for example, even the fashion, really great attraction from the market, the high-end fashion market. And we have more applications like those. We took and analyzed 186 applications, and we prioritized them, and we go one by one to deliver those solutions across the five technologies.
+So, there is like the direct selling [Inaudible] machines because we are not there. And then there is the full solution that only Stratasys can deliver. We are very optimistic on this one as well.
+Noelle Dilts -- Stifel Financial Corp. -- Analyst
+Thank you very much.
+Operator
+Thank you. Next question is coming from Jared Maymon from Berenberg. Your line is now live.
+Jared Maymon -- Berenberg Capital Markets -- Analyst
+Hey guys. We've kind of touched on this in the past, but I just wanted to ask about it again since we're kind a quarter closer to it becoming a real opportunity. But just on dentures. So, you know, you guys are obviously talking about this.
+Some of your competitors are increasingly talking about it. I think you'd be crazy not to, given the order of magnitude of the opportunity sounds, you know, on par or maybe even better than things that have been great demand generators for additive, like aligners and hearing aids. So, I'm just curious, from your perspective, what are you guys seeing on number of customers that you think there are to address in concentration, I guess where you think the big opportunities are for you geographically. And then, lastly, what's kind of left on the development side before you can go out and start to show some of the customers what you're capable of and generate some meaningful revenues from that market?
+Yoav Zeif -- Chief Executive Officer
+So, denture is over $5 billion opportunity. By the way, I think it's only in the U.S. I'm not sure, but I think it's only in the U.S. Think about it, only the denture, not crown and bridges.
+The overall area where our technology -- that our technology can address is almost 50 billion. And we are bringing real value to the dentists and to the dental lab because suddenly, we reduced the numbers of visits, we reduced the amount of time and label you need to put in order to produce a denture, for example. And currently, dentures are only -- I think digital dentures is around 5% of the overall market. So, multiple 5% by 5 billion and then add Europe, which -- that's one of the things I didn't want to talk about.
+That's one of the things that you will see in the next 12 to 24 months because we are in the process. It's an FDA-approved. And I believe the best thing and probably will use it for marketing. I saw a few videos [Inaudible] patients, that we put in their mouth the new dentures.
+And those are patients that are using the traditional dentures, which are heavier. By the way and I heard from them that it creates problems because of the friction. And we have those new dentures that are a 100% fit because we scan, and it's so easy to replace them because you just bring them. And it's really disruptive.
+We are changing the market. No one has our PolyJet technology and the ability to break the -- I would say the blast ceiling or the constraint of making a PolyJet and then use pulse machine, it's support to our teams. They achieved something that no one achieved in our industry. And those TrueDent resins, we would keep developing them, and you will see us as the leader in those nondiscretionary end-use parts in dental because we have the technology.
+We simply have the technology, and we want to make people happier and make them smile. And we will do it.
+Jared Maymon -- Berenberg Capital Markets -- Analyst
+Yeah, that's great. And then, just to clarify on that, so I guess when you look at kind of concentration or Stratasys' strategy of addressing this market, do you guys look at this like you want to become the supplier of choice for a few big customers that you look at as clear targets that can drive a lot of volume? Or is this more of a spread approach of, you know, build the technology and let the demand come from a big base of customers?
+Yoav Zeif -- Chief Executive Officer
+We are going in a few different channels. Of course, I'm not going to elaborate here. But we are going through different channels to the market. And for us, the most important thing that as many people as possible will be able to enjoy.
+And not only in the developed world, but also in the developing world, because we dramatically also reduce the cost for denture.
+Jared Maymon -- Berenberg Capital Markets -- Analyst
+Got it. Thanks. And then, just one follow-up on the EBITDA margin target. So, you guys mentioned that 13% to 15% as what you think the business is kind of capable of on EBITDA.
+So, I'm just curious, if we look back additive industry as a whole, since, you know, 2014 and even before that as well, getting a good gauge of kind of normalized profitability has been a real challenge. So, I'm just wondering, are you guys -- this 13% to 15% target, are you guys looking at this as like an out-year estimate and you have a time in mind where you can hit that? Or do you think that's a good way to look at the industry and perpetuity, and 13% to 15% is what makes sense for additive long term?
+Eitan Zamir -- Chief Financial Officer
+Thanks, Jared, for the question. This is -- this target is a midterm target, so probably two to three years to reach to the double-digit operating income and 13% to 15% EBITDA. That's definitely not the end state. We believe that we can continue to grow the business and grow profitability beyond that target as we continue with our journey and our scale.
+Jared Maymon -- Berenberg Capital Markets -- Analyst
+Perfect. Thanks, guys, and congrats on the nice quarter.
+Yoav Zeif -- Chief Executive Officer
+Thank you.
+Eitan Zamir -- Chief Financial Officer
+Thanks.
+Operator
+Thank you. We've reached the end of our question-and-answer session. I'd like to turn the floor back over to management for any further or closing comments.
+Yoav Zeif -- Chief Executive Officer
+Thank you for joining us. Looking forward to updating you again next quarter.
+Operator
+[Operator signoff]
+Duration: 0 minutes
+Yonah Lloyd -- Chief Communications Officer and Vice President of Investor Relations
+Yoav Zeif -- Chief Executive Officer
+Eitan Zamir -- Chief Financial Officer
+Danny Eggerichs -- Craig-Hallum Capital Group -- Analyst
+Paul Chung -- JPMorgan Chase and Company -- Analyst
+Jim Ricchiuti -- Needham and Company -- Analyst
+Brian Drab -- William Blair and Company -- Analyst
+Troy Jensen -- Lake Street Capital Markets -- Analyst
+Shannon Cross -- Credit Suisse -- Analyst
+Ananda Baruah -- Loop Capital Markets -- Analyst
+Noelle Dilts -- Stifel Financial Corp. -- Analyst
+Jared Maymon -- Berenberg Capital Markets -- Analyst
+More SSYS analysis
+All earnings call transcripts
+This article is a transcript of this conference call produced for The Motley Fool. While we strive for our Foolish Best, there may be errors, omissions, or inaccuracies in this transcript. As with all our articles, The Motley Fool does not assume any responsibility for your use of this content, and we strongly encourage you to do your own research, including listening to the call yourself and reading the company's SEC filings. Please see our Terms and Conditions for additional details, including our Obligatory Capitalized Disclaimers of Liability.
+The Motley Fool has no position in any of the stocks mentioned. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

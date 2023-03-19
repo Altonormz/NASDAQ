@@ -1,0 +1,56 @@
+March 07, 2023 — 08:35 am EST
+
+      Written by
+                        Leo Sun for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+The Trade Desk (NASDAQ: TTD) and Magnite (NASDAQ: MGNI) are both independent ad tech companies that operate in the shadows of diversified advertising giants like Alphabet's (NASDAQ: GOOG) (NASDAQ: GOOGL) Google and Meta Platforms (NASDAQ: META).
+Unlike those larger advertising companies, The Trade Desk and Magnite don't lock publishers and advertisers into their walled gardens. Instead, both companies make it easier to purchase ads on desktop, mobile, and connected TV (CTV) platforms across the "open" internet, which doesn't operate under those big tech umbrellas. But over the past 12 months, The Trade Desk's stock declined 28% as Magnite's stock dropped 17%.
+Image source: Getty Images.
+Both stocks lost their luster as rising rates and other macro headwinds caused companies to curb their spending on ads. Cautious investors also abandoned higher-growth tech stocks in favor of cheaper value plays. But could either of these fallen ad tech stocks bounce back this year?
+The Trade Desk and Magnite are both independent platforms, but they sit at opposite ends of the advertising supply chain. The Trade Desk is a demand-side platform (DSP), which allows advertisers to bid on ad space across a wide range of platforms, while Magnite operates a sell-side platform (SSP), which helps publishers sell their own ad inventories. These two companies are the largest independent players in their respective markets.
+DSPs typically work in tandem with SSPs to sell digital ads. Google and Meta bundle together DSPs, SSPs, and other advertising services, but they're not independent platforms. However, The Trade Desk recently launched OpenPath, a new feature that bypasses SSPs like Magnite to connect publishers to advertisers. That feature could make it a more diversified advertising company like Google or Meta, but it could also hurt Magnite and other SSPs.
+The Trade Desk hasn't made any acquisitions since it bought the assets of the ad tech company AdBrain in 2017. Meanwhile, Magnite was created by the merger of two smaller companies, The Rubicon Project and Telaria, in 2020. It then bought the video advertising companies SpotX and SpringServe, as well as the publisher monetization firm Carbon.
+Therefore, it's fairly easy for investors to track The Trade Desk's growth. Magnite's growth rates need to be reviewed more carefully due to its inorganic growth rates and ex-TAC (excluding traffic acquisition costs) revenues -- which it started using as its core growth metric after its purchase of SpotX in 2021.
+The Trade Desk's revenue rose 26% in 2020, even as the pandemic throttled the market's demand for digital ads. But in 2021, its revenue increased 43% as the advertising market recovered.
+In 2022, its revenue rose 32% to $1.58 billion, even as inflation rattled the markets and Apple's (NASDAQ: AAPL) iOS update prevented many advertisers -- including Meta's Facebook and Instagram -- from crafting effective targeted ads. It resisted that pressure with Solimar, its newer AI-powered platform that leverages first-party data (instead of third-party data) to place ads more effectively, and the expansion of its CTV business -- which is growing faster than its other platforms as ad-supported streaming services replace linear TV platforms. Its adjusted earnings before interest, taxes, depreciation, and amortization (EBITDA) also grew 33% to $668 million as its full-year adjusted EBITDA margin held steady at 42%.
+For 2023, analysts expect The Trade Desk's revenue to rise 20% to $1.89 billion as its adjusted EBITDA increases 7% to $718 million. The stock isn't cheap at 14 times this year's sales and 37 times its adjusted EBITDA, but it's still arguably a "best in breed" play on the ad tech market.
+Magnite's revenue rose 42% in 2020 and jumped 111% in 2021, but most of that growth was driven by its initial merger and acquisitions. In 2022, its revenue rose 23% (and 24% on an ex-TAC basis) to $577 million after lapping those deals. Its adjusted EBITDA increased 20% to $179 million, but its adjusted EBITDA margin dipped from 36% to 35%.
+Most of Magnite's slowdown was caused by a deceleration in its CTV business, which generated more than 40% of its revenue during the year. That closely watched segment struggled as advertisers reined in their spending to cope with the macro headwinds, and it expects those headwinds to persist through at least the first quarter of 2023.
+For the full year, analysts expect Magnite's revenue to rise only 6% to $544 million as its adjusted EBITDA dips 2%. Based on those lackluster expectations, Magnite trades at just 3 times this year's sales and 10 times its adjusted EBITDA. However, its sluggish growth, the potential long-term challenges from The Trade Desk's OpenPath, and its heavy dependence on acquisitions could all prevent investors from considering it to be a value play.
+The Trade Desk trades at a significant premium to Magnite, but its stronger growth, higher margins, clearer business model, and ongoing innovations (such as Solimar and OpenPath) make it a better long-term investment. Magnite might eventually bounce back, but it needs to stabilize its CTV business and generate consistent organic growth before the bulls come back.
+Find out why Trade Desk is one of the 10 best stocks to buy now
+Our award-winning analyst team has spent more than a decade beating the market. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed their ten top stock picks for investors to buy right now. Trade Desk is on the list -- but there are nine others you may be overlooking.
+Click here to get access to the full list!
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Suzanne Frey, an executive at Alphabet, is a member of The Motley Fool's board of directors. Randi Zuckerberg, a former director of market development and spokeswoman for Facebook and sister to Meta Platforms CEO Mark Zuckerberg, is a member of The Motley Fool's board of directors. Leo Sun has positions in Alphabet, Apple, Magnite, and Meta Platforms. The Motley Fool has positions in and recommends Alphabet, Apple, Magnite, Meta Platforms, and Trade Desk. The Motley Fool recommends the following options: long March 2023 $120 calls on Apple and short March 2023 $130 calls on Apple. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

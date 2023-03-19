@@ -1,0 +1,54 @@
+March 17, 2023 — 08:10 am EDT
+
+      Written by
+                        RJ Fulton for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+As a nascent asset class, cryptocurrency offers investors an opportunity to invest in an industry that has yet to reach its full potential. There's just one problem: Most cryptocurrencies will either become essentially worthless or even cease to exist in the years to come. 
+The primary reason the majority of cryptocurrencies will lose value over time is that they don't provide any true utility, nor do they have any meaningful use cases. 
+While cryptocurrencies like Bitcoin or Ethereum are considered "blue chip" assets in the sector, our goal is to find ones that might have more upside. To do this, we need to find cryptocurrencies that are at the forefront of providing novel utility in high-demand use cases. 
+After years of keeping tabs on the industry, I believe I have found two prime candidates that meet the aforementioned criteria: Polygon (CRYPTO: MATIC) and Arweave (CRYPTO: AR). Both provide innovative solutions in up-and-coming areas such as Web3 and data storage. Due to the trajectory of current trends and their blockchains' capacities to support further growth, these cryptocurrencies have long-term potential and lower risk relative to many other tokens. 
+Though its price took a beating in 2022, few other cryptocurrencies had as good a year as Polygon did. Even as its price fell by more than 75%, Polygon jumped onto the list of the top 10 largest cryptocurrencies by market cap -- likely due to fresh partnerships made as companies looked to embrace the potential of Web3. 
+I will be the first to admit that what people mean when they use the term Web3 is still somewhat ambiguous -- likely a reflection of its nascence. But if we had to formally define it, we could boil it down to this: Web3 looks to build off the current iteration of the internet (Web2) by leveraging blockchain technology to offer users new digital-based experiences in a more secure, private, and decentralized fashion. 
+In recognition of this technology's potential, companies in varying industries decided to take the leap into Web3 in 2022, and many chose Polygon's blockchain to facilitate their endeavors, among them Nike, Meta, Disney, and Starbucks. 
+With high-profile names like these already jumping on the Polygon bandwagon, it could prove to be a lucrative investment for years to come. 
+Another frontier that blockchains have the potential to revolutionize is the world of data storage. Our world is more dependent upon data than ever before, and that trend is not going away. There is an ever-growing need for cost-effective and innovative solutions to store this data. This is what Arweave aims to do. 
+Data stored on Arweave's blockchain (technically referred to as a blockweave) is permanent, censorship-resistant, and immutable, meaning it can't be altered. Not to mention, because it is a blockchain, there is a near-infinite amount of space. 
+To store data on the blockweave, users need to purchase storage space with the AR token. For a low fee, users can permanently save photos, videos, spreadsheets, and all kinds of other data to Arweave.
+Unlike some other data-storage blockchains, Arweave has already partnered with some major players. Some of its current real-world use cases include storing transaction data for other blockchains like Cosmos, Polkadot, Avalanche, NEAR, Solana, and The Graph. In addition, Meta recently tapped Arweave to store all data related to its recent integration with non-fungible tokens (NFTs). 
+Although it's still speculative, there is even discussion in the Ethereum developer community that the blockchain might select Arweave to store transaction data. If it did so, Ethereum would benefit by becoming more streamlined and decentralized, as nodes would not have to store the massive amount of transaction history on Ethereum's blockchain. That would lessen operating costs for those without access to large data storage capacity. If Arweave pulls this off and joins forces with the world's second-most-valuable blockchain, it could be a frontrunner of portfolios for years to come. 
+It should be noted that neither of these cryptocurrencies is suitable for the risk averse. Cryptocurrencies naturally carry more risk than many other investments, as the asset class is still in its early days, but these two will be riskier than more proven assets like Bitcoin or Ethereum. However, for those looking to gain exposure to the next generation of crypto, Polygon and Arweave are the most attractive candidates. 
+10 stocks we like better than ArweaveWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Arweave wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of March 8, 2023
+ 
+Randi Zuckerberg, a former director of market development and spokeswoman for Facebook and sister to Meta Platforms CEO Mark Zuckerberg, is a member of The Motley Fool's board of directors. RJ Fulton has positions in Bitcoin, Ethereum, Polygon, and Solana. The Motley Fool has positions in and recommends Avalanche, Bitcoin, Cosmos, Ethereum, Meta Platforms, Nike, Polygon, Solana, Starbucks, The Graph, and Walt Disney. The Motley Fool recommends Arweave and recommends the following options: long January 2024 $145 calls on Walt Disney, long January 2025 $47.50 calls on Nike, short April 2023 $100 calls on Starbucks, and short January 2024 $155 calls on Walt Disney. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

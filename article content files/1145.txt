@@ -1,0 +1,61 @@
+March 16, 2023 — 08:43 am EDT
+
+      Written by
+                        BNK Invest for                             
+        
+
+
+
+
+BNK Invest ->
+
+
+Looking at the underlying holdings of the ETFs in our coverage universe at ETF Channel, we have compared the trading price of each holding against the average analyst 12-month forward target price, and computed the weighted average implied analyst target price for the ETF itself. 	For the SPDR Portfolio S&P 500 ETF (Symbol: SPLG), we found that the implied analyst target price for the ETF based upon its underlying holdings is $53.39 per unit.
+
+
+
+With SPLG trading at a recent price near $45.78 per unit, that means that analysts see 16.62% upside for this ETF looking through to the average analyst targets of the underlying holdings.   Three of SPLG's underlying holdings with notable upside to their analyst target prices are Marathon Petroleum Corp. (Symbol: MPC), Teleflex Incorporated (Symbol: TFX), and JPMorgan Chase & Co (Symbol: JPM). Although MPC has traded at a recent price of $122.69/share, the average analyst target is 17.53% higher at $144.20/share. Similarly, TFX has 17.25% upside from the recent share price of $225.49 if the average analyst target price of $264.38/share is reached, and analysts on average are expecting JPM to reach a target price of $149.71/share, which is 16.72% above the recent price of $128.26. Below is a twelve month price history chart comparing the stock performance of MPC, TFX, and JPM:  
+
+
+
+
+
+
+
+
+
+
+
+Below is a summary table of the current analyst target prices discussed above:
+
+
+
+Are analysts justified in these targets, or overly optimistic about where these stocks will be trading 12 months from now? Do the analysts have a valid justification for their targets, or are they behind the curve on recent company and industry developments? A high price target relative to a stock's trading price can reflect optimism about the future, but can also be a precursor to target price downgrades if the targets were a relic of the past. These are questions that require further investor research.  
+
+
+
+10 ETFs With Most Upside To Analyst Targets »
+
+
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

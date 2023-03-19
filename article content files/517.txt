@@ -1,0 +1,56 @@
+March 17, 2023 — 09:05 am EDT
+
+      Written by
+                        Bram Berkowitz for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+After three U.S. banks collapsed within a matter of days, spooked investors widely sold bank stocks on concerns that problems could be lurking elsewhere in the financial sector.
+One of the main issues that led to those bank failures was that banks were sitting on huge unrealized losses in their bond portfolios. Higher interest rates led customers to move deposits out of their banks or into higher-yielding products, and as liquidity became pressured, institutions like SVB Financial faced potentially having to sell their bonds at huge losses, which could have wiped out all of their equity. These fears triggered an outright bank run on SVB's Silicon Valley Bank.
+While there are lots of banks sitting on lesser levels of unrealized bond losses, several correctly predicted that interest rates were going to rise significantly and made smart moves to position their balance sheets accordingly, avoiding the bond debacle.
+JPMorgan Chase (NYSE: JPM) CEO Jamie Dimon did much better than most in navigating through the Great Recession. He demonstrated the fortress-like nature of JPMorgan's balance sheet again during the pandemic, and now in this latest crisis, Dimon is once again showing why he is among the more respected CEOs on Wall Street.
+During a period when many banks were deploying their excess deposits into government bonds to gain additional yield and boost earnings amid weak lending activity, Dimon had JPMorgan maintain an outsized position in cash, and didn't get too deep into bonds.
+At the end of 2022, JPMorgan Chase had roughly $214.5 billion of tangible common equity. Meanwhile, unrealized losses in the bank's held-to-maturity (HTM) bond portfolio -- bonds the bank expects to hold to maturity, and for which the paper losses have not been factored into its equity yet -- amounted to roughly $36.7 billion.
+This isn't necessarily a small amount, but the bank would easily survive even if it had to sell that entire bond portfolio and eat the losses. And the conditions under which it would need to do that are extremely unlikely in the first place. JPMorgan Chase also positioned itself much better than other large banks like Bank of America. 
+It's clear that Dimon had the foresight to look beyond the ultra-low-interest rate environment that prevailed at the beginning of the pandemic and realize that inflation was coming eventually, which would lead the Fed to raise interest rates. At a banking conference at the end of 2020, Dimon said he wouldn't touch U.S. Treasuries at that period's low yields "with a 10-foot pole" due to the possibility that inflation could pick up.
+Another bank that really played interest rates perfectly for the current environment was the super-regional Fifth Third Bancorp (NASDAQ: FITB), which has total assets of more than $207 billion.
+Sure, Cincinnati-based Fifth Third has a portfolio of bonds that it designated as available-for-sale (AFS) -- meaning it intends to sell them before they mature -- but the values of these bonds are marked-to-market, and their shifting values are factored into the bank's equity each quarter, so there are no surprises. And remarkably, at the end of 2022, it held just $5 million of bonds in its HTM portfolio. 
+Fifth Third Chief Financial Officer James Leonard in previous quarterly earnings calls compared holding HTM securities to being in a "roach motel." And in the Q4 call, Leonard said that "held to maturity is more like a hide the maturity."
+Additionally, Fifth Third has maintained strong regulatory capital ratios and has been guiding for margin expansion this year, despite deposit headwinds, which were quite relevant prior to the recent bank failures. 
+Regions Financial (NYSE: RF), with $155 billion assets, also took the right approach when it came to managing its balance sheet. Against $7.9 billion of tangible common equity at the end of 2022, Alabama-based Regions is only looking at about $61 million of unrealized HTM losses.
+I also think Regions has done a great job of managing its balance sheet and protecting its net interest margin in a variety of interest rate environments. Net interest margin, which is a strong indicator of profitability, tracks the difference between what a bank makes on interest-earning assets such as loans and securities and the interest it pays out on liabilities such as deposits. As Regions CFO David Turner said on its Januaryearnings call
+We have constructed the balance sheet to support a net interest margin range of 3.6% to 4% over the coming years, even if interest rates move back toward 1%. If rates remain elevated, our reported net interest margin is projected to surpass the high end of the range until deposits fully reprice.
+While I expect most banks to survive this scare, a lot of them are still looking at earnings headwinds because of deposit runoff, higher deposit costs, and the need to hold more cash. Regions is projecting a strong net interest margin range, and it's prepared for a variety of rate environments.
+10 stocks we like better than JPMorgan ChaseWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and JPMorgan Chase wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of March 8, 2023
+ 
+SVB Financial provides credit and banking services to The Motley Fool. JPMorgan Chase is an advertising partner of The Ascent, a Motley Fool company. Bank of America is an advertising partner of The Ascent, a Motley Fool company. Bram Berkowitz has positions in Bank of America. The Motley Fool has positions in and recommends Bank of America, JPMorgan Chase, and SVB Financial. The Motley Fool recommends Regions Financial. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

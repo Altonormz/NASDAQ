@@ -1,0 +1,50 @@
+March 02, 2023 — 09:55 am EST
+
+      Written by
+                        Dan Caplinger for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+2023 was supposed to be a year of rebounding stock markets, but so far, all investors have seen is volatility. The beginning of March hasn't been particularly kind to Wall Street, and most major market benchmarks fell again early Thursday to give back gains from earlier in the year. Shortly after the open, the S&P 500 (SNPINDEX: ^GSPC) was down more than half a percent.
+Technology stocks were the biggest culprits in 2022's bear market, and despite signs of a rebound for some companies in the sector, other businesses are still seeing signs of tougher times ahead. In particular, shares of Snowflake (NYSE: SNOW) and Pure Storage (NYSE: PSTG) fell hard early Thursday. Despite their solid growth recently, shareholders seem to fear that drops in future spending on IT could crimp further gains in revenue. Below, you'll get more detail on what Snowflake and Pure Storage said.
+Shares of Snowflake dropped 13% early Thursday. The release of the data cloud services provider's fiscal fourth-quarter financial results for the period ending Jan. 31 didn't inspire as much confidence as investors had wanted.
+From a growth perspective, Snowflake kept knocking it out of the park over the past year. Fourth-quarter revenue climbed 53% year over year to $589 million, with remaining performance obligations picking up 38% over the past 12 months to $3.7 billion. Customer counts kept growing, with 330 clients paying at least $1 million in annual revenue on Snowflake's products. Net revenue retention rates remained robust at 158%. Losses grew to $207 million, but after accounting for stock-based compensation and other items, adjusted earnings came in at $0.14 per share.
+However, investors weren't pleased to see Snowflake setting its sights much lower for the coming fiscal year. The data cloud specialist said it expects product revenue to climb just 40% in fiscal 2024. That had shareholders worried that Snowflake might not get as many new customers on board as hoped, or that existing customers might pull back on their spending on its platform.
+It's interesting that even news of a $2 billion stock repurchase program wasn't enough to lift shares of Snowflake. That might reflect worries that the company should be plowing available cash flow back into growing its business, or it could just highlight the need for such repurchases given Snowflake's extensive use of stock-based compensation.
+Elsewhere, Pure Storage saw its stock drop 15%. Similar concerns about future growth weighed on the data storage technology specialist.
+Pure Storage's fiscal fourth-quarter financial results for the period ending Feb. 5 showed continued slowing of its sales gains. Revenue climbed just 14% year over year to $810 million, closing a fiscal year in which sales rose 26%. Subscription services revenue had a higher growth rate of 23%, however, and annual recurring revenue jumped 30% from 12 months ago to $1.1 billion. On the positive side, net income jumped more than fivefold to $74.5 million, or $0.22 per share.
+Even worse, Pure Storage expects headwinds to persist throughout the next year. For fiscal 2024, the storage specialist is projecting sales gains of mid- to high-single-digit percentages. That effectively communicates the fear that its enterprise customers won't be spending as much on its services.
+Pure Storage largely avoided the full impact of the bear market in 2022, but its stock is now close to its worst levels since 2021. The company will have to get its sales trends moving back in the right direction in order to make shareholders more confident.
+10 stocks we like better than SnowflakeWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Snowflake wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Dan Caplinger has positions in Snowflake. The Motley Fool has positions in and recommends Snowflake. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

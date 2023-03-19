@@ -1,0 +1,60 @@
+March 05, 2023 — 07:30 am EST
+
+      Written by
+                        Justin Pope, Will Healy, Jake Lerch for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+To play off of a quip by Ernest Hemingway, disruption can happen gradually, then suddenly. Artificial intelligence (AI) has been a slowly percolating aspect of society for many years, but could take off over the next decade. Grand View Research estimates the AI market opportunity at $136 billion in 2022 with a 37% annual growth rate through 2030.
+Companies like Snowflake (NYSE: SNOW), Amazon (NASDAQ: AMZN), and Zoom Video Communications (NASDAQ: ZM) could all benefit from the growth of AI. The market may seem turbulent today, but don't let yourself miss out on some great buying opportunities.
+Here is why you should consider buying these stocks on their current dips.
+Justin Pope (Snowflake): Artificial intelligence is all the rage, partially because of its seemingly endless uses. It's not a stretch to think that most businesses will eventually leverage AI in some fashion. Data could be the common link that ties AI applications together; AI trains its models and learns from the data it ingests.
+That's where Snowflake comes in. The enterprise software company operates a data cloud, an ecosystem where data can be stored, shared, and analyzed. Snowflake works across the public cloud platforms like Microsoft Azure and Amazon Web Services and integrates with many software tools. The company had 7,828 customers as of the end of January and has done $2 billion in revenue over the past four quarters.
+Data doesn't expire, and humanity creates more every second. That's why Snowflake's consumption-based billing model is so promising. The company has a hefty 158% net revenue retention rate, meaning customers spend more over time. Combine that with a wide-open global economy with millions of companies, and the long-term growth prospects are tantalizing. Management estimates that its addressable market will be worth $248 billion by 2026, underlining the room for Snowflake's growth over the coming years.
+The data cloud makes Snowflake a potential utility-like operator within the AI space. Companies could pay for access and usage of data needed to build and train their AI applications. The stock has fallen 66% from its high, now approaching Warren Buffett's buy price of $120 following an earnings report that disappointed Wall Street. Ignore the short-term volatility and focus on the long-term growth ahead; Snowflake could be an excellent AI investment over the coming years.
+Jake Lerch (Amazon): Much of the recent AI hype has centered on whether Microsoft's Bing can unseat Alphabet's Google regarding search engine dominance. And while the battle for that lucrative market is worth monitoring, not as much ink has been spilled over how the AI revolution will impact another tech megacap: Amazon.
+The truth is, Amazon's history with AI goes back years. The company has long utilized machine learning to help optimize its logistics and operations by getting the right products to the right warehouses at the right times. 
+For many users, the face of Amazon AI is Alexa, the virtual assistant technology found in Amazon's Echo devices. And for Amazon, Alexa might be its greatest asset. The company has already sold more than 200 million Alexa-enabled devices. Those devices provide the company with a plethora of information on its customer base, allowing Amazon to tailor its online retail experience based on customers' habits and preferences.
+And as consumers become more comfortable with AI, familiarity will likely be critical. After all, just as most people prefer keeping the same dentist, hairstylist, or accountant, many people might develop a comfort level with a particular AI. And in that respect, Amazon will have a head start considering how many Alexa-enabled devices have already been sold.
+I expect Amazon to leverage its Alexa devices as the company becomes evermore focused on anticipating its customers' retail needs. Perhaps Alexa will soon proactively order your groceries or find you the best deal on a new pair of shoes -- saving customers time and money and making Amazon even more profitable.
+Will Healy (Zoom Video Communications): Zoom drew the notice of businesses and consumers alike during the pandemic as people sought a safe way to communicate. Although pre-pandemic meeting and social patterns have largely returned, Zoom has remained a communications portal for remote workers and companies with multiple offices.
+Zoom has also evolved into a full communications ecosystem, and AI plays a critical role in helping to maintain its dominant market share. With its primary platform, Zoom Meetings, AI powers functions such as virtual backgrounds and gesture recognition technologies.
+
+Moreover, the power of AI is especially apparent in its recording technology. A Gartner survey estimates users will record 75% of online meetings by 2025. To this end, AI can extract key points from a video conference. Additionally, its machine learning tool uses OpenAI's GPT3 technology to divide a meeting recording into easily digestible chunks.
+Furthermore, its use of AI goes beyond the Meetings platform. Zoom IQ for Sales and Zoom Virtual Agent apply AI to improve customer experiences. Such applications mean that AI will play a critical role in keeping Zoom ahead of its competitors.
+And even without a pandemic to draw business, Zoom continues to grow. Revenue of $4.4 billion in fiscal 2023 (which ended Jan. 31) rose 7% versus fiscal 2022 levels. However, Zoom invested heavily in research and development to improve its products. This increased operating expenses, and its fiscal 2023 non-GAAP (adjusted) net income fell to $1.3 billion versus $1.6 billion in fiscal 2022.
+Nonetheless, AI could play a key role in reigniting this growth. Cathie Wood's Ark Invest, which made Zoom the second-largest holding in the Ark Innovation ETF, predicts its AI-powered Zoom IQ and other services and products related to AI could represent 35% of Zoom's average revenue per user by 2026.
+To that end, Wood predicted a minimum price of $700 per share and a base case of $1,500 per share for Zoom stock by 2026. Time will tell whether the software-as-a-service stock reaches Ark's goal, but given AI's power to supercharge its stock, Zoom could drive outsize returns over time.
+10 stocks we like better than SnowflakeWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Snowflake wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Suzanne Frey, an executive at Alphabet, is a member of The Motley Fool’s board of directors. John Mackey, former CEO of Whole Foods Market, an Amazon subsidiary, is a member of The Motley Fool’s board of directors. Jake Lerch has positions in Alphabet and Amazon.com. Justin Pope has no position in any of the stocks mentioned. Will Healy has positions in Zoom Video Communications. The Motley Fool has positions in and recommends Alphabet, Amazon.com, Microsoft, Snowflake, and Zoom Video Communications. The Motley Fool recommends Gartner. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

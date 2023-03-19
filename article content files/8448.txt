@@ -1,0 +1,72 @@
+February 28, 2023 — 11:17 am EST
+
+      Written by
+                        Leo Sun for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Magnite's (NASDAQ: MGNI) stock dropped 16% on Feb. 23 after the advertising technology company posted its fourth quarter earnings report the evening before. Excluding its traffic acquisition costs (ex-TAC), its revenue rose 10% year over year to $156.6 million and exceeded analysts' estimates by $3.1 million.
+Its adjusted earnings before interest, taxes, depreciation, and amortization (EBITDA) dipped 5% to $64.2 million, which compressed its adjusted EBITDA margin from 48% to 41%. That trickled down to an adjusted profit or $0.24 per share, which missed analysts' expectations by $0.08. On an unadjusted basis, it posted a net loss of $36.4 million, compared to a profit of $500,000 in the prior-year quarter.
+Magnite's sluggish growth was disappointing, but it wasn't too surprising in this tough macroeconomic environment for advertising companies. Let's take a fresh look at the bear and bull cases to see if this stock is still worth buying.
+Magnite is the world's largest independent sell-side platform (SSP) for digital ads. It was initially created by the 2020 merger of two smaller ad tech companies, The Rubicon Project and Telaria, and subsequently expanded through the acquisitions of SpotX, SpringServe, and Carbon. SSPs help publishers manage and sell their own ad inventories. They work in tandem with demand-side platforms (DSPs) like The Trade Desk (NASDAQ: TTD), which sell ad space across a wide range of platforms.
+The bears believe Magnite faces two main challenges. First, digital advertising giants like Alphabet's Google and Meta Platforms already bundle SSPs, DSPs, and other ad tools together. Magnite is the largest "independent" SSP, but it still competes against those diversified tech giants.
+Second, The Trade Desk recently rolled out a new feature called OpenPath, which directly connects publishers to advertisers without an SSP. Therefore, The Trade Desk -- which is already the largest independent DSP -- could render SSPs obsolete in its quest to become a more diversified ad tech platform.
+The bears will also point out that Magnite's connected TV (CTV) business, which drives most of its growth, suffered a slowdown in the fourth quarter. Its CTV ads also brought in a lower percentage of its total ex-TAC revenue as it relied more heavily on its slower-growth mobile and desktop businesses.
+Q4 2021
+Q1 2022
+Q2 2022
+Q3 2022
+Q4 2022
+CTV Revenue Growth (YOY)
+23%*
+27%*
+19%
+29%
+20%
+CTV Revenue as Percentage of Total Revenue
+38%
+40%
+42%
+44%
+41%
+Data source: Magnite. Ex-TAC basis. *Pro forma basis adjusted for acquisitions.
+During the conference call with analysts, CEO Michael Barrett said that the 20% growth of Magnite's CTV segment had "outpaced" the industry even as the "overall ad spend environment" remained weak. However, CFO David Day warned that the CTV sector would experience an "industrywide slow start" in a "challenged economic environment" in the first quarter of 2023.
+As a result, Magnite expects its ex-TAC revenue to decline 4%-8% year over year. On the same basis, it expects its CTV revenue to only rise 0%-5% and account for 39% of its top line. That forecast was disappointing since The Trade Desk -- which also relies heavily on the CTV market -- expects its revenue to rise at least 15% year over year in the first quarter.
+Magnite expects its adjusted EBITDA margin to drop to a midpoint of 16% in the first quarter -- compared to 27% in the first quarter of 2022 and its long-term target of 35%-40%. For the full year, analysts expect Magnite's revenue to rise 5% as its adjusted EBITDA dips 2%. Those anemic growth rates could prevent the bulls from coming back.
+Those near-term challenges are worrisome, but the bulls believe Magnite's growth will accelerate again as the CTV market expands and profits from the death of linear TV platforms. They also believe that a growing desire to break free from the walled gardens of Google and Meta to advertise across the "open internet" will bring more publishers to Magnite.
+That's why analysts still expect Magnite's revenue and adjusted EBITDA to rise 14% and 26%, respectively, in 2024 as the macro environment improves. Investors should take those estimates with a grain of salt, but Magnite still looks cheap relative to those longer-term prospects at three times this year's sales and 11 times adjusted EBITDA. By comparison, The Trade Desk isn't cheap at 14 times this year's sales and 36 times adjusted EBITDA.
+Magnite has adequate liquidity to ride out the storm. It ended the year with $326 million in cash and equivalents, and it expects to generate a positive free cash flow of about $100 million in 2023. Its low enterprise value of $1.8 billion could also make it a tempting takeover target.
+Magnite isn't doomed, but it will stay in the penalty box until the growth of its CTV business accelerates and its adjusted EBITDA margins stabilize. Without those improvements, it makes more sense to invest in The Trade Desk or a diversified advertising giant like Alphabet or Meta instead.
+10 stocks we like better than MagniteWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Magnite wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Suzanne Frey, an executive at Alphabet, is a member of The Motley Fool's board of directors. Randi Zuckerberg, a former director of market development and spokeswoman for Facebook and sister to Meta Platforms CEO Mark Zuckerberg, is a member of The Motley Fool's board of directors. Leo Sun has positions in Alphabet, Magnite, and Meta Platforms. The Motley Fool has positions in and recommends Alphabet, Magnite, Meta Platforms, and Trade Desk. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

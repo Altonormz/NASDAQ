@@ -1,0 +1,54 @@
+March 16, 2023 — 06:22 am EDT
+
+      Written by
+                        Harsh Chauhan for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+The popularity of generative artificial intelligence (AI) applications supercharged Nvidia (NASDAQ: NVDA) stock this year because investors and analysts expect the company's graphics processing units (GPUs) to play a major role in the proliferation of this space.
+That's not surprising given Microsoft-backed (NASDAQ: MSFT) OpenAI's immensely popular chatbot ChatGPT reportedly employs 20,000 Nvidia data center GPUs for processing data, according to market research firm TrendForce. The firm adds that the booming usage of ChatGPT could create the need for more Nvidia GPUs, with OpenAI expected to deploy at least 30,000 graphics cards from the semiconductor giant. In fact, Microsoft recently pointed out that it has used "thousands of NVIDIA AI-optimized GPUs" to enable OpenAI to train AI models.
+TrendForce utilizes the pricing of Nvidia's A100 GPUs for reference (they cost between $10,000 and $15,000) and estimates that ChatGPT alone could generate $300 million in revenue for the company. That's a conservative guess, as according to another appraisal by Citigroup, the growing usage of ChatGPT could increase Nvidia's annual revenue by $3 billion to $11 billion, suggesting that this market could substantially move the needle for the company given that it generated $27 billion in revenue last fiscal year.
+Of course, there's a big gulf in the estimates mentioned above and it is difficult to pinpoint exactly how much revenue Nvidia could generate from this space. But what's evident is that chatbots in particular, and generative AI in general, could be massive tailwinds for the stock. Let's look at the reasons why.
+Generative AI applications such as ChatGPT use deep learning models to provide responses to user queries. Training deep learning models is a hardware-intensive task that requires GPUs capable of handling massive amounts of calculations simultaneously. That's because GPUs are equipped with way more cores as compared to traditional central processing units (CPUs).
+While a CPU may have anywhere between two to 64 cores, a GPU's core count runs into the thousands. As a result, GPUs have substantially more computational power that allows them to run several tasks in parallel, making them ideal for deep learning applications such as chatbots, virtual assistants, or digital avatars.
+It is worth noting that Nvidia has been working on the development of such generative AI applications for a long time. In 2019, the company released a GPU platform on Microsoft Azure to help make chatbots respond to queries in a conversational manner. The platform's aim was to provide the computational platform for the voice-powered search assistant in Microsoft's Bing search engine.
+So OpenAI's deployment of Nvidia's GPUs to power ChatGPT doesn't come across as a surprise. More importantly, Microsoft's focus on expanding the use of generative AI across more of its services could mean more business for Nvidia. The tech giant has already equipped the Bing search engine and the Edge browser with AI, which will now enable users of these services to compose content, get more relevant results, and even get complete answers to their queries, among other things.
+The good news for Nvidia is that Microsoft is expanding the use of generative AI to more applications. The latter recently announced the launch of Microsoft Dynamics 365 Copilot, which will provide "interactive, AI-powered assistance across business functions." Microsoft says that this new offering can assist an organization's employees in various functions ranging from sales to marketing to customer service and even supply chain.
+Not surprisingly, Microsoft's peers such as Amazon, Alphabet, and Meta Platforms are also scrambling to deploy generative AI into their services. All this suggests a win-win situation for Nvidia given its dominant position in the graphics cards market. What's more, generative AI could turn out to be a long-term tailwind for the company because this market is expected to clock annual growth of nearly 35% through the end of the decade, according to Grand View Research.
+Additionally, the market for AI chips that will power generative AI is expected to expand almost 30% over the next decade and generate $227 billion in annual revenue in 2032, according to Precedence Research. These forecasts point toward sunny days for Nvidia's data center business, which has been in fine form in recent years and looks set to take off thanks to the growing proliferation of AI.
+Nvidia generated $15 billion in revenue from the data center segment last fiscal year, a jump of 41% over the prior year. This suggests that the company is still scratching the surface of a huge growth opportunity. After all, Nvidia dominates the GPU market with a share of 80%. Also, the share of GPUs used in data centers is expected to increase from just 3% in 2020 to 15% in 2026.
+As such, Nvidia's impressive data center growth is here to stay. That's a good thing because the data center business accounted for 55% of the company's revenue last fiscal year. Investors should also note that Nvidia sees a $300 billion revenue opportunity in the AI hardware and software market, and it is in a nice position to benefit from the same thanks to its relationships with the major tech giants across the globe that include Alibaba, Amazon, Baidu, Meta Platforms, Google, Oracle, and Tencent, among others.
+All this indicates that Nvidia could continue to be a top AI stock for a long time to come, though investors will have to pay a lofty valuation if they want to buy it right now.
+10 stocks we like better than NvidiaWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Nvidia wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of March 8, 2023
+ 
+Suzanne Frey, an executive at Alphabet, is a member of The Motley Fool's board of directors. Randi Zuckerberg, a former director of market development and spokeswoman for Facebook and sister to Meta Platforms CEO Mark Zuckerberg, is a member of The Motley Fool's board of directors. John Mackey, former CEO of Whole Foods Market, an Amazon subsidiary, is a member of The Motley Fool's board of directors. Citigroup is an advertising partner of The Ascent, a Motley Fool company. Harsh Chauhan has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Alphabet, Amazon.com, Baidu, Meta Platforms, Microsoft, Nvidia, and Tencent. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

@@ -1,0 +1,62 @@
+March 17, 2023 — 07:10 am EDT
+
+      Written by
+                        Anthony Di Pizio for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Yes, you read the headline correctly. The turmoil in the banking sector over the past week, and the subsequent response by the U.S. government, is a perfect example of why investors should keep their money within the regulated monetary system and outside of the cryptocurrency ecosystem.
+SVB Financial (NASDAQ: SIVB) was the parent company of Silicon Valley Bank, which just became the second largest financial institution to collapse in U.S. history. But the key takeaway is that depositors have been protected from incurring any losses, which is in stark contrast to the result for customers of collapsed cryptocurrency companies in the past.
+Since the 2008 global financial crisis, the U.S. government -- in conjunction with regulators -- has tightened its grip on the financial system to prevent a repeat of that catastrophe. Banks and financial institutions have effectively been regulated out of taking extreme risks, especially with their customers' deposits.
+For the most part, Silicon Valley Bank invested its customers' deposits in safe assets like U.S. government treasuries. The problem was that it bought long-dated maturities with very low rates of return, and when interest rates began to rise rapidly in 2022, the value of those bonds began to fall (price and yield have an inverse relationship when it comes to bonds).
+At the very same time, the bank's deposit base was under pressure because its customers were primarily in the technology sector, and with the weak economic environment, they were burning lots of cash and raising less venture money to replenish their balances. Ultimately, the bank realized a $1.8 billion loss on a portfolio of Treasuries it sold to ensure it had enough cash to meet depositors' needs.
+Customers grew nervous about the bank's health. After a failed attempt by the bank to raise $2.25 billion to shore up its financial position, depositors began withdrawing their money en masse, triggering a run on the bank. Thanks to the age of the smartphone, this happened at a lightning-fast pace.
+Image source: Getty Images.
+The Federal Deposit Insurance Corp. (FDIC) quickly stepped in to close Silicon Valley Bank and ensure the safety of customers' $175 billion in deposits. Depositors with $250,000 or less in their account were automatically insured, but the federal government decided to go one step further and guarantee all deposits to calm contagion fears.
+But as mentioned, thanks to existing regulations, Silicon Valley Bank's assets were of relatively high quality, so there may not be much of a shortfall (if any) when it comes to making depositors whole once the dust settles. The FDIC said the bank had $209 billion in assets at the time of collapse. 
+Nonetheless, after the bank was officially shut down on Friday, customers had access to all their money the following Monday thanks to the FDIC and government guarantees. 
+Cryptocurrencies have an attractive pitch. They largely sit outside the purview of the fiat monetary system and regulatory regimes. Tokens such as Bitcoin (CRYPTO: BTC) have a finite supply, so they can't be printed endlessly and therefore debased, and that piece of the equation actually does have some merit. 
+But compare the above scenario at Silicon Valley Bank with the collapse of just about any cryptocurrency-focused exchange, project, or token over the last few years, and it becomes obvious that a lack of supervision isn't necessarily a good thing.
+FTX is the most recent, and the most devastating, example. The crypto exchange was operated from the Bahamas under a relatively relaxed regulatory regime. As a result, FTX was able to commit a series of reckless transactions using customer funds with practically no regard for risk, and no immediate checks and balances to stop them. 
+The exchange subsequently collapsed, and it still owes roughly $3 billion to creditors -- most of whom are customers who may never see their money again. Even if they do, the asset recovery process could take years. 
+Then there was the collapse of TerraUSD (CRYPTO: USDT), one of the most popular stablecoins in the crypto market. When it de-pegged last year, it wiped out an estimated $60 billion in value, leaving investors at a complete loss with no recourse. 
+Suddenly, living inside a regulated, insured system doesn't seem so bad.
+Bitcoin is the cryptocurrency industry leader by market capitalization, making up $480 billion of the industry's current $1.1 trillion in total value. It's arguably the least corruptible, as it's truly decentralized and there is no entity standing behind it, and there's almost no risk of an unexpected increase in supply. That's why investors view it as the best store of value in the crypto market.
+But even still, it has little utility as an actual currency, which will prevent widespread adoption. According to Cryptwerk, just 8,010 merchants accept Bitcoin as payment worldwide, which is a mere drop in the bucket when you consider there are more than 330 million registered businesses globally. 
+That brings us to the core challenge all cryptocurrencies face: Shaking their reputation as vehicles for speculation. 
+Take a token such as Shiba Inu (CRYPTO: SHIB), for example. It soared 43,800,000% in 2021, which was one of the greatest returns in financial history. But it went on to shed more than three-quarters of its value in 2022. Consumers and businesses alike simply have no reason to put their faith in a currency that swings in value so violently. 
+Regardless of the token, it's going to be difficult for cryptocurrencies to sustain their value over time without broader use cases. Add in the risk of a complete and total loss if holdings disappear -- whether it's the investors' own fault or the fault of a third party -- and it's tough to make an argument for owning them.
+The Silicon Valley Bank saga is perhaps the best argument for keeping your money within the bounds of the traditional, regulated system. It might sound boring, but the safety of your hard-earned money certainly is not. 
+10 stocks we like better than BitcoinWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Bitcoin wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of March 8, 2023
+ 
+SVB Financial provides credit and banking services to The Motley Fool. Anthony Di Pizio has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Bitcoin and SVB Financial. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

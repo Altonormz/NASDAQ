@@ -1,0 +1,84 @@
+February 28, 2023 — 09:01 pm EST
+
+      Written by
+                        Alex Sirois for                             
+        
+
+
+
+
+InvestorPlace ->
+
+
+InvestorPlace - Stock Market News, Stock Advice & Trading Tips
+Autonomous driving and AI-powered vehicles are a growing trend in the automotive industry. The technology promises to improve safety, reduce traffic congestion, and allow humans to hand over driving responsibilities to robots. As it grows, so too will investor interest in related stocks and companies. 
+Many of these companies are developing advanced driver assistance systems (ADAS) and other autonomous vehicle technology. These technologies use machine learning and artificial intelligence to make driving decisions from the data they collect. With AI becoming prevalent, investors are increasingly seeking stocks that capitalize on its intersection with automobiles. 
+Traditional automakers and tech companies are investing heavily in autonomous driving technology. The long-term potential of the field makes these companies an attractive option for investors who believe in these technologies. 
+
+Source: JHVEPhoto/shutterstock.com
+
+Luminar (NASDAQ:LAZR) is a company that develops lidar sensors and software for autonomous driving. The company’s technology is used by major automotive manufacturers including Volvo and Audi in their autonomous vehicles. Like many lidar stocks, Luminar shares spiked in late 2020 but then gave up their rapid gains throughout 2021. 
+Demand is beginning to pick up again as broader market worries have shown some signs of easing. AI is grabbing headlines and that means Luminar will get more press moving forward. 
+Management expects Luminar’s lidar technology to support level 3 through level 5 autonomous vehicles. The Society of Automotive Engineers (SAE) defines 5 levels of vehicle autonomy with level 5 meaning zero human interaction is required. 
+Luminar recently signed a deal to continue its partnership with Mercedes-Benz that will see the company’s lidar featured in next-generation Mercedes-Benz vehicles. Luimnar’s level 3 lidar systems are currently available in top-line models from the company and Luminar counts partners across major vehicle OEMs globally. 
+
+Source: shutterstock.com
+
+Aptiv (NYSE:APTV) is a global technology company that develops advanced electrical systems including autonomous driving software for automobiles. It is also positioning its products and services across smart cities and connectivity in general. The company has a long history in the vehicle parts industry and was formerly known as Delphi. 
+Aptiv invested heavily in an autonomous driving joint venture with Hyundai in 2019. That 50-50 partnership was valued at $4 billion when formed and is focused on level 4 and level 5 autonomous technologies. A year earlier, Aptiv partnered with Lyft (NASDAQ:LYFT) to launch a fleet of 30 autonomous vehicles in Las Vegas. 
+The company has continued to grow since, releasing fourth-quarter earnings at the beginning of February. That release describes a company in which revenues increased by 12%, reaching $4.6 billion with operations generating $933 million in cash flow. For the full year, Aptiv generated $17.5 billion in sales, also a 12% increase on a year-over-year basis.  
+
+Source: Shutterstock
+
+Ambarella (NASDAQ:AMBA) develops and sells video processing chips for cameras and other devices that are used across the autonomous driving sector. That makes its stock one to watch for investors interested in AI-powered vehicles. Ambarella’s products are used in applications including security cameras and automotive cameras for advanced driver assistance systems. The company has partnerships with major automotive manufacturers including Toyota (NYSE:TM), a major name in the evolving automotive space. 
+Ambarella also produces systems-on-chip (SOCs) that allow advanced image processing and the extraction of valuable data therefrom. On Feb. 7, Ambarella announced that Shanghai-based Hyperview had selected it to provide those SOCs for its autonomous driving platforms. That means Ambarella will have an opportunity to establish its name across tier-1 manufacturers and OEMs throughout the large, quickly-growing Chinese automotive market. 
+Consensus analyst target stock prices suggest AMBA stock has reasonably strong upside after 2 straight quarters in which it produced better-than-expected earnings per share. 
+
+Source: rvlsoft / Shutterstock.com
+
+Alphabet (NASDAQ:GOOG) stock is most closely associated with Google, its primary subsidiary. But Waymo is another subsidiary of Alphabet that is developing self-driving technology for commercial use. The company’s autonomous vehicles can be seen across western states including California and Arizona. 
+Given Alphabet’s large footprint across technology, it is perhaps unsurprising that Waymo is the world’s most experienced driver with a history dating to 2009. The company’s Waymo Driver platform has logged millions of miles on real-life roads with billions of miles in simulation. 
+Readers in Phoenix and San Francisco may be familiar with Waymo through Waymo One, its ride-hailing service. And Waymo is making inroads in the commercial driving space through Waymo Via which delivers goods via tractor-trailer trucks. 
+Currently, investing in Waymo via public equity means buying Alphabet stock. That comes with all of the volatility of the current tech space plagued by unpredictable ad revenue. In time, though, Waymo could foreseeably spin Waymo off if it becomes advisable as a business unit. 
+
+Source: StreetVJ / Shutterstock.com
+
+Baidu (NASDAQ:BIDU) is China’s answer to Alphabet stock. The company engages in internet search like Google, and has been developing autonomous driving technology, like Waymo, since 2013. Biadu’s self-driving services include Apollo, which allows developers to create their own autonomous vehicles. Apolong is Baidu’s fully autonomous minibus which began mass production in 2017. 
+Outside of its autonomous driving development, Baidu is arguably a strong buy for the simple reason that China has reopened. The resulting stimulus to the economy should highly benefit advertisers that rely on its search services, spurring growth. BIDU stock currently trades around $137 but bears a consensus $173 target price. 
+Baidu’s Apollo program consists of two open datasets collected in San Francisco and Beijing. Those respective datasets allow developers to test their algorithms and build autonomous vehicles. The company offers lidar systems and other sensors to capture data as well. It is also one of the few Chinese companies that can produce large-scale HD mapping data through deep learning. 
+
+Source: shutterstock.com/temp-64GTX
+
+Israel-based Innoviz Technology (NASDAQ:INVZ) develops and sells solid-state lidar sensors for autonomous vehicles. It is another lidar stock in a company that provides 3D-environment perception for autonomous vehicles. Innoviz has partnerships with major automotive manufacturers, such as BMW and Magna (NYSE:MGA) among others. It is one of many publicly traded firms to have come online through a special purpose acquisition company (SPAC) merger, back in 2021. And like many other lidar companies, its stock has fallen since then. 
+Innoviz’s programs and lidar target level 2, 3, and 4 autonomous driving. Innoviz Technology is set up to carve out a significant place within the autonomous driving sector. It boasts a forward-looking order book valued at $6.9 billion representing 15% of the global auto market. Further, its current pipeline of RFQs and RFIs spans 11 OEMs that represent 42% of OEMs globally. 
+
+Source: Shutterstock
+
+Nvidia (NASDAQ:NVDA) is a leading tech company known for many things tech. Most notable to most investors is the company’s development of advanced hardware and software solutions for the autonomous vehicle industry.
+The company’s DRIVE platform provides a complete solution for autonomous vehicle developers. It includes an in-car solution known as DRIVE Hyperion. It includes a developer kit, DRIVE AGX, and a sensor kit. The platform also includes simulation and training platforms that allow developers to create commercial algorithms for AI-powered vehicles of the present and future. 
+DRIVE Hyperion supports level 3 autonomous driving. Level 3 autonomy means a vehicle can safely handle all aspects of driving while engaged but still requires the driver to be ready to quickly take control if necessary. 
+The company’s vehicle partnerships span cars, trucks, robotaxis and include Polestar (NASDAQ:PSNY), Nio (NYSE:NIO), and Foxconn among others. Foxconn is perhaps best known as a manufacturer for Apple (NASDAQ:AAPL) and could logically manufacture an iCar should it exist in the future. In short, Nvidia has a large network spanning autonomy that should continue to evolve in interesting ways.
+On the date of publication, Alex Sirois did not have (either directly or indirectly) any positions in the securities mentioned in this article. The opinions expressed in this article are those of the writer, subject to the InvestorPlace.com Publishing Guidelines.
+Alex Sirois is a freelance contributor to InvestorPlace whose personal stock investing style is focused on long-term, buy-and-hold, wealth-building stock picks.Having worked in several industries from e-commerce to translation to education and utilizing his MBA from George Washington University, he brings a diverse set of skills through which he filters his writing.
+The post The Future of Autonomous Driving: 7 Top Stocks to Buy for AI-Powered Vehicles appeared first on InvestorPlace.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

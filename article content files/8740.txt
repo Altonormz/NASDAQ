@@ -1,0 +1,56 @@
+February 28, 2023 — 05:52 am EST
+
+      Written by
+                        Keith Speights for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Abbott Laboratories (NYSE: ABT) and DexCom (NASDAQ: DXCM) enjoy symbiotic relationships with Apple (NASDAQ: AAPL). The two companies' popular continuous glucose monitoring (CGM) devices used by many patients with diabetes connect to iPhones and Apple Watches. Patients can easily monitor their glucose and receive alerts when thresholds are exceeded on their smart devices.
+But that relationship could be about to change significantly in a way that isn't helpful to the two big CGM makers. Bloomberg reported last week about one of Apple's major development efforts. Should Abbott and DexCom investors be worried about Apple's latest news?
+Image source: Getty Images.
+The CGM market is already huge and continues to grow rapidly. Abbott posted sales of $1.1 billion for its FreeStyle Libre in the fourth quarter of 2022, a year-over-year jump of more than 40%. DexCom's Q4 sales for its CGM devices topped $815 million, up 17% year over year.
+Apple wants to take a bite of its own out of this big market opportunity. Bloomberg cited anonymous sources that revealed Apple has a secret project called E5 to measure glucose without pricking the skin to obtain blood. The tech giant's goal is to launch its own CGM tied to its Apple Watch, according to Bloomberg's sources, who are familiar with Apple's efforts.
+The two current market leaders in CGM use patches that are inserted into the skin of a person's arm. These patches must be replaced regularly -- every 10 days for DexCom's G7 and every 14 days for Abbott's FreeStyle Libre.
+However, Apple is using a much different method to measure glucose. The company's approach is to use lasers to bounce light off of areas beneath the skin that contain interstitial fluids that leak from capillaries. These interstitial fluids are absorbed by glucose in the blood. Apple's process, known as optical absorption spectroscopy, measures the reflected light to determine an individual's concentration of glucose. This concentration can then be used to calculate the blood glucose level.
+It's understandable that Apple's potential entrance into the CGM market immediately caught the attention of Abbott's and DexCom's shareholders. The two healthcare stocks took a hit after the news broke about Apple's secret E5 project.
+Abbott's share price fell nearly 3% immediately after the Bloomberg story was published on Feb. 22. The stock bounced back quickly, however. Still, though, Abbott's shares remain nearly 2% lower than they were prior to the revelation of Apple's CGM development efforts.
+DexCom stock was hit even harder. Shares sank as much as 8% on Feb. 22 before recovering later in the day. The stock has continued to claw its way back this week but is still a little lower than it was before the Apple project was reported.
+Should Abbott and DexCom investors really be worried about Apple's CGM efforts? Yes. The growth trajectories for both companies could be negatively impacted if Apple becomes a direct rival.
+The competition would likely hurt DexCom the most. While Abbott has many other products other than FreeStyle Libre, all of DexCom's revenue is generated from its CGM systems. However, Abbott would definitely be affected if Apple is able to carve out a significant market share.
+Perhaps the best news for Abbott and DexCom is that Apple still has a long way to go to perfect its CGM technology. Apple is only at the proof-of-concept stage at this point, according to Bloomberg's sources. The company could take several years before it could potentially launch a CGM product. And it's possible that Apple's efforts will fail.
+Bloomberg also reported that Apple is working on a prototype device that's roughly the size of an iPhone. Abbott's and DexCom's current CGM patches are much smaller and could be preferred by many people with diabetes.
+In the meantime, both Abbott and DexCom continue to invest in research and development to build better CGM technology. The companies could be able to out-innovate Apple.
+The bottom line is that Apple could be a formidable rival in the CGM market at some point in the future. For now, however, Abbott and DexCom should continue to deliver solid growth with their respective CGM products.
+10 stocks we like better than AppleWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Apple wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Keith Speights has positions in Apple. The Motley Fool has positions in and recommends Abbott Laboratories and Apple. The Motley Fool recommends DexCom and recommends the following options: long March 2023 $120 calls on Apple and short March 2023 $130 calls on Apple. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

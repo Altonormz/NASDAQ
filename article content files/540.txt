@@ -1,0 +1,51 @@
+March 17, 2023 — 09:00 am EDT
+
+      Written by
+                        Gabriel Osorio-Mazilli, MarketBeat Contributor for                             
+        
+
+
+
+
+MarketBeat ->
+
+
+
+
+The recent collapse of Silicon Valley Bank (NASDAQ: SIVB) has opened the floodgates for further investor and depositor concerns across the banking sector, for both megabanks, and especially for smaller regional banks. With many regional banks finding themselves in a liquidity crunch and mass depositors calling for their money, it seems like all the trusted stress-tests are flying too close to the sun.
+With First Republic Bank (NYSE: FRC) is one of the first "boutique" regional banks to benefit from the massive capital injection aimed at stabilizing markets and supporting struggling financial institutions (a solution more kindly referred to as a "liquidity solution" rather than a "bailout"), it may only be a matter of time before other major banks with substantial deposits also see the positive effects trickle down to them.
+Despite seeing its shares plummet by over 50% since the beginning of the year, PacWest Bancorp (NASDAQ: PACW) may still have enough momentum to pass on any aid offered by the well-intentioned officials at the Federal Reserve.
+Although Fitch Ratings has placed PacWest on a negative rating watch, their decision is well-justified by legitimate concerns that could spell trouble for equity investors. However, the liquidity issues cited by Fitch as the reason for concern may soon become a thing of the past.
+When examining the balance sheets of the bank and reading through the latest quarterly earnings presentation, Investors may find a sense of security by noting a few key trends. Specifically, it appears that 53% of the bank's outstanding loan assets are derived from asset-backed real estate loans, with a majority in the multi-family asset class. This sector has proven to be the most stable and resilient corner of the real estate market, even in the face of rising mortgage costs and other factors contributing to a slowdown in the industry.
+Further due diligence will reveal that interest-bearing deposits (those of which the bank agrees to pay a variable or fixed rate of interest to the respective owner of the deposit) accounted for 67% of total deposits and saw an increase of 11.1% from 2021 to 2022 signaling account openings and continued trust/preference for the bank's services.
+Additionally, and perhaps more importantly, non-interest-bearing deposits which are pointed to be the preference of the bank's venture banking clientele only represented 33% of total deposits. Now things can't always just be positive, and the downside to these accounts over the year was the worrisome decline of 22.9% in deposit balances, with a further decline expected for 2023 as venture banking clients withdraw their funds to cover unexpected costs and losses in the space. 
+Considering the negative trend in non-interest-bearing deposits from venture banking clients, it is worth noting a commonly used metric to measure the health of a bank's assets and liabilities: the Loan to Deposit ratio (LDR), which is calculated by dividing total loans by total deposits. For smaller banks like PacWest, a healthy ratio is typically in the range of 75-80%, and even lower for larger mega banks.
+Currently, PacWest's LDR stands at 84%, up from 65% just a year ago. This increase is concerning, as it suggests that the bank may be relying too heavily on loans to fund its operations, potentially putting it at greater risk in the event of a downturn or other economic challenges.
+Considering the rapid decline in venture banking client deposits, there is further downside risk to PacWest's financial health. Assuming a 25% decline in deposits for 2023 - a similar rate to that of 2022 - and no new loan business, the bank's LDR could reach a worrisome 91.6%.
+Meanwhile, Federal Reserve Chairman Jerome Powell has set his sights on higher interest rate ceilings for the year, in an attempt to slow inflation and cool the economy. As a result, interest-bearing deposits will need to offer higher returns to compete with risk-free treasury investments that now provide more attractive returns. This benefit sharing from the bank's accounts will likely attract more users and deposits, as has been the trend for the second half of 2022 when interest-bearing deposit accounts began to rise in total value. 
+This also creates an interesting dynamic. As interest rates rise and safer investments like treasury bills become more attractive, traditional investments like real estate and stocks become less desirable to the markets, as the risk-to-reward ratio is greatly skewed to the negative side of the equation. As interest rates on mortgages rise as a side effect of the previous, mortgage loan values will begin to decline, which could further accelerate impairments of loan assets held by PacWest, as a symptom of contracting real estate values.
+Though initially, this may affect book values and return on equity measures for investors, it can relieve some pressure off the loan-to-deposit ratio as some loans begin to suffer impairments (a rapid loss of value). Adding to this possibility the likelihood of increased interest-bearing deposits, Fitch may very well decide that PacWest can make it through another "once in a lifetime" event in financial markets.
+Even if these tailwinds were not enough to propel the bank out of this sticky situation, the likelihood of receiving aid from the total liquidity fund targeted to help struggling banks may very well get it done.
+With stock prices hitting lows not seen since 2009, and a mouth-watering discount to book value per share of nearly 66%, there is all the more reason to consider keeping an eye or two on this stock. Analysts seem to agree, placing a 188% upside on it.
+ 
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

@@ -1,0 +1,52 @@
+March 16, 2023 — 09:45 am EDT
+
+      Written by
+                        Leo Sun for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Fortinet (NASDAQ: FTNT) and Cloudflare (NYSE: NET) represent two different ways to invest in the cybersecurity market. Fortinet's next-gen firewall upgrades traditional firewalls with network filtering tools, and it provides other end-to-end protection services through on-site appliances, software, and cloud-based services. Cloudflare is a content delivery network (CDN) provider that accelerates the delivery of digital content on websites and shields them from bot-based attacks.
+Fortinet is growing slower than Cloudflare, but it's consistently profitable by both generally accepted accounting principles (GAAP) and non-GAAP measures. Cloudflare is only profitable on a non-GAAP basis.
+Image source: Getty Images.
+Fortinet's stability, profitability, and lower valuation made it more appealing than Cloudflare as rising rates crushed growth stocks last year. That's why Fortinet's stock rose roughly 7.5% over the past 12 months as Cloudflare's stock dropped 36%. But will Fortinet remain the stronger cybersecurity investment this year?
+Fortinet already serves over 635,000 customers globally, including most of the Fortune 500, but it's still growing. Between 2019 and 2022, its revenue rose at a compound annual growth rate (CAGR) of 27% -- even as it weathered the pandemic, the suspension of its business in Russia, and inflationary headwinds over the past year. During those three years, its annual adjusted operating margin expanded from 25% to 27% as its adjusted net income grew at a CAGR of 31%.
+Fortinet expects to generate $10 billion in annual billings in 2025, which would represent a CAGR of 21% from its $5.6 billion in billings in 2022. During its latest conference call, CFO Keith Jensen attributed that bullish long-term outlook to the "convergence and consolidation" of a broad range of technologies -- including "network firewalls, Secure SD-WAN, 5G and OT security" -- into a "single operating system." Jensen also said that Fortinet's development of its own ASIC chips, which are built for its own hardware and OS, gave it an edge against its peers that relied on third-party chips.
+In 2023, Fortinet expects its revenue to rise 21% to 23% and for its adjusted earnings per share (EPS) to increase 17% to 18% -- even as it continues to ramp up its investments in new chips, cloud services, and data centers. At $60 per share, the stock looks reasonably valued at 43 times the midpoint of its adjusted EPS forecast for this year and about 9 times its estimated sales.
+Cloudflare served over 2,000 large customers (which pay more than $100,000 annually) at the end of 2022. Between 2019 and 2022, its annual revenue rose at a CAGR of 50% as its adjusted operating margin improved from negative 24.8% to positive 3.7%. It also turned profitable on a non-GAAP basis for the first time ever in 2022.
+Those robust growth rates indicated that Cloudflare was just as resistant to the macro headwinds as Fortinet and other well-run cybersecurity companies. But for fiscal 2023, it expects its revenue to rise 36% to 38% and for its adjusted EPS to increase 15% to 23%. That outlook is impressive, but it would still represent Cloudflare's slowest sales growth since its IPO in 2019.
+Cloudflare's adjusted gross margin also dipped in 2022 as its network infrastructure costs rose and it struggled to gain smaller customers (which spend less than $100,000 annually) in this tougher macro environment. Those challenges seem fairly minor, but Cloudflare's premium valuations didn't leave it much room for even the slightest disappointments.
+At $55 per share, Cloudflare still trades at 355 times the midpoint of its adjusted EPS forecast for 2023 and 15 times its estimated sales. Those higher valuations might limit its near-term gains, but it still expects to generate a positive free cash flow (FCF) in 2023 as its profits rise. But unlike Fortinet, it didn't provide any longer-term forecasts beyond 2023.
+Fortinet and Cloudflare are both well-run companies. However, I believe Fortinet will remain more appealing than Cloudflare as long as rising interest rates continue to drive investors toward stability instead of speculative gains. Cloudflare still has a bright future, but investors should be wary of paying the wrong price for the right company in this challenging market.
+10 stocks we like better than FortinetWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Fortinet wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of March 8, 2023
+ 
+Leo Sun has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Cloudflare and Fortinet. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

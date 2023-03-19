@@ -1,0 +1,59 @@
+March 03, 2023 — 05:00 pm EST
+
+      Written by
+                        Harsh Chauhan for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Nvidia (NASDAQ: NVDA) and Advanced Micro Devices (NASDAQ: AMD) have made a solid recovery on the stock market in 2023 with impressive year-to-date gains of 59% and 22%, respectively, as investors continue to show faith in their long-term prospects.
+In fact, shares of these semiconductor companies have headed higher despite them posting poor near-term guidance numbers caused by a weak PC (personal computer) market. While Nvidia's revenue outlook of $6.5 billion for the current quarter would translate into a 21% year-over-year drop, AMD anticipates a 10% decline in first-quarter 2023 revenue to $5.3 billion. But investors have chosen to focus on the gains that these companies are making in their data center businesses, driven by the growing adoption of artificial intelligence (AI) applications and cloud computing. AI applications, in particular, seem to have caught investors' attention as they are likely to drive the demand for data center accelerators that Nvidia and AMD sell.
+But which one of these two tech giants is more likely to sustain its stock market momentum? Let's find out.
+Nvidia's data center revenue shot up 41% in fiscal 2023 to $15 billion, accounting for nearly 56% of the company's total revenue. The chipmaker says that this growth was driven by healthy demand from hyperscale cloud customers as well as multiyear agreements with cloud service providers for its new AI offerings.
+Nvidia CEO Jensen Huang's remarks on the latest earnings conference call suggest that the company is setting itself up to take advantage of the enterprise adoption of AI applications with the DGX Cloud AI-as-a-service platform. The chipmaker aims to help "enterprise customers who want to build proprietary generative AI models and services for their businesses" with this new service, which should put Nvidia in a nice position to benefit from the race to develop enterprise AI applications.
+The company is already offering the Nvidia DGX Cloud platform on Oracle's cloud infrastructure, and it will soon be rolling out the same with other cloud services providers such as Amazon, Microsoft, and Google. Mordor Intelligence estimates that the enterprise AI market could clock a compound annual growth rate of 52% through 2028, so Nvidia is doing the right thing by targeting this opportunity.
+One reason why enterprise customers are likely to turn to the Nvidia DGX Cloud AI supercomputer platform is because of the company's dominant position in the data center accelerator space. Nvidia has more than a 90% share of the enterprise GPU (graphics processing unit) market, according to IDC, and it is on its way to tapping another lucrative opportunity in the form of server CPUs (central processing units).
+The server CPU market is currently dominated by chips based on the x86 architecture. AMD and Intel are the leading players in the server CPU market, while the Arm architecture on which Nvidia's Grace server CPUs are built controlled only 7% of this space in the middle of 2022. By 2026, Arm processors are expected to capture half of the cloud server market.
+With Nvidia's Arm-based Grace CPUs set to target  AI, cloud, and hyperscale workloads, the long-term prospects of the company's data center business appear to be bright.
+Just like Nvidia, AMD is also witnessing solid data center growth. The company's data center revenue was up an impressive 63% year over year in 2022 to $6 billion. The segment constituted just over a quarter of AMD's total revenue last year, which means that the chipmaker is less reliant on this segment when compared to Nvidia.
+There are two reasons why AMD's data center business is smaller than Nvidia's.
+First, the company is a bit-part player in the data center GPU market that Nvidia dominates. AMD CEO Lisa Su pointed out on the latest earnings conference call that "data center GPU sales were down significantly from a year ago" in the fourth quarter of 2022. IDC estimates that AMD controlled just 8.5% of this lucrative space at the end of 2021, and Su's comments indicate that the picture may not have changed for the better in 2022.
+Second, AMD is a smaller player in the server CPU market that's currently dominated by Intel.
+DigiTimes Research estimates that AMD's share of the overall server CPU market stood at 15.6% at the end of 2022. Intel controlled 77% of this market, while Arm server processors reported a share of 6.8%. The good part is that AMD's server market share has been growing impressively. The company controlled 10% of this space in 2020 and 11% in 2021, suggesting that it made nice gains last year. More importantly, AMD's server market share is expected to increase to 20.5% in 2023.
+So, the growth in AMD's server processor sales is the driving factor behind the solid gains the company made in the data center business last year. If AMD keeps gaining server market share this year, then it won't be surprising to see its data center revenue head higher.
+We have seen that both chipmakers have reported impressive data center growth over the past year. But the problem with AMD is that the data center business doesn't move the needle in as big a way for the company as it does for Nvidia. And that's even though AMD sells both CPUs and GPUs, while Nvidia was dealing in only the latter until last year.
+Now that Nvidia is set to jump into the server processor market with its Arm-based CPUs, AMD's impressive growth in this segment could hit a speed bump. So, Nvidia's data center business could keep getting bigger in 2023, and that's probably the reason why analysts anticipate stronger growth from the company.
+Specifically, analysts anticipate Nvidia's earnings to increase by 33% in the current fiscal year to $4.46 per share. On the other hand, analysts expect AMD's bottom line to shrink in 2023 to $3.05 per share from $3.50 per share, suggesting that Nvidia is more likely to sustain its hot rally. As such, it could turn out to be the better buy for investors looking for a growth stock to buy right now.
+Find out why Nvidia is one of the 10 best stocks to buy now
+Our award-winning analyst team has spent more than a decade beating the market. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed their ten top stock picks for investors to buy right now. Nvidia is on the list -- but there are nine others you may be overlooking.
+Click here to get access to the full list!
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+John Mackey, former CEO of Whole Foods Market, an Amazon subsidiary, is a member of The Motley Fool’s board of directors. Harsh Chauhan has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Advanced Micro Devices, Amazon.com, Intel, Microsoft, and Nvidia. The Motley Fool recommends the following options: long January 2023 $57.50 calls on Intel, long January 2025 $45 calls on Intel, and short January 2025 $45 puts on Intel. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

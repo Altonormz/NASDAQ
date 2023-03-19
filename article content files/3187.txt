@@ -1,0 +1,59 @@
+March 12, 2023 — 06:48 am EDT
+
+      Written by
+                        Justin Pope for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Artificial intelligence (AI) lending platform Upstart Holdings (NASDAQ: UPST) went public in late 2020 and became a sensation, soaring roughly 20 times its initial public offering price in one year. The stock trades below that price today, and shares are down 95% from their high.
+This is a battleground stock, with valid arguments for why the company could fail or succeed over the long term. Rising interest rates have poured water on Upstart's business model, which is admittedly fragile today. But there are reasons for hope. Here are three reasons to buy the stock and one factor that still threatens Upstart's future.
+The premise of Upstart's business is simple: It believes that its algorithms can better determine creditworthiness than Fair Isaac's FICO credit-scoring system, which lenders have used for decades. Borrowers apply for loans -- either directly through Upstart.com or through partners that rebrand its software (known as "white labeling") -- then the loans are typically sold to investors.
+Image source: Upstart Holdings.
+Management uses the above chart to demonstrate its technology's effectiveness, illustrating that its grading system can separate risk better than a standard credit score. You'll see above that there are approximately 14 times more defaults between Upstart's top and bottom grades versus three times the defaults for high and low credit scores.
+In other words, Upstart is more accurate in identifying risky borrowers versus a typical credit score. This is the whole point of Upstart's business: There's no model if the technology doesn't work better than a credit score. Investors should constantly check this basic (but crucial) box.
+Upstart has a greenfield of opportunity since lending is a pillar of the economy. Today, most of Upstart's business is in private loans, but the same technology could work for other categories.
+Upstart has gotten its feet wet with other types of lending, including auto loans, small-dollar loans, and small-business loans. In its fourth-quarter earnings call, management noted that the company was pulling back on its small-business-loan expansion because of its current struggles.
+Still, this is a long-term opportunity to revisit as Upstart gets back on solid ground. Management has also discussed the potential of mortgage lending, so most flavors of credit are at play in the future.
+Collectively, that's trillions of dollars in loan volume up for grabs, and Upstart needs only a tiny chunk of that to become a successful long-term investment.
+Upstart can go after business two ways. Today, most of its loans originate through Upstart.com. But it is growing its partner network, including 92 partner lenders as of year-end, up from 42 at the end of 2021. The first positive of this network is that it further underlines the value that Upstart adds to lenders. Why would lenders sign up if the product wasn't good?
+Second, the network will ideally fuel Upstart's growth as partnerships grow and they begin using Upstart's software to power more of their loans versus referrals. One could imagine that the shaky economy would deter lenders from using less-proven tools like Upstart. It is something to look for as interest rates stabilize and lenders become more confident.
+The same trend is happening with Upstart's automotive software: There are now 778 dealerships signed up for the software, which combines sales tools with Upstart's lending software. Again, more partnerships mean increased confidence in the product itself, and that could fuel growth down the road.
+If the technology works and lenders are signing up to partner with Upstart, why is the stock tanking? It turns out that Upstart's business model has a serious flaw: The company has relied on selling its loans to investors in the credit markets. The problem with this is that when the lending environment became shaky, the investors' demand for Upstart's loans dried up.
+With no buyers, Upstart had to start piling loans it couldn't sell onto its balance sheet. Below, you can see this play out by the quarter -- look at cash dwindling while loans increase.
+Upstart is a lender itself now, even if it wants to be a technology company. The loans add credit risk to its business, potentially hurting its liquidity if loan totals get too high. This helps explain the stock's staggering decline. 
+Image source: Upstart Holdings. All figures in millions.
+The solution, which management alluded to in its fourth-quarter earnings call, is establishing committed-funding loan buyers that guarantee a certain amount of capital for loans. That way, Upstart doesn't have to worry about demand for its loans disappearing overnight. While management voiced some optimism, there is currently no committed funding on board.
+Upstart seems to have a good product that lenders believe in. However, the company is in a tough spot that could bring it down if things don't change. Until then, the stock might have difficulty gaining momentum as interest rates continue rising.
+10 stocks we like better than UpstartWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Upstart wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of March 8, 2023
+ 
+Justin Pope has positions in Upstart. The Motley Fool has positions in and recommends Upstart. The Motley Fool recommends Fair Isaac. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

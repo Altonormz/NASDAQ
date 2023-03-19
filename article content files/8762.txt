@@ -1,0 +1,57 @@
+February 28, 2023 — 05:00 am EST
+
+      Written by
+                        Rich Duprey for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Remember when Nvidia (NASDAQ: NVDA) was a play on the gaming industry? Data centers? Crypto? Well, now the latest watchwords for the chipmaker are "artificial intelligence."
+Nvidia mentioned AI more than 70 times on its fourth-quarterearnings conference callwith analysts, a big jump from the 50 or so mentions on the third-quarter call, and nearly three times as often as the phrase was spoken during the second-quarter call.
+Meanwhile, crypto is no longer spoken about, and data centers and gaming got 18 and six mentions, respectively. The future of Nvidia seems to be all about artificial intelligence, and the market loves it. Although its Q4 featured a 21% year-over-year drop in revenue and a 58% plunge in operating profits, the stock took off the day after the report was delivered, rising 14%.
+If Nvidia can do no wrong, does that make its stock a buy?
+It's not quite true that Nvidia doesn't get punished by the market. It was a high-flying tech stock during the 13-year bull market that ended abruptly in November 2021. The chipmaker's stock tumbled hard over the next year, losing almost two-thirds of its value. 
+From its 2022 low, Nvidia's shares have gained 84%, and they're up 62% in 2023 alone. The share price is still a long way from its $330 peak, but it seems clear the market is looking at the latest trends in technology and seeing Nvidia involved in all of them.
+And why not? Nvidia all but owns the discrete graphics processing unit (GPU) market with a share of about 86%. Advanced Micro Devices is a distant second place with 10%, while Intel accounts for the rest.
+Discrete GPUs are different from integrated graphics chips in that they are separate from the CPU (central processing unit). They have their own dedicated memory that is far faster, letting them do powerful, complicated processing, which is why they are used so heavily in gaming, data centers, cryptocurrency mining, the metaverse, and yes, artificial intelligence applications.
+So if organizations are diving headfirst into AI, then they're more likely than not going to be using Nvidia chips. Forget what's happening now: It's the future where the market is looking.
+Data centers remain Nvidia's biggest revenue generator. They produced $3.6 billion in revenue in the fourth quarter, an 11% gain from last year, but well short of Wall Street's consensus forecast of almost $3.9 billion. And while gaming-related sales plummeted 46% from last year to $1.8 billion, that result was much better than analyst expectations of $1.6 billion. It was also up 16% sequentially.
+Results from Nvidia's other segments were a mixed bag. Professional visualization revenues plunged 65% to $226 million while sales in its automotive and embedded business rocketed higher by 135% from last year.
+The combination was enough for Nvidia to edge out beats on both the top and bottom lines. Total revenue came in at $6.05 billion and adjusted earnings were $0.88 per share. Wall Street had been looking for $6.01 billion and $0.81 per share, respectively.
+Image source: Getty Images.
+It was, of course, the future promise of AI that got everyone excited, including Nvidia, which noted that it was working with cloud computing providers to offer AI-as-a-service that would let companies rent Nvidia's technologies to create their own "generative" AI services, similar to Open AI's ChatGPT. This will let companies organically create text, images, or even customer engagement, rather than just relying on existing data.
+CEO Jensen Huang said Nvidia is looking to "accelerate the adoption of generative AI in enterprises" even though it's not currently a widely adopted technology, because it will all be hosted in the cloud.
+That may be the hope, but Nvidia is an expensive stock after its big run-up. It trades at 88 times earnings, 48 times forward earnings estimates, and 18 times sales. That's a lot of euphoria over artificial intelligence, and investors might be better off waiting for the stock to moderate to less enthusiastic valuations before buying in.
+Find out why Nvidia is one of the 10 best stocks to buy now
+Our award-winning analyst team has spent more than a decade beating the market. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed their ten top stock picks for investors to buy right now. Nvidia is on the list -- but there are nine others you may be overlooking.
+Click here to get access to the full list!
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Rich Duprey has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Advanced Micro Devices, Intel, and Nvidia. The Motley Fool recommends the following options: long January 2023 $57.50 calls on Intel, long January 2025 $45 calls on Intel, and short January 2025 $45 puts on Intel. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

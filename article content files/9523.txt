@@ -1,0 +1,59 @@
+February 25, 2023 — 07:36 am EST
+
+      Written by
+                        Harsh Chauhan for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Artificial intelligence (AI) applications have hit the spotlight of late following the popularity of Microsoft-backed (NASDAQ: MSFT) OpenAI's chatbot, ChatGPT, which was launched in November last year and has racked up an impressive user base within a short time. And unsurprisingly, several technology players are now in a race to accelerate their AI development.
+Generative AI applications, such as chatbots, are expected to become the next hot thing in technology. Grand View Research estimates that the global generative AI market could grow at an annual pace of 34% through the end of the decade, generating over $109 billion in revenue in 2030. As a result, big tech players such as Microsoft have lined up massive investments in this space.
+This race to develop generative AI applications could be a boon for Cloudflare (NYSE: NET), a cloud platform provider that uses a huge network of servers to "improve the security, performance, and reliability of anything connected to the Internet." But which of these two tech stocks that could take advantage of the lucrative generative AI market should you be buying? Let's find out.
+Microsoft is an early mover in the generative AI space, with OpenAI's ChatGPT: a popular chatbot capable of writing essays, jokes, articles, and poetry based on user prompts. The chatbot was reportedly averaging 13 million unique daily visitors in January 2023, which was more than double December 2022 levels. ChatGPT is estimated to have clocked 100 million monthly active users last month.
+UBS points out that no consumer internet app has ramped up at such a pace in the investment bank's 20-year history of tracking the internet market. It is worth noting that the likes of Instagram and TikTok took two and a half years and nine months, respectively, to reach 100 million users. This indicates Microsoft may have a potential winner on its hands as demand for generative AI is expected to explode in the long run, as we saw earlier in the article.
+Generative AI allows users to create text, video, audio, images, and even code. More importantly, Microsoft and OpenAI have started taking steps to monetize ChatGPT, with a monthly subscription service costing $20 for users in the U.S. This paid service, known as ChatGPT Plus, will unlock faster response times for users, apart from better reliability during peak hours on the platform.
+Moreover, OpenAI intends to help businesses integrate ChatGPT into existing apps and services, with the help of an API (application programming interface). Microsoft, on the other hand, has already integrated ChatGPT into the Bing search engine. The company claims it has received over a million requests from users for its AI-powered search engine, which bodes well for Microsoft, given its puny share in the search engine market.
+Microsoft Bing reportedly controlled just under 9% of the global search engine market last year. Alphabet's Google is the leading player in this space, but the hype around ChatGPT is likely to attract more users to its platform. As a result, Microsoft may be able to attract advertisers to its platform as well, unlocking another stream of revenue. All this indicates that Microsoft could win big from the growing adoption of generative AI applications in the long run.
+Cloudflare can be a derivative play on the generative AI space as its cloud infrastructure is likely to play a critical role in the deployment of applications such as chatbots. This was evident from Cloudflare's latest earnings conference call on which CEO Matthew Prince indicated that OpenAI is already a customer:
+A leading generative AI company signed a one-year $1 million deal. The company had been a user of our free tier since 2017. And this deal originally started out as a relatively small gateway DNS opportunity to replace Cisco umbrella. However, when their browser-based application debuted in late November, demand for the company's AI-generated content absolutely exploded with unprecedented rates of adoption.
+The Cloudflare CEO also added that Microsoft's Azure cloud platform "quickly proved insufficient at handling the massive load on their services from legitimate users, as well as keeping fraudulent users from exhausting their resources." As a result, OpenAI adopted multiple Cloudflare solutions, such as its content delivery network (CDN), bot management, and distributed denial of service (DDoS), among others.
+Given that Cloudflare is reportedly used by almost 80% of the websites that rely on content delivery networks, it won't be surprising to see other generative AI applications also rely on its services in the future. In simpler words, Cloudflare could become a beneficiary of the generative AI space, irrespective of which company ends up dominating this space in the future, since it provides critical infrastructure that powers and secures the internet.
+Microsoft and Cloudflare can take advantage of generative AI in different ways, so this isn't exactly an apples-to-apples comparison. But as far as the financial impact of generative AI is concerned, Cloudflare seems to be the better bet.
+Cloudflare is a smaller company, so the impact of the new business it wins in the generative AI market would be bigger as compared to Microsoft. More specifically, Cloudflare reported $975 million in revenue in 2022, an increase of 49% over the prior year. It is anticipating $1.34 billion in revenue this year, which would be a 37% increase over 2022. What's more, Cloudflare could sustain such impressive growth in 2024 and 2025 as well.
+
+NET Revenue Estimates for Current Fiscal Year data by YCharts.
+But as the usage of chatbots such as ChatGPT expands, and if Cloudflare lands more contracts in the generative AI space, it could clock faster growth.
+Microsoft, meanwhile, is expected to record a much smaller revenue increase of 5.4% this fiscal year to $209 billion. The tech giant has multiple businesses -- including cloud computing, personal computing, and productivity applications, such as Office 365 -- and weakness in one of those areas can weigh on its performance. For instance, weak personal computer sales weighed heavily on Microsoft's fiscal 2023 second-quarter results as its overall revenue increased just 2% to $52.7 billion.
+So any gains from the adoption of generative AI are likely to reflect more strongly on Cloudflare's business and accelerate the company's already impressive growth that's driven by a massive addressable market, making it the hotter artificial intelligence stock to buy right now over Microsoft.
+10 stocks we like better than MicrosoftWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Microsoft wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Suzanne Frey, an executive at Alphabet, is a member of The Motley Fool's board of directors. Harsh Chauhan has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Alphabet, Cloudflare, and Microsoft. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

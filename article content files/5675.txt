@@ -1,0 +1,59 @@
+March 07, 2023 — 05:47 am EST
+
+      Written by
+                        Anthony Di Pizio for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+It's no secret there is some uncertainty about the economy at the moment, with surging inflation and rising interest rates pressuring consumer spending and forcing companies to manage costs more carefully. But even with that uncertainty at the moment, there's one expense the corporate world is reluctant to slash.
+Investment bank Morgan Stanley surveyed 100 leading chief information officers (CIOs) in mid-2022, and these IT managers indicated that cybersecurity was the least likely expense they'd trim even in the event of a recession. In a similar vein, when asked about the areas where they'd be investing more money, cybersecurity ranked second only behind cloud computing. 
+That was backed up by more recent data from consulting specialist PwC, which asked 4,410 corporate executives how they planned to navigate growing geopolitical risks around the world in 2023. The top response was to ramp up investment in cybersecurity. 
+None of these results are necessarily surprising. As organizations do more business online, the potential for attack continues to grow, which calls for beefed-up cybersecurity strategies. Zscaler (NASDAQ: ZS) is a go-to provider of unique cybersecurity products, and it has many fans on Wall Street. One analyst firm, in particular, is betting its stock could soar by 88% from here. 
+Cloud computing is the technology behind the digital presence of modern-day organizations. It allows them to run critical applications online, which means employees can work remotely from almost anywhere in the world. But that leaves the door ajar for malicious hackers who prey on vulnerable access points.
+If an employee signs into an online application remotely, how does the company know whether it's really them, or a bad actor who has stolen their credentials? Zscaler designed Zero Trust to address that very threat -- it treats all sign-on attempts as hostile, verifying them not only through credentials, but also by analyzing location and the device being used. 
+On top of that, the Zero Trust Exchange prevents lateral movements across networks in case a breach does occur. It connects employees only to the applications they need, rather than the entire network, so even if hackers find a way in, they can't reach the organization's other assets. This approach dramatically reduces the attack surface.
+The Zero Trust Exchange is the largest security cloud in the world, and it prevents 9 billion security violations every single day. Zscaler says it feeds 300 trillion signals into artificial intelligence and machine learning models daily to improve its effectiveness, allowing the company to extend its advantage over the competition. 
+Zscaler now serves more than 6,000 customers globally, and its highest-spending cohorts continue to expand rapidly. As of the fiscal 2023 second quarter (ended Jan. 31), it had 380 customers spending at least $1 million per year, up 51% from the year-ago period. 
+It highlights the surging demand among large organizations for advanced cybersecurity. 
+Zscaler had a record year in fiscal 2022, crossing $1 billion in annual revenue for the first time. And the company has already revised its fiscal 2023 revenue guidance higher twice. It initially estimated it could bring in $1.50 billion at the top of the range, but it's now predicting as much as $1.563 billion. 
+In any case, if Zscaler's guidance comes to fruition, it will have increased its revenue more than tenfold since fiscal 2017. 
+
+Zscaler has always prioritized investing in growth and sacrificed profitability in the process. But in this tough economic environment, the company (like many others in the tech space) has shifted its focus and begun to manage costs. In the second quarter, it reduced its net loss to $57 million from $100 million in the year-ago period. 
+On a non-GAAP basis, which strips out one-off costs and non-cash expenses like stock-based compensation, Zscaler's net income almost tripled year over year to $57 million. Measured against either the GAAP or the non-GAAP result, the company is making strong progress toward improving its bottom line, and that could pave the way for a higher share price in the long run. 
+The Wall Street Journal tracks 41 analysts who cover Zscaler stock. Of the group, 26 have given the stock the highest-possible buy rating, which is a very impressive consensus. The rest are split as follows: three analysts are in the overweight (bullish) camp and 12 recommend holding.
+Note that not a single analyst recommends selling. Their average price target for Zscaler stock is $160.09, representing 34% upside from where it trades as of this writing. But one analyst firm -- JMP Securities -- thinks it could soar to $225, suggesting a whopping 88% gain might be in the cards. 
+Given Zscaler's rapid revenue growth rate and the increasing need for cybersecurity tools in the corporate world, that price target might even be conservative in the long run. 
+Zscaler stock lost two-thirds of its value from its all-time high amid the sell-off in the broader technology sector. So with the endorsement of Wall Street, this might be a great time to buy in anticipation of potentially stronger years ahead.
+10 stocks we like better than ZscalerWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Zscaler wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Anthony Di Pizio has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Zscaler. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

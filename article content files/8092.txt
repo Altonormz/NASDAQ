@@ -1,0 +1,59 @@
+March 01, 2023 — 07:02 am EST
+
+      Written by
+                        Rich Duprey for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+When Block (NYSE: SQ) acquired Afterpay in August 2021, the fintech giant was optimistic about topping off its core collection of payment services with the leader in a fast-growing new industry: buy now, pay later. But that growth hasn't materialized in the way Block hoped. The company ran up transaction, loan, and consumer receivables losses of $155 million in the fourth quarter of 2022 and more than $550 million for the full year, both more than doubling from 2021 and attributed in large part to buy now, pay later (BNPL).
+Now, with a potential recession looming in the months ahead, investors have to be wondering how heavily Afterpay will weigh on Block's performance over the coming year.
+Image source: Square.
+Block's primary business remains strong, but growth is slowing. Afterpay was supposed to help provide a catalyst, but instead it's showing what can happen when you get caught up in the hype of the moment and overpay for an acquisition.
+The promise of Afterpay was to increase payment volumes on both the consumer and merchant side of Block's business by extending interest-free credit to consumers without any credit risk to merchants. Block splits equally any contribution Afterpay makes between its Cash App business, where consumers can manage their BNPL payments directly, and Square, the merchant payments system where BNPL has been integrated into checkout options.
+Not all merchants will use Afterpay, and Block admits it's still early days in integrating the acquisition into its ecosystem. But as we saw with transaction, loan, and consumer receivables losses, Afterpay is adding unnecessary risk and losses to operations. Investors will need to keep a close eye on the reserves the company sets aside for future losses.
+
+While Block's purchase price for Afterpay stood out -- $29 billion -- it wasn't the only big BNPL deal of 2021. Goldman Sachs spent $2.2 billion on its own BNPL acquisition, GreenSky, which generated $1.6 billion in losses for the investment house. A number of other companies also made acquisitions in the space, including PayPal, which paid $2.7 billion for Japan's Paidy. According to Bain & Co., payments deals totaled $60 billion in 2021, a 50% increase from 2020, and the consulting firm forecast the sector would grow 15 to 20 times over the next three years to account for as much as $1 trillion in transactions.
+The Afterpay acquisition may continue to haunt investors, because while Block is pouring money into the ongoing integration, the rest of its business has generally seen growth slow.
+For example, Cash App remains top-notch, enjoying gross profits that expanded 64% to $858 million in the fourth quarter, but monthly users only hit 51 million, a 16% increase, which is a significant slowdown. Gross profit generated from the app's older users, those brought in before 2019, has essentially stagnated. Newer users are more profitable for Block, so it needs to keep bringing more on board or face stagnation.
+That's similar to what Block is seeing in Square itself, where gross profit was up 22% to $801 million even as gross payment volume (GPV) decelerated. GPV was up to $48.6 billion in the fourth quarter, a 14% rise, but a far cry from the 45% surge seen in the same period last year. In fact, it dramatically slowed in every quarter of 2022.
+Image source: Getty Images.
+Overall, Block offers pretty consistent gross profitability, and at fairly high rates, but once BNPL is removed from the equation it suffers big drops (albeit at still elevated levels). Block said Square's gross profits were 30% higher at $3 billion and Cash App was up 43% at $2.95 billion, but once BNPL was removed, the increase dropped to 28% and 17%, respectively. Moreover, 2021's gross profits were significantly higher before Afterpay was acquired, with Cash App up 69% and Square 54% higher.
+So Block is still offering fairly solid growth, but it's slowing, and Afterpay is skewing the results to make it look even better. 
+Cash flow will be impacted by the consumer credit cycle more so than before as U.S. consumer debt hit a record $16.9 trillion and delinquencies are rising. The BNPL opportunity may not be as robust as once thought. 
+Block is not in financial trouble by any stretch, but it is in a quandary. Afterpay is supposedly the vehicle it will ride to new heights, but the $550 million in losses last year came when we didn't even have a recession. An economic downturn, especially a severe one as some suggest could happen, could wreak havoc on Block's financials.
+Yet even if Block was to dump Afterpay, which it won't, the solid core of businesses it operates are only growing slowly. It needs to find a way to reignite interest in these base platforms, whether that's new services or some other means.
+For investors, though, Block stock isn't cheap enough to buy. While its price-to-earnings and price-to-sales ratios are comparable to or better than rivals like PayPal, Adyen, SoFi Technologies, or Upstart Holdings, Block has negligible free cash flow at the moment and offers little visibility on future growth.
+Block is a good company, but I'd be hard-pressed to recommend buying it at these prices. With Cash App and Square growth slowing, and Afterpay injecting a wildcard into the equation, Block has to prove it can keep in the air all the balls it is juggling over the coming year.
+10 stocks we like better than BlockWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Block wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Rich Duprey has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Adyen, Block, Goldman Sachs Group, PayPal, and Upstart. The Motley Fool recommends the following options: short April 2023 $70 puts on PayPal. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

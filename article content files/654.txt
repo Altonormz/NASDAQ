@@ -1,0 +1,61 @@
+March 17, 2023 — 05:10 am EDT
+
+      Written by
+                        Josh Kohn-Lindquist for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+After nearly doubling the returns of the Nasdaq-100 so far in 2023, CrowdStrike (NASDAQ: CRWD) and Booking (NASDAQ: BKNG) may have investors wondering if they are too late to the party. Despite this recent resurgence in share price, however, each stock trades well below historical averages on their more relevant valuations. 
+For example, CrowdStrike's price-to-sales (P/S) ratio of 13 is near its all-time lows -- other than where it was earlier this year. Meanwhile, Booking's price-to-earnings (P/E) ratio of 31 is very reasonable, considering it is yet to return to pre-pandemic profitability. 
+More importantly, both businesses are powered by megatrends driving strong growth rates and substantial free cash flow (FCF) generation, making them two of the best stocks on the Nasdaq to buy and hold forever.
+Let's take a deeper look.
+Before it became trendy for any tech-adjacent stock to mention how it was planning to use artificial intelligence (AI) in its operations, cloud-native cybersecurity expert CrowdStrike was already built upon the premise of using AI to stop breaches.
+Filtering through 7 trillion weekly cybersecurity events across its ever-growing network, CrowdStrike constantly feeds its AI with new data -- producing even more robust network effects as it goes. The insights gleaned from this ridiculous amount of data are contextualized on CrowdStrike's Threat Graph, which it uses to look for malicious activity.
+With 70 of the Fortune 100 and 271 of the Fortune 500 as clients, the company's volume of cybersecurity data points is massive. Now commanding an 18% endpoint detection and response (EDR) industry market share, CrowdStrike has maintained and grown its leadership position for three straight years. 
+So with this market leadership and widespread adoption among large enterprises, how can Crowdstrike continue beating the market?
+The answer to this question lies within the company's incredible dollar-based net retention (DBNR) rate of 125%.  This measures the growth in spending from a company's existing customers from one year to the next. A DBNR rate greater than 120% is generally considered exceptional, making CrowdStrike's mark very promising. On top of this, its DBNR rate has been 120% or higher for 20 consecutive quarters.
+Furthermore, the company's 23 (and counting) unique modules continue to be adopted rapidly, with 62% of its 23,000 clients using five or more modules. This percentage of customers using five or more modules grew by 52%, highlighting CrowdStrike's ability to upsell its customers on new products once it gets in the door. 
+After growing annually recurring revenue by 48% in the fourth quarter while posting a 9% FCF margin (even after removing stock-based compensation), CrowdStrike looks poised to continue dominating an increasingly crucial industry. 
+Booking Holdings is home to the most downloaded online travel agency apps globally and in the United States. It operates through six brands: Booking.com, Priceline, Agoda, Rentalcars.com, Kayak, and OpenTable. With services including travel accommodations, ground transportation, flights, activities, restaurants, and travel search aggregation, Booking is the go-to source for all things travel.
+Although the pandemic severely affected the company's operations in 2020 and 2021, it has started to become a distant memory, financially speaking. In fourth-quarter earnings, Booking's sales were 35% higher (minus foreign exchange effects) than the same quarter in 2019, and earnings per share was only 6% below its mark from three years ago. 
+Currently sporting a net profit margin of 18%, Booking's P/E ratio of 31 could reduce to 21 if it reverts to its pre-pandemic margins closer to 27%.
+BKNG Profit Margin data by YCharts
+This is a much more palatable valuation and doesn't account for the fact that management expects gross bookings to grow in the low teens in 2023, which could further lower this reasonable price tag. 
+Better yet, Booking's FCF generation has historically been even more robust than its earnings, allowing significant share repurchases over the last five years. Despite its share count already being down about 22% over this time, management still has a massive $24 billion remaining on its share buyback program, which it plans to deploy over the next four years. 
+This authorization amounts to more than one-fourth of the company's total market capitalization and would further amplify Booking's EPS growth over the coming years. 
+While the market seems concerned about a broader slowdown in consumer discretionary spending, an early look at the company's January 2023 bookings showed promise. Compared to January 2019, room nights booked for 2023's first month were up an incredible 60% -- so if people are reining in spending, it's not affecting Booking's results yet. 
+It's seemingly hidden in Airbnb's shadow (as far as popular stocks go), but investors would be wise not to ignore Booking's immense profitability and global scale. Trading around 21 times next year's earnings and determined to buy back as many of its shares as possible, Booking and its $12 billion cash hoard is a tremendous buy-now-and-hold-forever Nasdaq-100 investment -- even after its rise to start 2023. 
+Find out why CrowdStrike is one of the 10 best stocks to buy now
+Our award-winning analyst team has spent more than a decade beating the market. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed their ten top stock picks for investors to buy right now. CrowdStrike is on the list -- but there are nine others you may be overlooking.
+Click here to get access to the full list!
+ 
+*Stock Advisor returns as of March 8, 2023
+ 
+Josh Kohn-Lindquist has positions in Airbnb, Booking, and CrowdStrike. The Motley Fool has positions in and recommends Airbnb, Booking, and CrowdStrike. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

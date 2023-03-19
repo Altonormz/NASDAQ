@@ -1,0 +1,80 @@
+March 09, 2023 — 01:43 pm EST
+
+      Written by
+                        BNK Invest for                             
+        
+
+
+
+
+BNK Invest ->
+
+
+Investors in NVIDIA Corp (Symbol: NVDA) saw new options begin trading today, for the April 28th expiration.   At Stock Options Channel, our YieldBoost formula has looked up and down the NVDA options chain for the new April 28th contracts and identified one put and one call contract of particular interest.
+The put contract at the $232.50 strike price has a current bid of $11.80.  If an investor was to sell-to-open that put contract, they are committing to purchase the stock at $232.50, but will also collect the premium, putting the cost basis of the shares at $220.70 (before broker commissions).  To an investor already interested in purchasing shares of NVDA, that could represent an attractive alternative to paying $241.52/share today.
+
+
+Because the $232.50 strike represents an approximate 4% discount to the current trading price of the stock (in other words it is out-of-the-money by that percentage), there is also the possibility that the put contract would expire worthless.  The current analytical data (including greeks and implied greeks) suggest the current odds of that happening are 99%.  Stock Options Channel will track those odds over time to see how they change, publishing a chart of those numbers on our website under the contract detail page for this contract.  Should the contract expire worthless, the premium would represent a 5.08% return on the cash commitment, or 37.08% annualized — at Stock Options Channel we call this the YieldBoost.
+
+
+
+Below is a chart showing the trailing twelve month trading history for NVIDIA Corp, and highlighting in green where the $232.50 strike is located relative to that history:
+
+
+
+
+
+
+
+
+
+
+
+
+Turning to the calls side of the option chain, the call contract at the $252.50 strike price has a current bid of $11.55.  If an investor was to purchase shares of NVDA stock at the current price level of $241.52/share, and then sell-to-open that call contract as a "covered call," they are committing to sell the stock at $252.50.  Considering the call seller will also collect the premium, that would drive a total return (excluding dividends, if any) of 9.33% if the stock gets called away at the April 28th expiration (before broker commissions).  Of course, a lot of upside could potentially be left on the table if NVDA shares really soar, which is why looking at the trailing twelve month trading history for NVIDIA Corp, as well as studying the business fundamentals becomes important.   Below is a chart showing NVDA's trailing twelve month trading history, with the $252.50 strike highlighted in red:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Considering the fact that the $252.50 strike represents an approximate 5% premium to the current trading price of the stock (in other words it is out-of-the-money by that percentage), there is also the possibility that the covered call contract would expire worthless, in which case the investor would keep both their shares of stock and the premium collected.  The current analytical data (including greeks and implied greeks) suggest the current odds of that happening are 99%.  On our website under the contract detail page for this contract, Stock Options Channel will track those odds over time to see how they change and publish a chart of those numbers (the trading history of the option contract will also be charted).   Should the covered call contract expire worthless, the premium would represent a 4.78% boost of extra return to the investor, or 34.94% annualized, which we refer to as the YieldBoost.
+
+
+
+Meanwhile, we calculate the actual trailing twelve month volatility (considering the last 251 trading day closing values as well as today's price of $241.52) to be 63%.  For more put and call options contract ideas worth looking at, visit StockOptionsChannel.com.
+
+Top YieldBoost Calls of the Nasdaq 100 »
+
+
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

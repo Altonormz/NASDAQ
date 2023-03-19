@@ -1,0 +1,57 @@
+February 28, 2023 — 05:15 am EST
+
+      Written by
+                        Anthony Di Pizio for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Artificial intelligence (AI) is a lightning rod for attention in technology circles right now. Platforms like ChatGPT, which Microsoft recently backed, are exciting investors with their potential for rapid progress and their ability to take advantage of advanced capabilities.
+While the AI trend is only beginning to heat up, there are plenty of companies that have been developing AI for years and already successfully monetizing the technology. Lemonade (NYSE: LMND) is using AI to reshape the insurance industry, which is dominated by older companies with little incentive to innovate. 
+Lemonade just released its financial results for calendar year 2022. The company continues to grow rapidly, yet its stock now trades at the cheapest valuation since it was listed publicly in 2020. Here's why it could be gearing up to deliver strong gains in 2023. 
+Image source: Getty Images.
+The insurance industry is complex, so the mechanics behind insurance policy prices can appear to be a mystery to most consumers. According to survey data from J.D. Power, customer satisfaction in the insurance industry plunged in 2022 on the back of rising premiums. On top of that, the claims process can often be long and painful.
+Lemonade is redesigning the customer experience in how premiums are priced and how claims are handled. By using AI, the company can automatically approve and pay claims, so many customers receive payouts practically instantly. This feature of Lemonade's service has earned a Net Promoter Score (NPS) of 71, which is double the industry average of 35 -- the NPS measures customers' satisfaction based on the likelihood they would refer a friend to the insurer. 
+When it comes to policy prices, Lemonade uses artificial intelligence to do most of the legwork. It harvests data from customers like a tech company, not like an insurance company, so as time goes on, its AI-driven models will only grow more precise, which will result in more accurate pricing for customers. Its newest Lifetime Value 6 (LTV6) model is powered by machine learning using almost 1 million parameters. 
+The goal of LTV6 is to accurately predict the lifetime value of customers based on the likelihood they'll buy multiple Lemonade policies, the probability they'll switch insurers, and the likelihood they'll file a claim. The results lead to a fairer premium for that customer, and a declining loss ratio for Lemonade -- a win-win proposition. 
+Lemonade is still expanding its product portfolio, and in 2022, it had all five of its insurance segments operational for the first full year ever. Those coverage segments are renters, homeowners, pets, life, and car insurance. It takes time to build scale, and it's certainly not cheap, so Lemonade's business consistently generates net losses, but they're improving.
+Revenue came in at $256 million for the year, almost doubling compared with 2021. It lost $297 million, representing 116% of revenue, but that was a drastic improvement over 2021 when its net loss came in at 188% of revenue. The effects of scale are slowly kicking in, and Lemonade expects to make further progress toward profitability in 2023 based on an improving loss ratio, more cross-sells and upsells, and further growth. 
+Its loss ratio will be key. It represents the percentage of in-force premiums it pays out to meet claims. Lemonade's target loss ratio is 75%, and by the end of 2022, it had fallen to 89%, an improvement from 96% at the same time in 2021. 
+The company added 380,000 new customers in 2022, taking its total to more than 1.8 million. More customers mean more data for its AI models to learn from, thus theoretically improving its loss ratio over time. As long as more people are signing on, Lemonade's flywheel should continue to spin at a faster rate. 
+Since Lemonade isn't a profitable company, investors will often look at its price-to-sales (P/S) ratio to determine the attractiveness of its stock price. That figure is the company's market capitalization (currently $1.12 billion) divided by its revenue in 2022.
+But despite its revenue nearly doubling last year, Lemonade's stock sits 90% below its all-time high. That divergence means its P/S ratio sits at just 4.3 right now, which is the cheapest level since the company hit the public markets in July 2020 -- and down substantially from its peak P/S of 61. 
+Over the long term, AI is set to transform the corporate world forever. One estimate by Cathie Wood's Ark Invest suggests the technology could add $200 trillion to the global economy by 2030 because it will supercharge the productivity of knowledge workers (like programmers, scientists, and lawyers). 
+The insurance industry seems like low-hanging fruit because it can be so dramatically improved by simply adding more data into the mix, and by using AI to learn from that data, progress can be accelerated. 
+Lemonade offers a unique mix of short-term catalysts like its improving financials, and longer-term catalysts like its continued development of AI. They're packaged in a stock price that's near an all-time low, so as long as the company continues to add customers and trend toward profitability this year, its stock price should build momentum to the upside. 
+10 stocks we like better than LemonadeWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Lemonade wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Anthony Di Pizio has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Lemonade and Microsoft. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

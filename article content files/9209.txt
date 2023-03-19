@@ -1,0 +1,55 @@
+February 27, 2023 — 06:05 am EST
+
+      Written by
+                        Keith Noonan and Parkev Tatevosian for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Surging demand for cybersecurity services over the next decade is a virtual certainty. But despite posting strong sales growth and having very strong long-term expansion prospects, Cloudflare (NYSE: NET) and CrowdStrike (NASDAQ: CRWD) have both seen dramatic stock pullbacks as macroeconomic pressures have mounted and investors have shifted away from companies with heavily forward-looking valuations.
+Which of these top cybersecurity companies is most likely to deliver market-crushing returns for investors at current prices? Read on to see why two Motley Fool contributors have differing takes on which stock you'd be better off putting your money behind. 
+Image source: Getty Images.
+Parkev Tatevosian: Cybersecurity firm CrowdStrike has shown impressive growth over the last several years. Indeed, revenue increased from $57 million in 2017 to $1.45 billion in 2022. As people spend more time and money online, the need to protect critical data is rising. CrowdStrike is capitalizing on that trend as a cloud-based device protection software leader. Spending on cybersecurity has turned from a nice-to-have to a must-have for enterprises and institutions worldwide. 
+More importantly, it is doing so while demonstrating economies of scale. Investors can find many tech companies that are growing sales rapidly. It is more challenging to find businesses that are expanding sales effectively. Between 2017 and 2022, CrowdStrike has improved gross profit from $19 million to $1.07 billion. That shows me that management is not looking at growth for growth's sake. If it continues at that rate, it could only be a matter of time before the profits trickle down to the bottom line. 
+CRWD PE Ratio (Forward) data by YCharts
+Fortunately for investors, the broad market sell-off in 2022 brought CrowdStrike's stock down to a reasonable valuation. It's selling at a forward price to earnings of 57.45. Investors have rarely had an opportunity to buy CrowdStrike's stock this cheaply. It might be an excellent idea to use this opportunity to scoop up shares of this growth stock at a discount.  
+Keith Noonan: Cloudflare stands as the market's leading provider of software-based protections against distributed-denial-of-service (DDoS) threats -- a category of attacks that aims to take websites and applications down by flooding them with fake service requests. The company estimates that it blocks an average of 136 billion cyberattack instances each day. 
+The company also provides content delivery network (CDN) services that use edge computing to speed up the rate at which data is sent and received through the web. Across its products, Cloudflare has more than 162,000 paying customers, and it's in great position to continue attracting new clients and building relationships with those already using its services. 
+Despite macroeconomic headwinds, Cloudflare managed to grow revenue 42% year over year in the fourth quarter, reaching $274.7 million. The company closed out the last fiscal year with $975.2 million in sales, up 49% on an annual basis, and it looks like the business's long-term growth story is still in very early innings. 
+Cloudflare is maintaining strong momentum because it's providing best-in-class service offerings and benefiting from a rising tide of cybersecurity threats and increasing demand for CDN services. As the overall internet continues to expand, Cloudflare is fantastically positioned to facilitate and benefit from that growth. 
+Admittedly, Cloudflare continues to be valued at highly growth-dependent multiples even with the stock trading down approximately 72% from its peak level. With the company trading at roughly $20 billion and at roughly 15 times this year's expected sales, the stock could see volatile trading if macroeconomic pressures continue to shape the broader market backdrop in the near term.
+But Cloudflare is a great company serving high-demand service categories, and I think that the stock actually offers a great risk-reward profile for long-term investors seeking cybersecurity plays capable of delivering multibagger returns. 
+If you're only interested in owning one of these stocks, the best move would be to make your decision based on business performance, fundamentals, and whether you think Cloudflare's web-services suite or CrowdStrike's endpoint-device protection services are better suited to driving long-term earnings growth. But investors don't necessarily have to take an either-or stance on this one. 
+Both Cloudflare and CrowdStrike are leaders in their core respective service categories, and each business has a promising long-term growth outlook. Additionally, the companies are operating in different corners of the cybersecurity industry, and they've actually partnered on some important initiatives. For growth-oriented investors seeking to increase their portfolio exposure to the cybersecurity space, this is a case where buying both stocks could be the right move. 
+10 stocks we like better than CrowdStrikeWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and CrowdStrike wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Keith Noonan has positions in Cloudflare. Parkev Tatevosian, CFA has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Cloudflare and CrowdStrike. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

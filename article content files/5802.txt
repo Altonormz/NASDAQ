@@ -1,0 +1,87 @@
+March 06, 2023 — 03:33 pm EST
+
+      Written by
+                        BNK Invest for                             
+        
+
+
+
+
+BNK Invest ->
+
+
+Looking at options trading activity among components of the Russell 3000 index, there is noteworthy activity today in Micron Technology Inc. (Symbol: MU), where a total volume of 49,039 contracts has been traded thus far today, a contract volume which is representative of approximately 4.9 million underlying shares (given that every 1 contract represents 100 underlying shares).  That number works out to 41.8% of MU's average daily trading volume over the past month, of 11.7 million shares.  Especially high volume was seen for the $70 strike put option expiring June 16, 2023, with 3,000 contracts trading so far today, representing approximately 300,000 underlying shares of MU.  Below is a chart showing MU's trailing twelve month trading history, with the $70 strike highlighted in orange:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dow Inc (Symbol: DOW) options are showing a volume of 17,566 contracts thus far today.  That number of contracts represents approximately 1.8 million underlying shares, working out to a sizeable 41.2% of DOW's average daily trading volume over the past month, of 4.3 million shares.
+Especially high volume was seen for the $57.50 strike put option expiring April 21, 2023, with 1,497 contracts trading so far today, representing approximately 149,700 underlying shares of DOW.  Below is a chart showing DOW's trailing twelve month trading history, with the $57.50 strike highlighted in orange:
+
+
+
+
+
+
+
+
+
+
+
+
+And Alteryx Inc (Symbol: AYX) saw options trading volume of 6,410 contracts, representing approximately 641,000 underlying shares or approximately 40.8% of AYX's average daily trading volume over the past month, of 1.6 million shares.
+Especially high volume was seen for the $70 strike call option expiring March 17, 2023, with 2,645 contracts trading so far today, representing approximately 264,500 underlying shares of AYX.  Below is a chart showing AYX's trailing twelve month trading history, with the $70 strike highlighted in orange:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+For the various different available expirations for MU options, DOW options,  or AYX options,  visit StockOptionsChannel.com.
+
+
+Today's Most Active Call & Put Options of the S&P 500 »
+
+
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

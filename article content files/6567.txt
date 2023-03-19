@@ -1,0 +1,48 @@
+March 03, 2023 — 12:16 pm EST
+
+      Written by
+                        Brett Schafer for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Shares of Yext (NYSE: YEXT) popped over 20% this week, according to data from S&P Global Market Intelligence. The company, which powers internal search engines on consumer websites, seems to be going on a major bull run after announcing multiple new features that take advantage of the language-learning models (LLMs) from OpenAI. As of this writing at 11:36 a.m. EST on Friday, March 3, shares of the stock are up 100% over the last 12 months.
+Yext provides software tools for consumer companies to build better and more actionable search engines on their internal websites. Building on top of what it calls the Knowledge Graph, Yext helps companies like Subway and Lego obtain better search results on their own websites, theoretically leading to higher customer conversion. Besides these search tools, Yext provides its clients with online brand management to help with marketing, commerce, and workplace outcomes.
+Management likes to describe Yext as an artificial intelligence (AI) company, so it is no surprise to see it launching new generative AI tools to go along with the current craze. Two weeks ago, the company announced an AI-powered tool called Yext Chat, which combines the LLMs from OpenAI and Yext's internal Knowledge Graph to improve the consumer experience for its enterprise customers.
+Now, this week, Yext is launching yet another AI tool that will automatically generate content for its customers' content-management systems (CMS). This will again use Yext's own Knowledge Graph combined with OpenAI's GPT-3 product, theoretically bringing huge efficiencies to these enterprise customers as they create content for their websites. In the long run, investors are probably betting that this will increase the value that Yext provides to its clients, leading to more revenue.
+Yext needs to get back to growth, because it appears to be stuck in the mud. Last quarter, revenue was flat year over year while the company still spent heavily on sales and marketing, leading to an operating loss of $12 million. Over the last five years, investors have soured heavily on Yext stock, with shares still down 35% over that time period, even after including the 100% bump over the last six months.
+
+YEXT Shares Outstanding data by YCharts.
+The company also consistently dilutes shareholders, with stock-based compensation at 16% of revenue through the first nine months of 2022. Stagnating revenue, high operating losses, and high stock-based compensation form a recipe for disastrous long-term returns for shareholders. Unless Yext is able to fix any or all of these issues, the stock will probably remain uninvestable despite these new AI products. 
+10 stocks we like better than YextWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Yext wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Brett Schafer has no position in any of the stocks mentioned. The Motley Fool has no position in any of the stocks mentioned. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

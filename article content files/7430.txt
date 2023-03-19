@@ -1,0 +1,61 @@
+March 02, 2023 — 07:52 am EST
+
+      Written by
+                        BNK Invest for                             
+        
+
+
+
+
+BNK Invest ->
+
+
+Looking at the underlying holdings of the ETFs in our coverage universe at ETF Channel, we have compared the trading price of each holding against the average analyst 12-month forward target price, and computed the weighted average implied analyst target price for the ETF itself. 	For the iShares MSCI USA Equal Weighted ETF (Symbol: EUSA), we found that the implied analyst target price for the ETF based upon its underlying holdings is $87.93 per unit.
+
+
+
+With EUSA trading at a recent price near $76.12 per unit, that means that analysts see 15.51% upside for this ETF looking through to the average analyst targets of the underlying holdings.   Three of EUSA's underlying holdings with notable upside to their analyst target prices are Dropbox Inc (Symbol: DBX), Sirius XM Holdings Inc (Symbol: SIRI), and Fox Corp (Symbol: FOX). Although DBX has traded at a recent price of $20.55/share, the average analyst target is 35.44% higher at $27.83/share. Similarly, SIRI has 35.25% upside from the recent share price of $4.27 if the average analyst target price of $5.78/share is reached, and analysts on average are expecting FOX to reach a target price of $40.50/share, which is 26.40% above the recent price of $32.04. Below is a twelve month price history chart comparing the stock performance of DBX, SIRI, and FOX:  
+
+
+
+
+
+
+
+
+
+
+
+Below is a summary table of the current analyst target prices discussed above:
+
+
+
+Are analysts justified in these targets, or overly optimistic about where these stocks will be trading 12 months from now? Do the analysts have a valid justification for their targets, or are they behind the curve on recent company and industry developments? A high price target relative to a stock's trading price can reflect optimism about the future, but can also be a precursor to target price downgrades if the targets were a relic of the past. These are questions that require further investor research.  
+
+
+
+10 ETFs With Most Upside To Analyst Targets »
+
+
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

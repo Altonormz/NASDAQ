@@ -1,0 +1,114 @@
+We recently looked at the SEC’s new proposals. As you may recall, their tick proposal seeks to address the tick-constrained stock problem, but is designed so most stocks would have between 4 and 8 (or more) ticks in their spread.
+Today we will look at what research says about that.
+It seems there is a right tick size, but it is consistently where spreads end up between 1.5 and 4 ticks wide. Data also shows that getting ticks right can make markets more efficient, more liquid, and even boost stock valuations. But getting them wrong has the opposite effect.
+It turns out there are quite a few studies that find there is an “optimal” tick size, which is where spreads are tightest, markets are more efficient, and liquidity improves. Those find having too few or too many ticks inside the spread are both bad.
+Although each paper is different, they seem to concur that there should be no more than 4 ticks inside the natural spread.
+Table 1: Summary of research findings on optimal tick size
+Spreads are a very important cost of trading. Academic research shows that tighter spreads reduce trading costs.
+One big problem with ticks occurs when the tick itself becomes a large economic trading cost. When that happens, traders join order book queues or use hidden midpoint orders rather than cross spreads to trade. As the blue dots below show:
+However, if you take any vertical slice of the data (any stock price), there are other stocks that trade with spreads that are more than 10 cents wide (black dots). That makes stock prices a poor method to determine what size ticks should be (in fact, the SEC’s market driven approach to tick buckets works a lot better).
+Chart 1: At any stock price, there are stocks that are tick constrained (blue dots) and have too many ticks (black dots)
+The black tickers in Chart 1 also prove that having a tick that is much smaller than your spread does not help make spreads tighter (they are still black dots!).
+In fact, what the data seems to show is the opposite happens. In Chart 2, we see spreads naturally form a U-shape, where even though ticks get incrementally smaller as stock prices keep rising (blue line), the spreads actually fall first and then increase once you have too many ticks inside the NBBO (orange line) even if we remove the round lot constraint (yellow line).
+Chart 2: Spreads are minimized when there are “just right” number of ticks in the spread
+One way to see how ticks inside the spread affect spreads is to look at spreads across stock prices. That way the tick shrinks as the stock price rises, and we can see the impact of making ticks smaller and smaller.
+This shows that our current 1-cent tick creates two very different trading problems that both cause spreads to widen for low- and high-priced stocks:
+Chart 3: Different Tradability Problems affect tick-constrained (blue) and too-many-tick (black) stocks
+Even with the new, smaller MDI round lots, our analysis suggested that high-priced stocks would still mostly have a better odd-BBO. The introduction of even more ticks should make that problem worse and lead to more quote changes, making advertised prices harder to trade with.
+When traders looked at the market in 2019, they intuitively knew that stocks like AMZN and GOOG would trade better with a stock split. Conversely, at the time, GE had fallen below $10, which made it tick constrained and in need of a reverse split.
+Chart 4: Estimated idea stock split ratios back in 2019
+Fast forward to 2022, and we saw that traders were right when a number of “too-many-tick” stocks split.
+Despite the fact that each split made the tick larger, the data shows that spreads narrowed and liquidity increased. In the longer term, we also see split stocks outperform. That is true even for smaller (like 3-for-1) splits.
+Of course, when GE did its reverse split, spreads also fell. Interestingly, when we analyzed a number of reverse splits, we found that liquidity only improved if the reverse split set the stock trading close to the “right tick.”
+It all starts to support the fact that too many ticks can be just as bad as too few.
+A lot of the work we’ve done culminated in a realization that markets intuitively knew all along – that there is a perfect (but unique) price for every stock (when you have a fixed 1-cent tick). It turned out that the perfect price set each stock to trade with a 1-3 tick spread.
+We can see that in Chart 5 below. The more liquid a stock is (horizontal axis), the lower its spread can possibly get (vertical axis). For example, stocks trading:
+However, if we look at any vertical slide of the data, say for all the stocks trading $10 million a day, we see that:
+And the same thing happens for stocks trading $1 million per day and for stocks trading $1 billion per day. In fact, for any level liquidity (vertical slice of the chart), stocks with 1-3 tick spreads (yellow dots) have the lowest bps spread trading costs. In effect, we see the U-shape from Chart 2 occurring for all stocks – at a different spread – dependent on their daily liquidity.
+This leads us to conclude that the “optimal” spread for any stock is 1-3 ticks.
+We can solve for that by recommending splits and reverse splits (Chart 4) or by establishing a more dynamic tick regime, as many other countries have done (Chart 12).
+Chart 5: The market knows better what ticks a stock needs
+There is a lot of other research on ticks too.
+Mao Ye, a well-known market microstructure researcher now at Cornell University, looked at stock splits from the perspective of how they affect both tick and round lot constraints (both sides of the trading problems discussed in Charts 2 and 3).
+Because there is a trade-off (where a lower price means a more expensive tick – and vice versa), he finds that all firms achieve their optimal prices when their bid–ask spreads are two ticks wide. At that point, the costs from the tick constraint equal the costs of the round lot constraint.
+Once again, this supports the result that spreads form U-shapes, with a “minimum spread” in a goldilocks zone. Importantly, he finds that when stock splits move towards a two-tick spread, they improve liquidity, but they reduce liquidity otherwise.
+He also finds that minimizing spreads can increase the valuations of stocks, in turn reducing the costs of capital for stocks listed on U.S. markets. In fact, he estimates that optimal stock pricing could increase the median U.S. stock value by more than 1% and increase the total U.S. market capitalization by almost $94 billion.
+Chart 6: Getting closer to two-tick-spreads improves valuations
+The AMF (an independent regulator in France) did a study on trading across more than 500 stocks listed on Euronext Paris after the MiFID 2 tick regime was introduced.
+The EU regulators concluded that the optimal spread is between 1.5 and 2 ticks wide for liquid stocks. However, acknowledging that greater variability exists in trading for less liquid stocks, they concluded that a spread of up to 5 ticks wide works for such stocks.
+Their report also suggested that a trade-off exists, where a stock with too few, or too many ticks are both bad. They make the point that a tick needs to maintain a balance between constraint costs and transaction costs. Specifically, they discuss a tick that is:
+Chart 7: Ticks that are too small encourage pennying and don’t reward quote setters
+XTX (a large, multi-asset, quantitative-based liquidity provider) looked at futures trading. They also argued that the optimal tick size should strike the following balance:
+In their white paper, they believe that the optimal spread level is 2-4 ticks.
+Chart 8: Average spread vs. mini tick size
+Although this is a model-driven result, it considers a problem that all market makers are always trying to solve for — what spread earns them more spread capture than adverse selection.
+We can think about this using the two diagrams below.
+A market maker will provide a two-sided quote in each stock (blue lines show buying at bid and selling at offer). Spread capture is only earned when a buyer pays the offer and seller hits the bid, allowing the market maker to buy at the bid and sell at the offer and eliminate their position risk.
+In contrast, if persistent (or large or informed) buyers enter the market, the market makers will exhaust selling at the offer and see the offer tick up. Instead of capturing spread, they see adverse selection, and would realize a loss if they closed out their short position against the new (higher) offer.
+Two key implications of this are:
+Chart 9: Market makers will price the spread where it is profitable, given stock turnover and volatility
+The author of this study also sees a trading trade-off when the tick size is:
+The authors argue that an optimal tick value occurs where the spread is close to 1 tick.
+The first lesson is “do no harm” – or don’t make ticks larger than the spread.
+The tick pilot is best known for widening spreads on a large number of already tick-constrained stocks. That, in turn, increased trading costs and fragmentation and reduced liquidity.
+Rui Albuquerque, a professor at Boston College, found that increasing the tick size for tick-constrained stocks also caused those stocks’ valuations to underperform by around 3% over the course of the pilot (Chart 10). Using a back-of-the-envelope calculation, he estimates that the tick-size pilot caused a loss of about $2.6 billion in market capitalization.
+Chart 10: Forcing tick-constrained stocks’ ticks wider is bad for stocks’ liquidity and valuation
+The second lesson is that “larger ticks help when spreads are already wide” – or: make ticks fit the actual spread better.
+Sitting on page 19 of the tick pilot report is data showing that spreads actually fell for stocks with a spread of around 10 cents or more and depth at the NBBO also improved. In our own study, we found that these stocks also outperformed the market.
+Even the SEC, in its rule proposal, acknowledges (on page 208) that “for stocks with spreads greater than $0.15, where a $0.01 tick implied more than 15 ticks intra-spread, a $0.05 tick where there were only 3 ticks intra-spread, appeared to provide a superior trading environment.”
+Importantly, a 10-cent spread became a 2-tick spread during the tick pilot. The pilot did not make spreads wider, but it did make “pennying” a more important economic decision, which also reduces the signaling costs for one-sided mutual investor trades, as they are less likely to lose queue priority.
+This result shows that a 2-3 tick spread is better for a stock than a 10-15 tick spread – reducing spread costs, improving depth at the new nickel NBBO, and boosting valuations.
+Chart 11: Moving wide-spread stocks to a two-tick spread was good
+Despite all the different starting points, it is surprising how consistently research seems to land around the same conclusion – where an optimal spread is roughly 2-ticks wide. And you can have both too many and too few ticks.
+Although stocks could split on their own, it turns out that getting thousands of stocks to split (to their optimum price) is hard.
+Instead, most countries have already moved to a dynamic tick regime which tackles both the tick constraint problem, and the too-many-ticks problem:
+Chart 12: The market knows better what ticks a stock needs
+Of course, public markets aren’t just for trading. They also provide access to capital for companies.
+Other research shows, more generally, that when a firm’s stock trades more cheaply, then the stock will become more attractive to investors. Not only does liquidity improve, but the stock valuation also improves, which, in turn, reduces the cost of capital for issuers.
+Lower costs of capital are important to attract companies to U.S. markets, ultimately helping the U.S. maintain its place as the world’s leading economy.
+Tick-constrained stocks create unnecessary costs for investors – that’s something that almost all participants agree on. So, it’s no surprise that the SEC is looking to split ticks as it tries to modernize U.S. markets.
+However, research suggests the SEC’s current tick proposal splits ticks too much – with almost all stocks trading with more than 4 tick spreads.
+Instead, research suggests an “optimal” tick exists where a stock’s spread is around 2-3 ticks wide. That results in the lowest trading costs, better liquidity and stronger valuations.
+Getting ticks right is important. Data suggests it will benefit investors, issuers, and, more broadly, even the U.S. economy.
+Phil Mackintosh is Chief Economist and a Senior Vice President at Nasdaq. His team is responsible for a variety of projects and initiatives in the U.S. and Europe to improve market structure, encourage capital formation and enhance trading efficiency. 
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+Type a symbol or company name. When the symbol you want to add appears, add it to My Quotes by selecting it and pressing Enter/Return.
+Copy and paste multiple symbols separated by spaces.
+                
+These symbols will be available throughout the site during your session.
+
+
+
+Type a symbol or company name. When the symbol you want to add appears, add it to My Quotes by selecting it and pressing Enter/Return.
+Copy and paste multiple symbols separated by spaces.
+                
+These symbols will be available throughout the site during your session.
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+Type a symbol or company name. When the symbol you want to add appears, add it to Watchlist by selecting it and pressing Enter/Return.
+Copy and paste multiple symbols separated by spaces.
+                
+These symbols will be available throughout the site during your session.
+
+
+
+Type a symbol or company name. When the symbol you want to add appears, add it to Watchlist by selecting it and pressing Enter/Return.
+Copy and paste multiple symbols separated by spaces.
+                
+These symbols will be available throughout the site during your session.
+
+These symbols will be available throughout the site during your session.

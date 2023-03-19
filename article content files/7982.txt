@@ -1,0 +1,71 @@
+March 01, 2023 — 09:59 am EST
+
+      Written by
+                        Vaishali Doshi for                             
+        
+
+
+
+
+Zacks ->
+
+
+Industry Description
+The Zacks Computer - Networking industry comprises companies that offer networking and Internet-connected products, including wireless (WiFi and Long-Term Evolution or LTE), Ethernet and powerline, with a focus on dependability and ease of use. The products are available in numerous configurations to cater to changing requirements of consumers in each geographic territory where it operates for smooth network connectivity and broadband access. Some industry players also provide mission-critical IoT solutions and network security services to help clients build next-generation connected products and implement and manage critical communications infrastructures in demanding environments with enhanced levels of safety. Focus on developing IoT sensors, drones and wearables amid increasing demand for cloud computing-based contact tracing applications is driving the industry.
+4 Trends Influencing the Industry's Future
+Rapid Deployment of 5G to Boost Growth Prospects: Adoption of a hybrid/flexible work model have triggered demand for network-intensive applications like video conferencing and cloud services. This is anticipated to accelerate 5G deployment through 2023 and beyond. The impending 5G boom will likely propel the industry to newer heights. The success of 5G technology hinges on substantial investments to upgrade infrastructure in the core fiber backhaul network to support growth in data services. More efforts to develop smart connected homes, hospitals, factories, buildings and cities and self-driving vehicles bode well for the industry players. The industry players are investing heavily in LTE, broadband and fiber to provide additional capacity and improve Internet and wireless networks. These initiatives hold promise.The Uptick in Wi-Fi 6 Networking to Drive Momentum: Brisk technological advancement, dynamic products, high-speed connectivity, low latency and evolving industry standards define the Computer Networking industry. The growing clout of the latest Wi-Fi 6-compliant residential gateways, Wi-Fi routers, set-top boxes and wireless range extenders is a testament to the same. Wi-Fi 6 — the latest 802.11ax wireless standard — is estimated to offer 30% faster network speed over 802.11ac (Wi-Fi 5). This is anticipated to bolster the industry participants’ top line.Innovation in Networking Technologies is Opening New Business Avenues: Growing clout of Smart Home and Internet-connected products such as Smart TVs, game consoles, High Definition (HD) streaming players, security cameras, thermostats and smoke detectors continue to drive innovations in networking. The rapid proliferation of IoT, the increasing popularity of smart connected devices and the growing adoption of cloud computing in network security are fueling the demand for an efficient network support infrastructure. The advancements in AI and ML and the high adoption of cloud applications hold immense potential for companies in the industry. Enterprises are striving to manage fixed and wireless devices in a secured infrastructure. To address the demand, industry firms are driving innovation in networking technologies, including network virtualization and Software-Defined Networking (SDN), which favors growth prospects.Relative Slowdown in IT Spending A Concern in the Near Term: Per a Gartner report, worldwide IT spending is expected to increase 2.4% in 2023 compared with 2022 levels and reach around $4.5 billion. The research firm’s earlier forecast stood at growth of 5.1%. The geopolitical disruptions, inflationary pressures and protracted pandemic-induced supply chain troubles are a major concern. Consumers are deferring spending on the purchase of devices, which is likely to affect the IT spending growth in 2023. However, the report added that despite headwinds, enterprises are increasing spending on digital business initiatives, which bodes well for industry participants.
+Zacks Industry Rank Indicates Bleak Near-Term Prospects
+The Zacks Computer - Networking Industry is housed within the broader Zacks Computer and Technology sector. It carries a Zacks Industry Rank of 165, positioning it in the bottom 34% of more than 251 Zacks industries.The group’s Zacks Industry Rank, which is the average of the Zacks Rank of all the member stocks, indicates bleak near-term prospects. Our research shows that the top 50% of the Zacks-ranked industries outperform the bottom 50% by a factor of more than 2 to 1.Before we present a few stocks that you may want to consider for your portfolio, considering bright prospects, let us look at the industry’s recent stock-market performance and valuation picture.
+Industry Outperforms Sector But Lags S&P 500
+The Zacks Computer – Networking industry has outperformed the broader Zacks Computer and Technology sector but lags the S&P 500 composite over the past year.
+The industry has lost 13.5% over this period compared with the broader sector’s decline of 19.5%. The S&P 500 has lost 11.1% over the same time frame.
+One-Year Price Performance
+ 
+Industry's Current Valuation
+On the basis of the forward 12-month price-to-earnings ratio (P/E), which is a common multiple for valuing Computer – Networking stocks, we see that the industry is currently trading at 14.15X compared with the S&P 500’s 17.87X. It is also below the sector’s forward-12-month P/E of 21.48X.In the past five years, the industry has traded as high as 20.33X and as low as 12.56X, with media being at 16.44X, as the charts below show.
+Forward 12-Month P/E Ratio
+
+Forward 12-Month P/E Ratio
+
+3 Computer - Networking Stocks to Keep an Eye on 
+Cisco: This San Jose, CA-based company is expected to gain from strength in its product portfolio, including the Catalyst 9000 family, Cisco 8000, Wireless, Meraki, ThousandEyes and Duo. Due to a dramatic increase in energy costs and market volatility, Cisco believes that cautious spending in European markets provides growth opportunities for low-power-consuming technologies, including IoT, Silicon One and Power over Ethernet.The buyout of Acacia is a key catalyst. Cisco’s investments across its security business, focusing on cloud-based offerings, are expected to drive growth in the long haul. Cisco provided a strong outlook for second-quarter fiscal 2023.For second-quarter fiscal 2023, revenues are expected to grow between 4.5% and 6.5% on a year-over-year basis. Non-GAAP gross margin is anticipated between 63% and 64% for the quarter. Non-GAAP operating margin is anticipated between 31.5% and 32.5% for the quarter. Non-GAAP earnings are anticipated between 84 cents and 86 cents per share.For fiscal 2023, revenues are expected to rise 4.5-6.5% on a year-over-year basis. Non-GAAP earnings are anticipated between $3.51 and $3.58 per share.Cisco carries a Zacks Rank #2 (Buy).  You can see the complete list of today’s Zacks #1 (Strong Buy) Rank stocks here. The Zacks Consensus Estimate for the company’s fiscal 2023 earnings is pegged at $3.74 per share, suggesting an increase of 5.6% on a year-over-year basis. The long-term earnings growth rate is pegged at 6.5%
+Price and Consensus: CSCO
+
+Infinera: The San Jose, CA-based company offers Digital Optical Networking systems to telecommunications carriers, cable operators and other service providers globally. Infinera’s DTN system and PIC technology are designed to provide optical networks that extend operating simplicity, enhanced revenue generation, faster time-to-service and capital cost savings.For the fourth quarter of fiscal 2022, the company reported total revenues of $485.9 million, up 21.4% on a year-over-year basis, driven by momentum in product revenues amid supply chain troubles. The company is witnessing an increasing number of customers for ICE6 solution, which comprised more than 25% of total product revenues for 2022. For the first quarter of 2023, the company expects revenues to be $380 million (+/- $15 million).At present, Infinera carries a Zacks Rank #3 (Hold). The Zacks Consensus Estimate for the company’s 2023 earnings is pegged at 29 cents per share, unchanged in the past 60 days.
+Price and Consensus: INFN
+ 
+Digi International: Based in Hopkins, MN, Digi International is a well-known provider of business and mission-critical Internet of Things (IoT) products and services globally. The company is witnessing strong demand for IoT products and services, which increased 28% year over year in the last reported quarter.Digi International is benefiting from the increasing demand for console servers, cellular solutions and OEM solutions. Synergies from acquisitions like Ventus and a shift to a subscription revenue model bode well.At present, Digi International carries a Zacks Rank #3. The Zacks Consensus Estimate for fiscal 2023 earnings is pegged at $1.91 per share, indicating an increase of 8.5% year over year. The long-term growth earnings rate is pegged at an impressive 21%. Shares have increased 66.1% in the past year.
+Price and Consensus: DGII
+ 
+
+
+Free Report Reveals How You Could Profit from the Growing Electric Vehicle Industry
+
+	Globally, electric car sales continue their remarkable growth even after breaking records in 2021. High gas prices have fueled his demand, but so has evolving EV comfort, features and technology. So, the fervor for EVs will be around long after gas prices normalize. Not only are manufacturers seeing record-high profits, but producers of EV-related technology are raking in the dough as well. Do you know how to cash in?  If not, we have the perfect report for you – and it’s FREE! Today, don't miss your chance to download Zacks' top 5 stocks for the electric vehicle revolution at no cost and with no obligation.
+Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report
+Cisco Systems, Inc. (CSCO) : Free Stock Analysis Report
+Digi International Inc. (DGII) : Free Stock Analysis Report
+Infinera Corporation (INFN) : Free Stock Analysis Report
+To read this article on Zacks.com click here.
+Zacks Investment Research
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

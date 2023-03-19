@@ -1,0 +1,54 @@
+March 13, 2023 — 06:00 am EDT
+
+      Written by
+                        Dominic Basulto for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Ahead of the planned upgrade for Ethereum (CRYPTO: ETH) known as Shanghai this month, interest around staking is surging. Arguably one of the biggest beneficiaries around this burst of new interest in staking is Lido DAO (CRYPTO: LDO), which is up almost 150% this year. That far outpaces the year-to-date gains of Ethereum, which is up 28%. 
+But for Lido DAO to continue to outperform Ethereum this year, two key questions need to be addressed.
+In 2022, staking became a buzzword in the crypto industry, thanks in large part to Ethereum's conversion from a proof-of-work blockchain to a proof-of-stake blockchain as part of The Merge.
+For investors, the term "staking" became synonymous with "passive income," because staking works much like putting your capital into an interest-bearing account. You earn rewards on your crypto holdings for a predetermined amount of time, and during that time, you can not sell or withdraw the underlying crypto. People are willing to pay you these rewards because they need your crypto to validate new transactions on the blockchain. By November 2022, the staked value of Ethereum rose to $20 billion, making Ethereum the single most popular platform for staking.
+Based on the latest monthly data, staking inflows continue to rise in 2023. Not all of that money is going to Lido DAO, of course, but this up-and-coming crypto now represents nearly 75% of the market for liquid staking, which is the most popular form of staking. By way of comparison, Coinbase Global controls about 15% of the market for liquid staking despite being the second-largest cryptocurrency exchange in the world. It is easy to see why investors are enthusiastic about Lido DAO: It is the clear market leader, and it's not even close.
+Image source: Getty Images.
+Moreover, based on research from Coinbase, the market for Ethereum staking is largely untapped. At the end of November, Coinbase calculated that only 12% of all Ethereum is staked, which is a much lower figure than for comparable Layer 1 blockchains. 
+There's a good reason for this: Ethereum only converted into a proof-of-stake blockchain in September, so the ability for the average investor to stake their Ethereum has really only been available for six months. Staking caught on so quickly because it was largely viewed as a very easy way to earn as much as much as 5% on your Ethereum holdings. Some cryptocurrency exchanges were offering even higher rates, in the hopes of attracting new users. Presumably, as more Ethereum gets staked over time, Lido will continue to benefit from new staking inflows. 
+Finally, staking could get a new bump of momentum from the Shanghai upgrade. With the upgrade, investors will be able to unstake their Ethereum for the first time, making the crypto much more attractive from a liquidity perspective. There will no longer be the concern that once you "lock up" your Ethereum, you won't be able to get it back. That could lead to a new wave of momentum for staking, which is already a popular form of passive income for crypto investors.
+The Securities and Exchange Commission (SEC) has signaled that it is ready to go after any cryptocurrency exchange -- including the likes of Coinbase -- if it offers staking products to customers. In February, the SEC slapped a $30 million fine on crypto exchange Kraken for offering staking products to customers. The SEC claimed that Kraken's staking products were a form of unregistered securities. Kraken has now ceased all staking. Coinbase, for its part, says it is ready to fight efforts to ban staking on its platform.
+However, Lido DAO differs from Coinbase and Kraken significantly in that it is a decentralized staking platform, not a centralized staking platform. Lido DAO is not a cryptocurrency exchange, but a decentralized autonomous organization (DAO). This is essentially a new form of organization made possible by blockchain technology. There is no company or executive staff, and all transactions made by the organization take place on the blockchain. . Put another way, Lido DAO does not force you to become a customer, set up an account, or hold your funds on the Lido DAO platform. To use Lido DAO, all you need is a digital crypto wallet that you control at all times. 
+The SEC might not like centralized staking, but it has not shown any inclination to go after decentralized staking. Long story short: Lido DAO seems to be safe for now. But it's worth noting that even speculation about a possible SEC investigation earlier this month was enough to send Lido DAO down 10% in a single day.
+As more and more of the world's Ethereum gets staked, Lido DAO is going to become a better and better investment. While Ethereum is the most important piece of the Lido DAO business model, there are also liquid staking options on Lido DAO for blockchains such as Solana, which currently ranks third among all blockchains in terms of total value locked via staking. As the popularity of staking increases, it will enable Lido DAO to become the staking platform of choice for other blockchains beyond just Ethereum.
+Right now, Lido DAO looks like a great investment opportunity, simply because staking is at the very heart of what the new proof-of-stake Ethereum blockchain is all about. So don't worry if you aren't familiar with the name Lido DAO. As long as Lido DAO remains the biggest decentralized staking platform for Ethereum, it's a screaming buy. 
+10 stocks we like better than Lido DAOWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Lido DAO wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of March 8, 2023
+ 
+Dominic Basulto has positions in Ethereum. The Motley Fool has positions in and recommends Coinbase Global, Ethereum, Lido DAO, and Solana. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

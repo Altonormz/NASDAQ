@@ -1,0 +1,58 @@
+The S&P 500 just experienced its worst week of the year so far. In fact, it was the worst week that the market has seen since September. The decline was led by banking stocks, but volatility was broadly felt across most major market sectors. 
+Up until last week, the S&P 500 had experienced five “outlier” days on year. An outlier day is any trading day that is either up or down 1.50%. Last week’s fluctuations brought the total number of outlier days for 2023 up to seven, after adding two downside outliers in a span of four trading days. Although it technically did not qualify as an outlier, Friday was on the cusp of also being down nearly -1.50%.
+Needless to say, volatility rose a few points last week. Let’s step back and evaluate the current state of the markets, and what the plan is, in this particular case, for dealing with volatility.
+Technology
+Last week's decline was mostly driven by financial stocks. The financials sector, which had previously been one of the higher ranked U.S. sectors, on a risk adjusted basis, experienced “whoosh” in volatility. According to the Canterbury Volatility Index, financials went from CVI 80 to CVI 103 in a matter of four days. That is quite the spike. 
+Equally surprising, the S&P 500’s largest market sector, information technology, did not experience the same rise in volatility. Last year, technology stocks had the highest level of volatility. Heading into this year, volatility for the tech sector index had declined from CVI 195 (in November 2022) to CVI 126, which is a significant, positive development. Even with last week’s broad market decline, the CVI of the technology sector did not increase. Given large weighting in several indexes, that is a good sign for the broad markets, specifically the Nasdaq and S&P 500
+Take a look at the chart below, which shows the Technology Sector ETF (XLK). Currently, the sector is (1) sitting on horizontal support, (2) above its 200-day moving average and (3) has declining volatility, which was stagnant last week.
+International Stocks
+International stocks continue to lead the equity markets on a risk adjusted basis. This has been a theme all year and particularly true for most European stocks. Part of international equity strength comes from U.S. dollar weakness. An international stock or ETF’s return comes as a function of (1) performance and (2) currency exchange. In other words, a weak dollar contributes positively to an international stock or ETF. 
+The chart below shows the U.S. dollar. The lower half of the chart shows the dollar’s RSI (relative strength index which measures overbought and oversold conditions). 
+When the RSI line rises above the upper blue line, the dollar is overbought. When it dips below the lower green line, it is oversold. You can see that prior to 2023, the dollar had been near oversold conditions for awhile. Then, in late February, become oversold. Now, the dollar is experiencing a sell-off in the short-term. A weak dollar bodes well for international equities.
+The market saw volatility last week, and more importantly, saw some rotation. When it comes to experiencing market fluctuations, the first step is to not become emotional and attempt to make short-term, sometimes irrational decisions, when dealing with an irrational market. In other words, you do not want to panic sell when the markets become emotional, nor do you want to panic buy something that could be seen as a falling knife. In other words, stocks tend to trend. A stock that has been dropping is likely to continue to drop.
+It is important to pay attention to market rotations. As securities ebb and flow together, some will begin to show more favorable characteristics. We gave a brief example of this with technology stocks. While markets declined, technology stocks showed positive relative strength. International equities continue to show strength.
+If volatility continues to climb and prices drop, more “defensive” sectors or asset classes (like inverse securities) will rise up rankings lists. A security like Inverse real estate has been highly ranked recently and has performed well during a declining market.
+The most important aspect of dealing with volatility is maintaining a consistent portfolio management philosophy. It is important to adapt your portfolio’s holdings to deal with new and existing market conditions. As volatility rises or falls, the portfolio should make adjustments to make diversification more effective. The goal is to maintain consistent portfolio volatility, limit the number of portfolio “outlier days” in order to move in concert with ever changing market environments- bull or bear.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+As a Vice President at Canterbury Investment Management, Brandon is a thought leader in exploring and developing evidence-based approaches to money management. He is co-director of Canterbury Analytics Group, which creates sophisticated applications and processes that embrace “disruptive innovation.”  Brandon is a Chartered Market Technician (CMT).
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+Type a symbol or company name. When the symbol you want to add appears, add it to My Quotes by selecting it and pressing Enter/Return.
+Copy and paste multiple symbols separated by spaces.
+                
+These symbols will be available throughout the site during your session.
+
+
+
+Type a symbol or company name. When the symbol you want to add appears, add it to My Quotes by selecting it and pressing Enter/Return.
+Copy and paste multiple symbols separated by spaces.
+                
+These symbols will be available throughout the site during your session.
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+Type a symbol or company name. When the symbol you want to add appears, add it to Watchlist by selecting it and pressing Enter/Return.
+Copy and paste multiple symbols separated by spaces.
+                
+These symbols will be available throughout the site during your session.
+
+
+
+Type a symbol or company name. When the symbol you want to add appears, add it to Watchlist by selecting it and pressing Enter/Return.
+Copy and paste multiple symbols separated by spaces.
+                
+These symbols will be available throughout the site during your session.
+
+These symbols will be available throughout the site during your session.

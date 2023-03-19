@@ -1,0 +1,49 @@
+March 12, 2023 — 11:13 am EDT
+
+      Written by
+                        RJ Fulton for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Although it might feel like eons, it was just a year and a half ago when Ethereum (CRYPTO: ETH) reached its all-time high of $4,644.33. Since then, a brutal crypto winter has left its mark on the industry as the entire landscape has changed dramatically. In the midst of this bear market, Ethereum lost more than 75% of its value at one point. Despite this drastic pullback, there is plenty of reason to believe that Ethereum could once again return to those previous all-time highs. 
+One of the primary reasons I believe Ethereum has what it takes to reclaim the $4,000 mark is a series of upgrades implemented in the blockchain over the last year and a half. 
+If you recall, The Merge occurred in the fall of 2022 and effectively transitioned Ethereum from the bulky and power intensive proof-of-work to a more streamlined and efficient proof-of-stake blockchain. While this upgrade was highly publicized, and for good reason due to its magnitude, I believe there is another upgrade that will ultimately have a greater influence on Ethereum's future price ascension. 
+Known as the London hard fork, this upgrade was launched in the summer of 2021 and laid the foundation for The Merge. In preparation for miners becoming obsolete, the London hard fork introduced a new mechanism for handling the network's fees. Previously, transaction fees were sent to Ethereum miners as an incentive for morning. After the London fork, the fees are actually "burned" or removed from circulation.
+While on proof-of-work, miners added blocks to the blockchain. As a reward for their efforts, they would receive a fee which was included in every transaction on Ethereum. But instead of getting rid of the miner fee altogether, Ethereum developers implemented the burn feature that would permanently destroy the fee previously allocated to miners. In doing so, Ethereum essentially became a deflationary asset, a crucial quality for an asset to maintain and increase its value over time. By creating scarcity in the supply of Ethereum, the burn feature can increase demand and drive up the price.
+Before The Merge and the London hard fork, Ethereum's annual inflation rate hovered around 3.5%. But with both of these upgrades now implemented, the number of total ether in circulation has decreased and thus Ethereum has entered a deflationary stage. Today it boasts a deflation rate of -0.088%.
+The inner workings are a little complex, but the combination of these upgrades makes it so that the more transactions that occur on the network, the more ether is burned. It took some time for this phenomenon to materialize due to the current bear market dampening the number of transactions, but toward the end of Q4 2022 and the first few months of 2023, Ethereum finally began to reap the benefits that came out of the London hard fork and The Merge. 
+The number of transactions occurring on Ethereum has been rising steadily since the beginning of 2023 and is just shy of levels not seen since it reached its previous all-time high. As a result of this increase in activity, the total number of ether has actually decreased since The Merge as the burn mechanism from the London hard fork has begun to take effect. 
+For Ethereum investors, this is nearly a perfect scenario. Over the coming years, as demand (hopefully) picks back up to levels seen in the last bull market, it could lead to explosive growth in Ethereum's price as it becomes truly subject to the pressures of limited supply and increased demand. Should this play out, it could not only send Ethereum past the $4,000 mark, but likely to a new all-time high. 
+10 stocks we like better than EthereumWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Ethereum wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of March 8, 2023
+ 
+RJ Fulton has positions in Ethereum. The Motley Fool has positions in and recommends Ethereum. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

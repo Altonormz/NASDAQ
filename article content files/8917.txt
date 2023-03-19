@@ -1,0 +1,87 @@
+February 27, 2023 — 01:21 pm EST
+
+      Written by
+                        BNK Invest for                             
+        
+
+
+
+
+BNK Invest ->
+
+
+Looking at options trading activity among components of the S&P 500 index, there is noteworthy activity today in Tesla Inc (Symbol: TSLA), where a total volume of 1.2 million contracts has been traded thus far today, a contract volume which is representative of approximately 121.7 million underlying shares (given that every 1 contract represents 100 underlying shares).  That number works out to 60.2% of TSLA's average daily trading volume over the past month, of 202.3 million shares.  Especially high volume was seen for the $210 strike call option expiring March 03, 2023, with 60,786 contracts trading so far today, representing approximately 6.1 million underlying shares of TSLA.  Below is a chart showing TSLA's trailing twelve month trading history, with the $210 strike highlighted in orange:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thermo Fisher Scientific Inc (Symbol: TMO) saw options trading volume of 7,704 contracts, representing approximately 770,400 underlying shares or approximately 60.1% of TMO's average daily trading volume over the past month, of 1.3 million shares.
+Particularly high volume was seen for the $600 strike call option expiring April 21, 2023, with 4,696 contracts trading so far today, representing approximately 469,600 underlying shares of TMO.  Below is a chart showing TMO's trailing twelve month trading history, with the $600 strike highlighted in orange:
+
+
+
+
+
+
+
+
+
+
+
+
+And Norwegian Cruise Line Holdings Ltd (Symbol: NCLH) saw options trading volume of 71,407 contracts, representing approximately 7.1 million underlying shares or approximately 57.6% of NCLH's average daily trading volume over the past month, of 12.4 million shares.
+Especially high volume was seen for the $5 strike put option expiring January 17, 2025, with 15,000 contracts trading so far today, representing approximately 1.5 million underlying shares of NCLH.  Below is a chart showing NCLH's trailing twelve month trading history, with the $5 strike highlighted in orange:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+For the various different available expirations for TSLA options, TMO options,  or NCLH options,  visit StockOptionsChannel.com.
+
+
+Today's Most Active Call & Put Options of the S&P 500 »
+
+
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

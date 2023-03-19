@@ -1,0 +1,47 @@
+March 14, 2023 — 06:34 am EDT
+
+      Written by
+                        Matthew North, MarketBeat Contributor for                             
+        
+
+
+
+
+MarketBeat ->
+
+
+
+
+Salesforce (NYSE: CRM) has added a new tool to its technology stack through the announcement of Einstein GPT. The software aims to streamline tasks previously consumed by humans through the help of generative AI - but what impact will the technology have on its share price?
+Since AI in general seems to be the hottest new fad with venture capitalists piling into projects like crazy, mostly in part due to the release of OpenAI’s ChatGPT late last year, it's then understandable that people could be feeling bullish. Even Meta (NASDAQ: FB) has seemingly taken an irresistible detour into the chatbot scene, stating in February that it intends to integrate the tech into a range of products like WhatsApp and Messenger.
+Salesforce’s solution will allow people to quickly whip up marketing emails, create canned responses for customer service reps and serve as an evergreen source of content and inspiration for marketers. But under the hood, it will allow users to connect to apps like ChatGPT and other language models. This also interfaces with Salesforce’s other AI tools that give users insight into their data.
+The integration of Einstein GPT could be equally as much a play of riding a fad as it is providing utility to users. Some of those problems are significant, especially when deals are on the line in a sales or customer service environment. For these reasons, generative AI may not turn out to be the value catalyst that some believe it is 
+Large language models like ChatGPT are notorious for providing convincing but ultimately false information. Worst still is that it will also provide imaginary references to back up that false information, and this is not easily spotted by the casual user. Agents generating hundreds or thousands of emails, for instance, run a risk of sending inaccurate information if they are relying on the model to generate some of the content, and if the content cannot be reliably generated at scale, why use GPT at all if it risks alienating the person reading it?
+Another issue is that these models fail reliably at basic reasoning tasks and struggle performing mathematics. Numbers are parsed as and thought of as text, and calculations are its best guess as opposed to performing the required functions. These problems are noticeably worse when it encounters questions it hasn’t seen before, which almost goes without saying is bad for a piece of software like Salesforce.
+A different issue is that the automated nature of ChatGPT disconnects the sender from their natural writing voice and personality, which can be a killer when trying to connect with potential customers through marketing. This problem is amplified when a lot of the internet is using the same language model - a lot of content looks the same and doesn’t stand out, especially when the user is not using sophisticated prompts. 
+Customers may get a negative impression from companies using automated content - especially since it’s not yet up to par with human creativity.
+There are some unique features that Einstein GPT will offer users, such as working as an assistant to schedule tasks, write summaries of data, create code, and more. Yet the bulk of its value proposition, such as writing emails and articles and working as a customer-service bot, could be accomplished simply through the ChatGPT API.
+Salesforce was pursuing AI long before ChatGPT exploded onto the market, so it’s not fair to say it’s pursuing integration with language solely as a means for pleasing investors in the heat of the moment. Still, this announcement could have just as easily been rushed out the door due to recent developments.
+It was pointed out that the integration could assure the market that it has its sights on making a profit shortly. This comes as the company made a $98 million loss last quarter, and revenue only making a modest gain. The pressure to get in the black may have prompted other decisions like reducing its workforce by 10 percent to reduce overhead.
+Although ChatGPT may be the newest buzzword, its integration is unlikely to be Salesforce’s enduring competitive advantage that can’t easily be replicated by its competitors. Rather it can be thought of as more a “must have,” as most of its competitors will invariably incorporate their versions of it in their software. The upside potential should therefore be treated with suspicion.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

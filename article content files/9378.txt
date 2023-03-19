@@ -1,0 +1,66 @@
+February 26, 2023 — 08:05 am EST
+
+      Written by
+                        Billy Duberstein for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+With the advent of artificial intelligence (AI), the growth of chips in electric and autonomous vehicles, and governments worldwide now subsidizing production, it's no wonder many investors are bullish on semiconductor growth. According to McKinsey, the chip industry is set to grow from about $600 billion today to $1 trillion by 2030. That's a high-single-digit growth rate, above what U.S. gross domestic product (GDP) should be over that time.
+And yet, advanced semiconductors have a dark side, with extreme cyclicality in some end markets. Just look at today's more mature PC and smartphone markets, which are in some of their worst-ever downturns coming off the pandemic boom.
+The semiconductor industry can also be capital-intensive, requiring large outlays for manufacturing facilities that are costly and time-consuming to build, as well as extremely difficult manufacturing processes that further complicate execution. That's why this capital-light, highly diversified chip equipment stock is probably best positioned to capture shareholder value from the industry's long-term growth.
+A wide variety of semiconductors make the world run. Advanced, leading-edge logic chips, like Nvidia's H100 graphics processing units (GPUs), are essential for the most high-performance computing workloads, such as ChatGPT and other AI applications.
+There are also trailing-edge power semiconductors and sensors, which are in short supply today, thanks to the explosion of chips used in electric vehicles (EVs) and automated industrial manufacturing. Then there's the memory market -- the most commoditized but common type of semiconductor -- in a severe oversupply and currently experiencing a big price downturn.
+Applied Materials (NASDAQ: AMAT) makes capital equipment that produces chips in every one of these end markets, and it even has a small advanced-display business. In fact, Applied Materials is the largest semiconductor equipment stock by revenue, with the most diversified portfolio across etch, deposition, metrology, ion implantation, and other types of machines serving leading-edge, trailing-edge, and memory customers.
+In Applied's recent earnings report, the benefits of that diversification were on prominent display. Of note, the memory market is practically in a recession, with virtually all leading memory producers pulling back on their spending this year -- some by 50% or more. Even leading-edge foundry investment is supposed to be down this year, as the past two years of high spending have left overcapacity for most leading-edge chips, despite today's AI boom.
+Given all these headwinds, one would think Applied's results would be declining. Yet the company just reported 7% growth in the quarter ending Jan. 31. Applied also guided to a slight 5% decline in revenues next quarter. However, that was almost entirely due to a problem at one of its suppliers, which experienced a ransomware cyberattack and had to curtail shipments. However, Applied expects to make up that revenue in the subsequent quarter.
+Without that headwind, Applied's revenue guidance would have been close to flat. Furthermore, Applied usually guides conservatively and beats expectations. Perhaps even more remarkable, Applied's management noted the company's backlog actually increased for the ninth quarter in a row.
+In such a weak chip market, how is that possible? It's thanks to Applied's exposure to trailing-edge nodes -- specifically, ion implantation, which is a process whereby an element is accelerated into another solid material, in this case, silicon. Ion implantation can help change a chip's electrical properties and is used extensively in automotive power chips.
+On its recent conference call with analysts, management noted that not only have trailing-edge technologies like ion implantation remained in high demand but that demand is actually accelerating. In fact, management thinks the ion implantation equipment could double in 2023 relative to 2022 when the company was supply constrained.
+Therefore, the benefits of Applied's diversification are on prominent display today, as trailing-edge growth has made up for weakness across both leading-edge and memory. This contrasts with some other semiconductor equipment companies that only specialize or have concentrations in one market or technology.
+Chief Financial Officer Brice Hill noted this on the recent conference call, saying:
+Over the past few cycles, the semiconductor industry has become significantly larger and more diverse. Applied's revenue and earnings have grown and become more resilient over this period. ... The growth of our services business has added another dimension of stability."
+Applied is among the most diverse microchip stocks. Image source: Getty Images.
+Beyond smoothing out near-term results and steadily growing the installed base, Applied's diversification yields an important additional benefit. Since the company has conversations with customers across the industry, management gets more early indications of where the next big growth area will be and what innovations may be needed to continue scaling chips in the future.
+This is actually the reason Applied has been able to capitalize on the current growth of trailing-edge technologies. Four years ago, Applied formed an internal group called ICAPS -- which stands for IoT (Internet of Things), communication, auto, power, and sensors -- to concentrate specifically on trailing-edge technologies after conversations with customers concluded that this would be a large growth area. So Applied invested behind this, introducing 10 new implant systems over the past five years.
+So today's results are not an accident but rather a result of the deliberate investments made by Applied over several years of targeting ICAPS markets, thanks to its leading and diversified position in the industry.
+Where might the next leg of growth be? Management gave some clues on the recent call. While leading-edge production is currently going through a soft patch, top chip companies will always want to move to the next node. Not only are leading-edge foundries now moving to 3nm chips -- chips with transistors only three nanometers apart -- but the composition of transistors themselves is also changing.
+Transistors are comprised of a gate, which switches the transistor on or off, and the gateway, where the electrical current flows. Currently, most leading-edge chips are made with FinFET architectures, which have the gate touching the gateway on three sides.
+However, leading-edge foundries are now in various stages of transitioning to gate-all-around (GAA) transistors in which gateways are stacked vertically and surrounded on all four sides by the gate. Having the gate on all sides of the gateway allows for greater power efficiency and a stronger electrical current.
+Applied has been on the GAA transition from early on. In fact, management noted it expects to take five points of market share on gate-all-around production relative to FinFETs. That bodes very well for 2024, and beyond, as 3nm GAA chips begin production in large quantities.
+What's even better about these advantages is that they allow Applied to generate huge cash flows. While all the foundry companies must invest heavily in buildings and equipment, Applied's machines are actually not capital-intensive to produce but rather research- and development-intensive.
+Low capital expenditures allow for impressive cash-flow margins and very high returns on invested capital. Management noted that over the past 10 years, from 2013 through 2022, Applied grew free cash flow at a 30% compounded rate, and its return on invested capital has grown to 35%. The company has returned 106% of that free cash flow to shareholders, retiring 40% of shares outstanding through buybacks. Applied has also increased its dividend at a 14% annualized rate over the past 17 years.
+Those are all-star numbers that put Applied in the very elite league of S&P 500 companies, and I don't see any reason the strong performance wouldn't continue.
+Even better, despite all these positives, Applied trades at a below-market multiple of just 15 times earnings. With its diversification, high cash flows, low capital intensity, shareholder-friendly management, and relatively low multiple, Applied would be the semiconductor stock I'd buy today if I could only buy one company in the sector.
+10 stocks we like better than Applied MaterialsWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Applied Materials wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Billy Duberstein has positions in Applied Materials. His clients may own shares of the companies mentioned. The Motley Fool has positions in and recommends Applied Materials and Nvidia. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

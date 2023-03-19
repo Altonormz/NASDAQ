@@ -1,0 +1,71 @@
+March 15, 2023 — 01:16 pm EDT
+
+      Written by
+                        Vaishali Doshi for                             
+        
+
+
+
+
+Zacks ->
+
+
+Industry Description
+The Zacks Computer Software industry includes companies that provide software applications related to cloud computing, electronic design automation (mostly for semiconductor and electronics industries), digital media and marketing, customer relationship management, on-premises and cloud-based database management, accounting and tax purposes, human capital management, cybersecurity and application performance monitoring and cloud-based enterprise communications platform. Some companies develop and market simulation software (like computer-aided design or CAD, 3D modeling, product lifecycle management or PLM, data orchestration and experience creation), which engineers, designers and researchers use across various industries like architecture, engineering and construction, product design, manufacturing and digital media.
+3 Trends Shaping the Future of the Software Industry
+Higher Spending on Software Aids Prospects: The industry’s prospects are bright, given higher spending by enterprises on software procurement. Continued investment in big data and analytics and the ongoing adoption of software as a service or SaaS open up significant opportunities for industry players. Cloud offers a flexible and cost-effective platform for developing and testing applications. The deployment time is also much shorter compared with legacy systems. SaaS companies are expected to register strong top-line growth on a higher percentage of recurring revenues, subscription gross margin and a lower churn rate.Cloud Computing Adoption Gaining Traction: The increasing need to secure cloud platforms amid growing cyber-attacks and hacking incidents drives demand for cyber security software. Enterprises are focused on rapid migration to the cloud and DevOps technologies to achieve scalability and agility for software development and IT operations. This helps in delivering a flawless digital experience to clients. This trend has brought immense value to application and infrastructure performance monitoring. It is driving the demand for performance management monitoring tools that are scalable and suitable for cloud-based environments.Hybrid Work to Drive Demand But Macro Headwinds a Concern: The mainstream adoption of the distributed workforce model is fueling demand for enterprise communication, workspace management and human capital management software solutions, among others. However, global macroeconomic weakness, geopolitical instability in Europe due to the Russia-Ukraine war and lingering supply chain troubles are a concern. Increasing inflation could affect spending across small- and medium-sized businesses globally. The uncertainty in business visibility could dent the industry’s performance in the near term.
+Zacks Industry Rank Indicates Bright Prospects
+The Zacks Computer Software industry is housed within the broader Zacks Computer And Technology sector. It carries a Zacks Industry Rank #87, which places it in the top 35% of more than 249 Zacks industries.The group’s Zacks Industry Rank, which is the average of the Zacks Rank of all the member stocks, indicates bright near-term prospects. Our research shows that the top 50% of the Zacks-ranked industries outperform the bottom 50% by a factor of more than 2 to 1.Before we present a few stocks that you may want to consider for your portfolio, considering bright prospects, let us look at the industry’s recent stock-market performance and valuation picture.
+Industry Outperforms Sector and S&P 500
+The Zacks Computer Software industry has outperformed the broader Zacks Computer and Technology sector and the S&P 500 Index in the past year.The industry has lost 7.3% over this period compared with the S&P 500 and the broader sector’ decline of 9.4% and 12%, respectively.
+One-Year Price Performance
+
+Industry's Current Valuation
+On the basis of forward 12-month P/E, a commonly-used multiple for valuing software companies, we see that the industry is currently trading at 26.39X compared with the S&P 500’s 15.99X. It is also above the sector’s forward-12-month P/E of 21.72X.In the last five years, the industry has traded as high as 37.28X, as low as 22.63X and at the median of 27.55X, as the chart below shows.
+Forward 12-Month Price-to-Earnings (P/E) Ratio
+
+Forward 12-Month P/E Ratio
+
+3 Software Stocks to Power Your Portfolio
+Salesforce: Headquartered in San Francisco, Salesforce is one of the leading providers of on-demand Customer Relationship Management (CRM) software, which enables organizations to manage critical operations, such as sales force automation, customer service and support, marketing automation, document management, analytics and custom application development.Salesforce benefits from a robust demand environment as customers are undergoing a major digital transformation. The rapid adoption of its cloud-based solutions is driving demand for its products. Its sustained focus on introducing more aligned products as per customer needs is driving its top line. Continued deal wins in the international market are another growth driver. The acquisition of Slack elevates the company’s position in enterprise team collaboration solution space.The stock sports a Zacks Rank #1 (Strong Buy).  You can see the complete list of today’s Zacks #1 Rank stocks here. The consensus mark for the company’s fiscal 2024 earnings is pegged at $6.96 per share, up 21.3% in the past 60 days. The long-term growth rate is pegged at 16.8%.
+Price and Consensus: CRM
+ 
+Cadence Design Systems: Based in San Jose, CA, Cadence Design Systems offers products and tools that help customers to design electronic products. Cadence’s core electronic design automation or EDA software and services enable engineers to develop different types of ICs. Its design IPs are directly integrated into the ICs.Cadence’s performance is gaining from continued strength across all segments owing to healthy demand for the company’s diversified product portfolio. The company is likely to benefit from long-term secular mega-trends that boosts design activity growth across semiconductor and system companies.The company’s Palladium and Protium platform is gaining traction among clients in the hyperscale, HPC and auto EV segments. The company is expanding its digital software business by developing front-end Genus and Joules tools and signoff products like Tempus and Quantus. Apart from that, strategic collaborations and acquisitions are expected to help the company sustain top-line growth.The consensus mark for this Zacks Rank #2 (Buy) company’s 2023 earnings is pegged at $4.97 per share, indicating year-over-year growth of 16.4%. Shares have gained 35.3% in the past year. The long-term growth rate is pegged at 19.1%.
+Price and Consensus: CDNS
+Blackbaud: Headquartered in Charleston, SC, Blackbaud is a leading cloud software company working for social causes. The company combines technology and expertise to help organizations achieve their missions.Blackbaud’s performance is being driven by higher contractual recurring revenue owing to synergies from the previous acquisition of EVERFI. Increasing customer renewal rates and booking coupled with frequent product launches bodes well. The growing demand for cloud-based applications is likely to act as a tailwind. The company’s efforts to return capital to its shareholders through share repurchase and deleveraging augurs well in the long term. The company’s margins are likely to improve owing to cost control and operational improvements.Blackbaud carries a Zacks Rank #2. The consensus mark for the company’s 2023 earnings is pegged at $3.43 per share, up 27.5% year over year. The long-term growth rate is pegged at 15.6%.
+Price and Consensus: BLKB
+ 
+
+
+5 Stocks Set to Double 
+
+	Each was handpicked by a Zacks expert as the #1 favorite stock to gain +100% or more in 2021. Previous recommendations have soared +143.0%, +175.9%, +498.3% and +673.0%.
+
+	Most of the stocks in this report are flying under Wall Street radar, which provides a great opportunity to get in on the ground floor.
+Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report
+Salesforce Inc. (CRM) : Free Stock Analysis Report
+Blackbaud, Inc. (BLKB) : Free Stock Analysis Report
+Cadence Design Systems, Inc. (CDNS) : Free Stock Analysis Report
+To read this article on Zacks.com click here.
+Zacks Investment Research
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

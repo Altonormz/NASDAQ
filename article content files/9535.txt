@@ -1,0 +1,54 @@
+February 25, 2023 — 07:00 am EST
+
+      Written by
+                        Matthew Frankel for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Image source: Getty Images
+When you swipe your credit card, it allows you to instantly borrow money for purchases and maybe earn rewards. But have you ever stopped to think about what is actually happening behind the scenes? Here's a rundown of what actually happens when you use your credit card to pay for a purchase, including which companies take a cut and how much the merchant actually gets.
+Without getting too complex, let's consider what happens in a basic credit card transaction. To keep things simple, let's assume it's a domestic purchase made with a card issued by a U.S. banking institution, as foreign transactions add another layer of complication (this is why many credit card issuers charge foreign transaction fees).
+
+
+Save: This credit card has one of the longest intro 0% interest periods around
+More: Save while you pay off debt with one of these top-rated balance transfer credit cards
+There are generally four parties involved in a credit card transaction. These are:
+In a nutshell, when you swipe your credit card at a merchant's POS (point of sale) terminal, a payment network like Visa or Mastercard (or whatever logo is on the card) moves money from the issuing bank to the merchant's receiving bank account. It's also worth noting that in some cases, the payment network and issuing bank can be the same company. American Express and Discover play the roles of both lender and payment network, a system that is referred to as a "closed loop" payment network.
+As we saw, there are several intermediaries in a credit card transaction, and it shouldn't come as a surprise that none of them provide their services for free. You likely already know that merchants pay fees when accepting credit cards -- anywhere in the 2%-3% range is typical. But many people assume that these "swipe fees" go to the payment network exclusively, while they actually get split among all of the facilitators of the transaction.
+Let's say that you buy something for $100. While the exact fee structure depends on several variables, here's what happens in the average credit card transaction, according to data from restaurant POS provider Toast.
+First, the POS provider collects an average of $0.77 (0.77%) of the transaction for providing the hardware and other infrastructure used to initiate the credit card payment. These companies often make additional money for providing software solutions to merchants, as well.
+Second, the payment network gets an average of $1.19 (1.19%) for facilitating the movement of money between the customer's bank and the merchant's account.
+Finally, the bank that issued the credit card, such as Chase, Citi, or Bank of America, gets an average of $0.73 (0.73%) as a fee for acting as the lender. So, even if you pay your credit card balance right away and have no interest due, the bank is still making money when you use your card. And in the cases of Amex and Discover, they get both the payment network and bank portions of the fee.
+Here's a graphical representation of where the money in a credit card transaction flows:
+Image source: toast
+When you add all of these fees up, the average merchant is left with $97.31 out of the $100 transaction. This means the typical merchant pays 2.69% of each transaction for the convenience of accepting credit cards. Some merchants have even started to pass these fees along to the customer -- if you've ever noticed a "credit card surcharge" on your restaurant check, this is why.
+Accepting credit cards is a necessity of doing business for merchants, and that has become increasingly true over the past decade or so. Even though it costs money to accept credit cards, many businesses are happy to absorb the cost due to the higher sales volume it produces and the relative safety of digital payments. After all, cash has its own risks, such as theft and loss, that are important to consider in the context of credit card fees.
+If you have credit card debt, transferring it to this top balance transfer card secures you a 0% intro APR for up to 21 months! Plus, you'll pay no annual fee. Those are just a few reasons why our experts rate this card as a top pick to help get control of your debt. Read our full review for free and apply in just 2 minutes.
+We're firm believers in the Golden Rule, which is why editorial opinions are ours alone and have not been previously reviewed, approved, or endorsed by included advertisers.
+  The Ascent does not cover all offers on the market. Editorial content from The Ascent is separate from The Motley Fool editorial content and is created by a different analyst team.The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

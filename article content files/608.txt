@@ -1,0 +1,80 @@
+March 17, 2023 — 07:30 am EDT
+
+      Written by
+                        Jeff Santoro for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Over the past few years, many growth companies saw their share prices skyrocket on the premise that triple-digit revenue growth could mask profit losses and cash burn. Sea Limited (NYSE: SE) is one such company. Over the past three years, Sea's share price jumped from $38 to $366 and then fall back down to $78, where the stock trades as of this writing.
+In this new higher interest rate environment, the market is less tolerant of companies that can't improve on the bottom line, and in its most recently reported quarter, there's evidence that Sea has gotten the memo. The question for investors is if this good news this quarter was the beginning of a trend or merely a blip on the radar. Let's take a closer look.
+When Sea limited reported results on March 7, the market reaction was immediate and decisive. Shares jumped in pre-market trading and the stock closed the day up nearly 22%. A quick glance at the headline numbers explains the stock pop. 
+While revenue was only up 7% year over year, a significant deceleration from previous quarters, the bottom-line numbers were eye-opening. Net income for the quarter was $423 million and adjusted earnings before interest, taxes, depreciation, and amortization (EBITDA) was $496 million. This was the first time the company has ever been positive on either metric. What was notable about these results was the dramatic change in a short amount of time. Consider the year-over-year and sequential comparisons.
+Quarter
+Net Income (Loss)
+Adjusted EBITDA (Loss)
+Q4 2021
+($616 million)
+($492 million)
+Q3 2022
+($569 million)
+($358 million)
+Q4 2022
+$423 million
+$496 million
+Data source: Sea Limited.
+Sea had been taking small steps toward profitability over the course of 2022 but nothing close to what it did in the recent fourth quarter. This dramatic shift is not common in such a short amount of time.
+There's no doubt that Sea's focus on operational efficiency contributed to this profitability result. The company's operating expenses decreased compared to Q4 2021 both on a dollar basis and as a percentage of revenue. Specifically, Sea's sales and marketing expenses dropped 61%, leading the way to profitability improvement. 
+There were also some one-time events investors need to consider to get a true sense of this quarter's bottom line. Net income was impacted negatively by a $177 million goodwill impairment due to some historical investments in the digital entertainment business. That should be a one-time event that would make the result even more impressive. Without it, net income would have been higher at $600 million. 
+However, net income was also positively impacted by a $200 million debt extinguishment as well as a $130 million accrual reversal. Adjusted EBITDA benefited from this accrual reversal as well. Here's the same table from above but including these one-time adjustments.
+Quarter
+Net Income (Loss)
+Adjusted EBITDA (Loss)
+Q4 2021
+($616 million)
+($492 million)
+Q3 2022
+($569 million)
+($358 million)
+Q4 2022
+$270 million
+$366 million
+Data source: Sea Limited. Adjustments made by author.
+To be clear, this is still a very impressive result. However, a quick glance at the headline numbers may not tell the whole story. Additionally, while it's likely the debt extinguishment and accrual reversal are one-time events, there's a chance there could be more goodwill impairments in the future.
+Sea has three distinct businesses: e-commerce, gaming, and digital financial services. E-commerce and digital financial services had strong Q4 results, with revenue increasing 32% and 93% respectively. Sea's gaming division, called digital entertainment, struggled.
+Digital entertainment revenue for the quarter decreased by 33%, and bookings fell by 51% compared to Q4 2021. Additionally, quarterly active users fell 26%, indicating slowing user engagement with Sea's gaming platform. More concerning is that these results continue a trend seen over the past year. These metrics have all fallen sequentially in each of the last five quarters.
+Even though these disappointing results are only impacting one of Sea's business segments, it's an important one. In Q4, revenue from digital entertainment represented 44% of total revenue. This is something investors should keep an eye on moving forward.
+There's no doubt this quarter was a step in the right direction and confirmation that management's comments about focusing on profitability were more than idle talk. While revenue growth has been slowing, it's also important to remember that in 2021 revenue was growing in the triple digits, so year-over-year comparisons are slightly unfair. 
+Even after the post-earnings stock pop, Sea still trades for a price-to-sales multiple near its all-time low. For those who have been hesitant on Sea due to a lack of profitability, now may be a good time to pick up some shares. On the other hand, waiting another quarter or two to see if these trends can continue is an understandable strategy as well.
+10 stocks we like better than Sea LimitedWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Sea Limited wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of March 8, 2023
+ 
+Jeff Santoro has positions in Sea Limited. The Motley Fool has positions in and recommends Sea Limited. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

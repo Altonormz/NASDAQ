@@ -1,0 +1,59 @@
+February 27, 2023 — 06:45 am EST
+
+      Written by
+                        Keithen Drury for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Unlike many other tech companies, Datadog's (NASDAQ: DDOG) stock hasn't seen a considerable rise from the start of 2023, as it's up only around 5%. This might leave investors wondering if the stock is due for a quick rise to catch up to its software-as-a-service (SaaS) peers.
+Is Datadog primed for a greater upside? Or is there something else going on that's inhibiting its stock price? Let's find out.
+Datadog's software helps IT teams monitor how their systems are working. Business systems are becoming more complex as data drives every decision. For example, there might be five data sources that flow into a data center to be stored, then that info is utilized by a data analytics program; after that, different end users like engineering, the sales team, or executives harness the results to drive decisions. If something goes wrong in that chain, it's hard to determine where the fault is without hours of troubleshooting. 
+That's where Datadog's software comes in. By deploying Datadog's solutions, IT teams gain visibility into data flows and can see where something is going wrong. With additional add-ons, customers can also harness the power of artificial intelligence (AI) to solve problems before they affect users downstream. 
+This is the core of what Datadog does, but it also has more offerings, including security management, log management, and continuous testing. 
+Datadog recently reported fourth-quarter results, but it gave investors some concerns.
+In the fourth quarter, Datadog's revenue was $469 million, a 44% jump over last year's Q4. It also delivered free cash flow (FCF) of $96.4 million, a 21% margin. However, Datadog couldn't turn that into actual profit, with its earnings per share (EPS) coming in at a $0.09 loss.
+The gap between free cash flow and EPS can be attributed to one thing: stock-based compensation. In Q4, Datadog's stock-based compensation bill totaled $112.5 million -- a 99% increase over last year. This likely triggered the 10% fall in the days after its earnings release, as Datadog generated a $0.02 per-share profit last year. 
+Unfortunately, this trend will likely continue, thanks to management's disappointing 2023 guidance.
+Management guided for $2.08 billion in revenue for 2023 at the midpoint, indicating 24% growth. While that's not bad guidance for the economic environment we're in, its operating expense growth has investors concerned. Management expects to grow its operating expenses in 2023 somewhere in the low 30% range, with headcount rising about 20%. 
+With operating expenses rising faster than revenue, it's not what investors were looking for from Datadog's Q4 report. As a result, the stock hasn't done well in 2023.
+But is it at a price range where you could consider buying it?
+Although Datadog's valuation has come down from its peaks, it's still relatively high.
+
+DDOG PS Ratio data by YCharts
+Couple that with growth slowing down and operating expenses rising, and the stock remains expensive.
+So why would you buy it? It all comes down to long-term opportunities.
+Datadog is still rolling out its platform to new clients each quarter. Additionally, many industries haven't experienced the data revolution powering that the largest companies are using today. Essentially, the primary reason to buy Datadog's stock is that it's operating in a market opportunity that will hopefully be $62 billion by 2026, as estimated by third-party research firm Gartner. 
+I own shares of Datadog, but this Q4 report was disappointing. However, I remain confident in the long-term prospects of Datadog's offering. This could be a rough year for the stock if earnings trend in the wrong direction, but if you're patient, there will likely be better opportunities to pick up shares of Datadog along the way.
+10 stocks we like better than DatadogWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Datadog wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Keithen Drury has positions in Datadog. The Motley Fool has positions in and recommends Datadog. The Motley Fool recommends Gartner. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

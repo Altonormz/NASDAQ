@@ -1,0 +1,51 @@
+March 12, 2023 — 07:00 am EDT
+
+      Written by
+                        RJ Fulton for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Although Bitcoin (CRYPTO: BTC) is often touted as a superior form of money and a premier asset to store wealth due to its scarcity and decentralization, it does have some shortcomings. The most glaring deficiencies are high costs and slowness when sending small transactions. 
+When sending these smaller transactions, it isn't uncommon for the transaction fee to be larger than the transaction itself. This has been one of the most well-known obstacles that has prevented Bitcoin from becoming a viable option for everyday purchases like a cup of coffee or a meal at a restaurant. 
+However, this might slowly be changing. 
+In 2018, developers released a solution called the Lightning Network which would help mitigate these high fees and slow speeds for smaller transactions. The details of how it works can be a little complex, but what is most important to know is that with the Lightning Network, transaction speeds can increase from just 10 per second to more than 1 million per second and cost just a fraction of a penny. 
+In its infancy, growth of the Lightning Network was slow, but by 2021 an explosion on the network took place as Bitcoin climbed to an all-time high of nearly $69,000, and users looked for cost-effective solutions to send and receive Bitcoin. 
+But since that peak in 2021, the Lightning Network has remained impressively resilient during the current bear market and has actually continued to grow. 
+On Feb. 26, the Lightning Network notched a new all-time high in network capacity. This metric measures the amount of Bitcoin locked in the network and serves as a proxy to gauge liquidity. The thinking goes that the greater the liquidity, the greater the network's capacity to process larger transactions faster and cheaper.
+We can see this phenomenon in action when taking a look at the median base fee on the network. Despite Bitcoin's price fluctuating, there is a clear and evident trend of the median base fee falling with time. In late 2022, it hit an all-time low of $0.00000016. Talk about cheap. 
+When considering that the Lightning Network has continued to flourish even in the midst of this crypto winter, there is significant reason to believe that this growth will be sustained should a bull market arrive. As such, thenarrative  that Bitcoin is too costly and slow to use for everyday payments will likely dissipate.
+Should the Lightning Network continues on its current path of growth, it could lead to Bitcoin truly becoming a superior form of money that can be used not only as a store of value but also an attractive means of payment.
+Although some consider it to already be in the upper echelon of all cryptocurrencies, the combination of Bitcoin's use case as a long-term investment and growth of the Lightning Network could solidify Bitcoin's position as the premier digital asset for years to come. When considering that Bitcoin's price is still down more than 70% from its all-time high, an investment today seems almost too good to be true. 
+10 stocks we like better than BitcoinWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Bitcoin wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of March 8, 2023
+ 
+RJ Fulton has positions in Bitcoin. The Motley Fool has positions in and recommends Bitcoin. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

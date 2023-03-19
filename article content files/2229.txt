@@ -1,0 +1,51 @@
+March 14, 2023 — 08:00 am EDT
+
+      Written by
+                        Kate Stalter, MarketBeat Contributor for                             
+        
+
+
+
+
+MarketBeat ->
+
+
+
+
+Is it possible that something good will come from the run on Silicon Valley Bank, and the contagion spreading to other banks, such as Signature Bank and First Republic Bank (NYSE: FRC)?
+While at first glance, a Fed bailout may appear as if it only benefits wealthy venture capitalists and tech founders, there may be more here than meets the eye. 
+Here are two reasons why (eventually) there’s room to view the SVB collapse as less of a systemic calamity, and more of an opportunity for investors.
+1) Slower Pace Of Rate Hikes: One of Silicon Valley Bank’s problems stemmed from owning too many long bonds worth less than par value. In other words, a 2040 bond with a 1.5% coupon, purchased 20 years ago, is worth less today than its face value. That problem is why longer-term bonds always pay more than shorter-term bonds; there’s much less risk when buying a one-year bond because you have better visibility into what the rate may be a year from now, and your bond is more likely to retain its value.  
+For institutional holders like banks, holding these long bonds isn’t a problem if depositors don’t want their money. Institutions often buy long-term bonds with no real intention of selling them before the maturity date. Current regulations don’t require banks to mark the bond prices to market, which means recording the current fair value of assets, which can fluctuate. 
+Again, holding bonds to maturity, even if worth less than the purchase price, is fine if you end up selling and receiving the face value. But when depositors decide they want to withdraw their money, for more than the value of the bank’s holdings are worth, that creates a problem. 
+So where’s the opportunity? In this case, it could result in the Fed pulling back on interest-rate increases sooner than expected, perhaps averting the long-predicted recession. 
+2) Opportunity For Investors: Rate increases resulted in a squeeze on funding for tech startups. That was a key reason The value of these longer-term securities fall sharply after the Fed’s series of rate hikes, which coincided with a squeeze in funding for new tech startups. 
+Many young techs and other startups who are Silicon Valley Bank clients may not be what you imagine. They hail from all over the U.S. and were founded by non-wealthy entrepreneurs who don’t fall into the category of the stereotypical Silicon Valley “tech bro” adorned in shoes from Allbirds Inc. (NASDAQ: BIRD). These tech companies became clients of Silicon Valley Bank because their venture capitalists recommended the bank.  
+In recent months, with additional rounds of venture funding harder to lock in, these younger, smaller companies had to withdraw from their bank accounts for capital to meet payroll and day-to-day expenses due to higher interest rates. 
+While lack of capital initially seems like bad news for young, innovative, job-creating startups, it could offer an opportunity for small companies, both public and pre-IPO, to find acquirers. Already, Silicon Valley insiders say small start-ups are getting calls to initiate potential acquisition talks. 
+Why is that good for investors? If you own a company that’s an acquisition target, you’ll participate in a payday once a transaction is done. Even for privately held startups that are acquired, there’s a potential economic boon from a company that’s now able to innovate and reach its potential, rather than fizzle because it can’t access capital. 
+Silicon Valley Bank, First Republic, and Signature are far from the only banks holding securities worth less than their face value, but which they aren’t required to mark to market. Yes, SVB had some internal problems, but the much-reported awarding of bonuses was not an issue of shadiness; the bank fully expected it would have the funds on March 10 to cover the bonuses, as Wall Street underwriters had already OK’d the transactions before the bank run got underway.
+If you work in a corporate environment, you may already be aware that corporate bonuses are routinely paid in March, so that wasn’t an indication of malfeasance, as some writers have suggested.
+Nonetheless, there are a couple of regulatory improvements that could be made as a result of SVB’s collapse:
+The reality is, if the Federal government steps in to backstop bank failures, there’s no actual need to increase insurance limits. However, it would likely go a long way toward increasing confidence in the banking system, which is necessary to keep the economy humming along and growing. 
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

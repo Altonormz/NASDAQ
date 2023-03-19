@@ -1,0 +1,64 @@
+February 27, 2023 — 05:21 am EST
+
+      Written by
+                        Sean Williams for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Over the past 30 years, there have been no shortage of next-big-thing investments. This includes the rise of the internet, business-to-business e-commerce, and genomics, as well as electric vehicles, 3D-printing, cloud-computing, and even cannabis investing. At the moment, no investment opportunity is captivating investors' attention quite like artificial intelligence (AI).
+AI encompasses the use of software and systems to handle tasks usually undertaken by humans. What makes AI so intriguing is its ability to learn and evolve over time. This machine-learning capability gives AI application well beyond the tech space, and is why Grand View Research foresees the global AI market growing by a scorching annualized rate of 37.3% between 2023 and 2030. 
+Image source: Getty Images.
+The long-term potential for AI isn't lost on Wall Street's top investors, either. Thanks to required quarterly 13F filings with the Securities and Exchange Commission, everyday investors can take a close look at what the brightest minds on Wall Street were buying and selling in the most recent quarter. Not surprisingly, AI stocks were on the list.
+In particular, three AI stocks were bought hand over fist by a number of Wall Street billionaire investors during the fourth quarter.
+The first artificial intelligence stock billionaire money managers can't stop buying is semiconductor solutions company Nvidia (NASDAQ: NVDA). The fourth quarter saw billionaire Ken Griffin of Citadel Advisors increase his fund's stake in Nvidia by more than 500% with a nearly 1.59-million-share purchase. Meanwhile, billionaire Philippe Laffont of Coatue Management added 1.25 million shares.
+The buzz surrounding Nvidia and AI primarily has to do with its hardware. This is a company that's well-known for being a leading provider of graphics processing units (GPU) for the gaming industry, as well as enterprise data centers. Nvidia's GPUs are tasked with accelerating computing capabilities, which are necessity for AI software and systems that are (likely) making split-second decisions on a regular basis. Selling GPUs in the data-center environment is Nvidia's quickest way to make an impact on the AI landscape.
+However, Nvidia is also developing its own suite of AI-driven solutions. As I pointed out last week, this includes virtual digital assistants, which help businesses answer customer queries by responding to simple voice commands.
+Although Nvidia's brand-name and success in GPUs rightly brings it a lot of investor attention, it's difficult to ignore just how pricey the company's stock has become given its reduced growth outlook -- 55 times Wall Street's fiscal 2024 earnings forecast.
+The biggest issue for Nvidia is its high-margin gaming segment, where revenue declined by 46% from the prior-year period in the fourth quarter, and slumped 51% from the comparable period in the third quarter.  With the worst of the pandemic likely behind us, people simply aren't gaming as much as they had been a year or two ago. This is a key growth and profit driver that's quickly deflated.
+Another concern for Nvidia is that its innovative AI-driven GPU, the A100, isn't allowed to be exported to China, per U.S. regulators. Though the company has developed a slower GPU (the A800) that it believes can avoid the export restrictions to China set by U.S. regulators, not being able to ship this top-tier GPU to fast-growing China is a potentially big revenue loss for Nvidia. 
+The second AI stock that's been captivating the attention of Wall Street's billionaire investors is tech stock Microsoft (NASDAQ: MSFT). Billionaires Jeff Yass of Susquehanna International, Dan Loeb of Third Point, and the aforementioned Philippe Laffont of Coatue, respectively bought 2.58 million shares, 1.18 million shares, and a little over 1.14 million shares of Microsoft stock during the fourth quarter.
+Microsoft has a number of AI connections. One of the more notable is its investment in OpenAI, the artificial intelligence company behind the AI chatbot, ChatGPT. This ultra-popular chatbot reached 100 million monthly active users in January, just two months after its launch. That makes ChatGPT the fastest-growing consumer-focused internet application in history. 
+OpenAI is also behind the software powering Microsoft's newly updated search engine, Bing. Utilizing AI capabilities with Bing and its web browser Edge should allow users to get quicker and more comprehensive answers to their queries without having to click on a number of pages or links. What's more, incorporating AI can encourage immediate actions from users (e.g., booking a vacation immediately from a search query, instead of having to click on multiple links/pages to reach a travel website).
+While there's been a lot of buzz surrounding Microsoft's multiyear, $10 billion follow-up investment in OpenAI, and the potential for Bing to potentially gain internet search market share, it's the company's cloud-computing investments that are most likely to drive Microsoft's operating results for the foreseeable future. 
+Specifically, most investors are focusing their attention on Microsoft Azure. According to a newly released report from tech-focused analysis company Canalys, Azure accounted for 23% of global cloud infrastructure spending during the fourth quarter.  Excluding currency movements, Azure registered 38% sales growth during the December-ended quarter. 
+Even with a U.S. recession looking likely within the next 12 months, Microsoft is pretty reasonably valued at 23 times forward-year fiscal earnings, while sporting a sustained low-double-digit growth rate.
+Image source: Getty Images.
+The third artificial intelligence stock Wall Street billionaires can't stop buying is cybersecurity company CrowdStrike Holdings (NASDAQ: CRWD). The fourth quarter saw billionaires Ken Griffin of Citadel, Jim Simons of Renaissance Technologies, John Overdeck and David Siegel of Two Sigma Investments, and Ole Andreas Halvorsen of Viking Global Investors, all pile into CrowdStrike. Respectively, these billionaires added nearly 827,000 shares, around 585,000 shares, close to 469,000 shares, and more than 415,000 shares.
+CrowdStrike's tie-ins with AI can be seen its cybersecurity platform. Falcon, the company's cloud-native security platform, relies on AI and machine-learning to become more efficient at identifying and responding to possible end-user threats. With Falcon overseeing trillions of events each week, it's no wonder it's become an exceptionally popular solution for its subscribers.
+CrowdStrike's operating results are dripping with evidence that businesses are enamored with its products. Despite there being plenty of end-user cybersecurity solutions available, the gross retention rate for CrowdStrike has climbed nearly five percentage points to more than 98% over the past six years.  In other words, its subscribers are willing to pay more for a superior software-as-a-service (SaaS) product.
+Further evidence of product satisfaction can be seen in the growth of add-on sales among existing customers. Aside from CrowdStrike's impressive client growth -- 450 to 21,146 between the end of fiscal 2017 and the third quarter of fiscal 2023 -- a whopping 60% of its more than 21,100 clients have purchased at least five cloud-module subscriptions.  Existing clients adding onto their initial purchases is what's helped lift CrowdStrike's adjusted subscription gross margin to almost 80%. 
+It also doesn't hurt that cybersecurity is, effectively, a basic necessity service in any economic environment. Hackers don't simply stop trying steal sensitive information just because Wall Street or the U.S. economy hits a rough patch. There's consistent demand for SaaS-based cybersecurity solutions, which puts a healthy floor beneath CrowdStrike's annual cash flow expectations.
+Find out why Nvidia is one of the 10 best stocks to buy now
+Our award-winning analyst team has spent more than a decade beating the market. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed their ten top stock picks for investors to buy right now. Nvidia is on the list -- but there are nine others you may be overlooking.
+Click here to get access to the full list!
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Sean Williams has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends CrowdStrike, Microsoft, and Nvidia. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

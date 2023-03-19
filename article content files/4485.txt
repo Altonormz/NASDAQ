@@ -1,0 +1,81 @@
+March 09, 2023 — 12:00 pm EST
+
+      Written by
+                        Leo Sun for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+CrowdStrike's (NASDAQ: CRWD) stock jumped 6% during after-hours trading following its latest earnings report. For the fourth quarter of fiscal 2023, which ended on Jan. 31, the cybersecurity company's revenue rose 48% year over year to $637.4 million and exceeded analysts' expectations by $10.6 million. Its adjusted net income grew 59% to $111.6 million, or $0.47 per share, which also cleared the consensus forecast by four cents.
+Does that solid earnings beat indicate it's the right time to buy CrowdStrike, which remains 56% below its all-time high? Let's review its growth rates, near-term challenges, and valuations to decide.
+Image source: Getty Images.
+Unlike many traditional cybersecurity companies, CrowdStrike only provides cloud-based services instead of on-site appliances. That model, which is cheaper and easier to scale, is locking in a lot of customers.
+CrowdStrike's revenue rose 82% in fiscal 2021, grew 66% in fiscal 2022, and increased by 54% to $2.24 billion in fiscal 2023. However, a closer look at its quarterly growth indicates it's losing its momentum.
+CrowdStrike ended the fourth quarter with 23,019 customers, which represented 41% growth from a year earlier but only 9% growth from the third quarter. Its net new annual recurring revenue (ARR), which only counts its ARR from new deals, rose a mere 2% to $222 million. As a result, its growth in total revenues gradually decelerated over the past year.
+Metric
+Q4 2022
+Q1 2023
+Q2 2023
+Q3 2023
+Q4 2023
+Subscription customers growth (YOY)
+65%
+57%
+51%
+44%
+41%
+Net new ARR growth (YOY)
+52%
+32%
+45%
+17%
+2%
+Revenue growth (YOY)
+63%
+61%
+58%
+53%
+48%
+Data source: CrowdStrike. YOY = Year-over-year.
+During the conference call, CFO Burt Podbere attributed its slowing net new ARR growth to "increased budget scrutiny and elongated sales cycles" in a challenging macro environment. He also reiterated his longer-term outlook for "roughly flat to very modestly" higher net new ARR growth in fiscal 2024. This implies its total ARR -- which includes its ARR growth from its existing deals -- will only increase by the "low-30s" compared to its 48% growth in fiscal 2023.
+CrowdStrike expects its revenue to rise 38% to 39% year over year in the first quarter of fiscal 2024 and grow 32% to 35% for the full year. Analysts had anticipated 36% growth in the first quarter and 32% growth for the full year.
+CrowdStrike's top line estimates surpassed analysts' expectations because its strategy of "landing and expanding" is still paying off. Its dollar-based net retention rate -- which gauges its year-over-year revenue growth per existing customer -- has stayed above 120% ever since its IPO in 2019.
+At the end of fiscal 2023, 62% of CrowdStrike's customers had adopted at least five of its modules, compared to 57% a year earlier, while the percentage of customers who had adopted six or more modules rose from 34% to 39%.
+Its adjusted subscription gross margin dipped by a percentage point to 78%, but its adjusted operating margin rose from 14% to 16% as it streamlined its spending. But unlike many other tech companies, CrowdStrike didn't announce any big layoffs. Instead, Podbere said the company would "significantly moderate the pace of new hires while continuing to invest responsibly for the long term" throughout fiscal 2024.
+CrowdStrike expects its free cash flow (FCF) margin to come in at "approximately 30%" for the full year -- which would match its FCF margins in fiscal 2023 and fiscal 2022. It isn't profitable on a generally accepted accounting principles (GAAP) basis yet, but it narrowed its net loss from $234.8 million in fiscal 2022 to $183.2 million in fiscal 2023.
+It also expects its number of outstanding shares to only rise 2% in fiscal 2024. That implies it will gradually rein in the stock-based compensation expenses that consumed 23% of its revenues in fiscal 2023 and accounted for most of the difference between its non-GAAP and GAAP earnings.
+CrowdStrike expects its non-GAAP EPS to rise 61% to 65% year over year in the first quarter of fiscal 2024, and to grow 44% to 55% for the full year. Those estimates easily surpassed analysts' expectations for 39% earnings growth in the first quarter and 30% growth for the full year.
+At $132, CrowdStrike trades at 57 times its adjusted EPS forecast and 10 times its sales estimate for fiscal 2024. Its cloud-based peer Zscaler, which faces similar near-term challenges, trades at 104 times forward earnings and 11 times this year's sales. Palo Alto Networks, which generates slower growth through a more diverse mix of on-site and cloud-based services, trades at 52 times forward earnings and eight times this year's sales.
+Therefore, CrowdStrike's stock isn't cheap -- but it looks reasonably valued relative to its growth rates and its comparable cybersecurity peers. The next few months could still be tough for CrowdStrike, but I believe its prospects will brighten once the macro situation improves. Investors who buy it now could be well-rewarded for riding out the near-term volatility.
+10 stocks we like better than CrowdStrikeWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and CrowdStrike wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Leo Sun has positions in CrowdStrike and Palo Alto Networks. The Motley Fool has positions in and recommends CrowdStrike, Palo Alto Networks, and Zscaler. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

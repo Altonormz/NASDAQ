@@ -1,0 +1,51 @@
+February 25, 2023 — 10:20 am EST
+
+      Written by
+                        Bram Berkowitz for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+The way that companies return capital to shareholders is through dividends and share repurchases. For banks, it boils down to looking at how much excess capital they have above their regulatory requirement to see how much they can return to shareholders.
+But banks are unique. Not only do they have regulatory capital requirements, but the way those are determined is different than in any other industry.
+Currently, the size of the dividend can raise a bank's regulatory requirement, which begs the question of whether or not large U.S. banks should lean more heavily into share repurchases when planning out capital returns.
+Banks must maintain many different regulatory capital requirements to stay in good standing with regulators.
+One that is watched very closely is the common equity tier 1 (CET1) capital ratio, which looks at a bank's core capital expressed as a percentage of risk-weighted assets such as loans. It's the capital above a bank's required CET1 minimum that can be used for capital returns. Each bank has a different CET1 requirement based on its size and complexity. Here is how the CET1 requirement is determined for large banks.
+Image source: Federal Reserve.
+Every bank has the bottom layer 4.5% requirement. Then the middle layer, the stress capital buffer (SCB), is determined by a bank's performance in the Federal Reserve's annual stress testing exercise. The top layer is only for the very largest banks, referred to as global systemically important banks (GSIB) -- think JPMorgan Chase (NYSE: JPM), Bank of America (NYSE: BAC), Goldman Sachs (NYSE: GS), etc. 
+What you'll notice is that the SCB also includes four quarters of a bank's dividend. This means that the lower a bank's dividend is, the lower its SCB is, and the lower its required CET1 ratio is. A lower CET1 ratio should translate into more excess capital. So in theory, if a bank leans more heavily into share repurchases and less into the dividend, it might be able to return more overall capital to shareholders.
+JPMorgan Chase's CFO Jeremy Barnum said at a recent fireside chat:
+"[I]t's objectively the case that dividends are made expensive by the way that the SCB requires you to prefund four quarters of dividend. And so you can imagine that, all else equal, when boards are thinking about what the most efficient way is to do distributions that, at the margin, that sort of feature in the SCB maybe gives people pause about the choices between dividends and buybacks."
+However, Barnum noted that banks can still increase their dividends without increasing the SCB if a bank grows its risk-weighted assets (RWA), which includes loans. But this certainly doesn't happen every quarter, whereas once you start paying a dividend, it's ideal to maintain that dividend level and try to grow it every year, or in as many years as possible.
+The idea that dividends now put more pressure on bank regulatory capital does present an interesting proposition for banks. But banks have long been known as solid dividend payers, so I'm not sure any bank would want to isolate the group of shareholders that buy bank stocks for the dividend.
+Barnum said that JPMorgan's approach to maintaining a healthy dividend has not changed. Still, it will be interesting if these large banks start to do smaller dividend hikes going forward, especially with regulatory capital requirements likely on the rise this year and into 2024.
+10 stocks we like better than WalmartWhen our award-winning analyst team has an investing tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Walmart wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+Stock Advisor returns as of February 8, 2023
+JPMorgan Chase is an advertising partner of The Ascent, a Motley Fool company. Bank of America is an advertising partner of The Ascent, a Motley Fool company. Bram Berkowitz has positions in Bank of America. The Motley Fool has positions in and recommends Bank of America, Goldman Sachs Group, and JPMorgan Chase. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
