@@ -4,7 +4,6 @@
     "INASDAQ_MARKETS_URL": "https://www.nasdaq.com/news-and-insights/topic/markets/page/",
     "BATCH_SIZE": 10,
     "log_file": "NASDAQ.log",
-    "TIME_OUT": 15,
-    "MAX_RETRIES": 5,
+    "TIMEOUT": 15,
     "PAGES": 1000
   }
