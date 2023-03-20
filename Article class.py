@@ -2,7 +2,6 @@ from gevent import monkey
 
 monkey.patch_all()
 import os
-import random
 import grequests
 from bs4 import BeautifulSoup
 import pandas as pd
