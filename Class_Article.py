@@ -7,6 +7,12 @@ from bs4 import BeautifulSoup
 import pandas as pd
 from fake_useragent import UserAgent
 import json
+import logging
+
+# logging config
+logging.basicConfig(level=logging.INFO, filename="Class_Article.log", filemode="w",
+                    format="%(asctime)s - %(levelname)s - %(message)s")
+logger = logging.getLogger("Class_Article.log")
 
 
 class Article:
@@ -128,7 +134,12 @@ def setting_info(article_list, df, config):
     """
     ua = UserAgent()
     headers = {'user-agent': ua.random}
-    rs = (grequests.get(t.url, headers=headers, timeout=config['TIMEOUT']) for t in article_list)
+    try:
+        rs = (grequests.get(t.url, headers=headers, timeout=config['TIMEOUT']) for t in article_list)
+        logging.info(f'successfully got responses from server')
+    except Exception as err:
+        logging.error(f"error getting responses from server")
+        raise RuntimeError(f"error getting responses: {err}")
 
     countdown = 0
 
@@ -137,6 +148,7 @@ def setting_info(article_list, df, config):
             article = next(t for t in article_list if t.url == response.url)
             article.set_info(response)
             print(article)
+            logging.info(f"successfully scraped {article.title}\n")
 
             new_row_df = pd.DataFrame([article.row_info()])
             df = pd.concat([df, new_row_df], ignore_index=True)
@@ -145,7 +157,7 @@ def setting_info(article_list, df, config):
                 df.to_csv('article_info.csv', index=False)
                 countdown = 0
         else:
-            print(f"Request failed with status code: {response.status_code}")
+            logging.error(f"Request failed with status code: {response.status_code}")
 
     df.to_csv('article_info.csv', index=False)
 
@@ -161,7 +173,7 @@ def get_articles():
             return article_list
 
     except FileNotFoundError as er:
-        print('File not found')
+        logging.error(f"{er}: links_list.txt wasn't found")
         return []
 
 
