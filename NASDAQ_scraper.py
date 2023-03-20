@@ -5,12 +5,16 @@ import grequests
 from bs4 import BeautifulSoup
 import Class_Article
 import json
+import logging
 
-BATCH_SIZE = 10
-PAGES = 1000
 
 with open("conf.json") as f:
     config = json.load(f)
+
+# logging config
+logging.basicConfig(level=logging.INFO, filename="NASDAQ_scraper.log", filemode="w",
+                    format="%(asctime)s - %(levelname)s - %(message)s")
+logger = logging.getLogger("NASDAQ_scraper.log")
 
 
 def scrape_page(URL):
@@ -54,23 +58,44 @@ def fetch_articles_urls():
     functions
     """
     new_links = []
-    for i in range(1, PAGES, BATCH_SIZE):
+
+    for i in range(1, 30, config["BATCH_SIZE"]):
+
         ten_pages = [f'https://www.nasdaq.com/news-and-insights/topic/markets/page/{j}' for j in
-                     range(i, i + BATCH_SIZE)]
-        responses = get_response(ten_pages)
+                     range(i, i + config["BATCH_SIZE"])]
+        logging.info(f'successfully created links batch number: {i // config["BATCH_SIZE"] + 1}.\n The links: '
+                     f'{ten_pages}')
+        try:
+            responses = get_response(ten_pages)
+            logging.info(f'successfully got responses from server for the urls: {ten_pages}')
+        except Exception as err:
+            logging.error(f"error getting responses from pages: {ten_pages}")
+            raise RuntimeError(f"error getting responses: {err}")
+
         for url in responses:
             if url.status_code == 200:
-                new_links = new_links + scrape_page(url)
+
+                scraped_pages = scrape_page(url)
+                if scraped_pages:
+                    logging.info(f"successfully scraped {scraped_pages}\n")
+                else:
+                    logging.error(f"could not scrape response page")
+                new_links = new_links + scraped_pages
+
             else:
-                print(f"Request failed with status code: {url.status_code}")
-        print(f'Batch number {i // BATCH_SIZE + 1}/100 done')
+                logging.error(f"Request failed with status code: {url.status_code}")
+
+        print(f'Batch number {i // config["BATCH_SIZE"] + 1}/100 done')
     print(new_links)
     save_links(new_links)
 
 
 def main():
-    fetch_articles_urls()  # creates file with articles urls.
-    Class_Article.main()  # Creates DataFrame with articles info, and saves their content in a sub-folder.
+    try:
+        fetch_articles_urls()  # creates file with articles urls.
+        Class_Article.main()  # Creates DataFrame with articles info, and saves their content in a sub-folder.
+    except Exception as err:
+        print(f'Error: {err}')
 
 
 if __name__ == "__main__":
