@@ -59,7 +59,7 @@ def fetch_articles_urls():
     """
     new_links = []
 
-    for i in range(1, 30, config["BATCH_SIZE"]):
+    for i in range(1, config["PAGES"], config["BATCH_SIZE"]):
 
         ten_pages = [f'https://www.nasdaq.com/news-and-insights/topic/markets/page/{j}' for j in
                      range(i, i + config["BATCH_SIZE"])]
