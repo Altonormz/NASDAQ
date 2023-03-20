@@ -27,7 +27,12 @@ DataFrame object and saved as a csv file.
 
 All the installations required including versions can be found in the "requirements.txt"  file
 
-## Running the Code
+## Running the program
 
+To start the program please run "NASDAQ_scraper.py" file with no parameters.
 
+Please download the "Class_Article.py" and "JSON.config" file, and make sure to follow the "requirements.txt"
+installations before running the program.
+
+**Important Note:** the program requires 32GB RAM. 
 

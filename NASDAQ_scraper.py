@@ -3,6 +3,7 @@ from gevent import monkey
 monkey.patch_all()
 import grequests
 from bs4 import BeautifulSoup
+import Class_Article
 
 BATCH_SIZE = 10
 PAGES = 1000
@@ -42,7 +43,11 @@ def save_links(links_list):
     print('Finished making the file')
 
 
-def main():
+def fetch_articles_urls():
+    """
+    creates the article pages urls in batches of 10 and calls the get_response (server response) and scrape_page
+    functions
+    """
     new_links = []
     for i in range(1, PAGES, BATCH_SIZE):
         ten_pages = [f'https://www.nasdaq.com/news-and-insights/topic/markets/page/{j}' for j in
@@ -58,5 +63,11 @@ def main():
     save_links(new_links)
 
 
+def main():
+    fetch_articles_urls()  # creates file with articles urls.
+    Class_Article.main()  # Creates DataFrame with articles info, and saves their content in a sub-folder.
+
+
 if __name__ == "__main__":
     main()
+
