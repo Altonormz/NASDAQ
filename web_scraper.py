@@ -45,7 +45,6 @@ def save_links(links_list):
 def main():
     new_links = []
     for i in range(1, PAGES, BATCH_SIZE):
-
         ten_pages = [f'https://www.nasdaq.com/news-and-insights/topic/markets/page/{j}' for j in
                      range(i, i + BATCH_SIZE)]
         responses = get_response(ten_pages)
