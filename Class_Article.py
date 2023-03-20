@@ -6,10 +6,7 @@ import grequests
 from bs4 import BeautifulSoup
 import pandas as pd
 from fake_useragent import UserAgent
-
-BATCH_SIZE = 10
-TIMEOUT = 15
-MAX_RETRIES = 5
+import json
 
 
 class Article:
@@ -99,7 +96,8 @@ class Article:
     def __str__(self):
         """
         Returns a string representation of the Article object.        """
-        message = f"ID: {self.id_num}, Name: {self.title}, Authors: {self.authors}, Date: {self.date}, Tags: {self.tags}, URL: {self.url}"
+        message = f"ID: {self.id_num}, Name: {self.title}, Authors: {self.authors}, Date: {self.date}, " \
+                  f"Tags: {self.tags}, URL: {self.url}"
         return message
 
     def row_info(self):
@@ -122,7 +120,7 @@ def get_soup(response):
     return BeautifulSoup(response.content, "html.parser")
 
 
-def setting_info(article_list, df):
+def setting_info(article_list, df, config):
     """
     Takes a list of Article objects and creates a dataframe with the article information.
     Prints the article short information without the content.
@@ -130,11 +128,11 @@ def setting_info(article_list, df):
     """
     ua = UserAgent()
     headers = {'user-agent': ua.random}
-    rs = (grequests.get(t.url, headers=headers, timeout=TIMEOUT) for t in article_list)
+    rs = (grequests.get(t.url, headers=headers, timeout=config['TIMEOUT']) for t in article_list)
 
     countdown = 0
 
-    for response in grequests.imap(rs, size=BATCH_SIZE):
+    for response in grequests.imap(rs, size=config["BATCH_SIZE"]):
         if response.status_code == 200:
             article = next(t for t in article_list if t.url == response.url)
             article.set_info(response)
@@ -168,10 +166,17 @@ def get_articles():
 
 
 def main():
+    try:
+        with open("conf.json") as f:
+            config = json.load(f)
+    except FileNotFoundError as er:
+        print(f'{er}: Please make sure config file exists in the folder.')
+        return
+
     article_list = get_articles()
     columns = ['id', 'title', 'authors', 'date', 'tags', 'URL']
     df = pd.DataFrame(columns=columns)
-    setting_info(article_list, df)
+    setting_info(article_list, df, config)
 
 
 if __name__ == "__main__":
