@@ -1,0 +1,75 @@
+March 08, 2023 — 10:56 am EST
+
+      Written by
+                        Aniruddha Ganguly for                             
+        
+
+
+
+
+Zacks ->
+
+
+The Zacks Communication-Network Software industry is suffering from supply-chain disruptions, as well as a shortage of components. The macroeconomic slowdown, the ongoing Russia-Ukraine war, raging inflation and heightened price competition are hurting industry participants. Small and medium businesses have deferred capital spending on infrastructure buildout due to higher interest rates and inflation, which does not bode well for industry participants. Nevertheless, companies like Frontier Communications Parent FYBR, Ribbon Communications RBBN, Weave Communications WEAV and Kaleyra KLR are gaining from the ongoing digitalization efforts that include a shift to cloud computing and rapid deployment of 5G-based networks. The strong demand for network security benefits industry participants, as a secure environment, is required to proliferate cloud-based applications.
+Industry Description
+The Zacks Communication-Network Software Industry comprises companies that provide software solutions supporting cloud, on-premise and hybrid environments, communication technology solutions, including broadband and Voice Over Internet Protocol (“VoIP”), digital communication services delivered as software-as-a-service, and telecom solutions, supporting the proliferation and the deployment of 5G and 6G networks of the future. There are a few companies that offer solutions based on the Open Radio Access Network standard. Others offer wireless connectivity solutions for mission-critical Industrial Internet applications and services. Solutions from these companies support a variety of industries, including telecommunications, technology, industrial, government, retail, financial, gaming and education.
+3 Trends Shaping the Future of the Communication-Network Software Industry
+Increased Adoption of Cloud-based Solutions: Rapid digitalization, driven by the disruption caused by the pandemic, has increased the demand for cloud-based applications, virtualized software and container-based software. Applications are being developed in the cloud, which is creating opportunities, and, at the same time, challenges for industry participants in terms of performance and security. A rising number of cyber-attacks, including Distributed Denial of Service attacks and attacks using malware through Transport Layer Security and Secure Sockets Layer protocols, is redefining the cyber threat landscape. Enterprises are spending more on cloud-based security solutions. Moreover, the software-defined approach is increasingly getting preferred over legacy hardware-centric models due to the need for agility.
+Growing Importance of Automation Tools: The ongoing rapid transition to the cloud has increased the importance of automation tools. Enterprises are adopting automated tools to deploy and operate security and application services. This is improving performance monitoring and detection, reporting security anomalies, and reducing overall costs.
+Rapid Evolution of 5G and 6G Networks: Industry participants are benefiting from a continued rise in demand for data-intensive bandwidth and the need for reduced latency associated with smartphones, tablets and machine-to-machine communication. The proliferation of data centers, big data, cloud-based services, streaming media content and IoT is a key catalyst. The rapid deployment of 5G networks is creating a massive growth opportunity for telecom providers who are using solutions provided by industry participants.
+Zacks Industry Rank Indicates Bright Prospects
+The Zacks Communication-Network Software industry is housed within the broader Zacks Computer And Technology sector. It carries a Zacks Industry Rank #29, which places it in the top 12% of more than 250 Zacks industries.The group’s Zacks Industry Rank, which is basically the average of the Zacks Rank of all the member stocks, indicates bright near-term prospects. Our research shows that the top 50% of the Zacks-ranked industries outperform the bottom 50% by a factor of more than 2 to 1.The industry’s positioning in the top 50% of the Zacks-ranked industries is a result of the positive earnings outlook for the constituent companies in aggregate. Looking at the aggregate earnings estimate revisions, it appears that analysts are optimistic about this group’s earnings growth potential. Since Dec 31, 2022, the industry’s earnings estimates for the current year have moved 71.4% north.There are a few stocks worth buying in this prosperous industry. But before we present these stocks, it is worth looking at the industry’s shareholder returns and current valuation first.
+Industry Beats Sector and S&P 500 
+The Zacks Communication-Network Software industry has outperformed the Zacks S&P 500 composite and its sector in the past year.The industry has gained 2.8% over this period against the Zacks Computer and Technology sector’s dip of 10.2% and the S&P 500’s decline of 4.5%.
+Industry's Current Valuation
+On the basis of the trailing 12-month EV/Sales, a commonly used multiple for valuing network software companies, we see that the industry is currently trading at 1.77X compared with the S&P 500’s 3.26X and the sector’s 3.2X.Over the past five years, the industry has traded as high as 3.66X, as low as 0.28X and at the median of 1.46X, as the chart below shows.
+ 
+
+ 
+ 
+ 
+ 
+ 
+4 Stocks to Buy Right Now
+Ribbon: The Plano, TX-based company currently sports a Zacks Rank #1 (Strong Buy).  You can see the complete list of today’s Zacks #1 Rank stocks here. The RBBN stock has gained 53.1% in the past year. The Zacks Consensus Estimate for Ribbon’s 2023 earnings has increased 13.6% to 25 cents per share over the past 30 days.
+
+ 
+Frontier: This Zacks Rank #2 (Buy) company is benefiting from its expanding fiber optic network. Frontier plans to expand its fiber footprint to at least 10 million locations by 2025 from 5.2 million at present.Norwalk, CT-based Frontier has gained 1.7% in the past year. The Zacks Consensus Estimate for FYBR’s current-year earnings has increased 21.6% to 45 cents per share over the past 30 days.
+
+
+Kaleyra: This Zacks Rank #2 company provides mobile communication services to financial institutions, e-commerce players, over-the-top media providers, software companies, logistic enablers, healthcare providers, retailers, and other large organizations worldwide.Italy-based Kaleyra has lost 89.9% in the past year. The Zacks Consensus Estimate for KLR’s current-year loss has widened from 6 cents per share to 22 cents over the past 30 days.
+
+Weave: This Zacks Rank #2 company is a leading provider of all-in-one customer communications and engagement software platforms for small and medium-sized businesses.Lehi, UT-based Weave has lost 16.7% in the past year. The Zacks Consensus Estimate for WEAV’s current-year loss has widened from 35 cents per share to 29 cents in the past 30 days.
+
+
+This Little-Known Semiconductor Stock Could Be Your Portfolio’s Hedge Against Inflation
+
+	Everyone uses semiconductors. But only a small number of people know what they are and what they do. If you use a smartphone, computer, microwave, digital camera or refrigerator (and that’s just the tip of the iceberg), you have a need for semiconductors. That’s why their importance can’t be overstated and their disruption in the supply chain has such a global effect. But every cloud has a silver lining. Shockwaves to the international supply chain from the global pandemic have unearthed a tremendous opportunity for investors. And today, Zacks' leading stock strategist is revealing the one semiconductor stock that stands to gain the most in a new FREE report. It's yours at no cost and with no obligation.
+Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report
+Frontier Communications Parent, Inc. (FYBR) : Free Stock Analysis Report
+Ribbon Communications Inc. (RBBN) : Free Stock Analysis Report
+Kaleyra, Inc. (KLR) : Free Stock Analysis Report
+Weave Communications, Inc. (WEAV) : Free Stock Analysis Report
+To read this article on Zacks.com click here.
+Zacks Investment Research
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

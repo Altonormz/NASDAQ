@@ -1,0 +1,57 @@
+March 04, 2023 — 09:38 am EST
+
+      Written by
+                        Reuben Gregg Brewer for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+One of the last things an income investor wants to experience is a dividend cut. That's particularly true if you are trying to live off the cash your portfolio generates, perhaps as a supplement to your Social Security check. Avoiding dividend cuts requires investors to err on the side of caution -- and that means owning companies with strong balance sheets.
+Many investors compare dividends to earnings, which seems natural enough. In fact, the payout ratio specifically makes this comparison in an attempt to show how safe a dividend is (or isn't). Lower payout ratios are better, with any number over 100% signaling that the dividend is larger than earnings and suggesting that the payment may be at risk.
+Image source: Getty Images.
+And yet some companies pay out more than their earnings and still don't cut the dividend. How, exactly, is that possible? The answer is both simple and complex. On the simple front, dividends aren't paid out of earnings, they are paid out of cash flow. The complex side of this is that earnings are something of an accounting number that may not really reflect the cash-generating ability of a company. 
+For example, the accounting adjustment a company must make for depreciating assets hits earnings but not cash flow. Depreciation basically amounts to yearly costs spread over time to account for big-ticket items, like property and equipment, that have already been bought. Cash flow, however, recognizes the drain of a capital investment right away -- and, generally speaking, never again. So depreciation reduces earnings on an ongoing basis, potentially obscuring a company's actual dividend-paying ability.
+Logically, another way to assess dividend paying is to compare dividends to cash flow. The cash dividend payout ratio looks at the amount of free cash flow (after preferred dividends) that is paid out as dividends. Like the dividend payout ratio, lower percentages are better. But that doesn't get to the bottom of things, either.
+This is because companies can generate cash flow through non-business operations, such as selling debt. Clearly, you wouldn't want a company to pay out dividends and increase debt for long, because rising interest costs would eventually lead to the dividend being cut. Indeed, cash flow goes to operating expenses, like interest costs, before it goes to dividends. Which is why balance sheet strength is so important for dividend investors.
+There are any number of examples that could be given here, but one that is particularly interesting is a comparison of ExxonMobil (NYSE: XOM) and BP (NYSE: BP). For starters, both of these integrated energy giants operate in a highly cyclical industry. So revenues and earnings are subject to dramatic, and sometimes quite rapid, swings. This isn't the type of industry you would inherently expect to provide investors with reliable dividend streams.
+And yet Exxon has increased its annual dividend for an impressive four decades and counting. BP doesn't even come close to that, noting that it cut its dividend in 2020, early on in the oil price downturn spurred by the coronavirus pandemic. When countries around the world shut their economies in an effort to slow the spread of the illness, that resulted in a drop in energy demand and energy prices. So how did Exxon manage to support its dividend when BP couldn't? The answer comes down to leverage.
+
+BP Debt to Equity Ratio data by YCharts
+At the beginning of 2020, before the pandemic started to spread, Exxon's debt-to-equity ratio, a measure of leverage, stood at about 0.25 times. That would be low for just about any company. BP's debt-to-equity ratio was more than twice that level and rose to well over 1 times, as it took on debt to fund its operations while it was bleeding red ink. Exxon took on more debt too, but its balance sheet wasn't nearly as leveraged. Its debt-to-equity ratio peaked at around 0.45 times, a still very reasonable level.
+Put simply, Exxon was able to withstand a downturn in the cyclical energy industry because it focuses on having a strong balance sheet. BP, which had more leverage, chose to cut its dividend because it needed to free up cash for other purposes.
+
+BGS Debt to Equity Ratio data by YCharts
+A similar problem recently showed up with heavily leveraged food maker B&G Foods (NYSE: BGS), which was forced to cut its dividend when its interest payments grew larger than its earnings before interest and taxes. (That's reflected in the times interest earned ratio, shown above -- higher is better here, and it's crucial to keep the ratio over 1.) Consumer staples stocks operate in a fairly resilient industry, showing that a weak balance sheet isn't just a problem in the cyclical space.
+A strong balance sheet doesn't mean that a dividend won't be cut. But it materially reduces the likelihood of a cut, because these companies have the financial wherewithal to muddle through difficult periods, including the ability to take on additional debt. If you are a dividend investor, make sure you look at the balance sheets of the stocks you're interested in so you don't get shocked by a dividend cut.
+10 stocks we like better than ExxonMobilWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and ExxonMobil wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Reuben Gregg Brewer has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends BP. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

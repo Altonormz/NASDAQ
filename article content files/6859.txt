@@ -1,0 +1,72 @@
+March 03, 2023 — 05:38 am EST
+
+      Written by
+                        Jason Hawthorne for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Last year, Warren Buffett said he would bet on "monkeys throwing darts at the page" over financial advisors and Wall Street when it comes to making money. As funny as it sounds, an experiment by Research Affiliates had already proved it to be true a decade earlier. It shouldn't be that surprising: A 2022 report showed active managers focused on beating the S&P 500 index have trailed that benchmark for 12 straight years.
+In the experiment, the key to outperformance was in the method itself. The company randomly chose portfolios of thirty equally weighted stocks from a 1,000-stock universe. After doing this for every year from 1964 to 2010, they realized that 98% of the portfolios had beaten a market capitalization-weighted index of those 1,000 stocks.  The secret was diversification. (More on that in a bit.)
+Heading into the recession in 2001, experts convened by the Federal Reserve Bank of Philadelphia expected an average of 3.2% real gross domestic product (GDP) growth over the next four quarters. Similarly, just as the Great Recession was beginning at the end of 2007, that same panel believed the coming four quarters would deliver 2.2% real GDP growth. Neither forecast was even close.
+That was a long time ago. When Federal Reserve Chairman Jay Powell announced the first post-COVID-19 rate hike in March 2022 -- lifting the fed funds rate off of the 0% floor -- the consensus expectation was for the rate to reach 1.9% by the end of the year. It ended up more than twice as high. Now, Powell is predicting the U.S. will avoid a recession this year. A popular recession predictor used by the Federal Reserve Bank of New York disagrees. No one actually knows what's going to happen.
+
+US Recession Probability data by YCharts
+Even if you could predict recessions, there's no guarantee that would translate into market-beating returns. Using the S&P 500 total return -- similar to the SPDR S&P 500 ETF Trust (NYSEMKT: SPY) or the Vanguard S&P 500 ETF (NYSEMKT: VOO) after adding dividends in -- illustrates the point. The stock market doesn't behave in any consistent way before, during, or directly after a recession, as shown by the grey bands below. Sure, it falls. But when that drop happens is impossible to say. And that is after compressing more than 30 years into one graph. Imagine how random the timing would look day-to-day and week-to-week during any one of those years.
+
+^SPXTR data by YCharts
+It can be hard to understand until you realize that recessions are declared by the National Bureau for Economic Research (NBER). And it usually takes them eight months to a year after a recession starts for them to confirm it.
+If you can't predict recessions, and it wouldn't help much even if you could, what can you do? One thing is to only invest money that you plan to keep invested for at least a few years. The stock market has only dropped in back-to-back years four times dating back to the Great Depression. That means a rebound for stocks is almost always right around the corner. Some stocks never turn around, so you need more than a few to keep any one of them from crushing your portfolio. That's one way to diversify.
+And it's just the beginning. They can't just be different companies, they should be in different sectors of the economy. Imagine if you only owned internet stocks in 2000, or housing-related investments in 2008, or speculative companies like those owned by the ARK Innovation ETF in 2022? 
+Remember the random portfolios above that beat the index? That was because they had just as many small stocks as large ones. Although investors tend to gravitate to well-known companies, highly regarded studies have found that smaller companies outperform larger ones over time. That's a lot to think about. And it's just for stocks.
+Bonds are another asset class that investors should consider. When the economy falters, investors often seek the safety of high-quality bonds like U.S. Treasuries. That drives the price of them up, offsetting some of the pain in stocks. If you're willing to take a little more risk but like the idea of a fixed return with less volatility, corporate bonds are an option, too. Companies will pay you interest to borrow money just like the government does. 
+Some investors prefer real estate while a few stash their money in precious metals like gold. The tables below show the returns provided by each of the aforementioned asset classes around the last two non-COVID recessions. It highlights how diversifying your portfolio can provide an effective defense.
+S&P 500 Total Return
+International Stocks
+U.S. Treasuries
+Corporate Bonds
+Real Estate
+Gold
+Data source: YCharts. I used mutual funds as a proxy for each asset class: international stocks (FDIVX), U.S. Treasuries (VUSTX), corporate bonds (DBIRX), and real estate (VGSIX).
+The performance of assets outside of stocks would have cushioned the blow in 2000-2002. And although stocks and real estate were crushed in the Great Recession, check out the performance of corporate bonds and gold.
+International Stocks
+U.S. Treasuries
+Corporate Bonds
+Real Estate
+Data source: YCharts. I used mutual funds as a proxy for each asset class: international stocks (FDIVX), U.S. Treasuries (VUSTX), corporate bonds (DBIRX), and real estate (VGSIX).
+It is said that the most dangerous words in investing are, "It's different this time." But in 2022, it was. Diversification did not provide the protection it normally does. The S&P 500 index dropped 18%. International stocks fell even more. U.S. Treasuries plunged 30%. That corporate bond fund got cut by 13%. And the real estate fund slumped 26%. Even with rampant inflation, Gold barely stayed flat. 
+History shows that type of carnage is rare. It's also in the rearview mirror. Despite the fresh wounds, investors can't let it discourage them from deploying a strategy that can deliver the best returns for the amount of risk they are willing to take.
+As humans, we tend to remember the bad things that happen much more than the good. That's why I think most people would guess stocks and real estate did very poorly in 2009 if asked. But they actually rebounded sharply. And although many could cite infamous flameouts of the dot-com bust, they have no idea how Treasuries and real estate rallied through those same years.
+That's why diversification can be your best defense against a recession. Although the economy can feel bad at the time, hindsight shows some asset class will usually do well -- often while we are paying no attention to it. But no one has a crystal ball, so it's almost never obvious which one it will be. 
+10 stocks we like better than SPDR S&P 500 ETF TrustWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and SPDR S&P 500 ETF Trust wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Jason Hawthorne has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Vanguard S&P 500 ETF and Vanguard Specialized Funds-Vanguard Real Estate ETF. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

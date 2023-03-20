@@ -1,0 +1,61 @@
+February 28, 2023 — 07:00 am EST
+
+      Written by
+                        RJ Fulton for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Rather than trying to find the next meme coin that is trending, the best way to set up a successful crypto portfolio is by allocating funds to different sectors within the industry.
+The true number of sectors in crypto is slightly subjective and not as clear cut as in the stock market. But after much research, I foresee the most long-term value coming from three sectors: payments, smart contracts, and Layer 2 blockchains. 
+Image source: Getty Images.
+This breakdown of sectors takes into consideration a few factors. First, the goal is to minimize risk and increase long-term potential (sorry, Dogecoin fans). This means investing in cryptocurrencies with a proven track record and that provide true value to the industry.
+Second, consideration of the current landscape must be taken into account to project which cryptocurrencies possess the most upside. This involves some speculation, but analysis of current trends and demand can help investors determine which cryptocurrencies fit this criteria.
+Third, and finally, there are some cryptocurrencies that could have made this list, but they lacked some fundamental quality such as high throughput, decentralization, security, or providing a unique and novel solution. 
+No crypto portfolio is complete without some sort of allocation to Bitcoin (CRYPTO: BTC). The world's most valuable cryptocurrency was invented in the wake of the Great Recession in 2009 as an alternative to fiat currencies. With Bitcoin, users can protect their wealth because the total supply of the currency is capped at 21 million coins. Unlike fiat currencies, which continue to inflate, Bitcoin has grown into an attractive store of value for those looking to preserve wealth from inflation-prone fiat currencies.
+In addition to its utility as a store of value, Bitcoin was also created as a way to circumnavigate the current means of transferring money. With Bitcoin, money can be sent to anyone in the world over the internet without the need of a bank or wiring company. 
+For these and a multitude of other reasons, Bitcoin still remains the most valuable cryptocurrency despite thousands of others coming into existence since its creation. Today, the total value of Bitcoin makes up more than 40% of all the value in crypto. Due to this overwhelming proportion, typically as Bitcoin goes, so does the rest of the market. 
+While Bitcoin laid the foundation for crypto, Ethereum (CRYPTO: ETH) took it a step further. With its invention of smart contracts, Ethereum offered users a blockchain that could be programmed to self-execute preconfigured actions when particular criteria is met. 
+Thanks to Ethereum, entirely new use cases came into existence. Lending, borrowing, decentralized finance, NFTs, and other decentralized applications could all be developed as a result of the invention of smart contracts. 
+Due to this novelty, Ethereum is the second most valuable cryptocurrency and currently makes up nearly 20% of all the value in crypto. Despite other smart contract blockchains being created in recent years, Ethereum still dominates its so-called competitors, making it a great long-term investment. 
+To quantify this we can look at a metric known as total value locked (TVL). TVL is used as a gauge to measure and compare the value a blockchain supports in decentralized finance (DeFi), one of the primary uses of smart contracts. Today, Ethereum supports nearly $30 billion, more than 58% of the value in all of DeFi. The next closest is Tron with a measly 10% and just $5 billion. It truly isn't even a close race.
+As one of the most used blockchains in the world, Ethereum's network at times becomes bogged down and leads to an increase in fees. This is where the use of Layer 2 blockchains comes into play.
+Layer 2 blockchains process transactions on their own network and then add them in bulk back to Ethereum. This provides users with the best of both worlds -- fast speeds and low fees while maintaining compatibility with Ethereum and its high levels of decentralization and security. 
+While some foresee Ethereum's dominance being uprooted by another smart contract blockchain, the more likely scenario is that utilization of Layer 2 blockchains increases as users look to continue using Ethereum. In preparation of this reality, there is a proverbial arms race among Layer 2 blockchains jockeying for position to become the premier Ethereum scaling solution. 
+There are a handful of Layer 2 blockchains and solutions in the market today, but Polygon (CRYPTO: MATIC) stands out from the crowd. Compared to other Layer 2s, Polygon boasts a rare combination of long-term potential, proven utility for real world applications, and an ability to provide developers with a flexible and robust environment. As a result of this trifecta, Polygon finds itself at the forefront of the Layer 2 race. 
+With Polygon, users can still create NFTs, decentralized apps, blockchain-based games, Web3 applications, and much more, just at a cheaper cost and much faster speeds all while maintaining compatibility with Ethereum. Due to this functionality, a slew of well-known companies such as Disney, JPMorgan, Starbucks, Coca-Cola, and Nike have all utilized the blockchain in varying ways as they begin to develop blockchain-based business models. While there are a handful of Layer 2 solutions out there, few have achieved as much as Polygon in such a short time.  
+While exposure is good, there is such a thing as overexposure, and this can be detrimental to your portfolio. Keeping it simple and finding the right balance can help mitigate possible losses but also help ensure that returns are maximized.
+By focusing on these three cryptocurrencies, your portfolio gains exposure to more than 60% of the value in all of crypto due to Bitcoin and Ethereum's disproportionate share while also providing exposure to up-and-coming trends that Polygon is pioneering such as gaming, DeFi, and Web3. With this combination, your portfolio should reap the benefits for years to come. 
+
+10 stocks we like better than BitcoinWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Bitcoin wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+JPMorgan Chase is an advertising partner of The Ascent, a Motley Fool company. RJ Fulton has positions in Bitcoin, Ethereum, and Polygon. The Motley Fool has positions in and recommends Bitcoin, Ethereum, JPMorgan Chase, Nike, Polygon, Starbucks, and Walt Disney. The Motley Fool recommends the following options: long January 2024 $145 calls on Walt Disney, long January 2024 $47.50 calls on Coca-Cola, long January 2025 $47.50 calls on Nike, short April 2023 $100 calls on Starbucks, and short January 2024 $155 calls on Walt Disney. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

@@ -1,0 +1,54 @@
+March 11, 2023 — 09:47 am EST
+
+      Written by
+                        Leo Sun for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+CrowdStrike (NASDAQ: CRWD) and Palo Alto Networks (NASDAQ: PANW) both generated market-beating gains over the past three years. CrowdStrike's stock rose nearly 150%, and Palo Alto's stock rallied more than 220%, but the S&P 500 advanced just over 30%.
+Should investors still invest in either of these cybersecurity giants in this rough market for higher-growth tech stocks? Let's review their similarities, differences, growth rates, and valuations to decide.
+Image source: Getty Images.
+CrowdStrike's Falcon is a cloud-based platform that provides a wide range of endpoint security services. Unlike many older cybersecurity companies, CrowdStrike doesn't install any on-site appliances -- which generally take up a lot of room, require constant maintenance, and can be expensive to scale -- it only provides subscription-based cloud services.
+That lightweight approach was disruptive, and CrowdStrike's total number of subscription customers jumped from 5,431 at the end of fiscal 2020 (which ended in Jan. 2020) to 23,019 at the end of fiscal 2023.
+Palo Alto Networks is a larger, more diversified company that operates three main ecosystems: Strata, which houses its on-site network appliances and next-gen firewall services; Prisma, which handles its cloud-native services; and Cortex, its suite of AI-powered security tools. It refers to Prisma and Cortex as its next-gen security (NGS) services, which together generated 37% of its revenues over the past 12 months.
+Palo Alto doesn't break out its exact customer count every year, but it now serves more than 80,000 enterprise customers worldwide, including nearly all the Fortune 100 and the "majority" of the Global 2000.
+CrowdStrike went public in 2019, and its annual revenue expanded at a compound annual growth rate (CAGR) of 67% from fiscal 2020 to 2023. But for fiscal 2024, it expects revenue to only rise 32%-35% -- compared to its 54% growth in fiscal 2023 -- as the macro headwinds force companies to rein in their spending on big cybersecurity deals.
+Palo Alto went public back in 2012, but it still grew its annual revenue at a CAGR of 24% between fiscal 2019 and 2022 (which ended last July). For fiscal 2024, it expects its revenue to rise 22%-23% -- compared to its 29% growth in fiscal 2022 -- as the continued growth of its NGS services offsets the slower growth of its older and more macro-sensitive businesses.
+CrowdStrike still isn't profitable on a generally accepted accounting principles (GAAP) basis, but it narrowed its net loss from $235 million in fiscal 2022 to $183 million in fiscal 2023. But its non-GAAP net income, which excludes its stock-based compensation and other one-time expenses, more than doubled to $368 million. It expects its adjusted EPS to increase 44%-45% in fiscal 2024.
+Palo Alto has stayed profitable by both GAAP and non-GAAP metrics over the past year. It narrowed its GAAP loss from $499 million in fiscal 2021 to $267 million in fiscal 2022 and then posted a GAAP profit of $104 million in the first half of fiscal 2023. Its non-GAAP net income grew 34% to $824 million in fiscal 2022, and it expects its adjusted EPS to rise 58%-60% this year.
+In other words, CrowdStrike seems like the hare to Palo Alto's tortoise. CrowdStrike might be growing a lot faster, but Palo Alto is generating slower, steadier, and more profitable growth -- which might make it more appealing in this wobbly market.
+Both stocks might seem a bit pricey right now. CrowdStrike trades at 57 times forward earnings and 10 times this year's sales, while Palo Alto trades at 52 times forward earnings and 8 times this year's sales.
+I personally own both of these stocks, but I'd be more eager to buy more shares of Palo Alto instead of CrowdStrike at these levels. Palo Alto isn't growing as quickly as CrowdStrike, but it's better diversified, it generates stable GAAP profits, and its stock is slightly cheaper.
+10 stocks we like better than CrowdStrikeWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and CrowdStrike wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of March 8, 2023
+ 
+Leo Sun has positions in CrowdStrike and Palo Alto Networks. The Motley Fool has positions in and recommends CrowdStrike and Palo Alto Networks. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

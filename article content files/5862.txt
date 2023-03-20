@@ -1,0 +1,87 @@
+March 06, 2023 — 01:42 pm EST
+
+      Written by
+                        BNK Invest for                             
+        
+
+
+
+
+BNK Invest ->
+
+
+Looking at options trading activity among components of the S&P 500 index, there is noteworthy activity today in Lam Research Corp (Symbol: LRCX), where a total volume of 8,090 contracts has been traded thus far today, a contract volume which is representative of approximately 809,000 underlying shares (given that every 1 contract represents 100 underlying shares).  That number works out to 74.2% of LRCX's average daily trading volume over the past month, of 1.1 million shares.  Particularly high volume was seen for the $525 strike call option expiring March 10, 2023, with 336 contracts trading so far today, representing approximately 33,600 underlying shares of LRCX.  Below is a chart showing LRCX's trailing twelve month trading history, with the $525 strike highlighted in orange:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Salesforce Inc (Symbol: CRM) saw options trading volume of 66,989 contracts, representing approximately 6.7 million underlying shares or approximately 72.2% of CRM's average daily trading volume over the past month, of 9.3 million shares.
+Particularly high volume was seen for the $180 strike call option expiring April 21, 2023, with 6,282 contracts trading so far today, representing approximately 628,200 underlying shares of CRM.  Below is a chart showing CRM's trailing twelve month trading history, with the $180 strike highlighted in orange:
+
+
+
+
+
+
+
+
+
+
+
+
+And Regeneron Pharmaceuticals, Inc. (Symbol: REGN) saw options trading volume of 4,164 contracts, representing approximately 416,400 underlying shares or approximately 68.2% of REGN's average daily trading volume over the past month, of 611,000 shares.
+Especially high volume was seen for the $1100 strike call option expiring June 16, 2023, with 497 contracts trading so far today, representing approximately 49,700 underlying shares of REGN.  Below is a chart showing REGN's trailing twelve month trading history, with the $1100 strike highlighted in orange:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+For the various different available expirations for LRCX options, CRM options,  or REGN options,  visit StockOptionsChannel.com.
+
+
+Today's Most Active Call & Put Options of the S&P 500 »
+
+
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

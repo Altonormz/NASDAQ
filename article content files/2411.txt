@@ -1,0 +1,55 @@
+March 13, 2023 — 01:52 pm EDT
+
+      Written by
+                        Pat Crawley, MarketBeat Contributor for                             
+        
+
+
+
+
+MarketBeat ->
+
+
+
+
+Silicon Valley Bank's (NASDAQ: SIVB) collapse has sent shockwaves through the financial world, particularly among hedge funds and institutions with prominent positions in the failed bank. As investors scramble to assess the damage, some of the largest players in the financial sector are feeling the brunt of the impact.
+Even as the Federal Reserve has given the market the "all-clear" that SVB depositors won't lose their money, it's pretty clear that Silicon Valley Bank equity is still worth about zero. The same is probably true for Signature Bank (NASDAQ: SBNY) as well.
+These banks were forced to sell long-term securities they intended to hold to maturity. However, as their deposit base shrank and withdrawal requests came flooding in, banks like SVB and SBNY were forced to sell their long-term investments at a substantial loss, leading to further stress about liquidity, culminating in a bank run.
+Moving on from SVB and SBNY, which are already trainwrecks, the market now views the entire regional bank complex with heavy scrutiny. But especially companies exposed to similar risks, like First Republic Bank (NYSE: FRC) or Western Alliance Bancorp (NYSE: WAL).
+So let's look at some hedge funds that are bleeding amidst this event.
+The only scope investors have into the holdings of private investment funds like hedge funds is through 13F filings filed with the SEC. These filings have specific disclosure criteria and don't require, for instance, funds to disclose short positions, bond holdings, futures, or positions in foreign securities.
+So a 13F filing gives an incomplete picture of an entire portfolio, including the total assets under management. Because most hedge funds have a book of short stock positions, you never know if they have offsetting positions to distressed long holdings.
+Alecta is definitely the most interesting significant shareholder in SVB. It's a sizeable Swedish pension fund that bills itself as Europe's 5th largest pension provider.
+The fund’s 13F, which only discloses its holdings in US stocks and options, shows a portfolio of $17 billion. Without a doubt, some multiple of that number is also invested in bonds, European stocks, and Swedish stocks. The fund claims to be one of the largest traders on the Stockholm exchange.
+Three of the fund's top 20 holdings are Silicon Valley Bank (NASDAQ: SIVB), First Republic Bank (NYSE: FRC), and Signature Bank (NASDAQ: SBNY), making for a combined 10.8% of the fund's US stock portfolio. It's pretty much a foregone conclusion that both SVB and SBNY equity are worth roughly zero, while FRC has declined 76% since last Monday.
+Azora Capital is a long/short hedge fund solely focused on US financial stocks. The head of the fund has some impressive credentials, boasting experience at a subsidiary of SAC Capital.
+However, if the fund’s Q4 2022 13F filing is anything to go by, the fund is running into some tough times. According to the filing, the fund's largest holding is Silicon Valley Bank (NASDAQ: SIVB) stock, accounting for 8.5% of the portfolio.
+To make things worse, many of the fund’s other top positions are in stocks that are also feeling the heat, like Charles Schwab (NYSE: SCHW), LPL Financial (NASDAQ: LPL), and Webster Financial (NYSE: WBS).
+However, because Azora is a long/short fund, they have an entire book of short positions, of which 13F filings don't require disclosure. The looming question for Azora is if the short book has any positions that offset the pain felt in the long book.
+Whatever happens, it’s likely that Ravi Chopra, the fund manager, will land on his feet, as he’s proven to be quite a competent investor in financial stocks.
+HST Ventures is another small hedge fund, which according to its 13F filing, has a long-stock portfolio of $141 million.
+The fund is almost entirely concentrated in financial and real estate stocks, many of which are taking a beating right now. For instance, the fund's 4th and 5th most significant positions are Silicon Valley Bank (NASDAQ: SIVB) and Charles Schwab (NYSE: SCHW), accounting for 15.3% of the long portfolio.
+Most sector-focused hedge funds, as HST seems to be, are of the long/short variety. The fund managers aim to generate somewhat market-neutral returns by their ability to pick the relative winners and losers within a sector without exposing themselves to the broad returns of the sector and overall stock market.
+So the big question with funds like HST is, which stocks are in the short book?
+Tracking hedge funds is always a pretty valuable endeavor, especially in times like these. Often times when funds fall on hard times, they seek quicker sources of returns to get back to high watermarks, so the next round of 13Fs for large owners of SVB should be pretty interesting.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

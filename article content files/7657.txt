@@ -1,0 +1,87 @@
+March 01, 2023 — 04:43 pm EST
+
+      Written by
+                        Sharice Wells for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Enstar Fourth Quarter 2022 Audio Update with Domonic Silvester, Orla Gregory, and Matt Kirk-TRANSCRIPT
+Enstar Group (NASDAQ: ESGR)Q4 2022 Earnings CallMarch 1, 2023
+Image source: The Motley Fool.
+MATT KIRK, GROUP TREASURER AND HEAD OF INVESTOR RELATIONS
+Hello everyone, I'm Matthew Kirk, Group Treasurer and Head of Investor Relations. Thank you for listening to Enstar's Fourth Quarter and Full Year 2022 Earnings Audio Review with CEO Dominic Silvester and CFO Orla Gregory.
+Before we begin, I'd like to remind everyone that this presentation contains forward-looking statements and non-GAAP financial measures. Forward-looking statements in this presentation include but are not limited to statements about Enstar's expectations for pending and future transactions, run-off liability earnings, the performance of its investment portfolio and the impact of rising interest rates on Enstar's business. These statements are inherently subject to risks, uncertainties and assumptions that may cause actual results to differ materially from the statements being made as of the date of this update or in the future. Additional important information regarding these statements and measures is outlined in the text that appears below the link to this recording. With that, I will turn it over to Dominic.
+
+DOMINIC SILVESTER, CEO
+Thank you, Matt and to you all for listening today.
+We are pleased to report strong fourth-quarter results as we grew book value by 8%, providing us with a positive end to a challenging 2022. We remain confident that our operational excellence and balance sheet strength will support long-term growth, specifically:
+- We recorded run-off liability earnings or RLE of $756 million for the year, $353 million more than last year. We've now recorded favorable RLE every year since going public in 2007 – an impressive track record and further validation of our ability to prudently price and efficiently service claims. I will also touch on our claims management process and what we refer to as the "Enstar Effect," which sets us apart from the US P&C industry.- Our investment portfolio is well positioned and will benefit from the higher interest rate environment. We were also opportunistic in rebalancing certain portfolios during the year to take advantage of market dislocations.
+2022 was another record year for acquisitions, namely:
+- We completed the industry's third-largest-ever loss portfolio transaction, or LPT, with Aspen. This was a $3.1 billion transaction that included onboarding approximately 38,000 claims, or an overall 40% claims count increase; a remarkable operating achievement. Our existing ADC with Aspen, which had assumed reserves of $782 million, was absorbed into this LPT.- We announced an LPT with Argo, and assumed net loss reserves of $718 million upon completion, and,- We completed a reinsurance to close transaction with Probitas, demonstrating our commitment to servicing the Lloyd's market.
+So far, we've been very active in 2023:- We recently announced a $1.9 billion transaction with QBE, a long-standing partner. This ground-up LPT will cover a diversified portfolio of global casualty business, underwritten largely between 2010 and 2018. A portion of this portfolio sits in QBE's Lloyd's syndicates and will be transferred into Enstar syndicate 2008. In addition to covering QBE's discontinued lines, we are providing our expertise for seasoned books within ongoing lines of business, which further expands the size of the market available to Enstar.- We also announced an AUD $360 million LPT with R.A.C.Q. Insurance Limited covering Motor Compulsory Third Party insurance liabilities in Australia.
+These transactions further illustrate the depth of our experience, the trust we've built within the market over the past three decades, and our ability to compete in numerous jurisdictions.
+We have appropriate levels of excess capital to take advantage of our robust pipeline, where we continue to see $1 billion-plus liability opportunities. Deals of this size were a rarity just a few years ago. We will continue to prioritize high-quality transactions, so long as they meet our risk parameters and return hurdles. We remain highly disciplined and are content to walk away from transactions that don't meet our requirements.
+As I noted earlier, one of our biggest differentiators from other P&C reinsurers is our claims management function. Where most insurance companies prioritize premium growth and managing active exposures, we are laser-focused on driving better outcomes through claims management – which is what we call the "Enstar Effect".
+The Enstar Effect originates from our data-driven approach to settle valid claims and resolve disputed claims early and equitably. It is essential to our culture and is deeply embedded within every aspect of our claims management operations throughout the lifecycle of the business we manage. It starts from the moment we perform M&A diligence on a potential transaction through the resolution of the very last claim.
+Our continued success requires a deep understanding of our policyholders, claimants and their attorneys, as well as the claims jurisdiction. Enstar has acquired more than $30 billion worth of insurance liabilities through 115 completed transactions over 30 years. As a result, we have been exposed to almost every type of claim. That experience and our focus on claims management is evident in our results.
+As an illustration, between 2017 and 2021, our favourable reserve development has significantly outperformed the US P&C industry on each of our core lines of business. Orla will go into more detail on our operational outperformance later.
+Overall, we are confident that given our highly differentiated claims function, strong M&A capabilities, and our disciplined risk selection process, we will continue as the dominant player in the legacy market during 2023. We remain focused on delivering strong outcomes in the years ahead and generating value for our shareholders. With that, I'll now turn it over to Orla.
+
+ORLA GREGORY, CFO
+Thanks, Dominic.
+As Dominic mentioned, we had a profitable fourth quarter, recording $227 million of net earnings, a return on equity, or ROE, of 5.9% and adjusted ROE of 4.1%. Adjusted ROE is a performance measure that excludes net realized and unrealized gains and losses on fixed maturity investments and funds held directly managed, in addition to other adjustments as detailed in our 10-K.
+We recorded a net loss of $906 million for the year, negative ROE of 15.6% and negative adjusted ROE of 1.1%. Book value decreased by $1.6 billion to $246.20 per share from $329.20 at December 31, 2021. Of this change, $96.36 per share resulted from unrealized losses on our fixed income portfolio driven primarily from the rapid increase in interest rates. We have previously noted that these assets provide liquidity for our policyholder liabilities as they come due. As such, we generally hold these investments to maturity with the view that the unrealized losses will naturally reverse as the securities approach maturity.
+Our claims function drove strong Run Off Liability Earnings, or RLE, of $756 million for the year versus $403 million during 2021.Consistent with prior practices, we perform reviews of the large majority of our reserve portfolios in the fourth quarter. These reviews resulted in a greater movement in RLE compared to our activity in each of the first three quarters of 2022, including:
+Partially offsetting these positive developments:- We recognized $74 million of reserve strengthening on our motor book, specific to ride share. At this time, we believe approximately 90% of this portfolio has been paid and this portfolio represents 1.3% of our net loss reserves.- We continued to see pressure on our casualty book and strengthened reserves by $57 million. Much of this development relates to claims in respect of injured construction workers in New York – commonly referred to as New York labor law.
+During the quarter, we completed the sale of Enhanzed's portfolio of deferred annuities and whole-life policies. However, our accounting of this transaction is on a quarter lag. As a result, we expect to record net income in excess of $150 million related to the sale in the first quarter of 2023.
+Finally, we changed our accounting policy for amortization of deferred charge assets. In doing so, we have changed the methodology of amortization and removed it from RLE. Deferred charge amortization is now shown as a separate line on the income statement.
+We have provided more detail on the change in our 10-K, but we believe this change provides investors with a much clearer picture of our underlying reserve performance and increases visibility into the impact of amortization on our results.
+Dominic introduced the Enstar Effect, which refers to our ability to consistently drive better claims outcomes. Let's go through our handling of M&A transactions to show how our in-house claims expertise adds significant value to our process and differentiates us:
+Once we acquire a book of business, we triage and review the portfolio and immediately define settlement strategies on a claim-by-claim basis. We then execute on our core principle of resolving claims expeditiously and effectively. This speed and efficiency is a key tenet of how we create value, which also serves the interests of our policyholders.
+For example, in a recent book of business we acquired 6,000 claims. We settled approximately 4,000 of those claims within the first twelve months. This is a significant improvement in the disposal rate of the prior cedant and is exceeding our own projections.
+We know from decades of experience in all facets of the claims process, including expertise in litigation, that claims typically do not improve with age. And in the current inflationary environment, early assessments are more critical than ever.
+The Enstar Effect comes in multiple forms. It is typically most evident in portfolios where we take over claims handling, but it is also important in some larger ADC contracts and bespoke solutions such as our recently announced and pending QBE transaction, where our return will be driven more by investment performance rather than RLE. Our claims oversight function remains significant in non-traditional reinsurance transactions and is an attractive partnership feature. We will monitor claims activity through a series of complementary management and claims committees and we are further aligned through claims recommendation rights when certain financial thresholds are met. Ultimately, the core goal is the same-driving positive outcomes in an efficient manner.
+The Enstar Effect is clearly visible in our performance. We have included slides in our investor presentation to illustrate our outperformance on managing our run-off net loss reserves. We have outperformed the US P&C industry in our three largest lines of business, over the 5 years ending 2021.
+For workers' compensation and asbestos, we have outperformed our industry on average by between 600 and 800 basis points. In Casualty, a more industrywide challenging line, our outperformance of 200 basis points proved that we know how to best mitigate damage to prevent the negative impact that our peers are seeing. All this manifests itself in our results.
+One of the best ways to measure our performance is over a longer time horizon of three to five years, which more closely aligns with the lifespan of our transactions and their underlying patterns of profitability. Over this time horizon, we seek to achieve average annual adjusted ROEs in the low to mid-teens.
+As a reminder, due to trading accounting elections on certain of our investment assets, our return on equity calculated on a GAAP basis includes the impact of net realized and unrealized gains and losses on fixed maturity investments and funds held directly managed. Given unrealized fixed income losses reduced our GAAP equity base in 2022, we expect our annual average ROE calculated in accordance with GAAP will be about 20% higher than our adjusted measure until our unrealized fixed income losses recover. Additionally, as this GAAP metric is interest rate sensitive, it will have greater variability than our Adjusted ROE. Given the current interest rate environment, we cannot target with any reasonable accuracy an expected range for our ROE calculated in accordance with GAAP.
+Our investment asset allocation reflects a long-term view, and we are well-positioned to both withstand current market challenges and generate additional value. The current yield environment, which is the best we've seen in a decade, will benefit Enstar as 15% of our portfolio is in floating-rate securities which is already driving higher investment income.
+While we remain confident in our ability to generate positive claims outcomes, we continue to closely monitor inflation and its potential impact to Enstar. To date, while we have some impact on certain discreet portfolios, we have not observed any material trends that are impacting our reserves given our lack of exposure to inflation-pressured lines. Further, our M&A process incorporates inflation trends and projections into pricing and negotiations of contractual limits.
+As Dominic said, we continue to access a very healthy acquisition pipeline and maintain excess capital for future M&A beyond what is earmarked for our recently announced transactions with QBE and R.A.C.Q. We are proud to be the preferred partner of significant global insurers, many of whom are repeat customers.
+I would like to end, on behalf of myself and Dominic and the executive team, by thanking our talented and dedicated global employees for their ongoing contributions. We remain enthusiastic about the coming year and confident that our combined operational excellence and balance sheet strength will drive long-term shareholder value.
+Thank you for your time and for your continued interest in Enstar.
+
+All earnings call transcripts
+10 stocks we like better than Enstar GroupWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Enstar Group wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+This article is a transcript of this conference call produced by Enstar Group provided to The Motley Fool. While we strive for our Foolish Best, there may be errors, omissions, or inaccuracies in this transcript. As with all our articles, The Motley Fool does not assume any responsibility for your use of this content, and we strongly encourage you to do your own research, including listening to the call yourself and reading the company's SEC filings. Please see our Terms and Conditions for additional details, including our Obligatory Capitalized Disclaimers of Liability. The Motley Fool has no position in any of the stocks mentioned. The Motley Fool has a disclosure policy. 
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

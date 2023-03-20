@@ -1,0 +1,132 @@
+February 28, 2023 — 10:00 pm EST
+
+      Written by
+                        Motley Fool Transcribing for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Image source: The Motley Fool.
+Coupang (NYSE: CPNG)Q4 2022 Earnings CallFeb 28, 2023, 5:30 p.m. ET
+Operator
+Good afternoon. My name is Ashlee, and I will be your conference operator today. At this time, I would like to welcome everyone to the Coupangearnings conference call All lines have been placed on mute to prevent any background noise.
+After the speaker's remarks, there will be a question-and-answer session. [Operator instructions] Thank you. Now I'd like to turn the call over to Mike Parker, vice president of investor relations. You may begin your conference.
+Mike Parker -- Vice President, Investor Relations
+Thanks, operator. Welcome, everyone, to Coupang's fourth quarter 2022earnings conference call I'm pleased to be joined on the call today by our founder and CEO, Bom Kim; and our CFO, Gaurav Anand. The following discussion, including responses to your questions, reflects management's views as of today's date only.
+We do not undertake any obligation to update or revise this information, except as required by law. Certain statements made on today's call include forward-looking statements. Actual results may differ materially. Additional information about factors that could potentially impact our financial results is included in today's press release and in our filings with the SEC, including our most recent annual report on Form 10-K and subsequent filings.
+10 stocks we like better than CoupangWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.* 
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Coupang wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of February 8, 2023
+
+During today's call, we may present both GAAP and non-GAAP financial measures. Additional disclosures regarding these non-GAAP measures, including reconciliations of these measures to the most comparable GAAP measures, are included in our earnings release and our SEC filings, which are posted on the company's investor relations website. And now, I'll turn the call over to Bom. 
+Bom Kim -- Founder and Chief Executive Officer
+Thanks, everyone, for joining us today. A year ago, we were emerging from a challenging period of COVID-related disruptions. We shared our outlook that 2022 would be an important year to demonstrate our ability to march toward long-term profitability targets while still compounding at a multiple of the overall retail market. We also shared that we would renew our focus on operational improvements as it was increasingly clear that COVID was winding down.
+And we would report our results under two segments, product commerce, and developing offerings, to provide increased visibility on our continued progress. We ended Q4 of 2021 with a gross profit margin of around 16% and an adjusted EBITDA loss of $285 million. A year later, 2022 Q4 concluded with a gross profit margin of 24%, an improvement of over 800 basis points. We recorded over $200 million in adjusted EBITDA for the quarter, an improvement of nearly $500 million year over year.
+Adjusted EBITDA margin was 4%, an increase of over 900 basis points year over year. And a net income of $100 million in Q4 represents an improvement of over $500 million versus the prior year. We delivered these results while growing revenues by over 20% year over year on an FX-neutral basis. The results are the outcome of focused execution and innovation by many teams, with most of the gains coming from operational improvements such as technology, infrastructure, supply chain optimization, and process improvement, including automation.
+The results are also a reflection of the underlying strength of our flywheel in product commerce. Active customers in product commerce increased 5% year over year, and the spend of every cohort, including our oldest, continued to compound at a fast rate. And our newer cohorts are starting their journey at higher levels of spend and growing faster than earlier cohorts. Over the past year, we also added nearly 2 million more customers as paid WOW members, whose spend and frequency are many times higher than that of their non-WOW counterparts.
+Enduring customer loyalty is driven by breaking the trade-offs between and delivering on all three levers of commerce: service, price, and selection. Much of our significant investment over the years has been devoted to delivering on the hardest two legs: building the best experience and the most efficient operations so that we can deliver the best experience at the best price to our customers. We've begun to see the power of delivering on the first two levers, service, and price, in our superior cohort behavior and WOW membership adoption. We expect that momentum to continue in 2023 and the years ahead as we'll strive to improve our customer experience every day.
+Expanding selection is the third lever that will amplify our differentiation in service and price for customers. Consequently, we believe selection will be a critical driver going forward of even higher levels of customer engagement and loyalty, which in turn will unlock more growth and profitability over the long term. Currently, only 20% of active customers have purchased nine or more of the over 20 categories that we offer. These customers purchased more than 2.5 times the amount of the average customer.
+We expect that engagement within and across categories will accelerate with wider selection on Rocket. Our oldest cohorts, while spending nearly twice the amount of our newer ones, are still growing in spend each year as they experience new selection and categories on Rocket. Just a third of active customers in Q4 were customers of Fresh, where we will also invest in enriching assortment. More than 20 million customers online have yet to join WOW, but the program's value proposition will become harder to resist with every new item added to Rocket.
+While Rocket selection has grown to millions of items, it pales in comparison to the much larger number of products that have yet to be included. 1P will target the vast catalog of popular products that are yet to be available on Rocket. Fulfillment and Logistics by Coupang, or FLC, shares with our sellers the benefits of the billions we've invested in our infrastructure and technology. Over two-thirds of our merchants are SMEs, small and medium enterprises, with less than $2.5 million in annual revenues.
+FLC wields the potential to expand selection exponentially for customers and in parallel generate unprecedented growth for our merchants, including SMEs. Early results show that merchants who moved their inventory to FLC saw sales increase by over 65% on average. This helped to drive seller adoption that exceeded our expectations last year, and FLC is already driving a significant share of seller sales and higher growth. In Q4, the combined growth of FLC and Marketplace outpaced that of 1P.
+We're still in the early days of expanding selection on Rocket. Accordingly, our penetration in the overall retail market remains low in the single digits, but we're excited about the significant opportunity ahead. Now on profitability, there are numerous efforts across the company to increase efficiency, that will allow us to improve profitability and invest in better selection, service, and price for customers. As an example, automation in the form of both software and hardware will yield more savings in the years to come.
+One target of continuous improvement is our fulfillment network where we see that our most automated FCs have demonstrated more than twice the efficiency of the rest of the network. We'll continue to increase the efficiency of the network as we drive higher levels of automation. While the rate of improvement will be variable, we remain encouraged by the potential to continuously improve operational excellence and drive meaningful profit growth. We're also excited by the potential we see in each of our developing offerings, where we'll continue to challenge trade-offs customers take for granted.
+We'll continue to test and invest in initiatives like eats, play, fintech, and international among other initiatives. Only initiatives that demonstrate the potential for meaningful cash flows in the future will earn their way to more significant investments. And each of the major initiatives has the potential to generate significant externalities as part of our ecosystem that will produce outsized value for customers and for shareholders alike. We start 2023 even more confident and excited about the opportunities ahead.
+As always, we'll take the long view and attack the biggest trade-offs for customers; make bold decisions and disciplined investments; and build sustainable, long-term value for customers and shareholders, striving to create a world where everyone wonders "How did I ever live without Coupang?" Now, I'll turn the call over to Gaurav to review the financials in more detail.
+Gaurav Anand -- Chief Financial Officer
+Thanks, Bom. Our demand continued to remain strong even amid macroeconomic pressure. We continued to grow at a multiple of the market, with total dollar net revenue growth of 5% year over year, and constant-currency growth of 21% year over year and 6% quarter over quarter. Our revenue growth continues to be driven by the increase in our active customers and revenue per active customer.
+Total active customers grew 1% year over year. This was negatively impacted by our eats offering, as our active customers in product commerce grew at 5% year over year. Our net revenue per active customer increased 19% year over year and 5% quarter over quarter on a constant-currency basis, as we continue to see even deeper engagement from our customers. Our investments into our WOW membership program, and the compounding value of WOW, helped drive record membership growth in Q4, ending the year with 11 million WOW members.
+We are encouraged by the adoption we continue to see with our WOW membership program. We generated over $1.3 billion of gross profit in the fourth quarter, a nearly 60% year-over-year improvement. Our gross profit margin was 24%, an increase of over 800 bps year over year. Product commerce saw a gross profit margin expansion of over 600 bps year over year, ending the quarter at 24.4%.
+This is 20 bps lower quarter over quarter primarily because of product mix change. The drivers for this year-over-year improvement remain consistent with those we have highlighted throughout this year: benefits from investments in technology, infrastructure, supply chain optimization, scaling margin-accretive offerings, and process improvement, including automation. The vast majority of the gains in 2022 were generated by operational improvements outside of ads. We are seeing the result of many ongoing initiatives, most of which have been in process for some time.
+We expect these efforts to continue driving further margin expansion in the future, though we may not always see meaningful improvement each quarter or the same rate of improvement as the past few quarters. Continuing this trend, we saw in the last quarter we again improved OG&A over 120 bps year over year and over 20 bps quarter over quarter, in spite of our continued investments for growth. We delivered a record $211 million of adjusted EBITDA, for a margin of 4%. Product commerce generated adjusted EBITDA of $266 million or 5.1% of revenues continuing our improvements through each of the quarters this year while developing offerings recorded adjusted EBITDA of minus $55 million, a $105 million year-over-year improvement.
+We continue to focus on improving the profitability foundation of our eats offering. Included in the Developing Offerings results are our investments into our more nascent offerings like Coupang play, fintech, and international. The amount of these investments for the full year was consistent with the $200 million amount that we forecasted at the start of the year. For the full year 2022, we reported minus $246 million of free cash flow, an improvement of over $830 million from the prior year.
+This includes opportunistic investments in the procurement of strategic land and building assets of $227 million. Our next milestone is achieving positive free cash flow on a trailing 12-month cumulative basis. We are confident in the potential of the business to generate meaningful free cash flows as indicated by our adjusted EBITDA profitability. As we look back on 2022, we are proud of the way our teams executed each quarter.
+This was a year of many milestones: we hit positive adjusted EBITDA for product commerce in Q1, achieved positive adjusted EBITDA for the consolidated business in Q2, delivered a positive net income of $91 million for the consolidated business in Q3, and delivered record gross profit, adjusted EBITDA, and net income in Q4. We have consistently grown at multiples of the retail market, and we are confident in our ability to continue that trend in 2023. In the past, we have shared our long-term adjusted EBITDA guidance of 7% to 10% or higher. In light of the progress we have demonstrated over the past year, we are now updating our long-term guidance to 10% or higher.
+We expect product commerce in 2023 to continue its march toward this long-term adjusted EBITDA target, though the gains won't be consistent each quarter. For developing offerings, we will continue to be opportunistic and disciplined in our investments in these nascent, long-term opportunities. We invest in these opportunities because we're excited about the potential to expand the TAM and generate meaningful additional cash flows over the long term. We expect these losses for 2023 to be consistent with the amounts we saw in 2022.
+Operator, we are now ready to begin the Q&A.
+Operator
+[Operator instructions]. Please limit your questions to two per person. We'll pause for just a moment to compile the Q&A roster. Your first question comes from the line of Eric Cha with Goldman Sachs.
+Your line is open.
+Eric Cha -- Goldman Sachs -- Analyst
+Hi. Thank you for this opportunity. I have two questions. First is that we noticed that there weren't any full year 2023 guidance, given in your disclosure.
+I assume that this is because of the macro uncertainty but would like to hear your thought process around this. And also more importantly, as months of January and February are now behind us, would be really helpful if you could share your thoughts around the first quarter trends. Any guidance or color would be really helpful. Second question is, as you just mentioned, you've raised your long-term target for adjusted EBITDA margin.
+Would be great if you could walk us through what were the key drivers that led you to raise this target. Was it mostly gross profit margin? Or do you guys now see more operating leverage on the SG&A side or a bit of both? Any color around this would be appreciated. Thank you.
+Bom Kim -- Founder and Chief Executive Officer
+Hi, Eric. Thanks for the questions. We have historically not given top-line guidance. But as we've demonstrated quarter after quarter, we are confident that in any scenario, we will continue to grow at a multiple of the market.
+In the first two months of Q1, we have seen growth at a similar rate to what we saw in Q4. And while the short term, it is hard to predict, we are really confident about our ability to continue to compound and grow at a faster rate over the long term. We are still in the single-digit share of overall market opportunity. The overwhelming majority of the retail market is offline, high prices and limited selection.
+We are excited about the opportunity to allow customers with wider selection, lower prices, and exceptional service to continue to capture significant growth On your second question about the profit guidance and future expansion potential, the drivers -- we're continually encouraged by the improvement we see and the progress we're making on the drivers of margin improvement, which are efforts and continuous improvement programs that leverage years of investment in technology, infrastructure, supply chain optimization, and new services among others. Process improvements including automation, as I mentioned, will also contribute to efficiency gains in the future. And we're increasingly confident about our long-term margin opportunity, and we believe we're investing in the right drivers that will get us there, though the gains may not be as dramatic as last year will be realized every quarter.
+Operator
+We'll take our next question from Mr. Seyon Park with Morgan Stanley. Please go ahead.
+Seyon Park -- Morgan Stanley -- Analyst
+Hi. Thank you for the opportunity. I have two questions. The first is on FLC.
+Can we get a little bit of color on how much of or what percentage of your GMV is now coming from FLC? And then given, I guess there are some concerns about the overall market growth in the near term can you maybe talk a little bit about how Coupang can utilize FLC to maybe increase the overall utilization of your distribution capacity? Whether that is something that is already being actively considered or is being utilized would be very helpful to us. The second question is on Coupang Eats. I know, you're in the stage where management is reassessing the options and I think it's been about two, three quarters since you've done that. Can you kind of give us maybe some color on how that is progressing and when some kind of a conclusion on your stance could be reached? Thank you very much.
+Bom Kim -- Founder and Chief Executive Officer
+Thanks for the question. On your first topic of FLC, as we mentioned in the call, FLC exceeded our expectations in 2022 and is already starting to scale. It, of course, leverages our end-to-end integrated network, allows us to share the speed and efficiency with merchants to help them capture growth and savings; in parallel, of course, allows us to gain even better economies of scale, efficiency gains there as well, helps customers gain access to even wider selection with the experience of Rocket that we believe will ultimately unlock considerable growth over the long term. We mentioned the adoption rates for merchants and customers alike are strong on FLC.
+So far, early results show that merchants who moved their inventory to FLC saw sales increase by over 65% on average. Like any new initiative, there is a lead time to perfect the tools and technology, processes, and infrastructure to scale FLC to its full potential, but we're very excited about the long-term opportunity here. On eats, we made significant progress in eats. The $110 million year-over-year gross profit improvement in developing offerings was primarily driven by improvements in eats.
+We're also working relentlessly and have many efforts and many initiatives to improve aspects of a customer experience on eats. Eats is a strategically important offering for us now and in the future. Among other benefits, like our fresh offering, Eats helps deepen our customer engagement across many services. And there's a lot more to do, but we're excited about the strong profitable foundation we're building for eats.
+And we're excited about driving the next phase of growth on that stronger foundation at the right time.
+Seyon Park -- Morgan Stanley -- Analyst
+Thank you.
+Operator
+And we will take our next question from James Lee with Mizuho Securities. Please go ahead.
+James Lee -- Mizuho Securities -- Analyst
+Great. Thanks for taking my question. Two here, please. First, on consumer demand.
+With South Korea right now facing some inflationary pressure, are you seeing any of the mix shift to maybe services very similar to U.S. or maybe trade downs by consumers? And second, and maybe can we get a sense maybe some puts and takes on developing offering for 2023? What segments do you feel like you need to double down? And maybe what segment do you look to be more rational? Any commentary regarding the $200 million losses that you incurred this year, how should we think about 2023 on that? Thank you.
+Bom Kim -- Founder and Chief Executive Officer
+OK. Hi, James. Thanks for your question. I think on consumer demand, I think that was your first question.
+There are economic uncertainties globally that affect all of us. But as you've seen, we continue to grow much faster than the market, continue to grow at a robust pace. We're at different stages of selection acquisition across categories, but we're early in the selection acquisition for nearly every category. You see that in our customer corporate behavior.
+The spend of our customer cohorts, even our oldest continues to compound at a fast rate. We're seeing strong growth across all categories, even our largest maybe perhaps because of the stage that we're at selection acquisition; it's hard to isolate the macroeconomic impact at a category level. And seeing our oldest -- all of our cohorts continue to compound all of our categories continue to grow we still don't know what our full potential spend is for our customers in any category. But it's very clear that customers want low prices, fast delivery, and selection in all categories.
+And those are the three levers that we'll continue to focus on. We have not yet seen an exception to the simple truth. And we believe that our growth in the future will be driven by these three levers. On developing offerings, we remain excited about the potential to unlock significant gains in these new areas of growth.
+We believe the benefits of which will be amplified by our broader ecosystem. We'll continue to be disciplined and intelligent in the way that we've approached developing offerings. And you'll see that our developing offering losses for 2023 will be consistent, as Gaurav mentioned, with the amount of investment we made in 2022.
+Operator
+[Operator instructions] And we'll take our next question from Jiong Shao with Barclays. Please go ahead.
+Jiong Shao -- Barclays -- Analyst
+Thank you very much for taking my questions. I have two as well. The first question is about your fresh. I was just wondering, are you able to provide a little bit additional color about the GMV contribution, where you are in terms of the profitability? Any kind of outlook when that business may be profitable at some point in a somewhat near future.
+Anything you can provide would be very helpful. Second question is about the developing offering as well. Some of your peers, global peers seem to have had a very good success in the fintech area, but every country, whether or not it's Brazil or Southeast Asia, they have different offline banking system. With that, as a backdrop, the offline banking system or financial services industry in Korea, could you elaborate a bit on the sort of the specific products you are contemplating or already launched to get additional growth for your business in the financial services, the fintech area? Thank you very much.
+Bom Kim -- Founder and Chief Executive Officer
+Thanks, Jiong, for the question on fresh. As we've mentioned before, we have a structural advantage of combining fresh and general merchandise in the same logistics and network that allows us, enables us to provide customers with the best experience at the lowest cost. Fresh has positive unit economics. We expect profitability to continue to improve with economies of scale and continued efforts to improve our technology and operations.
+We still also have a significant growth opportunity in fresh. Just a third of active customers in Q4 or customers of fresh will continue to expand assortment and focus on providing high quality and low prices -- high-quality products and low prices to customers there. On developing offerings and fintech, I think again, generally, we'll continue to be opportunistic and disciplined here. We do see lots of opportunities.
+We're still in the learning phase in some of those areas. Our approach has always been to test, learn, iterate, discipline, and opportunistic there. And I think you'll see us continue to take that approach there. I think at the right time we'll share more information, but we're still very early in the journey on many of the initiatives that we are pursuing on developing offerings.
+Jiong Shao -- Barclays -- Analyst
+Thank you very much, Bom.
+Operator
+[Operator instructions] And it does appear that we have no further questions at this time. [Operator signoff]
+Duration: 0 minutes
+Mike Parker -- Vice President, Investor Relations
+Bom Kim -- Founder and Chief Executive Officer
+Gaurav Anand -- Chief Financial Officer
+Eric Cha -- Goldman Sachs -- Analyst
+Seyon Park -- Morgan Stanley -- Analyst
+James Lee -- Mizuho Securities -- Analyst
+Jiong Shao -- Barclays -- Analyst
+More CPNG analysis
+All earnings call transcripts
+This article is a transcript of this conference call produced for The Motley Fool. While we strive for our Foolish Best, there may be errors, omissions, or inaccuracies in this transcript. As with all our articles, The Motley Fool does not assume any responsibility for your use of this content, and we strongly encourage you to do your own research, including listening to the call yourself and reading the company's SEC filings. Please see our Terms and Conditions for additional details, including our Obligatory Capitalized Disclaimers of Liability.
+The Motley Fool has positions in and recommends Coupang. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

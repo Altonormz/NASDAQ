@@ -1,0 +1,77 @@
+March 08, 2023 — 11:45 am EST
+
+      Written by
+                        Nicholas Rossolillo for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+The final months of top chip design company Marvell Technology Group's (NASDAQ: MRVL) fiscal 2023 (the three months ended January 2023) was full of puts and takes. The company grew its revenue and profitability on a year-over-year basis in the fourth quarter, but the immediate-term outlook soured as the current downturn in the chip industry has finally come for Marvell.  
+Marvell's management reassured investors that its long-term opportunity remains unchanged, especially as fast-growing enterprise markets (AI, automotive) are more promising than ever. However, it looks like an overall rebound in growth could take a bit longer than originally anticipated. Is this top semiconductor stock still a buy? 
+Marvell CEO Matt Murphy and the top team delivered a stellar fiscal 2023 (the 12 months ended in January 2023, corresponding mostly to calendar year 2022). Revenue grew 33% year over year to $5.9 billion, significantly above the chip industry's growth rate of just 3%, as reported by the Semiconductor Industry Association (SIA). Murphy said revenue from cloud-computing data centers and related infrastructure, including Amazon's (NASDAQ: AMZN) Amazon Web Services (AWS), which is a top Marvell customer, grew about 50%; annual revenue from 5G network infrastructure crossed the $600 million mark; and automotive (driven by advanced driver-assist systems) crossed $200 million for the year. 
+Generally accepted accounting principles (GAAP) net loss improved to $164 million for the full-year period, up from a net loss of $421 million the year prior. Free cash flow increased 69% to $1.07 billion in fiscal 2023. Most of the discrepancy between net loss and positive free cash flow was due to $1.09 billion in non-cash amortization charges related to a number of acquisitions the company has made since 2018, including another acquisition this past year of start-up Tanzanite, which develops cloud storage solutions. 
+But momentum slowed significantly in Q4, with year-over-year revenue growth slowing to just 6%. Weakness popped up particularly in the data center market as a severe downturn in memory chips (due to excess inventory) began to impact adjacent parts of a data center's buildout. Marvell doesn't design memory chips, but its silicon portfolio is most definitely classified as "memory chip adjacent."  
+Marvell Technology Group Segment
+Q4 Fiscal 2023 Revenue
+Increase (Decrease) YoY
+Q1 Fiscal 2024 Expectations QoQ
+Data center
+$498 million
+(13%)
+Mid-teens % decline
+Enterprise (non-data center and non-cloud)
+$366 million
+39%
+High-single-digit % decline
+Mobile carriers (5G networks and other)
+$275 million
+14%
+Mid-single-digit % growth
+Consumer markets
+$180 million
+(3%)
+~10% decline
+Automotive and industrial
+$99 million
+25%
+~10% decline
+YoY = year-over-year. QoQ = quarter-over-quarter. Data source: Marvell Technology Group. 
+To kick off the new fiscal year, Murphy and company are predicting overall revenue will be $1.3 billion at the midpoint of guidance. That implies a decline of 10% from the same period a year ago, again from weakness in data centers as customers work through an excess of memory chips and related component inventory. 
+Importantly, Murphy also had this to say on the lastearnings callregarding an eventual rebound: 
+Broadening inventory corrections are creating an unusual revenue mix. In the first quarter, we expect storage to decline further and inventory correction to spread to a number of additional areas I will discuss later. At the same time, we are forecasting very strong sequential growth in revenue from 5G and a number of custom ASICs, but these have gross margins well below Marvell's corporate average. As a result, we expect a challenging gross margin outlook for the next few quarters.
+In other words, though Marvell appears it will return to growth in the back half of 2023, like the rest of the semiconductor industry is expected to, profit margins could remain pressured for a bit longer than originally anticipated. 
+After the latest update (and a strong rally in stock price the last few months), Marvell stock trades for 35 times trailing-12-month free cash flow. This metric is almost certainly going to get more "expensive" in the coming quarters as Marvell's sales temporarily shrink and profit margins take a hit.  
+Given this present situation, I'm not buying like I was a few months ago when shares looked like a particularly good value. I think this stock will hit some bumps in the road in the coming months. 
+That being said, an explosion in digital data (AI in the cloud, vehicle automation, 5G mobile networks) isn't going to abate anytime soon. Marvell management sees its longer-term outperformance of the chip industry remaining intact, and I see no reason to disagree. Marvell Technology stock remains on my watchlist, though I personally don't plan on buying for at least a few more months.
+10 stocks we like better than Marvell TechnologyWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Marvell Technology wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+John Mackey, former CEO of Whole Foods Market, an Amazon subsidiary, is a member of The Motley Fool's board of directors. Nicholas Rossolillo and his clients have positions in Amazon.com and Marvell Technology. The Motley Fool has positions in and recommends Amazon.com. The Motley Fool recommends Marvell Technology. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

@@ -1,0 +1,83 @@
+March 06, 2023 — 05:15 am EST
+
+      Written by
+                        Nicholas Rossolillo for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+While much of the semiconductor industry is in a slump, primarily from falling smartphone and PC sales, Broadcom (NASDAQ: AVGO) has been a standout performer. In fact, the stock is approaching all-time highs last reached in late 2021, and it has nearly doubled in value since the beginning of 2020. When adding in dividends, Broadcom has delivered a total return of 110% in the past three years.  
+For investors looking for consistent growth and income, this remains a top semiconductor investment to consider for the long haul.
+Broadcom delivered stellar financial performance in the first quarter of fiscal 2023 (the three months ended in January). Revenue was up 16% year over year to just over $8.9 billion, driven by 21% growth in its semiconductor business (about 80% of sales) and a 1% decline in infrastructure software (about 20% of sales). Impressive, considering most of its peers are reporting declines in sales right now.  
+Networking, server storage connectivity, and broadband were the driving force for growth. Within networking, CEO Hock Tan said ethernet switch shipments are headed higher, estimated to be $200 million last year and on their way to perhaps be more than an $800 million business in 2023 thanks to generative artificial intelligence like ChatGPT that Microsoft and other tech giants are rolling out. 
+And in broadband, this usually sleepy business is getting a massive lift as telecom and internet service provider (ISP) companies upgrade infrastructure for next-gen internet. This includes 10G and DOCSIS 3.1 hardware as some legacy ISPs keep up with wireless companies that are marketing their 5G mobile network as a broadband internet replacement. As is usual during a tech upgrade cycle like this, telecoms and ISPs are the inferior investment. Top supplier Broadcom is enjoying the lion's share of growth here. 
+Broadcom Sales Segment
+Q1 Fiscal 2023
+Change (YOY)
+Q2 Fiscal 2023 Expected Growth (YOY)
+Networking
+$2.3 billion
+20%
+20%
+Storage connectivity
+$1.3 billion
+57%
+20%
+Broadband
+$1.2 billion
+34%
+10%
+Wireless
+$2.1 billion
+4%
+Down high-single-digit percentage
+Industrial
+$229 million
+-4%
+Down low-single-digit percentage
+Infrastructure software
+$1.8 billion
+-1%
+Up low- to mid-single-digit percentage
+Total
+$8.9 billion
+21%
+16%
+Data source: Broadcom. YOY = Year over year.  
+Tan and company predict total year-over-year revenue growth of about 8% in the second quarter of fiscal 2023 (the three months that will end in April). This will be driven by high-single-digit percentage growth in semiconductors and low- to mid-single-digit percentage growth in software. Again, impressive considering most chip stock peers are forecasting lingering sales declines in the coming months before a rebound in the second half of 2023. 
+Of course, not all is perfect at Broadcom. The wireless segment -- primarily chips sold to Apple (NASDAQ: AAPL) -- is finally getting dented from the smartphone downturn as even the iPhone has begun to hit some bumps in the road. Further down the line, media outlets have been asserting that Apple is trying to design its own WiFi/Bluetooth chip to scale back on its relationship with Broadcom. Addressing a question about this on theearnings call Tan said that "our strategic engagement continues very much the same as it has for the last multiple years, and we see that to continue in a fairly predictable, stable manner." 
+Then there's also the pending megamerger with VMware (NYSE: VMW). If completed, it would transform Broadcom's business mix into a roughly 50-50 split between chip design and cloud infrastructure software. Tan said regulatory reviews are complete in many jurisdictions, although a key review in the European Union is being extended until this June. Nevertheless, such is the norm for acquisitions of this size, and Broadcom remains optimistic VMware will join Broadcom by the end of the current fiscal year, which ends in October. 
+Broadcom got off to a wonderful start in 2023, and it appears it will plateau over the current chip downturn with single-digit revenue growth this year (my estimate, based on broad industry trends). And along the way, the company is still ridiculously profitable. Semiconductor operating profit margin was 58% last quarter, and software operating margin was 72% -- resulting in free cash flow of $3.9 billion, or a margin of 44% of revenue. 
+Broadcom stock now trades for just under 15 times trailing-12-month free cash flow and doles out a dividend currently yielding 2.8% a year. For investors looking for top dividend stocks to buy for the long term in the tech world, Broadcom deserves to be at or near the top of that buy list. 
+10 stocks we like better than BroadcomWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Broadcom wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Nicholas Rossolillo and his clients have positions in Apple and Broadcom. The Motley Fool has positions in and recommends Apple and Microsoft. The Motley Fool recommends Broadcom and VMware and recommends the following options: long March 2023 $120 calls on Apple and short March 2023 $130 calls on Apple. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

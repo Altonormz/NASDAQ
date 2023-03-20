@@ -1,0 +1,54 @@
+March 04, 2023 — 07:07 am EST
+
+      Written by
+                        Rich Smith for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Call it "the rocket blast heard round the world."
+Last week, in an announcement that took the stock market completely by surprise, recent space SPAC and satellite manufacturer Terran Orbital Corporation (NYSE: LLAP) announced a deal to build some 300 satellites for wireless communications company Rivada Space Networks. The total value of the contract: $2.4 billion.
+Suffice it to say that this sounds like a big contract for a start-up like Terran Orbital to win -- big enough to drive Terran Orbital's stock price up more than 70% in a single day, and for good reason. Over the past 12 months, Terran generated barely $73 million in sales (and according to data from S&P Global Market Intelligence, $171 million in losses). When you consider that all Terran Orbital stock in existence today has a total market capitalization of only $390 million, the size of Terran's new multi-billion-dollar contract looms even larger.
+And yet questions still surround this deal.
+Start with the identity of Terran's counterparty. Even if you've heard of Terran Orbital before (and not many people have), raise your hand if you're familiar with "Rivada Space Networks" -- because I don't think I'm going to see many hands out there.
+Turns out privately owned Rivada is a subsidiary of Washington, D.C.-based Rivada Networks, which is also privately owned such that there's little reliable financial data on the company. Although Terran describes Rivada as "active across North and South America as well as Europe," ZoomInfo indicates that Rivada generates sales of less than $24 million even nearly 20 years after its founding. (Other data providers suggest Rivada's annual sales may be even less than that). 
+And yes, there could be advantages for Terran Orbital developing a supplier relationship with a small and growing company -- getting in on the ground floor with a growth stock, so to speak. But given Rivada's apparent tiny size (even the upper estimate on Rivada's revenue suggest it's barely one-third the size of Terran Orbital itself), there's also an obvious question:
+Does Rivada even have $2.4 billion to spend on 300 new satellites from Terran?
+Because these satellites are probably not going to come cheap.
+According to Terran Orbital's press release, each of the 300 satellites it proposes to build for Rivada will mass 500 kilograms -- significantly bigger than a breadbox, and much larger than a cheap cubesat. Indeed, according to standard definitions of satellites by size, the satellites Rivada will be asking for fall at the upper end of the small satellite range, and are arguably closer in size to what experts consider a "medium satellite," with a correspondingly bigger price tag to build. 
+While estimating the cost for Terran to build them is total (albeit educated) guesswork, everything I've managed to read on the subject suggests components alone should cost as much as $1 million per satellite, implying a cash outlay of about $300 million for Terran. Even if my numbers are off by a factor of two, for example, that could prove a stretch for this start-up -- which at last report had less than $36 million in the bank, and outstanding debts of nearly $128 million.
+Simply put, just starting to fulfill this contract for Rivada implies an immediate cash need for Terran Orbital -- which according to the press release will have to begin churning out satellites in very short order so that Rivada can hit its deadline of beginning to deploy its constellation in 2025.
+Although I readily admit that a $300 million stock winning a $2.4 billion contract is big news, and a potentially big opportunity for Terran Orbital, I'm not 100% convinced that Terran is in a good financial position to take advantage of the opportunity. Nor am I convinced that Rivada is in a position to pay for it.
+Long story short, Terran Orbital stock is up big, and shareholders are rightfully pleased with this development. That being said, anyone looking to buy more in Terran Orbital stock at this point should refrain from counting all the chickens implied by this contract until the eggs have all hatched -- and the checks have cleared.
+10 stocks we like better than Terran OrbitalWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Terran Orbital wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Rich Smith has no position in any of the stocks mentioned. The Motley Fool has no position in any of the stocks mentioned. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

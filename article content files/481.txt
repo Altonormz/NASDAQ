@@ -1,0 +1,53 @@
+March 17, 2023 — 10:07 am EDT
+
+      Written by
+                        Harsh Chauhan for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Nvidia (NASDAQ: NVDA) stock is on a dream run in 2023. Shares of the semiconductor giant have gained a whopping 65% so far thanks to the hype around generative artificial intelligence (AI) applications such as chatbots, which could trigger the need for thousands of graphics processing units (GPUs) -- a market that's dominated by the chipmaker.
+But the stock's terrific rally has made it quite expensive from a valuation perspective. Does this mean investors should refrain from buying Nvidia stock, especially considering the conditions in the personal computer (PC) market? Let's find out.
+Market research firm IDC has reduced its PC shipment forecast for 2023. The firm expects PC shipments this year to come in at 260.8 million units, which would be a 10.7% decline over last year. IDC was earlier anticipating a smaller decline of 5.6% in PC shipments this year to 281 million units, suggesting that another terrible year could be in the cards for companies related to this industry.
+Nvidia is one of those companies as it sells graphics cards that go into personal computers and workstations. The PC market's woeful performance in 2022 -- when shipments declined a whopping 16.5% from 2021 -- led to a collapse in Nvidia's gaming and professional visualization segments. Gaming revenue was down 27% in fiscal 2023 to $9 billion as sales of graphics processing units (GPUs) used by gamers dried up. Professional visualization revenue also declined 27% to $1.54 billion.
+Nvidia's channel partners were left with excess graphics card inventory on account of weak demand. So another bad year for PC sales would make it difficult for the company to stage a recovery in the gaming and professional visualization markets. That could keep Nvidia from reporting growth in its revenue and earnings in fiscal 2024.
+The gaming and professional visualization segments produced nearly 40% of Nvidia's revenue last fiscal year. Their sharp declines led to a 25% drop in the company's earnings to $3.34 per share as the company had to contend with inventory charges and offer discounts to move its GPUs.
+Analysts are anticipating Nvidia's earnings to increase to $4.46 per share in fiscal 2024, which would be a sizable jump over last year. Revenue is expected to increase by almost 10% to $29.6 billion. But IDC's gloomy forecast indicates that the restocking of graphics card inventory may not happen soon. That could weigh on Nvidia's gaming and professional visualization businesses, and keep the company from achieving the growth that Wall Street is expecting from it.
+The headwinds in a sizable chunk of Nvidia's businesses, when combined with its rich valuation, strengthen the case against investing in the company. The semiconductor stock is trading at an eye-popping 139 times earnings and 22.5 times sales, which is surprising given the steep earnings drop it reported last year.
+It is worth noting that Nvidia's current multiples are far higher than its five-year average earnings multiple of 60 and price-to-sales ratio of 17. Of course, there are new opportunities for the company in the artificial intelligence market that could accelerate its growth in the long run, but Nvidia's rich multiples make it a risky bet for investors looking to buy the stock right now.
+However, investors who already hold shares of Nvidia in their portfolios should consider holding on to the chipmaker as the strength of the data center business could help mitigate the weakness in the gaming and professional visualization markets. New catalysts such as generative AI applications could give the data center business a big shot in the arm this year and beyond.
+For instance, market research firm TrendForce estimates that ChatGPT may eventually require more than 30,000 GPUs from Nvidia to cater to the huge demand that it is witnessing. Given that each Nvidia data center GPU can cost between $10,000 and $15,000, the company could generate substantial revenue from supplying its graphics cards for powering chatbots such as ChatGPT.
+Also, as many tech giants are now in a race to develop chatbots, Nvidia could turn out to be a big beneficiary of this market. That's because Nvidia leads the data center GPU market, with a share of over 90%. That puts it in pole position to take advantage of the chatbot market, which is expected to clock annual growth of 30% over the next five years.
+The bottom line is that the AI opportunity could send Nvidia stock higher, giving existing investors a solid reason to hold on to this high-flying chipmaker. But those who are looking to buy this tech giant now may want to wait for a recovery in the PC market as that's going to play an important role in boosting the company's earning power.
+10 stocks we like better than NvidiaWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Nvidia wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of March 8, 2023
+ 
+Harsh Chauhan has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Nvidia. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

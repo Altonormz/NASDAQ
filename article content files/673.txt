@@ -1,0 +1,88 @@
+We’ve done a lot of research on how to make trading cheaper for investors and reduce costs of capital for our listing companies.
+One way is to remove the inefficiencies caused by ticks. We recently covered some of the research showing what the optimal number of ticks in a spread is. The overwhelming conclusion, using data from stock splits, real spreads, data from other countries and even the tick pilot, is spreads are cheapest when spreads are 2-3 ticks wide.
+Based on that knowledge – simple math tells us what the optimal tick size should be (a half to a third of the spread).
+Why are small spreads important?
+Today we join the academic research on optimal ticks with the actual spreads in the market and compute the economic costs of “wrong ticked” stocks.
+We see that the SEC proposal may actually cost investors more (despite tackling the tick-constrained problem). However, alternatives exist where frictions are almost halved, a saving for mutual funds alone of around $362 million a year.
+We start with our knowledge that spreads form in a U-shape even after accounting for round lot costs. That results in a goldilocks zone where spreads are cheapest – and an “optimal” tick that results in the tightest possible spread. It seems to happen where spreads are 2-3 ticks wide.
+We show this in the chart below where:
+Importantly, the U-shape is flat at the minimum – so the difference between 1.5 to 4 cents (consolidation of all research) and 2 to 3 cents (intersection of most research) being optimal is relatively small.
+Chart 1: Spreads start to widen as soon as stocks have more than 4 ticks
+The chart above is just looking at large-cap stocks.
+Because spreads change a lot more due to liquidity than ticks, it’s important to see if the curve exists for all levels of liquidity. We can see that in Chart 2 below. Fitting regression lines to each “ticks” group, Chart 2 shows that:
+Chart 2: Spreads widen as liquidity falls, but for all levels of liquidity, yellow dots (1-3 tick spreads) stock have the cheapest spreads
+We also see that there are a few tick-constrained stocks with very low liquidity (blue dots on the left of the chart). Importantly, this excludes SPACs and ETFs, which trade very differently due to their easier-to-value underlying portfolios.
+If we want to see what might happen to tick constrained stocks in the future, we can look at effective spreads now (in cents). This should show us where stocks will fall in the “new” un-tick-constrained regime. We see in Chart 3 below that there are stocks with:
+Chart 3: Counting tick constrained, well ticks and too many stocks in the current market
+Importantly, because the colors in Chart 2 and Chart 3 are largely consistent, you can see in Chart 2 which kinds of stocks have too many (and too few) ticks.
+Based on effective spread data used in Chart 3 and applying the new SEC tick group rules, we estimate which tick groups stocks across the U.S. market will be added to. The data suggests:
+Chart 4: What tick buckets stocks will fall into based on market cap and current effective spreads
+If we switch back to the same color scheme as Charts 1-3, we can see that many more stocks will trade with “too many ticks,” even in the 1/5th and ½ cent tick groups (all the black columns).
+That’s because, under the SEC proposal, almost no stocks will have less than 4 tick spreads. In fact, as soon as a stock’s spread falls enough to be below 4 x its current tick, it is promoted to the next smaller tick group, as we discussed in our summary of the SEC proposals.
+Chart 5: Trading under the SEC’s proposed tick regime
+Given the U-shape that spreads form, it is more likely that spreads get wider under this regime, which we consistently see happens when stocks have “too many ticks.” We should also expect to see more odd lots fill into the new unused limit prices, just as we see now for stocks with “too many ticks.”
+Ironically, that might have an effect similar to dark-volume-caps in Europe for some stocks, where:
+Clearly, the data would suggest that tick-constrained stocks need a smaller tick. There is already some consensus around a ½ cent tick – including from including MEMX, Citadel Securities, XTX and Cboe.
+Hypothetically, if we use the SEC’s 1.6-cent bucket cutoff to define a tick-constrained stock but give all those stocks a ½ cent tick, we actually see a lot more stocks trading 2-3 ticks wide (yellow on the left side of Chart 6), which is optimal.
+Based on effective spreads now, it seems some stocks may still trade close to tick constrained with a 1/2 cent tick (blue) – but that may only affect around 100 stocks.
+Knowing that more than 4-cent spreads also add unnecessarily to trading costs, we could also create a 5-cent tick for stocks that already have spreads more than 5 cents wide. That is also consistent with lessons from the tick pilot to “make no spreads wider” or do no harm.
+We could choose 8 cents as the cutoff for a 5-cent tick:
+The results show much more yellow in the tick distribution (Chart 6). Although, because around 300 stocks trade more than 40 cents wide now, there are still some stocks that would still have too many ticks (black area at the right).
+Chart 6: A proposal that tries to maximize “well ticked” (yellow) stock trading
+ 
+There are other ways to solve this problem, such as moving tick group cutoffs or tick sizes slightly. However, they generally involve a trade-off between more tick constrained, too many ticks (especially around the tick group cutoffs) or more tick size categories (like other countries in the world). In reality, the majority of economic benefits are achieved even if you move cut-off levels slightly one way or the other.
+Knowing that spreads form a U-shape and that the buy side typically cross spreads a net of around 20% of the time and trades a total of around $23 trillion each year, we can estimate how much “unnecessary trading costs” wider spreads create (shown by the arrows below).
+Chart 7: Plotting the average spreads from tick groups Chart 2 at different levels of daily liquidity, we see the U-shape persists across the spectrum of stocks, resulting in artificially wide spreads for tick-constrained and too-many-tick stocks
+Using the math we created for stock splits (see Chart 8 here) and the expected spread changes from the dots we plotted in Chart 2, we can multiply by the amount of institutional trading in each stock to estimate the costs of “mis-ticked stocks” in each regime above.
+We find that the different approaches result in different unnecessary costs caused by artificially wide spreads and less competitive NBBOs:
+Chart 8: Estimated additional costs from stocks being “mis-ticked,” resulting in wider than necessary spreads for investors to cross
+If we look at stocks' spreads across stock price, now (Chart 9) – the tick-constrained stocks are obvious (blue dots). However, so too at the “too-many-tick” stocks (black dots).
+The data also shows that for almost all stock prices (any vertical slice), there are stocks that are tick constrained, as well as stocks with too many ticks. This is one reason why price-based tick groups used around the world are also sub-optimal – as stocks like MSFT, QQQ and SPY, with a 1-3 cent tick now, should not be forced to trade (say) 5 cents wide just because they have high stock prices.
+Chart 9: What U.S. stock trading looks like now, colored by ticks in each spread
+If, instead, we set ticks based on how the market trades each stock (similar to, but less aggressively, than how the SEC is constructing tick groups), we do no harm and:
+Chart 10: Representation of optimal new tick groups
+We’ve spent a lot of time researching how to make stocks trade better, and stock splits prove that larger ticks (in too many tick stocks) can result in smaller spreads which also helps increase liquidity.
+Most importantly, smaller spreads reduce trading costs for mutual funds, arbitrageurs and maybe even retail investors. They also reduce the costs of capital for issuers.
+In short, getting ticks right is important.
+Phil Mackintosh is Chief Economist and a Senior Vice President at Nasdaq. His team is responsible for a variety of projects and initiatives in the U.S. and Europe to improve market structure, encourage capital formation and enhance trading efficiency. 
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+Type a symbol or company name. When the symbol you want to add appears, add it to My Quotes by selecting it and pressing Enter/Return.
+Copy and paste multiple symbols separated by spaces.
+                
+These symbols will be available throughout the site during your session.
+
+
+
+Type a symbol or company name. When the symbol you want to add appears, add it to My Quotes by selecting it and pressing Enter/Return.
+Copy and paste multiple symbols separated by spaces.
+                
+These symbols will be available throughout the site during your session.
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+Type a symbol or company name. When the symbol you want to add appears, add it to Watchlist by selecting it and pressing Enter/Return.
+Copy and paste multiple symbols separated by spaces.
+                
+These symbols will be available throughout the site during your session.
+
+
+
+Type a symbol or company name. When the symbol you want to add appears, add it to Watchlist by selecting it and pressing Enter/Return.
+Copy and paste multiple symbols separated by spaces.
+                
+These symbols will be available throughout the site during your session.
+
+These symbols will be available throughout the site during your session.

@@ -1,0 +1,81 @@
+February 28, 2023 — 03:49 pm EST
+
+      Written by
+                        Omor Ibne Ehsan for                             
+        
+
+
+
+
+InvestorPlace ->
+
+
+InvestorPlace - Stock Market News, Stock Advice & Trading Tips
+With inflation, low earnings, and expectations of higher interest rates, tech stocks have cooled off. However, this is the prime time to look for the best tech stock to buy on the pullbacks. While losses have been considerable this year, it’s not permanent. In fact, I still believe most of these companies will start reporting much better year-on-year figures once the post-covid turbulence is behind us. Therefore, buying the best tech stocks now will give investors an excellent entry point for long-term gains. Here are the top seven picks to look into:
+Source: Asif Islam / Shutterstock.com
+
+Microsoft’s (NASDAQ:MSFT) rollout of ChatGPT integration with Bing and high growth in its cloud segment makes it among the hottest stocks this year. Of course, Bing could still be a “nothing burger” as not many people are interested in permanently switching to Bing except for niche purposes. But the Street is certainly excited.
+The company reported its fiscal Q2 2023 earnings, where its overall revenue grew 2%, but Azure and other cloud services revenue grew 31%, with Office 365 Commercial sales growing 11%. Conversely, Windows OEM and devices sales each decreased by 39%, which substantially negatively impacted top-line growth. The point is that Microsoft is slowly shaping its business away from slow-growth segments and into up-and-coming ones like Azure and Office 365. This will hurt the company’s top-line growth in the short term, but I see healthy growth metrics in the long run.
+Furthermore, the cloud isn’t the only thing in which Microsoft has an edge. The company’s aggressively investing in artificial intelligence, such as its $10 billion OpenAI investment. As AI becomes more important, these investments will pay off greatly.
+
+Source: shutterstock.com/everything possible
+
+Tough competition with Advanced Micro Devices (NASDAQ:AMD) and sluggish year-over-year growth have caused Intel’s (NASDAQ:INTC) stock to plummet to decade-low valuations. However, it should be noted that the company is transforming and adapting its business for long-term success.
+Intel is particularly focusing on chips for AI, announcing a $20 billion investment into domestic chip production in the U.S., unlike other semiconductor companies that are sourcing their chips from foreign sources such as Taiwan Semiconductor (NYSE:TSM). The CHIPS act subsidy will come in handy for the company in this regard, as Intel already reported 30% YoY growth in its foundry segment. Its Mobileye ownership is also paying dividends, with sales up 59% YoY.
+Another important highlight mentioned in a recent company press release,
+“Intel continues to progress with its goal of achieving five nodes in four years and is on track to regain transistor performance and power performance leadership by 2025. Intel 7 is now in high-volume manufacturing for both client and server. Intel 4 is manufacturing-ready, with the Meteor Lake ramp expected in the second half of 2023.”
+Simply put, Intel is expanding its own chip production for a more addressable market. It is also moving away from foreign sources with its own chip branding instead of using nanometers to describe its semiconductors and seeks to catch up with TSMC and AMD by 2025. If things go smoothly, Intel can become a significant chip provider for various industries in the U.S.
+
+Source: Tada Images / Shutterstock.com
+
+Amazon (NASDAQ:AMZN) leads the burgeoning cloud industry with Amazon Web Services. Although other companies are certainly upping their competition here, AWS remains the dominant platform with 34% of the market share. AWS has its hands in almost every industry; even Ethereum (ETH-USD) has a substantial amount of nodes that use AWS to run, while 7,500 government agencies rely on the platform. This reliance is likely to continue, even if other alternatives become more cost-effective. Accordingly, AWS segment sales increased 29% year-over-year to $80.1 billion for all of 2022.
+Nevertheless, Amazon is a highly diversified company with many other promising segments to bank on. Most importantly, it is the biggest U.S. e-commerce business. It had some hiccups after the post-covid boom ended, but e-commerce is among the most promising industries in the long run. If Amazon retains its 38% market share in the industry, it could lead to sales as high as $600 billion annually from the U.S. alone by 2027.
+
+Source: Sundry Photography / Shutterstock.com
+
+Okta (NASDAQ:OKTA) has been one of the standout performers in the technology sector post-covid, with its stock price skyrocketing by more than 130% in 2020. However, widening losses and falling growth caused worries among investors, and OKTA stock is down 75%-plus from its peak in 2021. 
+Regardless, the company’s top line remains stable, and I believe Okta can make a comeback as its losses are narrowing. With more and more businesses moving their operations online, Okta’s solutions are becoming increasingly essential, which has helped the company to attract a growing number of high-profile customers. Its high 37% sales growth should accelerate over the long run and bring a higher growth premium.
+Indeed, the losses are unconvincing, but Okta is well-positioned to continue its impressive growth trajectory. The company is expected to benefit from the ongoing shift towards cloud-based applications and the increasing need for robust cybersecurity solutions, which should drive demand for its IAM platform. Most of the company’s cons are also already priced in, and I see little downside left.
+
+Source: rblfmr / Shutterstock.com
+
+Yext (NYSE:YEXT) is a leading provider of digital knowledge management software that helps businesses manage their online presence across multiple platforms. The stock was on a roller coaster ride over the pandemic era but began to bottom out last year and is now steadily recovering. However, I still think that its 50% recovery trough to the current year-to-date peak is not enough of a recovery, and there’s more to go.
+The COVID-19 pandemic initially harmed Yext’s business, as many of its customers had to shut down their physical locations. However, the company has adapted well to the changing market conditions, focusing on expanding its digital knowledge management platform to meet the needs of businesses that have shifted their operations online. Now, online businesses are a growth catalyst for Yext.
+Stock analyst Gurufocus.com does believe it could be a value trap due to its high losses. However, its most recent 10-Q filing shows that the company only spent $60.6 million on general and administrative expenses last year, with $221.5 million of gross profit. Most of its losses stem from high marketing and development spending, which can be easily cut down if needed. Therefore, I believe the company’s management sees its losses (that are narrowing) as sustainable.
+Overall, it’s a high-risk, high-reward bet that might not suit all investors as the best tech stock to buy.
+
+Source: Shutterstock
+
+Riot Platforms (NASDAQ:RIOT) is a cryptocurrency mining company that has been on a wild ride over the past year. Due to a significant drop in Bitcoin (BTC-USD) prices earlier this year, the company’s stock price has lost more than 91.5% of its value from its peak. However, this high-risk stock can deliver a long-term comeback, driven by strong demand for its mining services and the increasing adoption of cryptocurrencies by mainstream investors.
+Riot’s impressive financial performance has been driven by its aggressive expansion into the cryptocurrency mining market. The company has zero debt, and buying it at this current range will likely generate oversized returns when Bitcoin increases in value. The most important catalyst for RIOT is Bitcoin’s halving in 2024. 
+It’ll cut mining rewards by half and likely increase its value substantially. The company could make a sharp recovery with RIOT’s 65.4% gross margin and its stash of around 7000 BTC. Naturally, a lot of speculation is involved here, and I wouldn’t recommend buying it if you only wish to invest in well-established names.
+
+Source: IgorGolovniov / Shutterstock.com
+
+Cloudflare’s (NYSE:NET) success can be attributed to its innovative approach to cybersecurity. The company offers a range of solutions that leverage the power of the cloud to protect against cyber attacks. The cybersecurity industry is rapidly growing despite short-term headwinds, and Cloudflare has a market share above 95% in network security. This gives the company enormous leverage over many online websites and businesses.
+Moreover, as web development becomes more streamlined, Cloudflare’s dominance is only increasing due to cost-effectiveness. The company is consistently growing its top line near a 50% clip, and losses are steadily narrowing.
+Gurufocus.com considers the stock “Significantly Undervalued,” with its future 3-5 year total revenue growth rate ranked better than 96.97% of its peers. Thus, consistency puts NET in the “best tech stock to buy” criteria.
+On the date of publication, Omor Ibne Ehsan did not have (either directly or indirectly) any positions in the securities mentioned in this article. The opinions expressed in this article are those of the writer, subject to the InvestorPlace.com Publishing Guidelines.
+Omor Ibne Ehsan is a writer at InvestorPlace. He is also an active contributor to a variety of finance and crypto-related websites. He has a strong background in economics and finance and is a self taught investor. You can follow him on LinkedIn.
+The post What Is the Best Tech Stock to Buy Now? Our 7 Top Picks. appeared first on InvestorPlace.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

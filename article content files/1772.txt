@@ -1,0 +1,62 @@
+March 15, 2023 — 06:18 am EDT
+
+      Written by
+                        Jon Quast for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Investors who follow data-software company Snowflake (NYSE: SNOW) are likely well aware of two facts. First, the stock has a pricey valuation. Second, it's a high-quality business that likely warrants some degree of pricey valuation.
+I recognize that calling a company like Snowflake high-quality is somewhat subjective. However, I believe an objective strength of the company is its ability to generate free cash flow. 
+In its 2023 fiscal year (which ended in January), Snowflake converted 24% of its revenue into free cash flow -- few companies have a better margin. This could be one of the factors supporting the stock's valuation right now. And this is why I believe it's important for investors to understand why its free cash flow could drop in its fiscal 2024.
+Speaking at the Morgan Stanley Technology, Media & Telecom Conference, Snowflake CFO Mike Scarpelli said that more than 80% of Snowflake's customers pay their bills annually instead of quarterly or monthly, even though the latter two possibilities are options.
+When this happens for Snowflake or other companies, it's known as deferred revenue. The company physically has the money but has yet to deliver the promised service. Therefore, it's not counted as revenue right away. But it does immediately show up on the cash-flow statement and provides a temporary boost.
+The chart below offers a clear demonstration. While its revenue is climbing at a steadier pace, Snowflake's free cash flow is lumpy. And the spikes are the result of when its customers tend to pay for Snowflake's services.
+
+SNOW Revenue (Quarterly) data by YCharts
+In the fourth quarter of its fiscal 2023, Snowflake had deferred revenue of $468 million, a big 16% year-over-year jump. And this jump in deferred revenue was a contributing factor in its free-cash-flow margin of 35% in Q4 -- substantially higher than its 24% margin for the year.
+Circling back to Scarpelli's comments, the CFO believes this cash-flow dynamic could go the other way in the coming year for a simple reason: interest rates. In short, companies can earn interest on their cash at much higher rates than they could before, which might give them an incentive to hold on to it for longer.
+
+Effective Federal Funds Rate data by YCharts
+Therefore, Snowflake's customers could change their behavior, shifting from paying for a whole year up front and opting to instead pay in smaller increments. And if there's a large enough drop in the company's deferred revenue, that would likely result in a decrease of free cash flow -- but don't panic without reading on.
+The issue I'm describing is a non-issue for long-term, buy-and-hold investors of Snowflake. It makes little difference when the money comes in, as long as it comes in. Therefore, it's far more important to look at the number of customers that it has and how much they're spending over time. For what it's worth, these metrics still look quite strong. 
+Moreover, Snowflake's deferred revenue isn't the reason it is free-cash-flow positive. Rather, deferred revenue merely accounts for some of the fluctuations in the company's free-cash-flow margin from quarter to quarter. But structurally, Snowflake has rapid revenue growth, a high gross margin of 65% in fiscal 2023, and management keeps cash expenses low enough to have positive cash from operations. All of these fundamental things contribute to Snowflake's free cash flow and aren't affected by the timing of collections.
+In short, if Snowflake's free cash flow drops because of a change in customer behavior, the situation should be temporary and will smooth out as the new payment behavior becomes the norm. 
+The problem, however, is many investors fail to read past the headlines of earnings reports. If Snowflake reports a steep drop in free cash flow in the coming year, it could lead some to wrongly believing the company's margins are falling apart simply because they didn't dig deeper. 
+As mentioned, Snowflake stock trades at a premium valuation. As an example, its price-to-free-cash-flow valuation is around 90 -- quite pricey and indicative of the market's perception of the quality of Snowflake.
+
+SNOW Price to Free Cash Flow data by YCharts
+I believe it would be irrational to sell Snowflake stock for changes in when its customers are paying their bills. But the market is often irrational, which creates great buying opportunities for more level heads. And although it's far from certain, this entire scenario could create such an opportunity for Snowflake stock.
+I personally believe Snowflake stock is overvalued, and I'm happy to wait for a cheaper price at which the valuation makes sense to me. However, I readily concede it's a high-quality business, and I can appreciate why some have already invested. For current shareholders, the above scenario would present an opportunity to dollar-cost average by adding to their positions.
+10 stocks we like better than SnowflakeWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Snowflake wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of March 8, 2023
+ 
+Jon Quast has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Snowflake. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

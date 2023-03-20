@@ -1,0 +1,65 @@
+March 06, 2023 — 06:45 am EST
+
+      Written by
+                        Billy Duberstein for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+
+In tumultuous markets, long-term opportunities usually present themselves. Opportunities may arise in beaten-down stocks because of unique company-specific headwinds that may reverse in time. At the other extreme, companies doing better than expected against a weak market or sector or may be revealing unique advantages or strengths.
+Taking a barbell approach to either beaten-down or outperforming names, the following three stocks all look like attractive places to park your investable dollars today.
+The stock of Meta Platforms (NASDAQ: META) is up about 100% from its October lows, but it's still more than 50% off its all-time highs.
+Obviously, the stock has faced lots of headwinds over the past two years. Not only is the advertising industry very soft right now because of recession fears, but Meta was also hit by the iPhone's iOS privacy changes beginning in late 2021, limiting Meta's ability to track user behavior and thus its ad-targeting capabilities. CEO Mark Zuckerberg has revealed that iOS changes created a massive $10 billion revenue headwind for Meta when they were implemented.
+Furthermore, the rise of TikTok necessitated that Meta pivot to short-form videos called Reels, which was a product change and additional revenue headwind, as short-form videos don't yet monetize at the same rate as news feeds.
+Oh, and management is also spending a ton of money on the metaverse, a futuristic vision that will take years to pay off, if it ever does. 
+While many attribute the last leg of the Meta's sell-off to increased metaverse spending, I think if the advertising business were growing, investors wouldn't mind it as much. Last quarter, Meta's revenue fell 4%, and operating margin plunged from 37% to 20% on increased spending. 
+Fortunately, it looks as though Meta's massive efforts are beginning to turn the ship around. On the fourth-quarter call, CEO Mark Zuckerberg noted that Reels has been massively successful from an engagement point of view, and that the company thought it would be able to reach Reels "neutrality" with news feed ads by the end of this year or early next year. That means the combination of improved Reels monetization and engagement will mean Meta will no longer lose money relative to news feed ads, all else being equal, in about one year's time.
+Importantly, Meta is also regaining some of the lost targeting capabilities from the iOS change. In the fourth quarter, Zuckerberg noted that advertisers saw a 20% increase in conversions, thanks to Meta's investments in artificial intelligence (AI). Higher conversions for advertisers means Meta will be able to charge higher prices per ad.
+How is AI helping to offset the iOS targeting headwind? One new advertiser tool, called Advantage+, was highlighted in a recent Financial Times article. In the program, advertisers essentially turn over control of the ad to Advantage+, which uses AI algorithms to change the ad's text or visuals, run tests to quickly discover which version is the most effective, and then distribute the most effective version out to a wider audience. 
+The change can be significant, as one marketer said the returns from Advantage+ ads were now nearly on par with Meta ads before the 2021 iOS changes. However, according the Times, some marketers were wary about ceding so much control over their ad campaigns to Meta. 
+Still, the development of Advantage+ is bullish for several reasons. Not only might Meta regain its ad pricing power, but it also shows Meta has the ability to successfully innovate, especially in artificial intelligence. That bodes well for future potential revenue streams around AI-powered creator tools, and it even lends optimism to the ultimate potential of the metaverse.
+Speaking of digital ads, Meta rival Alphabet (NASDAQ: GOOGL) (NASDAQ: GOOG) has also been feeling the heat from a rising competitive threat. Alphabet isn't down quite as much from all-time highs as Meta is, but shares are still 40% off their 2021 levels and trade at a very reasonable 20 times earnings. 
+The stock has lagged the tech-heavy Nasdaq Composite this year because of concerns around Microsoft's big investment in OpenAI, the company behind AI chatbot ChatGPT. Microsoft CEO Satya Nadella said in February that Microsoft will be looking to incorporate ChatGPT into its lagging search engine, Bing, in a challenge to Google Search's dominance for the first time in a long time. 
+Alphabet is embroiled in a fierce AI war with Microsoft. Image source: Getty Images.
+Yet it's quite likely the panic over ChatGPT and Bing is overdone. After all, the most recent February data showed that Google Search not only held its market share against Bing, but it actually increased its market share. While it may be early in this race, the fact that Google Search was able to gain share even amid all the ChatGPT hoopla certainly says something about Google's moat.
+While Alphabet's stock sold off after its ChatGPT rival, Bard, got an answer wrong during a recent publicity event, ChatGPT also still gets plenty of things wrong too.  Yes, Microsoft will invest heavily behind OpenAI, but Alphabet has massive financial resources to compete and lots of AI expertise as well.
+Also going under the radar last week -- pun intended -- Alphabet's Waymo self-driving unit got permission to test driverless rides in Los Angeles late last year, and it should be testing its service with riders in the weeks ahead. The announcement follows Waymo's opening its driverless taxi service to the public in Phoenix back in November. 
+While the hype around autonomous driving has died down, Waymo has been making slow and steady progress, and the winner in this future market could reap massive financial rewards. As with Meta, fears over competitive threats seem overdone with Alphabet, too.
+Speaking of tech-enabled automobiles, investors may be less familiar with Microchip Technology (NASDAQ: MCHP), a diverse semiconductor name with specialization in microcontrollers, analog and mixed-signal chips, clock and timing solutions, and connectivity chips. Basically, Microchip's specialized chip designs make large industrial devices, autos, and consumer appliances "smarter" -- a trend that isn't going away anytime soon.
+This is the rare semiconductor stock still growing at handsome rates. Last quarter, revenue was up 23.4%, with a record-high adjusted (non-GAAP) gross margin of 68.1% and operating margin of 47.5%. And keep in mind, this is at a time when many semiconductor stocks are posting stagnating growth or even declines, because of the massive post-pandemic correction in PCs, smartphones, and some data centers. 
+While some would point to the big difference between many tech names' GAAP and non-GAAP margins, the vast majority of the Microchip's adjustments are in the form of amortization of intangible assets stemming from past acquisitions, not excessive stock-based compensation. That's more of an accounting quirk than a real expense, which means Microchip's high non-GAAP profitability is the real deal. 
+Moreover, Microchip's management said it may achieve its own "soft landing" in which it doesn't experience a quarterly decline even in an overall semiconductor down-cycle. This is due to the company's focus on auto, industrial, and data center infrastructure chips, which are faring much better than consumer devices. In addition, management cited design win momentum and market share gains across its business, thanks to Microchip's strategy to develop "total system solutions" that incorporate its diverse array of chips into complete plug-and-play systems. 
+Investors can get this all-star chip stock for just 13.8 times 2023 earnings estimates, with a dividend that should rise handsomely in the years ahead. Although Microchip's dividend yield is just 1.8% today, management has been raising the dividend more than once per year, increasing the payout 9.1% last quarter, marking a 41.5% increase over just the past year. 
+The dividend increases are enabled by Microchip's yearslong progress in paying down debt stemming from the massive 2018 acquisition of Microsemi. Now that its debt is down to management's target, the company will be steadily increasing the proportion of free cash flow that goes to shareholders.
+Investors shouldn't overlook this semiconductor stock that doesn't garner much headlines but continues to deliver. 
+10 stocks we like better than WalmartWhen our award-winning analyst team has an investing tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Walmart wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+Stock Advisor returns as of February 8, 2023
+Suzanne Frey, an executive at Alphabet, is a member of The Motley Fool's board of directors. Randi Zuckerberg, a former director of market development and spokeswoman for Facebook and sister to Meta Platforms CEO Mark Zuckerberg, is a member of The Motley Fool's board of directors. Billy Duberstein has positions in Alphabet, Meta Platforms, and Microsoft and has the following options: short March 2023 $75 puts on Microchip Technology. His clients may own shares of the companies mentioned. The Motley Fool has positions in and recommends Alphabet, Meta Platforms, and Microsoft. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

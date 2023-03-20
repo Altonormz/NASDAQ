@@ -1,0 +1,84 @@
+February 28, 2023 — 08:16 am EST
+
+      Written by
+                        Anirudha Bhagat for                             
+        
+
+
+
+
+Zacks ->
+
+
+Industry Description
+The Zacks Security industry comprises companies offering on-premise and cloud-based security solutions. The solutions can be used for identity access management, infrastructure protection, integrated risk management, malware analysis and Internet traffic management, to name a few. Industry participants offer different types of security solutions, most of which can be used interchangeably.  These solutions can be roughly categorized into three types — Computer Security, Cybersecurity and Information Security. Computer Security solutions provide protection from vulnerabilities in both the software and hardware of a computer system. Cybersecurity includes sections like web security, network security, application security, container security and information security. Information Security is concerned with any form of data-security issue, be it physical or digital data.
+Major Trends Shaping the Future of the Security Industry
+Rising Cyber Threats Boost Demand for IT Security: Frequent cyberattacks are spurring demand for security solutions. This trend has not only affected certain companies but also threatened the national security of some countries. Notably, the prevailing global health crisis has given rise to newer forms of hacking and cybercrimes, which are difficult for firms and individuals to deal with. The firms operating in the security industry are working hard to address these concerns. These companies are positioned to benefit as protection against spear phishing, credential-based attack, account takeover and ransomware attacks, among others, has become the need of the hour.
+Accelerated Digital Transformation Aiding Growth: Increasing the requirement for privileged access security on the back of digital transformation and cloud migration strategies is fueling the demand for cybersecurity solutions. The COVID-19 pandemic has further increased cyber onslaughts as businesses of all sizes are transitioning their operations to various online platforms. From education to entertainment, working to shopping, and even healthcare has gone virtual, causing high technology percolation in everyday lives. This puts not only businesses but also schools, hospitals and other organizations at risk of online assaults. While public institutions and large companies have always been the target of hackers, smaller organizations with lower security standards are also on their radars. Further, the advent of 5G will enable other devices to connect to the Internet, thereby expanding the scope of Internet of Things (IoT) and artificial intelligence (AI). While IoT and AI will simplify things, these will also aggravate the rate of cybercrime, given the increased reliance on technology.
+Elevated Operating Expenses to Hurt Profitability: To survive in the highly competitive IT security market, each player is continuously investing in broadening its capabilities. The players in the space are aggressively investing in research and development to enhance their product portfolio and enhance their capabilities to provide a complete security solution to clients. Moreover, companies are investing heavily to enhance their sales and marketing capabilities, particularly by increasing their sales force. Therefore, elevated operating expenses to capture more market share are likely to dent margins in the near term.
+Zacks Industry Rank Indicates Bright Prospects
+The Zacks Security industry is housed within the broader Zacks Computer and Technology sector. It carries a Zacks Industry Rank #46, which places it among the top 18% of more than 250 Zacks industries.
+The group’s Zacks Industry Rank, which is basically the average of the Zacks Rank of all the member stocks, indicates solid near-term prospects. Our research shows that the top 50% of the Zacks-ranked industries outperforms the bottom 50% by a factor of more than 2 to 1.
+The industry’s positioning in the top 50% of the Zacks-ranked industries is a result of a positive earnings outlook for the constituent companies in aggregate. Looking at the aggregate earnings estimate revisions, it appears that analysts are optimistic about this group’s earnings growth potential.
+The industry’s earnings estimate for 2023 has moved up to earnings of $1.51 from earnings of $1.22 as of Feb 28, 2022. Similarly, the industry’s earnings estimate for 2024 has been revised upward by 9 cents to $1.81 from $1.72 as of Feb 28, 2022.
+Before we present a few stocks that you may want to consider for your portfolio, considering bright prospects, let us look at the industry’s recent stock-market performance and valuation picture.
+Industry Outperforms Sector and S&P 500
+The Zacks Security industry has outperformed the broader Zacks Computer and Technology sector as well as the S&P 500 composite over the past year.
+The industry has declined 10.7% during this period compared with the S&P 500’s 10.8% decline and the broader sector’s 19.8% depreciation.
+Industry's Current Valuation
+On the basis of the trailing price-to-sales ratio (P/S), which is a commonly-used multiple for valuing Security stocks, the industry is currently trading at 11.76, higher than the S&P 500’s 3.51 and the sector’s 3.36.
+Over the last five years, the industry has traded as high as 18.81X, as low as 8.32X and recorded a median of 12.86X, as the charts below show.
+
+ 
+
+3 Stocks to Bet On
+Palo Alto Networks: The company offers network security solutions to enterprises, service providers and government entities worldwide. Palo Alto Networks has been benefiting from continuous deal wins and increasing adoption of the company’s next-generation security platforms, attributable to the rise in the remote work environment and the need for stronger security.
+Strong demand for form factor hardware products, particularly the recently launched machine learning (ML)-powered models that ensure zero-trust network security for organizations, is expected to contribute to Palo Alto Networks’ performance in the quarters ahead.
+Growing traction in Strata, Prisma and Cortex offerings is acting as a tailwind. The acquisition of Bridgecrew in 2022 enhanced the capabilities of Prisma and Cortex product capabilities, thereby helping Palo Alto Networks in attracting more customers.
+Currently, Palo Alto Networks sports a Zacks Rank #1 (Strong Buy).  You can see the complete list of today’s Zacks #1 Rank stocks here. 
+The consensus mark for fiscal Palo Alto Networks’ fiscal 2023 earnings has been revised upward by 54 cents to $3.96 per share over the past seven days. Shares of PANW have declined 4.9% over the past year.
+
+ 
+Fortinet: This Zacks Rank #2 (Buy) company is a provider of network security appliances and Unified Threat Management (UTM) network security solutions to enterprises, service providers and government entities worldwide.
+Fortinet is benefiting from robust growth in Fortinet Security Fabric, cloud and Software-defined Wide Area Network (SD-WAN) offerings. Moreover, continued deal wins, especially those of high value, act as key drivers. Higher IT spending on cybersecurity is further expected to aid Fortinet in growing faster than the security market. Also, FTNT’s focus on enhancing its UTM portfolio through product development and acquisitions is a tailwind.
+The consensus mark for Fortinet’s 2023 earnings has been revised upward by 3 cents to $1.40 per share over the past 30 days. Shares of FTNT have plunged 13.5% over the past year.
+
+ 
+Varonis Systems: The company provides an innovative software platform that allows enterprises to map, analyze, manage and migrate their unstructured data. Its products include DatAdvantage, DataPrivilege, IDU Classification Framework, Data Transport Engine and DatAnywhere. The company sells its products to small and medium businesses and large multinational enterprises in financial services, consumer and retail, industrial, healthcare, and energy and utilities industries.
+Varonis Systems is benefiting from the rising demand for cyber security solutions owing to the long list of data breaches. Increasing demand for privileged access management solution on the back of digital transformation strategies remains a key growth driver. Strong presence across small and medium businesses and large multinational enterprises in financial services, consumer and retail, industrial, healthcare, and energy and utilities industries is driving revenues.
+Varonis Systems currently carries a Zacks Rank #2. The consensus mark for its 2023 earnings has been revised upward by 8 cents to 40 cents per share over the past 30 days. Shares of VRNS have plunged 37.9% over the past year.
+
+
+
+7 Best Stocks for the Next 30 Days
+
+	Just released: Experts distill 7 elite stocks from the current list of 220 Zacks Rank #1 Strong Buys. They deem these tickers "Most Likely for Early Price Pops."
+
+	Since 1988, the full list has beaten the market more than 2X over with an average gain of +24.8% per year. So be sure to give these hand-picked 7 your immediate attention. 
+Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report
+Palo Alto Networks, Inc. (PANW) : Free Stock Analysis Report
+Fortinet, Inc. (FTNT) : Free Stock Analysis Report
+Varonis Systems, Inc. (VRNS) : Free Stock Analysis Report
+To read this article on Zacks.com click here.
+Zacks Investment Research
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

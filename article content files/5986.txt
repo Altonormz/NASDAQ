@@ -1,0 +1,81 @@
+March 06, 2023 — 09:00 am EST
+
+      Written by
+                        Nicholas Rossolillo for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Early in 2023, it was announced that Apple (NASDAQ: AAPL) is working on designing its own WiFi and Bluetooth chips for its devices. The chips Apple wants to replace are supposedly those from silicon design powerhouse Broadcom (NASDAQ: AVGO).
+Reports further suggest that Apple might be able to begin cutting Broadcom out of the mix by 2025. It's certainly a cause for concern for Broadcom shareholders, as Jose Najarro and I discussed shortly after the news report. But further review shows that Apple's design efforts in wireless communications chips could present a major challenge, because Broadcom has quite the competitive edge in that department.
+It's easy to argue that Apple is the most successful products company around. Its custom mobile-processor designs (which it licenses from ARM Holdings and adapts to its needs) are a big reason for that success. The iPhone, MacBook, and other products boast best-in-class performance and are differentiated from competing devices.
+But there's another reason Apple has been trying to expand on its in-house chip-design chops. It has massive scale few companies can rival, so it's able to get into the very complicated and expensive semiconductor engineering business. And thanks to that massive scale, designing its own chips for its range of devices can add up to big cost savings.
+Thus Apple's work on cellular modems is an attempt to part ways with Qualcomm, though the effort hasn't paid off yet (iPhone 15 reportedly will still use a Qualcomm modem, though Qualcomm is still factoring in very little Apple revenue for 2025).
+Broadcom is a natural next target, because it and Qualcomm have one important metric in common: They're wildly profitable. In a typical good year when the Android smartphone market isn't imploding, Qualcomm generates free-cash-flow profit margins well over 20%. Broadcom has reported a mind-bogglingly good free-cash-flow margin of 49% over the last year. Clearly, Apple sees an opportunity to save itself some serious cash if it can replace these two suppliers.
+
+Data by YCharts.
+Broadcom is a massive supplier of hardware to Apple. Back in 2020, it was awarded new contracts to supply wireless modules and related components for the iPhone and other products, and at the time, it was estimated that contract would be worth $15 billion in sales for Broadcom. Indeed, in its annual filing for fiscal year 2022 (which ended Oct. 30, 2022), Broadcom estimated that Apple accounted for about 20% ($6.6 billion) of its $33 billion total revenue.
+Losing Apple's WiFi and Bluetooth chip sales would be a big hit for Broadcom -- although it's worth mentioning that Broadcom almost certainly supplies other semiconductors outside of wireless, since wireless hardware provided less than one-quarter of its total sales at the end of its fiscal year 2022.
+Broadcom Sales Segment
+Q4 Fiscal 2022
+Change (YoY)
+Networking
+$2.5 billion
+30%
+Storage connectivity
+$1.2 billion
+50%
+Broadband
+$1 billion
+20%
+Wireless
+$2.1 billion
+13%
+Industrial
+$234 million
+1%
+Infrastructure software
+$1.8 billion
+4%
+Total
+$8.9 billion
+21%
+Data source: Broadcom. YOY = year over year.
+Besides providing a multitude of components, there's another very important reason Apple may not be able to completely part ways with Broadcom. Broadcom is often referred to as a "fabless" chip company -- meaning it only designs silicon, and leaves the actual manufacturing of chips to third-party partners like Taiwan Semiconductor Manufacturing. Of chip wafers used by Broadcom's manufacturing partners, 90% came from TSMC last year.
+But calling Broadcom "fabless" is a bit of a misnomer. Buried in its 2022 annual filing is the fact that it has retained a few small chip fab plants of its own -- one in Singapore; one in Breinigsville, Pennsylvania; and one in Fort Collins, Colorado. These fabs were a very small part of its business, but an important part. According to Broadcom:
+We use our internal fabrication facilities for products utilizing our innovative and proprietary processes, such as our FBAR [film bulk acoustic resonator] filters for wireless communications and our vertical-cavity surface emitting laser and side emitting lasers ... based on GaAs [gallium arsenide] and InP [indium phosphide] lasers for fiber optic communications, while outsourcing commodity processes such as standard CMOS [complementary metal-oxide semiconductor]. By doing so, we can protect our IP [intellectual property] and accelerate time to market for our products.
+The Fort Collins fab is of particular interest here, since Broadcom says it is the sole supplier of FBAR components used in its wireless devices, like those WiFi and Bluetooth components.
+The takeaway? Apple has done some impressive silicon work, but designing chips is only part of the battle. It will also need to find a way to manufacture some of these wireless components, and like-for-like replacement fab technology for Broadcom simply may not exist -- at least not without the risk of running afoul of Broadcom's intellectual property rights.
+Apple isn't the only tech company with a defensible moat. Broadcom has a moat too: It's a very sticky part of the semiconductor industry, and might be impossible for Apple to completely part ways with. Apple might try to cut it out anyways -- but I continue to believe Broadcom is a fantastic dividend stock for the long term.
+10 stocks we like better than BroadcomWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Broadcom wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Nicholas Rossolillo and his clients have positions in Apple, Broadcom, and Qualcomm. The Motley Fool has positions in and recommends Apple, Qualcomm, and Taiwan Semiconductor Manufacturing. The Motley Fool recommends Broadcom and recommends the following options: long March 2023 $120 calls on Apple and short March 2023 $130 calls on Apple. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

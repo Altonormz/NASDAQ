@@ -1,0 +1,66 @@
+March 03, 2023 — 09:04 am EST
+
+      Written by
+                        Supriyo Bose for                             
+        
+
+
+
+
+Zacks ->
+
+
+Industry Description
+The Zacks Diversified Communication Services industry comprises firms that provide a wide array of communication services, including wireless, wireline and Internet, to business enterprises and consumers. These companies offer mobile and wireline telephone services, high-speed Internet, direct-to-home satellite television and other value-added services. In addition to providing integrated information and communications technology services to businesses and governments, some of these companies operate as local exchange carriers or full-service providers of data center colocation and related managed services in state-of-the-art data center facilities. Some industry participants also provide IP networks, private lines, network management and hosting services, along with sales, installation and maintenance of major branded IT and telephony equipment.
+What's Shaping the Future of the Diversified Communication Services Industry?
+Evolution of Business Model to Cater to Higher Demand: Video and other bandwidth-intensive applications have witnessed exponential growth owing to the wide proliferation of smartphones and increased deployment of the superfast 5G technology. This has forced the industry participants to invest considerably in LTE, broadband and fiber to provide additional capacity and ramp up the Internet and wireless networks. These companies are rapidly transforming themselves from legacy copper-based telecommunications firms to technology powerhouses with capabilities to meet the growing demand for flexible data, video, voice and IP solutions. At the same time, the industry participants continue to focus on leveraging wireline momentum, expanding media coverage, improving customer service and achieving a competitive cost structure to generate higher average revenue per user while attracting new customers. Also, these firms offer the flexibility to better manage data traffic by leveraging indigenous software-defined networks to enable low-latency, high-bandwidth applications for faster access to data processing. Although these infrastructure investments are likely to be beneficial in the long run, short-term profitability has largely been compromised.Waning Demand for Legacy Services: Efforts to offset substantial capital expenditure for upgrading network infrastructure by raising fees have resulted in reduced demand, as customers prefer to switch to lower-priced alternatives. Moreover, local-line access for traditional telephony services continues to decline among large customers due to higher wireless substitution and migration to IP-based services. This is reflected in the persistent erosion in overall network access services on a year-over-year basis, hurting revenues of local and long-distance operations. With Digital Subscriber Line and cable modems gaining widespread acceptance, customers are deactivating extra phone lines that were earlier used to access the Internet via dial-up modems. In addition, a shift toward wireless services and the aggressive rollout of VoIP and long-distance services by Tier-1 competitors have resulted in access line erosion. These adverse impacts have become more pronounced with fresh lockdown restrictions in China and the prolonged Russia-Ukraine war.Integrated Customized Offering: To improve profitability, the companies are increasingly focusing on providing support services to various small and mid-sized businesses (SMBs) with an integrated portfolio of voice, data and technology services. The firms are tailoring their services to suit individual business needs and are facilitating SMBs to better adapt themselves to necessary technology advancements. At the same time, the industry is battling hard-to-mitigate operating risks stemming from volatility in demand, an unpredictable business environment led by the virus outbreak and challenging geopolitical scenarios by offering free services to low-income families and seamless wireless connectivity to the masses.Unstable Raw Material Prices: Although the supply chain woes have declined progressively, the industry continues to face a dearth of chips, which are the building blocks for various equipment used by telecom carriers. Moreover, high raw material prices due to inflation and economic sanctions against the Putin regime have affected the operation schedule of various firms. Extended lead times for basic components are also likely to hurt the delivery schedule and escalate production costs. The demand-supply imbalance has crippled operations and largely affected profitability due to inflated equipment prices.
+Zacks Industry Rank Indicates Bullish Trends
+The Zacks Diversified Communication Services industry is housed within the broader Zacks Utilities sector. It carries a Zacks Industry Rank #13, which places it in the top 5% of more than 250 Zacks industries.The group’s Zacks Industry Rank, which is basically the average of the Zacks Rank of all the member stocks, indicates encouraging near-term prospects. Our research shows that the top 50% of the Zacks-ranked industries outperform the bottom 50% by a factor of more than 2 to 1. The industry’s positioning in the top 50% of the Zacks-ranked industries is a result of a positive earnings outlook for the constituent companies in aggregate.Before we present a few diversified communication stocks that are well-positioned to outperform the market based on a relatively modest earnings outlook, let’s take a look at the industry’s recent stock market performance and valuation picture.
+Industry Lags S&P 500, Sector 
+The Zacks Diversified Communication Services industry has lagged the S&P 500 composite and the broader Zacks Utilities sector over the past year largely due to macroeconomic headwinds.The industry has lost 16.5% over this period compared with the S&P 500’s and the sector’s decline of 11.1% and 9.4%, respectively.One Year Price Performance
+
+Industry's Current Valuation
+On the basis of the trailing 12-month enterprise value-to-EBITDA (EV/EBITDA), which is the most appropriate multiple for valuing telecom stocks, the industry is currently trading at 15.29X compared with the S&P 500’s 11.82X. It is trading below the sector’s trailing 12-month EV/EBITDA of 20.29X.Over the past five years, the industry has traded as high as 16.49X and as low as 7.28X and at the median of 12.57X, as the chart below shows.Trailing 12-Month enterprise value-to EBITDA (EV/EBITDA) Ratio
+
+3 Diversified Communication Services Stocks to Keep an Eye on
+Swisscom AG: Headquartered in Bern, Switzerland, Swisscom offers mobile and fixed-network telecommunications services across the country and Italy. A wealthy domestic market with stable economic conditions, a relatively lax regulatory environment compared to the EU, its dominant market position and a strong leadership team are some of the key growth drivers of the company. With a complete spectrum of state-of-the-art data services, from leased lines to integrated solutions for corporate and residential customers, Swisscom’s healthy growth momentum is likely to continue. The Zacks Consensus Estimate for current-year and next-year earnings has been revised upward by 11.1% and 9.2%, respectively, since October 2022. The stock sports a Zacks Rank #1 (Strong Buy).  You can see the complete list of today’s Zacks #1 Rank stocks here. Price and Consensus: SCMWY
+Deutsche Telekom AG: Headquartered in Bonn, Germany, Deutsche Telecom is one of the largest telecommunications service providers in Europe. In addition to its strong position in the domestic market, the company is likely to benefit from the accretive post-merger integration of T-Mobile US Inc. and Sprite in the United States, in which it owns about 43% stake. The removal of forced cable TV access in multiple dwelling units in Germany through telecom legislation is likely to help the company expand its broadband market. Moreover, an aggressive fiber rollout strategy across the country is expected to augment its domestic market hold. The Zacks Consensus Estimate for current-year earnings has been revised 21.8% upward over the past year. It has a VGM Score of A and a long-term earnings growth expectation of 14.3%. The stock has gained 33.9% in the past year. Deutsche Telecom carries a Zacks Rank #2 (Buy).
+Price and Consensus: DTEGY
+Telenor ASA: Headquartered in Fornebu, Norway, Telenor offers mobile communication, fixed-line communication and broadcasting services worldwide. The company has completed a $15-billion merger to emerge as a leading telecom services provider in Malaysia that is likely to contribute significantly toward the growth of the country’s digital ecosystem and economy. The Zacks Consensus Estimate for current-year and next-year earnings has been revised upward by 6.3% and 17.9%, respectively, since October 2022. The stock sports a Zacks Rank #1 and has a VGM Score of B.Price and Consensus: TELNY
+
+
+
+Zacks Names "Single Best Pick to Double" 
+
+	From thousands of stocks, 5 Zacks experts each have chosen their favorite to skyrocket +100% or more in months to come. From those 5, Director of Research Sheraz Mian hand-picks one to have the most explosive upside of all.
+
+	It’s a little-known chemical company that’s up 65% over last year, yet still dirt cheap. With unrelenting demand, soaring 2022 earnings estimates, and $1.5 billion for repurchasing shares, retail investors could jump in at any time.
+
+	This company could rival or surpass other recent Zacks’ Stocks Set to Double like Boston Beer Company which shot up +143.0% in little more than 9 months and NVIDIA which boomed +175.9% in one year.
+Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report
+Swisscom AG (SCMWY) : Free Stock Analysis Report
+Deutsche Telekom AG (DTEGY) : Free Stock Analysis Report
+Telenor ASA (TELNY) : Free Stock Analysis Report
+To read this article on Zacks.com click here.
+Zacks Investment Research
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

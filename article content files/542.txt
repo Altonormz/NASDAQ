@@ -1,0 +1,51 @@
+March 17, 2023 — 08:51 am EDT
+
+      Written by
+                        Foo Yun Chee for                             
+        
+
+
+
+
+Reuters ->
+
+
+By Foo Yun Chee
+BRUSSELS, March 17 (Reuters) - Tech giants will likely challenge a new European Union law aimed at reining in their power with the first cases in a potential wave of litigation expected by year-end, one of the EU's top judges said on Friday.
+The Digital Markets Act (DMA), which came into force in November, will classify online platforms with more than 45 million users as gatekeepers, among other criteria.
+The gatekeepers - companies that control data and platform access - are subject to a list of do's, such as making their messaging services interoperable, and don'ts, including not favouring their products and services on their platforms.
+The list of gatekeepers to which the DMA will apply is due to be announced on Sept. 6 and will likely include Alphabet's GOOGL.O Google, Meta META.O, Amazon AMZN.O, Apple AAPL.O and Microsoft MSFT.O.
+Those disagreeing with the label and requirements are likely to take their complaint to the Luxembourg-based General Court within months, its president Marc van der Woude said.
+The General Court is part of the Court of Justice of the European Union (CJEU) and deals with cases ranging from competition law to trade and the environment.
+"Probably the end of this year, beginning of next year we might see the first cases and I don't think it will stop," he told a conference organised by the European Commission.
+Some, like Google and Apple, have lobbied intensively against the DMA.
+"We remain concerned that some provisions of the DMA will create unnecessary privacy and security vulnerabilities for our users while others will prohibit us from charging for intellectual property in which we invest a great deal," it said in March 2022.
+Google has echoed those sentiments, and said it was also concerned that the new rules could reduce innovation.
+But van der Woude said the DMA was still evolving.
+"It's a living organism, this DMA, it's under constant review, obligations will be reviewed and implementing acts. So if I might call it like this, it will be a lawyer's paradise," he said.
+He said areas of dispute will likely focus on the gatekeeper designation, specifications of their obligations and during enforcement of the DMA.
+A contentious area is likely to be the requirement on gatekeepers to notify their acquisitions to the Commission and whether such deals meet the threshold for regulatory scrutiny, van der Woude said.
+($1 = 0.9403 euros)
+(Reporting by Foo Yun Chee Editing by Raissa Kasolowsky)
+((foo.yunchee@thomsonreuters.com; +32 2 585 2866; Reuters Messaging: foo.yunchee.thomsonreuters.com@reuters.net))
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

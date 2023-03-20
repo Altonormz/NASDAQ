@@ -1,0 +1,53 @@
+March 03, 2023 — 03:24 pm EST
+
+      Written by
+                        Billy Duberstein for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Shares of high-growth software-as-a-service stocks Snowflake (NYSE: SNOW), Palantir Technologies (NYSE: PLTR), and MongoDB (NASDAQ: MDB) rallied today, up 4.2%, 4.6%, and 6.9%, respectively, as of 2:54 p.m. ET.
+There wasn't any material individualstock newstoday on these three names, although yesterday Snowflake experienced a sell-off following its somewhat disappointing fourth-quarter earnings report and guidance.
+Yet today's sector-wide moves suggest something macroeconomic was the culprit. That has been the case for much of the month of February and really since the inflation spike started over one year ago. Fortunately, interest rates backed off recent highs and trended lower today, reversing the recent months-long spike after January inflation pressures surprised to the upside. In addition, large retailer Costco Wholesale said it was seeing some inflation pressures ease during itsearnings calllast night.
+While individual company execution is important, a lot of the performance in the tech sector over the past year has been dictated by inflation and interest rates. When inflation numbers are higher than thought, interest rates rise, putting pressure on technology growth stocks. This is because higher rates disproportionally affect the present value of earnings that are far into the future. As these three stocks don't make material profits yet, with Snowflake making notably large losses according to generally accepted accounting principles (GAAP), these three names are heavily influenced by moves in interest rates. 
+Fortunately, investors are seeing relief on that front today. The 10-year Treasury bond yield, which surged from 3.4% at the beginning of February to over 4% yesterday, is retreating today, down about 2.55% to a yield of 3.97% as of this writing. Another important Treasury yield investors monitor is the two-year Treasury yield, which is highly correlated to predictions about the path of the Federal Reserve's rate hikes. After reaching a 16-year high yesterday, the two-year yield is also retreating slightly, to 4.87%. 
+These are relatively small moves, but after basically a month straight of rate increases, investors may be betting that rates have hit a near-term ceiling. Obviously, much will be dictated by incoming economic data, such as the next inflation report on March 14, among others.
+While January's data released last month showed a spike in job growth and inflation, that broke a three-month downtrend in inflation between October and December, perhaps explaining the tech sector's rally off its October lows. Was that the beginning of inflation reigniting, or just a counter-trend spike?
+Last night, Costco CFO Richard Galanti offered some hope on inflation continuing to moderate, noting that Costco had seen inflation fall to a 5% to 6% range in the recent quarter, down from 6% to 7% in the prior quarter, and that the trend remained downward, with prices falling more toward the end of the most recent quarter. Galanti elaborated, "Commodity prices are starting to fall -- not to back to pre-COVID levels ... but continue to provide some relief -- things like chicken, bacon, butter, steel, resin, nuts."
+Costco is a massive retailer with a very wide footprint that sources lots of items, so perhaps that statement helped stoke today's optimism that inflation, at least in some raw materials, is falling.
+The sooner inflation eases, the less the Fed will have to raise rates -- it could usher in a recession if the Fed has to push them very high. While software stocks would likely still be able to grow even in an economic downturn, their growth rates would slow markedly. Snowflake called out customers appearing to be bracing for a downturn on itsearnings callWednesday, and guided for lower growth in fiscal 2024 (ending January 2024). With customers increasingly worried, management noted large enterprises are booking smaller deals just to cover near-term needs. While Snowflake's data-driven insights enable competitive advantages and are a long-term growth trend,  management noted customers also appear to be pulling back on their data consumption, trying to preserve every dollar.
+But if inflation eases enough, that means a less severe downturn may be needed to break inflation for good. Therefore, it's no wonder Snowflake is bouncing back somewhat after its fall yesterday on more hopeful inflation signs.
+While the long-term outperformance of these stocks will be dictated by their technology prowess, competitive advantages, and management execution, much of the near-term stock moves will be dictated by interest rates and inflation data. That has been the case since late 2021, and unfortunately, will likely remain true until the current above-target inflation moderates to the Federal Reserve's 2% target.
+Whether or not it will take a "hard landing" recession to get there is still an open question. However, after a pessimistic month, today offered some relief and hope for the future. Investors probably shouldn't try to play or predict near-term economic data, but rather stick with quality companies they believe in for the long term. 
+10 stocks we like better than SnowflakeWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Snowflake wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Billy Duberstein has positions in Costco Wholesale. His clients may own shares of the companies mentioned. The Motley Fool has positions in and recommends Costco Wholesale, MongoDB, Palantir Technologies, and Snowflake. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

@@ -1,0 +1,93 @@
+March 13, 2023 — 08:55 am EDT
+
+      Written by
+                        pmartin@sir-inc.com for                             
+        
+
+
+
+
+Schaeffer ->
+
+
+“…the probability that the fed funds rate will be at 5.25% or 5.50% in December 2023 didn’t change all that much from the week prior. No change in these expectations may have been enough to stop the slide in the stock market. Moreover, we may be on the verge of a few weeks in which buyers outnumber sellers coincident with the start of a new month, just as a pivot to a selling mentality took hold at the beginning of last month.”
+          - Monday Morning Outlook, March 6, 2023
+Unlike prior months since November, the turn to a new calendar month was not met with buyers after several days of selling. The obvious culprit was Federal Reserve Chairman Jerome Powell’s testimony to Congress on Tuesday and Wednesday, in which he suggested that depending on upcoming data, the Fed may revert back to interest rate increases that exceed 25 basis points. His message was perceived as hawkish, generating another “reset” of where the fed funds rate will be after the March 22 meeting.  
+As such, bears took over in the middle of the week, sending stocks lower as the expectations for a 50-basis point hike at the March meeting surged from 28% to 68% due to Powell’s testimony. 
+“…if there is follow-through buying, there could be trendline resistance using the January and early-February highs. On Monday, this trendline sits at 4,090 and on Friday this trendline will reside at 4,070…”
+ - Fed Chair Jerome Powell, March 6-7, 2023
+“On Wednesday, the S&P 500 (SPX -- 4,045.64) closed below the key 3,970 level that, in my opinion, is one of the more important levels that investors should continue to be in tune within the days ahead. However, and as I mentioned last week, even if 3,970 was breached, there was a ‘lifeline’ of sorts for bulls in the 3,940 area, which was a potential ‘three-tiered’ support zone (200-day moving average, the September 2022 breakdown level from a trendline connecting higher lows from June through early September and a 61.8% Fibonacci retracement of the December 2022 low and early-February high.)”
+            - Monday Morning Outlook, March 6, 2023
+After the Friday employment number and news that regulators are closing Silicon Valley Bank, the chances of a 50-basis point hike on March 22 dropped back to 44%, but the damage had already been done to equities and there was more damage to come. 
+For example, the sell-off in financial-related stocks on Thursday and Friday related to the bank’s closure generated broad-based selling, sending the S&P 500 Index (SPX—3,861.59) further below the major support area between 3,940 and 3,970 that I discussed last week, per the second of the two excerpts above.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+By Thursday’s close, the SPX was below the 3,940-level, which I referred to as the SPX’s “lifeline” amid a break of 3,970. The selloff last week occurred after Monday morning’s peak was just below the trendline that I cautioned readers about last week connecting lower highs since January, which should be on your radar if a rally attempt occurs in the coming weeks.
+ 
+3,850 level back in play on $SPX - the level it was at when Biden took office in January '21
+ 
+If you are looking for the next “line in the sand” of potential support, it is between 3,835 and 3,850, with 3,835 representing the level that is a round 20% below the all-time closing high and 3,840 the site of the 2022 close. 
+The 3,850 level is important for a couple of reasons: 1) it is the level at which the SPX closed when President Joe Biden took office and 2) it is the current site of the extended trendline connecting major lower highs in 2022. A break of this area would likely mean a retest of the November closing low in the 3,780 area or the October closing low at 3,577.
+Even with these potential support levels in play, the decline below the 3,940-3,970 area increases risk in the market significantly. Moreover, an immediate risk that you don’t see on the chart is standard expiration of March options on Friday.  
+For example, as you can see on the SPDR S&P 500 ETF Trust (SPY—385.91) March open interest configuration graph immediately below, the break below the put-heavy 390 strike (far right red bar) sets in motion the potential for other big put strikes below this to act as magnets. This is a result of sellers of those puts looking to hedge by selling more and more S&P futures, if those put-heavy strikes come into play ahead of Friday. This process is known as “delta-hedge” selling and may have started on Friday with the move below the put-heavy 390 strike, equivalent to SPX 3,900. With heavy put open interest stacked to the 350 strike (far left red bar), one should leave open the possibility of a sharp decline to this level if delta-hedge selling defines the upcoming week. Given the smaller put build up at the 365- strike, a decline to $370-$375 might be more realistic, depending on if there is a bigger build in the 365 strike put strikes and below during the week. 
+If support mentioned above manages to hold, the upside for bulls is a short-covering rally associated with the expiration of the out-of-the-money put open interest. As such, short-term traders eyeing Friday expiration trades should have exposure to both directional possibilities, as the SPY’s open interest configuration sets up for a sharp move in either direction, whether it be delta-hedge selling or the unwinding of short positions related to expiring out-of-the-money puts.
+
+
+
+
+
+
+
+
+
+Finally, as a quick follow-up to my comments last week about the first two months of 2023 benefiting from an unwinding of pessimism, the naysayers may be back, which could create a headwind within the context of a deteriorating technical backdrop. 
+Updated short interest figures for the end of February were released last week and short interest on SPX components showed an uptick, per the chart below. The slight increase in short interest on SPX components occurred before key levels on the SPX were broken to the downside. The implication is that the market could begin to face the same headwinds as 2022, when the shorts built up positions throughout most of the year. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Todd Salamone is the Senior V.P. of Research at Schaeffer's Investment Research.
+Continue Reading:
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

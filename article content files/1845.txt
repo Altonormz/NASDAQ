@@ -1,0 +1,47 @@
+March 14, 2023 — 06:51 pm EDT
+
+      Written by
+                        Joe Tenebruso for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Shares of Microsoft (NASDAQ: MSFT) and Advanced Micro Devices (NASDAQ: AMD) climbed on Tuesday. Microsoft's partner, OpenAI, debuted a powerful new artificial intelligence model, while AMD launched a new line of cutting-edge processors.  
+OpenAI unveiled GPT-4, the latest generation of its large language models (LLMs), which are trained on massive amounts of data and can be used to power AI applications. OpenAI used previous versions of its LLMs to build and operate its wildly popular AI bot, ChatGPT.
+GPT-4 is an even more powerful model that can solve difficult problems with improved accuracy, according to OpenAI. It's also multimodal, meaning that it can accept both text and image inputs. 
+OpenAI trained GPT-4 on Microsoft's Azure AI infrastructure. The two companies also struck a multibillion-dollar partnership in January. Since then, Microsoft has integrated OpenAI's technology into its Bing search engine and several of its other products and services.
+AMD, meanwhile, announced its latest generation of EPYC Embedded processors. The high-performance and energy-efficient 9004 Series chips are geared toward the embedded networking, cloud computing, and industrial markets.
+Microsoft and AMD both stand to profit handsomely from the AI revolution. Microsoft's Azure cloud infrastructure platform, which is designed to efficiently power AI workloads, is likely to see booming demand for its computing services in the coming years. It also doesn't hurt that Microsoft is OpenAI's exclusive cloud provider, as ChatGPT is the most popular AI chatbot in the world today.
+AMD is also likely to enjoy surging demand for its highly regarded chips. CEO Lisa Su knows that AI will be vital to the chipmaker's future. She's deftly positioning the semiconductor leader to power the AI megatrend -- and deliver more gains to its investors along the way.
+10 stocks we like better than MicrosoftWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Microsoft wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of March 8, 2023
+ 
+Joe Tenebruso has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Advanced Micro Devices and Microsoft. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

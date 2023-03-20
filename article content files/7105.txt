@@ -1,0 +1,72 @@
+March 02, 2023 — 12:45 pm EST
+
+      Written by
+                        Dylan LeClair for                             
+        
+
+
+
+
+Bitcoin Magazine ->
+
+
+The Big Flip thesis has been gaining traction in the financial world and describes the market’s misplaced belief in the path of inflation and policy rates.
+The article below is a free full piece from a recent edition of Bitcoin Magazine PRO, Bitcoin Magazine's premium markets newsletter. To be among the first to receive these insights and other on-chain bitcoin market analysis straight to your inbox, subscribe now.
+In this article, we break down a macro thesis that has been gaining an increasing amount of traction in the financial world. The “Big Flip” was first introduced by pseudonymous macro trader INArteCarloDoss, and is based on the market’s apparent misplaced belief on the path of inflation and subsequently the path of policy rates. 
+Link to embedded tweet.
+To simplify the thesis, the Big Flip was built upon the assumption that an imminent recession in 2023 was wrong. Even though the rates market had fully priced in the belief that an impending recession was likely, the big flip and recession timeline may take longer to play out. In particular, this change in market expectations can be viewed through Fed fund futures and short-end rates in U.S. Treasuries.
+In the second half of 2022, as the market consensus flipped from expecting entrenched inflation to disinflation and an eventual economic contraction in 2023, the rates market began to price in multiple rate cuts by the Federal Reserve, which served as a tailwind for equites due to this expectation of a lower discount rate. 
+In “No Policy Pivot In Sight: "Higher For Longer" Rates On The Horizon,” we wrote:
+“In our view, until there is meaningful deceleration in the 1-month and 3-month annualized readings for measures in the sticky bucket, Fed policy will remain sufficiently restrictive — and could even tighten further.”
+“While it is likely not in the interests of most passive market participants to dramatically alter the asset allocation of their portfolio based on the tone or expression of the Fed Chairman, we do believe that “higher for longer” is a tone that the Fed will continue to communicate with the market.
+“In that regard, it’s likely that those attempting to aggressively front-run the policy pivot may once again get caught offside, at least temporarily.
+“We believe that a readjustment of rate expectations higher is possible in 2023, as inflation remains persistent. This scenario would lead to a continued ratcheting of rates, sending risk asset prices lower to reflect higher discount rates.”
+Since the release of that article on January 31, the Fed funds futures for January 2024 have risen by 82 basis points (+0.82%), erasing over three full interest-rate cuts that the market originally expected to take place during 2023, with a slew of Fed speakers recently reiterating this “higher for longer” stance. 
+As we drafted this article, the Big Flip thesis continues to play out. On February 24, Core PCE price index came in higher than expected.
+Shown below is the expected path for the Fed funds rate during October, December and in the present. 
+Despite the disinflation CPI readings on a year-over-year basis during much of the second half of 2022, the nature of this inflationary market regime is something that most market participants have never experienced. This can lead to the belief of “transitory” pressures, when in reality, inflation looks to be entrenched due to a structural shortage in the labor market, not to mention financial conditions that have greatly eased since October. The easing of financial conditions increases the propensity for consumers to continue to spend, adding to the inflationary pressure the Fed is attempting to squash. 
+With the official unemployment rate in the United States at 53-year lows, structural inflation in the workplace will remain until there is sufficient slack in the labor market, which will require the Fed to continue to tighten the belt in an attempt to choke out the inflation that increasingly looks to be entrenched.
+While flexible components of the consumer price index have fallen aggressively since their peak in 2022, the sticky components of inflation — with a particular focus on wages in the service sector — continue to remain stubbornly high, prompting the Fed to continue their mission to suck the air out of the figurative room in the U.S. economy. 
+Sticky CPI measures inflation in goods and services where prices tend to change more slowly. This means that once a price hike comes, it’s much less likely to abate and is less sensitive to pressures that come from the tighter monetary policy. With Sticky CPI still reading 6.2% on a three-month annualized basis, there is ample evidence that a “higher for longer” policy stance is needed for the Fed. This looks to be exactly what is getting priced in.
+Published on February 18, Bloomberg reiterated the stance of disinflation flipping back toward a reacceleration in the article “Fed’s Preferred Inflation Gauges Seen Running Hot.”
+“It’s stunning that the decline in year-over-year inflation has stalled completely, given the favorable base effects and supply environment. That means it won’t take much for new inflation peaks to arise.” — Bloomberg Economics 
+This comes at a time when consumers still have approximately $1.3 trillion in excess savings to fuel consumption. 
+While the savings rate is extremely low and aggregate savings for households is dwindling, the evidence suggests that there is plenty of buffer to continue to keep the economy piping hot in nominal terms for the time being, stoking inflationary pressures while the lag effects of monetary policy filter through the economy. 
+It is also important to remember that there is a section of the economy that is far less rate-sensitive. While the financialized world — Wall Street, Venture Capital firms, Tech companies, etc. — are reliant on zero interest-rate policy, there is another section of the U.S. economy that is very much insensitive to rates: those dependent on social benefits.
+Those who are dependent on federal outlays are playing a large part in driving the nominally hot economy, as cost-of-living adjustments (COLA) were fully implemented in January, delivering a 8.3% nominal increase in buying power to recipients.
+Social security recipients are actually not in possession of any increased buying power in real terms. The psychology of a nominal increase in outlays is a powerful one, particularly for a generation not used to inflationary pressure. The extra money in social security checks will continue to lead to nominal economic momentum. 
+In Core PCE data from February 24, the month-over-month reading was the largest change in the index since March 2022, breaking the disinflationary trend observed over the second half of the year which served as a temporary tailwind for risk assets and bonds. 
+The hot Core PCE print is vitally important for the Fed, as Core PCE notably carries a lack of variability in the data compared to CPI, given the exclusion of energy and food prices. While one may ask about the viability of an inflation gauge without energy or food, the key point to understand is that the volatile nature of commodities of said categories can distort the trend with increased levels of volatility. The real concern for Jerome Powell and the Fed is a wage-price spiral, where higher prices beget higher prices, lodging itself into the psychology of both businesses and laborers in a nasty feedback loop.
+“That’s the concern for Powell and his colleagues, sitting some 600 miles away in Washington, and trying to decide how much higher they must raise interest rates to tame inflation. What Farley’s describing comes uncomfortably close to what’s known in economist parlance as a wage-price spiral – exactly the thing the Fed is determined to avoid, at any cost.” —- “Jerome Powell’s Worst Fear Risks Coming True in Southern Job Market”
+The Fed’s next meeting is on March 21 and 22, where the market has assigned a 73.0% probability of a 25 bps rate hike at the time of writing, with the remaining 27% leaning toward a 50 bps hike in the policy rate.
+The increasing momentum for a higher terminal rate should give market participants some pause, as equity market valuations increasingly look to be disconnected from the discounts in the rates market. 
+A lead Morgan Stanley strategist recently expressed this very concern to Bloomberg, citing the equity risk premium, a measure of the expected yield differential given in the risk free (in nominal terms) bond market relative to the earnings yield expected in the equity market.
+“That doesn’t bode well for stocks as the sharp rally this year has left them the most expensive since 2007 by the measure of equity risk premium, which has entered a level known as the ‘death zone,’ the strategist said.
+“The risk-reward for equities is now ‘very poor,’ especially as the Fed is far from ending its monetary tightening, rates remain higher across the curve and earnings expectations are still 10% to 20% too high, Wilson wrote in a note.
+“‘It’s time to head back to base camp before the next guide down in earnings,’ said the strategist — ranked No. 1 in last year’s Institutional Investor survey when he correctly predicted the selloff in stocks.” — Bloomberg, Morgan Stanley Says S&P 500 Could Drop 26% in Months
+Inflation is firmly entrenched into the U.S. economy and the Fed is determined to raise rates as high as needed to sufficiently abate structural inflationary pressures, which will likely require breaking both the labor and stock market in the process. 
+The hopes of a soft landing that many sophisticated investors had at the beginning of the year look to be dissipating with “higher for longer” being the key message sent by the market over recent days and weeks. 
+Despite being nearly 20% below all-time highs, stocks are pricier today than they were at the peak of 2021 and the start of 2022, relative to rates offered in the Treasury market. 
+This inversion of equities priced relative to Treasuries is a prime example of the Big Flip in action.
+Like this content? Subscribe now to receive PRO articles directly in your inbox.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

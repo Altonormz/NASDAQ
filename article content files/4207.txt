@@ -1,0 +1,59 @@
+March 09, 2023 — 03:35 pm EST
+
+      Written by
+                        kschaeffer@sir-inc.com for                             
+        
+
+
+
+
+Schaeffer ->
+
+
+Discover what 0DTE options are and why they have become massively popular in recent months.
+A 0DTE (Zero Days To Expiration) option is an options contract set to expire at the end of the current trading day. This means that the value of a 0DTE option is entirely determined by the underlying asset's price movements on that day.
+Experienced options traders find value in trading 0DTE options because of the massive return potential. As of late 2022, the S&P 500 Index (SPX) offers them every day of the trading week, giving traders tons of potential trading opportunities. 
+Technically, all optionable stocks have 0DTE options available at least once a month. However, the most commonly traded 0DTE options are on the SPX. Stocks that offer monthly options only have 0DTE options once a month, and stocks that offer weekly options as well have them once a week. 
+The SPX is the most popular because of its liquidity and the ability to trade them daily. Most stocks do not have nearly the liquidity the SPX offers, meaning you will get worse fills and experience more slippage. 
+If you open and close a 0DTE option, it will count as a day trade, meaning it is recommended to have at least $25,000 in your account to avoid the pattern day trader (PDT) rule. 
+However, buying or selling a 0DTE option and letting it expire does not count as a day trade. If your account cannot day trade, it is risky to trade 0DTE options, as you won’t be able to manage your risk if your trade goes south. 
+In 2005, the CBOE introduced weekly options, allowing investors to trade 0DTE once a week. Shortly after, Monday and Wednesday options were added. Then in 2022, 0DTE options on the SPX and SPDR S&P 500 ETF Trust (SP) were added for all five trading days.
+Due to the addition of 0DTE options for each day of the trading week, their volume has skyrocketed. According to Goldman Sachs, almost half of the trading volume on the SPX is 0DTE trades. 
+0DTE options allow traders to make quick profits if they correctly predict the underlying asset's price movement. Since these options expire the same day, traders can profit from short-term price movements without holding a position overnight.
+0DTE options are highly liquid, with a high trading volume and tight bid-ask spreads. This makes it easier for traders to enter and exit positions quickly and at a favorable price.
+Since 0DTE options are available every day, traders have more flexibility in their trading strategies. They can take advantage of short-term price movements, react quickly to news events, and adjust their positions based on market conditions.
+The main strategies investors use to trade 0DTE options include buying them for scalp trades and selling them to collect premium. 
+Generally, selling 0DTE options is the most popular, as any 0DTE option that is out-of-the-money (OTM) upon expiration will be worth nothing. Since expiration is the same day, betting on them ending OTM is a high win rate strategy.
+However, the market can be highly volatile, and even if the option ends up expiring at 0, you may see significant unrealized losses throughout the day. 
+0DTE options trading strategies can be an effective way to take advantage of the intraday volatility caused by these contracts. The most popular 0DTE options trading strategies include the iron condor and iron butterfly.
+The iron condor strategy involves selling both a put credit spread and a call credit spread simultaneously on an underlying stock or index. This strategy is designed to take advantage of a range-bound market, where the underlying asset is expected to trade within a specific range until the options expire.
+The maximum loss on this strategy is limited to the difference between the strikes of the sold call and put credit spreads. For example, if you sell a 5-wide iron condor, the max loss will be $500 -- the credit received. 
+The iron condor has a high probability of profit since it makes money as long as the underlying asset stays within the range by the end of the day. The maximum profit is limited to the net credit received when the trade was put on.
+As with all 0DTE strategies, the iron condor requires active management since the trader needs to adjust their position if the underlying asset moves outside the defined range, which can quickly happen in a 0DTE trade. 
+The iron butterfly strategy is a neutral strategy typically used when a trader believes that the price of an underlying asset will remain stable within a certain range and volatility will remain unchanged or drop.
+This strategy involves selling an at-the-money (ATM) call option, and an ATM put option simultaneously, creating a short straddle position. In addition to selling the short straddle, the trader also buys further OTM call and put options with higher strike prices, creating an iron butterfly.
+Like the iron condor, the maximum profit and loss are defined upon the trade entry. So if you sell a 5-wide iron butterfly, your maximum loss is the width of the strikes -- the credit received. 
+However, iron butterflies allow you to collect a larger premium upfront, since you are selling the expensive ATM options rather than OTM options. Since the max loss is generally not very high, traders may be more likely to hold iron butterflies until the end of the day or take profit when they collect 25-50% of the premium. 
+0DTE options offer traders an opportunity to profit from short-term price movements in the markets. While they can be highly volatile, experienced options traders have found value in trading 0DTE options due to their massive return potential, high liquidity, and flexibility. 
+Although the most commonly traded 0DTE options are on the SPX, all optionable stocks have them available at least once per month. Traders can use different strategies to trade 0DTE options, such as the iron condor and iron butterfly, to benefit from the aggressive theta decay. 
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

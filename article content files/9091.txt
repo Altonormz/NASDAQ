@@ -1,0 +1,81 @@
+February 27, 2023 — 09:09 am EST
+
+      Written by
+                        lmccandless@sir-inc.com for                             
+        
+
+
+
+
+Schaeffer ->
+
+
+“…following data on consumer and producer prices for January that came in above expectations, with stronger-than-expected retail sales data coming in-between those reports, several Fed officials reiterated that there is more to do in terms of rate increases, sending rate expectations higher once again and stock prices lower.”
+            -Monday Morning Outlook, February 21, 2023 
+Equities experienced another down week, as investors continue to adjust their expectations on what to expect from the Fed. During the past few weeks, expectations have shifted from the possibility of only one rate hike by the June meeting to two. It's clearly visible from last week investors are adjusting their outlook to one in which they see the Fed not only raising rates, but keeping rates high through year end.
+Per the table below from www.CMEGroup.com, note how the probability of the fed funds rate being at 5.25% or higher after the December Federal Open Market Committee (FOMC) meeting rose to nearly 65% from only 32% the week prior, thanks in part to larger-than-expected readings on core PCE in January and personal spending. 
+Said another way, during the past few weeks, the investment community is coming around to adjusting what they expect from the Fed to what the Fed has been telling market participants for the past several weeks, which is, “there is more to come in terms of rate hikes, and higher rates will persist.”
+
+
+
+
+
+
+
+
+
+“If the SPX cross below the upward-sloping 30-day moving average at 4,043, it is possible that the 3,970 level gets tested, which is the site of the January breakout above the trendline that connected all major lower highs last year. A close below this level would be a signal to reduce long exposure as risk of a steeper slide in equities would be heightened.”
+            -Monday Morning Outlook, February 21, 2023
+Amid the change in market participants’ outlook on interest rates the past few weeks, the technical backdrop in the equity market has deteriorated, with a red flag going up on Friday when the S&P 500 Index (SPX--3,970.04) fell below the 3,970-level following PCE and personal spending readings.  
+As I have discussed in prior weeks, the 3,970 level represents the breakout level in late January above a trendline connecting major lower highs in 2022. On Thursday, this level held the intraday low, but on Friday, there was a break below it intraday, although the index came back to close back above it, forming a doji candle in the process. This doji at potential support levels on Friday could be signaling a short-term trough.   
+Bulls should continue to watch the 3,970-level, as a close below this level is a red flag. Since April 2022, breaks below prior trendline breakout levels have led to sharp selloffs in the immediate days following the breakdown. Friday’s close was literally at this support level, so continue to keep a close eye on this level. 
+
+
+
+
+
+
+
+
+
+“If the VIX closes above last year’s close, I think it would be worth growing more cautious about a continued rise in volatility that is concurrent with lower stock prices. It would be worthwhile, on a VIX close decisively above its 2022 close, to hedge long positions, even if the SPX has not broken below major support, such as the 3,970 level discussed above.”
+            -Monday Morning Outlook, February 21, 2022
+Per the discussion above, bulls should be open to a recurrence of the pattern mentioned above by reducing long exposure if you aren’t hedged. If you are hedged, there is not an urgency to reduce long exposure if your hedge remains on during the next few weeks. For example, if you bought Cboe Market Volatility Index futures calls or SPDR S&P 500 ETF (SPY--396.38) puts that expire weeks from now you can rely on these to offset further declines in the equity market.
+I should mention, per comments last week, that there was (and there still may be) time to implement such hedges, as the CBOE Market Volatility Index (VIX--21.67) closed above its 2022 last Tuesday, just a few days before the intraday break below SPX 3,970. The VIX’s close last Tuesday was the trigger I suggested using to hedge long exposure.
+
+
+
+
+
+
+
+
+
+Going back to the SPX chart, not all patterns remain in place indefinitely, so if 3,970 does break, risk of a sharp sell-off increases, but this doesn’t necessarily mean it is guaranteed to happen. 
+Just as the pattern of higher highs and higher lows in the SPX component buy (to open) equity-only put/call volume ratio broke down weeks below, there is a glimmer of hope that the Friday’s intraday move below 3,970 does not lead to sharp losses. 
+And just like there were multiple levels of resistance that the SPX had to get through as it rallied from its December lows, there are also multiple levels of potential support below 3,970. 
+One such area of support for the SPX is the Friday morning lows at the popular 200-day moving average (3,940), which is also the site of the mid-September 2022 breakdown level below a trendline connecting higher lows from June through early-September. Plus, the 61.8% Fibonacci retracement of the December closing low and this month’s closing high resides just below 3,940. This “three-tiered” support area likely generated technical buying on Friday, but the jury is out as to whether the momentum off the Friday lows will last, especially as technical resistance lies just overhead in the 4,000-4,012 area.
+Hedging long positions, at the very least, seems to be a prudent way to approach the current environment.
+Todd Salamone is the Senior V.P. of Research at Schaeffer's Investment Research.
+Continue Reading:
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

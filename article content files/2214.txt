@@ -1,0 +1,53 @@
+March 14, 2023 — 08:15 am EDT
+
+      Written by
+                        Dominic Basulto for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Within the crypto market, it can sometimes be difficult to evaluate the underlying value of a new crypto. There are typically no cash flows or revenue streams to evaluate, and often few or no hard metrics on how a particular crypto is performing.
+That's why the first step in the investing process should be understanding the tokenomics of a new crypto. Tokenomics -- a combination of "token" and "economics" -- refers to the various factors that affect the economic value of a crypto token. These factors include how crypto tokens are created, how they are distributed within the crypto market, and how they are removed from circulation. These economic factors are typically described in the white paper of the crypto. During a time of market uncertainty and volatility, having a good grip on tokenomics can save you from investing in an overly speculative crypto.
+One big mistake that many investors make is using market capitalization as a primary benchmark for judging the relative attractiveness of a certain crypto. They'll check the list of the top cryptos by market cap, notice that meme coins Dogecoin (CRYPTO: DOGE) and Shiba Inu (CRYPTO: SHIB) both rank in the top 20, and conclude that they are potentially good investments.
+But as billionaire investor Mark Cuban has pointed out, market cap is a number that is easily manipulated in the crypto world. All you need to do is create a massive supply of 1 billion coins. Even if a crypto trades for just $1, it can still achieve an impressive billion-dollar market cap.
+Image source: Getty Images.
+A good example is Shiba Inu, which currently has a market cap of over $5.5 billion, ranking it as the 14th-largest crypto. That's approximately equivalent to a stock like Hertz Global Holdings (NASDAQ: HTZ), which also has a $5.5 billion market cap.
+But check out the total circulating coin supply of Shiba Inu. The number is breathtakingly large -- there are over 549 trillion coins in circulation, and as a result, Shiba Inu still trades at a laughably low price of $0.00001. As a result of its huge coin supply, Shiba Inu is never going to be a good long-term investment until it can "burn" hundreds of trillions of coins -- something that's close to impossible.
+If there is one lesson learned from the FTX (CRYPTO: FTT) meltdown last year, it's that tokenomics can also be used to assess the future value of a crypto. The best example here is Solana (CRYPTO: SOL), which was a crypto darling heading into 2022. However, as the financial condition surrounding FTX continued to deteriorate in November, crypto investors took a closer look at who owned Solana tokens. 
+In connection with the VC financing of Solana, former FTX CEO Sam Bankman-Fried and various entities connected to FTX (such as hedge fund Alameda Research) were huge holders of Solana coins. As a result, once FTX imploded, anxiety grew that these entities would suddenly dump all their Solana coins in a panicked bid for liquidity. While that didn't happen, Solana was one of the worst crypto performers of 2022.
+That's why so much attention was paid to hot new crypto Aptos (CRYPTO: APT) when it started trading late last year. Like Solana, Aptos was a VC-funded crypto with the backing of Sam Bankman-Fried and FTX. When Aptos launched, there was tremendous concern that insiders might control too much of the coin's total supply, with a large share of the total circulating supply going to developers, private investors, and the Aptos Foundation.
+According to the Aptos white paper, the total supply of Aptos is a staggering 1 billion coins. Right now, only 172 million coins are in circulation, so there are more than 800 million coins still to come! By way of comparison, the total capped lifetime supply of Bitcoin (CRYPTO: BTC) is just 21 million coins.
+Given the questionable tokenomics involved here, I'm still not on board with investing in Aptos, even though it's up a head-spinning 190% this year. As I see it, the massive coin supply of Aptos is going to completely overwhelm the market in coming years. And once the 12-month "lockup" of coins awarded to private investors ends this October, there could be massive selling by insiders as they attempt to lock in huge profits.
+One big takeaway here, of course, is that you should definitely do your homework any time you hear about a coin that's about to hit it big. Bad tokenomics can completely dilute the value of a coin to the point where even a good crypto project is not worth investing in. That's why I remain deeply skeptical of any crypto with a circulating supply of 1 billion coins or more. The next time you hear about a hot new crypto with a billion-dollar market cap, the first thing you should do is check out how many coins are in circulation.
+10 stocks we like better than AptosWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Aptos wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of March 8, 2023
+ 
+Dominic Basulto has positions in Bitcoin. The Motley Fool has positions in and recommends Bitcoin and Solana. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

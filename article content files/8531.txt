@@ -1,0 +1,55 @@
+February 28, 2023 — 10:00 am EST
+
+      Written by
+                        James Brumley for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Nvidia (NASDAQ: NVDA) may have suffered a sales slump last quarter. But, after topping estimates and serving up better-than-expected guidance, investors are seeing the glass as half-full rather than half-empty. Shares surged 14% on Thursday following the release of the fiscal fourth quarter's results, reversing the pullback from their mid-February peak.
+This is a case, however, where a company's detailed revenue breakdown means as much as its bigger revenue picture. One key market is a persistent problem for Nvidia, and there's good reason to think this particular market is poised to recover soon.
+As the old adage goes, a picture is worth a thousand words.
+Take a look: All of Nvidia's business lines are currently bumping into a headwind. Only one of them is responsible for the bulk of its declining revenue since the second quarter of last year, though. That's video gaming. Fiscal fourth quarter's gaming graphics cards' year-over-year revenue dip of 46% is in line with the prior two quarters' declines. In that gaming typically accounts for half of its total sales, weakness on this front is taking a major toll on Nvidia's top and bottom lines. Data center sales are holding up reasonably well, and while its other segments are clearly hitting a headwind, they're not big enough businesses to meaningfully matter.
+Data source: Nvidia. Chart by author. All figures are in millions of dollars.
+The thing is, the recent softness on the gaming front is anything but a permanent condition. As some of the lesser-read notes from CFO Colette Kress' commentary explain, "The year-on-year decreases for the quarter and fiscal year reflect lower sell-in to partners to help reduce channel inventory levels as global macro-economic conditions and COVID-19 related disruptions in China weighed on gaming demand."
+More importantly, the company is mostly through the headwind. Kress went on to say during Wednesday'searnings callthat "we are encouraged by the early signs of recovery in [China]." She also pointed out that "the first phase of gaming laptops based on the Ada architecture reached retail shelves" earlier this month, "delivering NVIDIA's largest-ever generational leap in performance and power efficiency."
+In the meantime, Nvidia's AI-focused data center arm is largely resisting economic headwinds.
+While down slightly on a sequential basis, don't look for this to become the norm. Kress added in her portion of the conference call that -- in the wake of Microsoft's recent debut of a search engine powered by artificial intelligence platform ChatGPT and Alphabet's similar use of an artificial technology called Bard -- "AI adoption is at an inflection point."
+Others agree. Technology market research outfit IDC estimates that spending on AI-centric systems will grow at an average annual pace of 26.5% through 2026, becoming a business worth more than $300 billion per year at the end of that time frame.
+And Nvidia is already ready for that opportunity. Its Eos supercomputer architecture is the world's fastest and most powerful. It's also working with Meta Platforms to build one of these systems. Once proven, other partners will likely step up to procure their own whether or not the economy's firing on all cylinders at the time.
+Investors made the right call, although they arguably did so with a little too much enthusiasm -- Thursday's 14% romp could be a tough gain to hold on to. That's especially true given how the stock leapt higher from Wednesday's close, leaving behind a big gap rather than gradually traveling that distance. The market's generally not a fan of such sweeping moves, setting the stage for some profit-taking now.
+Just be sure to use any such dip as a buying opportunity.
+See, Nvidia's current weakness is rooted in one area, and that weakness truly is temporary. The video gaming hardware market is apt to be on the mend if only because it can't get much worse, particularly in China where the company's business was hit the hardest. In the meantime, Nvidia's data center business continues holding its own in a tough environment. Just think how Nvidia will fare once the global economy is really humming again next year.
+Find out why Nvidia is one of the 10 best stocks to buy now
+Our award-winning analyst team has spent more than a decade beating the market. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed their ten top stock picks for investors to buy right now. Nvidia is on the list -- but there are nine others you may be overlooking.
+Click here to get access to the full list!
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Suzanne Frey, an executive at Alphabet, is a member of The Motley Fool's board of directors. Randi Zuckerberg, a former director of market development and spokeswoman for Facebook and sister to Meta Platforms CEO Mark Zuckerberg, is a member of The Motley Fool's board of directors. James Brumley has positions in Alphabet. The Motley Fool has positions in and recommends Alphabet, Meta Platforms, Microsoft, and Nvidia. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

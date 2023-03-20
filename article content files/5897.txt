@@ -1,0 +1,54 @@
+March 06, 2023 — 11:27 am EST
+
+      Written by
+                        Trevor Jennewine for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+The Nasdaq Composite dropped into a bear market last year and the tech-heavy index is still 26.5% off its high, but many individual stocks have fallen even further. CrowdStrike Holdings (NASDAQ: CRWD) and Atlassian (NASDAQ: TEAM) are down 56% and 61%, respectively, from their highs.
+Drawdowns of that magnitude are undoubtedly painful, but smart investors know that the Nasdaq will eventually find its way back to bull market territory. The index has recovered from every past bear market and there is no reason to expect a different outcome this time around. The same goes for CrowdStrike and Atlassian as these two top growth stocks are still worth buying.
+Here's why.
+The bull case for CrowdStrike is straightforward. Cybercrime inflicts trillions of dollars in damages on the global economy each year, and the problem only becomes more costly as digital transformation projects create new attack surfaces for hackers. That means effective cybersecurity is essential for almost every organization, and CrowdStrike is running circles around the competition.
+The CrowdStrike Falcon platform comprises 23 different modules that span multiple industry verticals, from endpoint security to threat intelligence, but all that functionality is delivered through a single software agent that can be installed without a device reboot. That unique quality, coupled with the breadth of its portfolio, makes the company's offering a compelling option. Organizations can avoid the complexity of maintaining disjointed point solutions, and they can deploy the Falcon platform without system downtime.
+CrowdStrike also engineered its platform to crowdsource data unlike any other solution on the market, according to management, and that makes its artificial intelligence (AI) uniquely effective in preventing cyberattacks. Indeed, consultancy Frost & Sullivan recently wrote, "CrowdStrike leads the industry with regards to the application of artificial intelligence/machine learning to endpoint security, as well as providing unparalleled prevention of malware and malware-free attacks."
+CrowdStrike delivered another strong financial performance in its most recent quarter. Revenue increased 53% to $581 million and free cash flow climbed 53% to $243 million. As a caveat, management warned that economic uncertainty may lead to slower growth in the coming quarters, but investors have good reason to believe the company will regain its momentum as inflation cools and business spending normalizes.
+CrowdStrike's broad portfolio and best-in-class AI have earned it a leadership position in several cybersecurity verticals, including endpoint security, cloud-native application protection, and managed detection and response, among others. That success should snowball as the company continues to innovate and more organizations tighten their security.
+On that note, management puts its addressable market at $76 billion in 2023, but CrowdStroke's ambitious product roadmap could push that figure to $158 billion by 2025. Currently, shares trade at 14.4 times sales, a discount to the three-year average of 35.4 times sales. That creates a worthwhile buying opportunity for patient investors.
+Atlassian provides software for work management and IT service management. The company is best known for Jira Software, a product that helps technical teams (e.g., development and operations) plan, track, and complete coding projects. Jira is the industry standard in software product management and bug tracking. But Atlassian truly shines because it offers multiple work management products that pull different departments together and drive organization-wide collaboration.
+Specifically, Atlassian is the only provider whose software connects technical and non-technical teams (e.g., marketing and human resources), and it's the only vendor that loops IT service teams into project workflows. That gives the company an edge. Its platform can serve as the productivity engine for entire organizations, which frees customers from the complexity of maintaining disparate products from multiple vendors. Atlassian can also land new customers through any department, then expand across the entire business.
+Atlassian is one of many software companies that struggled amid the challenging economic environment. New customer growth slowed, and existing clients added seats more slowly, simply because businesses are scrutinizing spending decisions more closely. That led to lackluster financial results in the second quarter of fiscal 2023 (ended Dec. 31, 2022). Revenue climbed 27% to $873 million, a deceleration from 37% growth in the prior year, and non-GAAP net income increased just 5% to $0.45 per diluted share. But the company should have no problem reaccelerating growth in a stronger economy.
+Atlassian already enjoys a strong presence among technical teams due to its success with Jira Software, but consultancy firm Gartner recently named the company a leader in enterprise agile planning and IT service management software, signifying that its newer products are gaining traction in the market. Even more compelling, it ranks as the 12th-best software vendor in the world (in any category), according to research company G2. That prestigious placement is based on its strong market presence and high user satisfaction scores.
+Currently, Atlassian shares trade at 14.2 times sales, a discount to the three-year average of 27.9 times sales. That's why investors should consider buying a small position in this growth stock today.
+10 stocks we like better than CrowdStrikeWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and CrowdStrike wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Trevor Jennewine has positions in CrowdStrike. The Motley Fool has positions in and recommends Atlassian and CrowdStrike. The Motley Fool recommends Gartner. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

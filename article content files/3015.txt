@@ -1,0 +1,59 @@
+March 13, 2023 — 05:53 am EDT
+
+      Written by
+                        Nicholas Rossolillo for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+It's been a wild 2023 so far for the semiconductor industry. With the U.S. CHIPS Act accepting applications for chip manufacturing expansion funding, chip fab equipment (the machines used in a chip "fab" to craft the wafers that eventually get cut up into chips) could be some of the best tech investments in the coming years. The two top names in this sub-industry, ASML Holdings (NASDAQ: ASML) and Applied Materials (NASDAQ: AMAT), have been off to the races and are sporting respective gains of 11% and 20% year to date.
+ASML has been lagging as of late, though, especially on the heels of some very important news from Applied Materials (Applied going forward). Applied just announced a brand-new type of chip fab machine called EUV pattern shaping (dubbed the Centura Sculpta) that reduces the complexity of EUV chip manufacturing -- EUV, of course, being the extremely advanced systems that ASML has a monopoly on. Some investors seem worried Applied's new machine poses a threat to ASML.
+This is far from the truth.
+ASML's EUV (extreme ultraviolet) lithography machines are essential in manufacturing the most advanced chips on the market -- primarily those used in high-end smartphones and high-performance cloud and data center computing. EUV machines are expensive to buy (nearly $200 million each in 2022, by my simple estimate) and incredibly expensive to operate.
+Thus, Applied's brand-new pattern-shaping tools are a very big deal. Typically, the most advanced silicon wafers (those silicon disks that eventually get chopped up into chips) -- like those made at Taiwan Semiconductor Manufacturing or Samsung, for example -- undergo multiple passes from an EUV machine. This is referred to as "EUV double patterning."
+This often necessary process adds operational costs for chip fabs, increases production times, and introduces mistakes (sometimes resulting patterns from multiple EUV patterning steps don't exactly line up, leading to lowered chip performance or even a wasted wafer).
+Applied claims its Centura Sculpta machine can reduce the number of EUV passes to one. A single EUV pattern can be laid on a silicon wafer, then Sculpta is used to enlarge those shapes. Applied further asserts that Sculpta could lead to capital cost savings (basically, the total cost of purchasing fab equipment) of up to $250 million per 100,000 wafers per month of at-scale production.
+Additionally, Applied claims a fab could realize manufacturing operating cost reductions of $50 per wafer (or $5 million if using the same 100,000 wafer run rate), lower energy and water consumption, and lower greenhouse gas emissions.
+If you want to learn more about how this works, I highly recommend this two-minute video Applied produced.
+Now, when there's mention of "increased efficiency" that comes at the expense of another company, it can mean bad things for shareholders. That explains some of the angst happening among ASML shareholders. But is Applied's new Sculpta machine really a threat to ASML's stranglehold on the EUV lithography market? I argue absolutely not for two main reasons.
+Few investors know about a little semiconductor industry quirk that has a huge bearing on investing in this space. There is competition between companies (like Intel versus AMD). Investors give due credence to competition as it always threatens potential investment returns. However, we investors sometimes give too much emphasis to competition in the chip market. Why?
+Due to the incredible costs and mind-boggling complexities involved with designing, manufacturing, and utilizing chips, many parts of the semiconductor industry have consolidated to just a couple of companies that actually go head-to-head. In many instances, it just doesn't make economic sense to reinvent a process or design that a chip peer has already created.
+In fact, far from being competitors, many chip companies are collaborators. They share their work and product roadmaps years in advance to help grease the wheels of innovation and speed the time-to-market of tech's basic building blocks.
+This is the case with Applied's Sculpta. The company reported it's been developing the machine for six years, and a couple of customers have been using it already to help with its development. It's highly likely ASML also knew of Sculpta, especially when providing its long-term growth targets at its last investor day in November 2022.
+ASML and Applied are not enemies. Far from it, they work together closely to help make EUV lithography work efficiently for their mutual chip fab customers.
+The most advanced chips made with EUV lithography account for a very small percentage (a single-digit percentage, in fact) of total chips made -- although they account for a large portion of total industry revenue because of how powerful they are. This is significant because EUV chipmaking has limitations beyond the highest-end chips that fetch top dollar. Due to this factor, only a few chip fabs even bother with ASML's expensive EUV machines.
+But what if EUV machines got more affordable to operate? Well, now that's a different story. A number of industries (autos, industrial robotics, consumer goods, etc.) might be interested in moving to advanced chips made with EUV -- if the price were right. Rather than restrict ASML's EUV lithography expansion hopes, a complementary Applied Sculpta machine could actually help increase the adoption of EUV over the next decade if it reduces the cost of producing advanced chips.
+In other words, the market is totally missing the point of Applied's announcement of Sculpta (as well as a couple of other new tools used for advanced chip manufacturing). Rather than a sell signal for ASML, Applied's work is helping reinforce the chipmaking industry's strength by creating new efficiencies that could keep customers spending on new products. This is a key reason Applied expects to outperform many of its peers this year and why ASML has confidence in its strong growth outlook through 2030.
+For investors looking for a top way to invest in the semiconductor industry, I think ASML and Applied Materials are a great duo to build a portfolio around.
+10 stocks we like better than Applied MaterialsWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Applied Materials wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of March 8, 2023
+ 
+Nicholas Rossolillo and his clients have positions in ASML, Advanced Micro Devices, and Applied Materials. The Motley Fool has positions in and recommends ASML, Advanced Micro Devices, Applied Materials, Intel, and Taiwan Semiconductor Manufacturing. The Motley Fool recommends the following options: long January 2023 $57.50 calls on Intel, long January 2025 $45 calls on Intel, and short January 2025 $45 puts on Intel. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

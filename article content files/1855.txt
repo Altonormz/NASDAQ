@@ -1,0 +1,58 @@
+March 14, 2023 — 05:08 pm EDT
+
+      Written by
+                        Gertrude Chavez-Dreyfuss for                             
+        
+
+
+
+
+Reuters ->
+
+
+By Gertrude Chavez-Dreyfuss
+NEW YORK, March 14 (Reuters) - A U.S. lending program to stem deposit outflows in the wake of Silicon Valley Bank's SIVB.Ocollapse gives the Federal Reserve scope to continue raising interest rates if needed to slow inflation without exacerbating losses on bonds held by banks.
+That said, Tuesday's U.S. inflation news should not force the Fed's hand on aggressive hikes, as was expected before the regional bank crisis unfolded in recent days.
+Under the Bank Term Funding Program (BTFP), aimed at shoring up liquidity in the sector, the Fed will provide banks with one-year loans at the rate of a one-year overnight index swap (OIS) plus 10 basis points (bps). Banks can use eligible government securities on their books like Treasuries and agency mortgage backed-debt to guarantee the loans.
+Crucially, the program values these at par rather than at mark-to-market which helped submerge SVB.
+The current one-year OIS rate on Tuesday was last at 4.73% USD1YOIS=TWEB. By comparison, a one-year loan from a Federal Home Loan Bank, a government state enterprise that provides low-cost lending to regional banks, is around 5.4%, according to market participants.
+The ability to pledge discounted bonds that have marked-to-market losses with the surge in interest rates should help banks considerably, as intended, analysts said, which should give the Fed some flexibility to continue to tighten monetary policy.
+"The net impact of the regional bank funding turmoil and the new lending program still means, on balance, less accommodative financial conditions than we were expecting a week ago," said Lou Crandall, chief economist at money market research firm Wrightson in New York.
+"The Fed doesn't want to stop tightening prematurely because of stability concerns. It wants to find stability tools. In essence, the bank lending program will allow the Fed to keep raising rates."
+California regulators shut down SVB last Friday following a failed stock sale that took out $42 billion in deposits in a single day. SVB had to fill in a $1.8 billion funding hole after it sold a $21 billion portfolio of available-for-sale securities at a loss as rising interest rates eroded the value of U.S. Treasuries.
+With the new bank lending scheme, "banks will not be forced to liquidate bond portfolios at huge losses, even if they face funding pressures," said Ryan Swift, bond strategist at BCA Research in Montreal.
+"Instead, banks can meet their liquidity needs by borrowing from the Fed. For the bond market, the structure of this facility means that the Fed can keep lifting rates without exacerbating the problem of unrealized bond losses in bank portfolios."
+The latest Fitch Ratings report showed unrealized losses on bank securities portfolios stood at $690 billion as of Sept. 30, 2022, representing approximately 40% of U.S. banks' tangible common equity.
+U.S. banks had raised their holdings of government securities during periods of ultra-low interest rates to defend falling interest net margins. Current U.S. bank holdings of government securities have ballooned to $4.4 trillion, or 19% of banking assets, Moody's said in a report on Tuesday, citing Fed data. In 2005, those holdings were $1 trillion.
+Moody's expects the Fed to continue tightening despite funding turmoil which should darken the outlook for banks this year.
+With SVB's failure, the bond market has pulled back expectations of further rate increases, pricing in cuts this year as well. Major banks led by Goldman Sachs GS.N and Barclays Bank BARC.L have called for a pause from the Fed next week.
+"The Fed's actions, backing up deposits, are to restore confidence in the system rather than to offer stimulus or loosen conditions, said Angelo Kourkafas, investment strategist at Edward Jones, in St. Louis.
+"But as we think about what's played out, it's resulted in tighter financial conditions. Even though yields have fallen credit spreads have widened. So in a way what transpired is doing some of the Fed's work for the Fed."
+The U.S. inflation data further eases the way for the Fed to keep tightening, although at a slower pace.
+The consumer price index (CPI) rose 0.4% last month after gaining 0.5% in January. Shelter, which includes rents as well as hotel and motel accommodations, accounted for more than 70% of the increase in the CPI.
+With inflation still strong, the Fed's inflation-fighting credentials on the line and financial markets calmed for now by the new bank facility, U.S. rate futures have priced in a 25 basis-point hike at next week's Fed policy meeting. The market has also priced the same increase in May.
+"The SVB failure has ripples that will need to be addressed, but full-on contagion does not seem the issue," said Ellis Phifer, managing director of fixed income research at Raymond James in Memphis, Tennessee.
+"The Fed still wants to address inflation and they will continue to hike for now."
+(Reporting by Gertrude Chavez-Dreyfuss in New York Additional reporting by Sinead Carew in New York Editing by Alden Bentley and Matthew Lewis)
+((gertrude.chavez@thomsonreuters.com; 646-301-4124; Reuters Mesaging: gertrude.chavez.reuters.com@reuters.net))
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

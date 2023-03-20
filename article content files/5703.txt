@@ -1,0 +1,61 @@
+March 07, 2023 — 03:00 am EST
+
+      Written by
+                        Dylan LeClair for                             
+        
+
+
+
+
+Bitcoin Magazine ->
+
+
+Silvergate clients flee as stock price plummets and regulatory questions mount across the industry. Options for crypto banking partners are dwindling.
+The article below is an excerpt from a recent edition of Bitcoin Magazine PRO, Bitcoin Magazine's premium markets newsletter. To be among the first to receive these insights and other on-chain bitcoin market analysis straight to your inbox, subscribe now.
+Developments around crypto on- and off-ramps have been heating up, as Federal Reserve Member Bank Silvergate Capital watched its depositors flee and its stock price plummet. Along with Signature Bank, Silvergate is the other key U.S. bank that works closely with the crypto sector. 
+The reason for the extreme concentration of banking interests that are willing to deal in the crypto sector is the general lack of regulation around know-your-customer and anti-money laundering (KYC/AML) policy that exists in the industry for offshore entities, as well as the issues with the broader industry being rife with unregistered security offerings and plenty of fraud. 
+Of course, we believe there is a clear distinction between bitcoin and the broad term colloquially referred to as “crypto”, but the lines remain blurred for many regulators and government agencies. 
+Thus, there have historically been very few entities in the regulated U.S. banking system that have been willing to work with crypto firms to access established USD on- and off-ramps, which presents a unique challenge to companies who are in the business of moving money and/or processing payments and transactions. 
+In regards to Silvergate, we have been monitoring the situation closely since November — after the collapse of FTX — as it became apparent that Silvergate played a role in serving FTX and Alameda by giving them access to USD rails. 
+As we wrote on November 17, (emphasis added):
+“Who else is at the center of many institutions in the market? Silvergate Bank is one of those. Since the beginning of November, their stock is down nearly 56%. Silvergate Bank is at the nexus of banking services for the entire industry, servicing 1,677 digital asset customers with $9.8 billion in digital asset deposits. FTX accounted for less than 10% of deposits and the CEO has tried to reassure markets that their current loan book has faced zero losses or liquidations so far. Leveraged loans are collateralized with bitcoin that can be liquidated as necessary. Yet, the ongoing risk is a complete bank run on Silvergate deposits.. Although the CEO’s comments sound reassuring, the stock performance over the last two weeks tell a much different story.” — The Contagion Continues: Major Crypto Lender Genesis Is Next On The Chopping Block
+Since the implosion of FTX, shares of Silvergate Capital have fallen by 83%, putting the current drawdown from the all-time high price at an eye-watering 97.3%. 
+As referenced in the November 17 article, Silvergate’s share price isn’t imploding due the performance of a crypto token as was the case for many companies in the crypto winter of 2022, but rather from a deposit exodus that has forced the firm to liquidate long-duration securities at a loss in order to remain liquid.
+Link to embedded tweet.
+As a traditional fractional reserve bank, Silvergate took client deposits — which drastically increased in 2021 — and lent them out over a long duration, into U.S. Treasury bonds, in particular. In practice, firms would lend their money to Silvergate by depositing at 0% in order to utilize their Silvergate Exchange Network (SEN), and Silvergate would then lend out those same dollars at a higher interest rate over a long period of time. This is a great business model — as long as your loans don’t fall in value at the same time as clients go to withdraw their funds. 
+“Customers withdrew about $8.1 billion of digital-asset deposits from the bank during the fourth quarter, which forced it to sell securities and related derivatives at a loss of $718 million, according to a statement Thursday.” — Silvergate Tumbles After FTX Implosion Prompts $8.1 Billion Bank Run
+As commentary has ramped up about the incompetence and irresponsibility of Silvergate’s management, we need to interpret some of the nuance surrounding the situation.
+Link to embedded tweet.
+A majority of Silvergate’s deposits came during a world of zero-interest-rate policy, where short-duration Treasury securities offered 0% yield. This phenomenon is one of the core reasons why Silvergate invested in longer-duration instruments. The bonds fell in value as global interest rates rose throughout 2022. 
+With long-duration debt securities, money isn’t lost in the case of rising interest rates as long as the bond is held to maturity (and not defaulted upon), but in the case of Silvergate, fleeing deposits forced the firm to realize the unrealized losses on their securities portfolio — a nightmare for a fractionally reserved institution. 
+With solvency worries mounting in recent months, companies frontran speculation about exposure to the bank, with names such as Coinbase, Paxos, Circle, Galaxy Digital, CBOE and others communicating about their banking relations with Silvergate. Coinbase explicitly announced their move to Signature bank. 
+“We are facilitating fiat withdrawals and deposits using Signature Bank, effective immediately.” — Coinbase memo 
+One concern is that many of these firms are turning solely to Signature bank, which further centralizes the off- and on-ramps currently utilized by the crypto industry, even though Signature has a much larger market capitalization and more diversified depositor base than Silvergate.
+The current state of Signature’s digital asset deposit base is unknown, as the firm communicated its desire to reduce reliance on crypto-related deposits in early December. 
+“Signature Bank (SBNY) will shrink its deposits tied to cryptocurrencies by $8 billion to $10 billion, signaling a move away from the digital asset industry for the bank that until recently had been one of the most crypto-friendly companies on Wall Street.
+“We are not just a crypto bank and we want that to come across loud and clear,” Signature Bank’s CEO Joe DePaolo said at an investor conference in New York hosted by Goldman Sachs Group on Tuesday.” — Coindesk
+The timeline of these events is important because of the recent developments regarding the industry’s flight from Silvergate coming at the same time that Signature appears to be handcuffing the use of its rails with key industry players. 
+Following a disastrous 2022, regulators are ramping up their careful examination of the crypto sector, and one of their main targets is the connection between the industry and the legacy banking system. As Silvergate looks to be all but dead in the water with nearly every major industry player announcing plans to sever ties, the increasing reliance on Signature Bank, a bank that has announced its intention to distance itself from the space, remains… worrisome.
+While this poses no fundamental risk to the functioning of the Bitcoin network or its properties as an immutable settlement layer, the clampdown and increasing centralization of USD on- and off-ramps is a key risk for short-to-intermediate term liquidity in the bitcoin and broader crypto market. 
+Like this content? Subscribe now to receive PRO articles directly in your inbox.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

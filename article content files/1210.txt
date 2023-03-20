@@ -1,0 +1,58 @@
+March 16, 2023 — 06:30 am EDT
+
+      Written by
+                        Keithen Drury for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Artificial intelligence (AI) has flooded the investment headlines recently, and for a good reason: AI can transform how businesses operate and consumers gather information. With AI, it's possible to create a custom advertisement for everyone or crunch mountains of data to determine a trend.
+One of the companies with AI at the backbone of their offering is Palantir (NYSE: PLTR). Palantir is an AI-driven platform that processes data and gives its users insight into their current situation. In addition to its strong AI offering, it's also quickly growing and becoming profitable. 
+As mentioned above, Palantir's offering is simple: data in, actions out. Of course, there is a lot that goes on between those two phases, but Palantir's platform is adaptable to solving problems in supply chains, hospital operations, auto racing, and energy use. Furthermore, Palantir's platform displays these insights in an easy-to-understand dashboard, so it doesn't take a data scientist to interpret what's happening.
+Take a look at what someone running a hospital might see if they were trying to determine what location to route a patient toward:
+Image source: Palantir.
+Hospital Four looks like a great place to send a patient because it has the most open beds and nurses available. There could be other factors involved, like distance, but that's another item data point that could be fed into the system. While this is just one example, it demonstrates how useful this software can be.
+Palantir is also renowned in its industry. In 2021, Palantir ranked first in AI market share and revenue, according to the International Data Corporation. It was also named an AI leader by Forrester Research, with its offering receiving a high score in product vision, performance, market approach, and application criteria. 
+While others recognize Palantir for its technology, investors should also understand the transformation going on with Palantir's financials.
+In the fourth quarter, Palantir crossed a critical threshold: generally accepted accounting principles (GAAP) profitability. While it was only $31 million in profits from revenue of $509 million (a 6% margin), it's a step in the right direction. Furthermore, this wasn't a one-time thing. For 2023, Palantir expects to produce GAAP net income. While management didn't give an exact number, having confidence in being profitable shows investors that management has prioritized profitability.
+Most of Palantir's profitability came from a decreased reliance on stock-based compensation. While this expense significantly rose at most tech companies lately, it hasn't at Palantir.
+Data source: Palantir. 
+Investors will need to keep an eye on this trend throughout 2023. If the stock-based compensation level decreases or stays the same, that should be considered a success for management.
+Another item to watch is Palantir's revenue growth. For 2023, management guided for about 16% growth. While this is a slowdown compared to Q4's 18% growth, it reflects the difficult selling environment we find ourselves in. Nearly all companies understand how important data is becoming, but few are willing to spend the big dollars associated with utilizing Palantir's software. However, should the economic outlook improve, don't be surprised if Palantir beats these expectations.
+Palantir also isn't richly valued, at least from a price-to-sales (P/S) standpoint.
+
+PLTR PS Ratio data by YCharts.
+At nearly 8 times sales, Palantir carries a much lower valuation than other software companies, even though it's still growing at a solid pace and producing profits.
+Palantir has a great offering and strong financials, making it an excellent investment pick. If you're looking to invest in the shift to utilizing AI more in everyday business, Palantir should be at the top of your investment list.
+10 stocks we like better than Palantir TechnologiesWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Palantir Technologies wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of March 8, 2023
+ 
+Keithen Drury has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Palantir Technologies. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

@@ -1,0 +1,57 @@
+February 24, 2023 — 02:29 pm EST
+
+      Written by
+                        Billy Duberstein for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Shares of leading software-as-a-service (SaaS) companies Snowflake (NYSE: SNOW), DocuSign (NASDAQ: DOCU), and Atlassian (NASDAQ: TEAM) all fell Friday, trading down by 3.7%, 4.1%, and 3.7%, respectively, as of 1:39 p.m. ET.
+When SaaS stocks fall in tandem, there is a good chance the culprits are inflation and investors' fears of higher interest rates. And, yes, inflation is looking less easy to tame. More data from January was released Friday morning in the form of the Bureau of Economic Analysis' Personal Consumption Expenditures (PCE) price index report, which showed a slight reacceleration after three months of declining growth.
+The PCE price index is an important metric of U.S. inflation, and for January, its core number (which excludes volatile food and energy prices) rose 0.6% month over month, higher than the 0.4% jump anticipated. Year over year, it rose 4.7%, higher than the 4.5% expected. 
+The PCE is a slightly different measurement than the Consumer Price Index in that Bureau of Economic Analysis sources the data that goes into the PCE from businesses, while the CPI's data is sourced from consumers. Yet some say the Federal Reserve actually pays closer attention to the PCE than the CPI, as that metric better reflects consumers "trading down" to adjust for higher prices. So while January's CPI report has already been released and also came in hotter than expected, Friday's PCE numbers, while not unexpected, were still a bit disappointing. 
+Another data point on consumer spending also came in hotter than expected Friday. U.S. household spending rose 1.8% month over month in January -- its highest increase since March 2021, and significantly higher than the 1.3% increase that was the consensus expectation among economists polled by Reuters.
+While robust consumer spending would normally be a good thing, it's actually the opposite when inflation is above the Federal Reserve's target. The Fed has been trying to tamp down inflation, which will likely require it to restrain economic growth. Therefore, this "good news" on spending is actually bad news in the fight against inflation.
+The result is that investors are likely pricing in higher interest rates for longer. While expectations for short-term rate increases from the Fed have gone up, so have expectations for longer-dated bonds. Friday, the yield on the 10-year Treasury bond rose by about 8 basis points (more than 2%) to 3.96% as of this writing, much higher than the 3.4% lows seen as recently as Feb. 1.  
+Higher longer-term bond rates have an outsized effect on unprofitable growth stocks like those seen across much of the SaaS sector. This is because the intrinsic value of any stock is the present value of its future cash flows, discounted back to the present. Investors tend to use longer-term Treasury yields as a base rate, then add an equity risk premium, in order to discount equity cash flows.
+Snowflake, DocuSign, and Atlassian are all unprofitable on a GAAP basis today, making each susceptible to rising rates, though they are not the worst offenders in the space on that front.  In fact, both Snowflake and DocuSign have shown signs of profit improvement in this higher-rate environment. On the other hand, Atlassian's management apparently feels comfortable spending through this period of economic deceleration.
+Snowflake had an operating income loss of $206 million last quarter, but that operating margin did improve to negative 37% from negative 47% in the year-ago quarter. So Snowflake, a favorite in the cloud space, appears to be improving its margins with scale. Notably, it reports its fiscal fourth-quarter earnings next week.
+Under new management, DocuSign is being more proactive as its growth has slowed markedly. The company recently announced another round of layoffs -- its second in the five months since CEO Allan Thygesen took the helm in September.  The move actually received a thumbs-up from Wolfe Research analyst Alex Zukin Thursday. Zukin believes the cost cuts are part of a broader transformation that will increase profitability. The positive note caused the stock to rise Thursday. However, Friday's inflation data is pulling DocuSign back down to earth as investors remain skeptical. DocuSign next reports earnings on March 9. 
+Finally, Atlassian was actually profitable in 2021, but fell back into operating losses in 2022 as growth slowed and the company kept up its investments in R&D and sales and marketing. While cognizant of the changing environment, it appears that Atlassian's management is leaning into spending through a slowing demand environment. In an even bigger show of confidence, management also recently initiated a $1 billion share-repurchase program. 
+
+SNOW 1-Year Total Returns (Daily) data by YCharts.
+The software sector has certainly taken its lumps over the past 18 months amid high inflation and interest rates. And yet, many of these stocks still don't look "cheap," as their ultimate profitability metrics remain somewhat of a wildcard, making them difficult to value based on future earnings.
+Still, even value investors may find attractive opportunities in the sector given how large some of these declines have been. DocuSign is an interesting special situation, down 80% from all-time highs, as the company still has a leading product in the e-signature industry and a brand new CEO looking to make an imprint on the business.
+Meanwhile, Snowflake and Atlassian are both extremely well-run companies still sporting impressive growth metrics in a slowing economy. Yet investors still have to pay high multiples of sales for these stocks, which is becoming more and more difficult to justify as inflation and interest rates remain stubbornly high.
+10 stocks we like better than SnowflakeWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Snowflake wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Billy Duberstein has no position in any of the stocks mentioned. His clients may own shares of the companies mentioned. The Motley Fool has positions in and recommends Atlassian, DocuSign, and Snowflake. The Motley Fool recommends the following options: long January 2024 $60 calls on DocuSign. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

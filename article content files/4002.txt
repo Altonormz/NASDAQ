@@ -1,0 +1,54 @@
+March 10, 2023 — 05:44 am EST
+
+      Written by
+                        Anthony Di Pizio for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+The Nasdaq is often the stock exchange of choice when technology companies decide they want to list on the public markets. Unfortunately, the tech sector was hit hard by economic challenges over the last 18 months as investors pulled their money out of high-flying tech names in favor of safer, less volatile assets. If you hold tech stocks in your portfolio, that shift has been painful. It has also created some attractive buying opportunities in high-quality companies with strong operating performance. 
+Two great examples of this are CrowdStrike (NASDAQ: CRWD) and Atlassian (NASDAQ: TEAM). Both stocks saw a steep price plunge from all-time highs. But the most recent financial results for both companies suggest there's no time like the present for investors to buy the dip. 
+The cybersecurity industry is becoming an obvious bet for investors. In fact, The Wall Street Journal tracks 45 analysts covering CrowdStrike stock, and 35 have given it the highest-possible buy rating -- and not a single one recommends selling. Why? Because more companies are operating online using cloud technology, which leaves them vulnerable to cyberattacks that could originate from anywhere in the world. 
+Global consulting firm PwC recently interviewed 4,410 top corporate executives and asked them how they planned to defend their businesses against growing geopolitical risks. The top response was to increase their investment in cybersecurity. 
+CrowdStrike is a leading player in the space. It's focused on end-to-end cloud security to serve as a one-stop solution for organizations of all sizes. It protects cloud workloads, the endpoint, data, and identity through the use of artificial intelligence (AI) and machine learning, allowing for faster, more accurate incident response. The company says its models ingest more than 2 trillion data points each day in the CrowdStrike Security Cloud, so its algorithms are constantly learning and improving. 
+CrowdStrike had 23,019 customers at the end of fiscal 2023 (ended Jan. 31), including 1,873 net new additions in the fourth quarter, which was a record number. It led to $2.24 billion in revenue for the year, up an impressive 54% compared to fiscal 2022. It highlights that companies are prioritizing cybersecurity even in the face of difficult economic circumstances.
+CrowdStrike is also trending toward profitability, which has been a recent point of focus for technology investors. Its fiscal 2023 net loss of $182 million represented 8% of revenue, improving from a loss of $232 million and halving from 16% of revenue in the prior year. 
+CrowdStrike is in a critical industry and it's sending all the right signals to investors, finding a healthy balance between growth and improving its bottom line. The 58% discount in its stock price from all-time highs might be a great opportunity to buy in now. 
+The workforce has entered a new era that was accelerated by the COVID-19 pandemic. It's no longer unusual for employees to work remotely. In fact, it offers companies a unique opportunity to access a much broader pool of potential workers. Technology facilitated that shift, and Atlassian's portfolio of platforms has become a critical part of large organizations. 
+Jira is the company's flagship tool, and it's designed to help software development teams collaborate from the very beginning of a project, right through to delivery of the final product. It supports a diverse set of workflows, and it's easy enough to use that other staff members within an organization can monitor project development and make their own contributions -- Atlassian says 46% of Jira users are not in technical roles at all (think HR, legal, and marketing). 
+When Atlassian was founded in 2002, the software industry looked very different. Customers would typically pay a one-off cost upfront, host the platform on their local networks, and then pay to upgrade as necessary. But with the onset of cloud computing, everything is now online and improvements happen automatically without any input required from the end-user. This allows Atlassian to charge recurring subscription fees, and therefore the cloud is driving a revenue boom for the company.
+There are now 253,177 business customers in the Atlassian ecosystem, and in the fiscal 2023 second quarter (ended Dec. 31), the company said cloud migrations by existing customers doubled year over year. In addition, 99% of new customers are starting with cloud-based products, and they have a net expansion rate of 130%, which means they typically spend 30% more money each year with Atlassian. 
+Atlassian brought in $872 million in revenue during Q2, up 27% year over year. But the cloud's contribution accounted for $512 million, and that grew by 40%, far outpacing the rest of the company. Still, it has barely scratched the surface of its global opportunity. Atlassian has 2.2 million business customers in its sights, with an addressable opportunity worth $176 billion per year. 
+With its stock down 61% from its all-time high, there's no time like the present to build a long-term position. 
+10 stocks we like better than CrowdStrikeWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and CrowdStrike wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of March 8, 2023
+ 
+Anthony Di Pizio has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Atlassian and CrowdStrike. The Motley Fool recommends Nasdaq. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

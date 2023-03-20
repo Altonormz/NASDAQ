@@ -1,0 +1,87 @@
+March 06, 2023 — 03:32 pm EST
+
+      Written by
+                        BNK Invest for                             
+        
+
+
+
+
+BNK Invest ->
+
+
+Looking at options trading activity among components of the Russell 3000 index, there is noteworthy activity today in Duke Energy Corp (Symbol: DUK), where a total volume of 15,343 contracts has been traded thus far today, a contract volume which is representative of approximately 1.5 million underlying shares (given that every 1 contract represents 100 underlying shares).  That number works out to 52.8% of DUK's average daily trading volume over the past month, of 2.9 million shares.  Especially high volume was seen for the $100 strike call option expiring April 21, 2023, with 12,221 contracts trading so far today, representing approximately 1.2 million underlying shares of DUK.  Below is a chart showing DUK's trailing twelve month trading history, with the $100 strike highlighted in orange:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Splunk Inc (Symbol: SPLK) saw options trading volume of 9,699 contracts, representing approximately 969,900 underlying shares or approximately 50.5% of SPLK's average daily trading volume over the past month, of 1.9 million shares.
+Especially high volume was seen for the $105 strike call option expiring March 31, 2023, with 678 contracts trading so far today, representing approximately 67,800 underlying shares of SPLK.  Below is a chart showing SPLK's trailing twelve month trading history, with the $105 strike highlighted in orange:
+
+
+
+
+
+
+
+
+
+
+
+
+And Crocs Inc (Symbol: CROX) saw options trading volume of 9,196 contracts, representing approximately 919,600 underlying shares or approximately 50.2% of CROX's average daily trading volume over the past month, of 1.8 million shares.
+Particularly high volume was seen for the $130 strike call option expiring March 24, 2023, with 788 contracts trading so far today, representing approximately 78,800 underlying shares of CROX.  Below is a chart showing CROX's trailing twelve month trading history, with the $130 strike highlighted in orange:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+For the various different available expirations for DUK options, SPLK options,  or CROX options,  visit StockOptionsChannel.com.
+
+
+Today's Most Active Call & Put Options of the S&P 500 »
+
+
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

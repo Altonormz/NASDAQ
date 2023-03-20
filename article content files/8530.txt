@@ -1,0 +1,52 @@
+February 28, 2023 — 10:00 am EST
+
+      Written by
+                        Trevor Jennewine for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+CrowdStrike (NASDAQ: CRWD) and Datadog (NASDAQ: DDOG) have reported colossal revenue growth over the past year, but both stocks have still fallen sharply amid the Nasdaq bear market. Shares of CrowdStrike and Datadog are currently down 60% and 61%, respectively. But the Wall Street consensus is that both stocks are worth buying right now.
+In fact, 82% of analysts currently expect CrowdStrike to beat the market over the next year, while 78% of analysts expect Datadog to outperform. Better yet, not a single analyst recommends selling either stock at the present time. In short, Wall Street is overwhelmingly bullish on both companies.
+Here's what investors should know about CrowdStrike and Datadog.
+CrowdStrike specializes in cybersecurity. The company offers 23 cloud modules that span several industry verticals; each of those products is delivered through a single software agent that can be installed without restarting the device. That feature is noteworthy because most vendors burden customers with multiple product installations that generally require system reboots. In a nutshell, CrowdStrike provides more functionality with less friction compared to competing vendors.
+The CrowdStrike platform also packs industry-leading artificial intelligence (AI). It crowdsources data in a way that other solutions don't, according to management, which makes its AI engine uniquely effective in detecting and preventing threats. That advantage has helped CrowdStrike achieve a leadership position in endpoint security, cloud-native application protection, and threat intelligence, among other cybersecurity categories.
+Growth has decelerated over the past year due to the challenging economy, but CrowdStrike still reported solid results in the third quarter. Its customer count increased 44% to 21,146, and its net retention rate stayed above 120%, meaning the average customer increased its spending by more than 20% over the past year. In turn, third-quarter revenue climbed 53% to $581 million, and cash flow from operating activities rose 53% to $243 million.
+Going forward, CrowdStrike should be able to maintain or even accelerate its momentum, especially when business spending rebounds. Digital transformation means cybersecurity will only become more essential in the future. Trends like cloud computing, remote work, and the proliferation of connected devices should be particularly powerful tailwinds since they create new attack surfaces that hackers can exploit. Management estimates its total addressable market will reach $98 billion by 2025, but CrowdStrike has a knack for innovation, and its product roadmap could push that figure to $158 billion by 2026.
+Shares currently trade at 13.4 times sales, a bargain compared to the three-year average of 35.5 times sales, and a reasonable price to pay for a company with as much potential as CrowdStrike. Investors should take the opportunity to buy a few shares of this growth stock.
+Datadog specializes in observability and security. Its platform includes more than a dozen software products that provide real-time visibility into the health and performance of applications and infrastructure. More broadly, Datadog facilitates collaboration between operations, development, and security teams, which accelerates time to resolution for performance problems and security threats, and hastens the development of new products.
+Datadog provides more than 600 integrations that make its software easy to deploy, and its platform features a powerful AI engine (Watchdog) that automates anomaly detection, root cause analysis, and incident alerts. Those capabilities, coupled with the broad scope of the Datadog platform, have made the company a major player in several software verticals. In fact, industry analysts have recognized the company as a leader in application performance monitoring, cloud infrastructure monitoring, and log monitoring, among other categories.
+Not surprisingly, Datadog is growing quickly. Its customer count increased 23% to 23,200 over the past year, and average spending per customer increased more than 30%. In turn, fourth-quarter revenue rose 44% to $469 million and non-GAAP net income climbed 30% to $0.26 per diluted share. As a caveat, growth is decelerating, and that trend will likely continue in the near term, as business spending has slowed in response to economic challenges. But trends like digital transformation and cloud migration leave Datadog well positioned to reaccelerate its momentum when the economy rebounds.
+Management says its total addressable market will reach $62 billion by 2026, leaving plenty of green field for future growth, and shares currently trade at 14.8 times sales, a big discount to the three-year average of 38.8 times sales. That creates an attractive buying opportunity for long-term investors.
+10 stocks we like better than CrowdStrikeWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and CrowdStrike wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Trevor Jennewine has positions in CrowdStrike. The Motley Fool has positions in and recommends CrowdStrike and Datadog. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

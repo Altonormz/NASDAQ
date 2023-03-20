@@ -1,0 +1,37 @@
+February 27, 2023 — 05:07 am EST
+
+      Written by
+                        dkorth@finsum.com (FINSUM) for                             
+        
+
+
+
+
+FINSUM ->
+
+
+
+While fixed-income ETFs are seeing strong inflows this year, academics from a trio of U.S. business schools suggest fixed-income ETFs can suck the liquidity out of corporate bonds during times of market stress. According to them, the potential problem stems from the creation and redemption baskets that ETF issuers trade with market makers, known as authorized participants (APs), to handle inflows or outflows from their ETFs. Unlike equity ETFs, bond funds’ creation and redemption baskets typically do not include every bond in the index they are tracking as this could include hundreds or even thousands of separate issues. In their paper, Steering a Ship in Illiquid Waters: Active Management of Passive Funds, the academics argue that in normal times a bond’s inclusion in an ETF basket makes the bond more liquid. This is due to a random mix of creations and redemptions increasing trading activity. But, during a crisis, when many investors are running for the exits, redemptions hugely outweigh creations. When that happens, if a bond is included in the basket, the APs “may then become reluctant to purchase more of the same bonds, reducing their liquidity,” according to the paper. However, other bond strategists disagree, including Dan Izzo, chief executive of GHCO, an ETF market maker. Izzo, who argues that the rise of ETFs had actually increased liquidity during periods of market stress, stated that “The causality ran in the opposite direction — it is because some bonds are illiquid that they increasingly feature in redemption baskets as sell-offs intensify, not vice versa.”
+Finsum:While fixed-income ETFs continue to see strong inflows, a trio of academics argues that bond funds make the market less liquid during periods of stress.
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

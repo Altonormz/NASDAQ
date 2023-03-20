@@ -1,0 +1,68 @@
+March 01, 2023 — 05:21 am EST
+
+      Written by
+                        Sean Williams for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+It's been a busy four weeks for Wall Street. In that time, investors have digested hundreds of meaningful earnings reports, another month's worth of economic data, and a Federal Open Market Committee meeting. But what might have flown under the radar was the deadline for institutional money managers to file Form 13Fs with the Securities and Exchange Commission (SEC) on Feb. 14.
+A 13F provides investors with a snapshot of what Wall Street's most prominent money managers were buying and selling in the latest quarter. Even though 13Fs are often more than six weeks old by the time they're filed with the SEC, they can provide insight as to what stocks and trends have the attention of top-tier money managers.
+The true eye-opener of the latest round of 13F filings is how billionaire money managers view the FAANG stocks.
+Image source: Getty Images.
+When I say "FAANG," I'm referring to:
+For more than a decade, these five stocks have been market leaders and dominant forces within their respective industries. When Wall Street hit a rough patch and needed some form of leadership, it's been the FAANG stocks that big-time money managers have turned to. But that wasn't necessarily the case during the fourth quarter.
+Based on 13Fs from billionaire fund managers, two FAANG stocks were heavily sold. By comparison, just one stood out as a clear-cut buy.
+The first of the FAANGs that had billionaire investors heading for the exit during the fourth quarter is Alphabet, the parent company of internet search engine Google, autonomous vehicle company Waymo, and streaming content provider YouTube.
+Billionaires Jeff Yass of Susquehanna International, Chase Coleman of Tiger Global Management, and Jim Simons of Renaissance Technologies were all big sellers. Respectively, these billionaires oversaw the sale of 4.52 million shares, 1.75 million shares, and 0.99 million shares of Alphabet Class A (GOOGL) stock in the fourth quarter.
+If you're looking for a reason to be pessimistic about Alphabet, the state of the advertising market is where you'll find the rationale. It's not uncommon for advertisers to pare back their spending when the likelihood of a U.S. or global recession rises. Most of Alphabet's revenue comes from advertising.
+A more recent headwind for Alphabet is the rapid success of artificial intelligence (AI) chatbot ChatGPT. OpenAI, which developed ChatGPT, helped Microsoft to incorporate AI into its search engine, Bing. The overwhelming buzz surrounding AI and its future potential has some folks wondering if Google will cede search engine market share to Bing.
+Despite these near-term issues, little has changed for Alphabet and its long-term growth strategy. Google remains exceptionally dominant, with a nearly 93% share of worldwide internet search as of January 2023. Since recessions don't last very long, Alphabet should be able to command superior ad-pricing power more often than not.
+Other aspects of Alphabet's businesses are growing nicely as well. YouTube has become the second-most visited social site on the planet. Furthermore, viewers are flocking to its short-form videos known as YouTube Shorts. In a nine-month stretch, the number of daily views for Shorts grew from about 30 billion to more than 50 billion. That's a huge advertising opportunity for YouTube and parent company Alphabet.
+It's also worth noting that the tech titan is cheaper now that at any point since going public in 2004. Despite consistently growing at a double-digit rate during bull markets, Alphabet stock can be scooped up for less than 15 times forward-year earnings. Chances are that Yass, Coleman, and Simons will regret selling shares of Alphabet.
+The second FAANG stock billionaires actively sold during the fourth quarter is social media giant Meta Platforms. Meta is the company behind Facebook, Facebook Messenger, WhatsApp, and Instagram.
+In particular, five billionaires couldn't press the sell button fast enough. This includes Ole Andreas Halvorsen of Viking Global Investors, Stephen Mandel of Lone Pine Capital, Ken Fisher of Fisher Asset Management, and John Overdeck and David Siegel of Two Sigma Investments. In order, these billionaires respectively sold around 2.96 million shares, 2.91 million shares, 2.69 million shares, and 1.16 million shares of Meta.
+Not to sound like a broken record, but the weak advertising industry is a big reason why billionaires sold Meta in droves last quarter. Only $3 billion of the company's $116.6 billion in full-year sales didn't come from advertising in 2022. With no clear sign that the U.S. will avoid a recession, these billionaires appear to be taking the safe route by avoiding an ad-driven operating model.
+The other big headwind for Meta Platforms has been CEO Mark Zuckerberg's aggressive spending on metaverse initiatives. Last year, Reality Labs' operating loss grew to $13.7 billion, and amounts to nearly $24 billion over a two-year stretch. With ad spending down, investors have been less tolerant of Zuckerberg's willingness to spend on initiatives that are years away from making a meaningful impact on the company's bottom line.
+Nevertheless, Meta's social media assets continue to deliver. Even in a down environment for advertising, the company's family of apps recognized a $42.7 billion operating profit in 2022. Facebook, WhatsApp, Instagram, and Facebook Messenger are consistently among the most downloaded apps worldwide. Advertisers understand that Meta's social media assets give them the best chance to reach consumers.
+Meta can also turn heads with a little lever-pulling. The company's latest operating expense forecast for 2023 came in $5 billion below the midpoint of its previous guidance. Likewise, it announced it would repurchase up to $40 billion worth of shares.
+Meta's ad struggles aren't going to disappear overnight. However, it's relatively inexpensive at less than 15 times Wall Street's forward-year consensus profit forecast.
+Image source: Amazon.
+But not all billionaires were avoiding the FAANG stocks during the fourth quarter. Though there were a few sellers, billionaire investors were overwhelmingly buyers of e-commerce stock Amazon.
+All told, eight billionaires piled in, including Jim Simons of Renaissance Technologies, Chase Coleman of Tiger Global, Steven Cohen of Point72 Asset Management, Ole Andreas Halvorsen of Viking Global, Stephen Mandel of Lone Pine, John Overdeck and David Siegel of Two Sigma, and Israel Englander of Millennium Management. In order, these billionaires respectively bought approximately 8.2 million shares, 5.91 million shares, 3.21 million shares, 3.2 million shares, 2.96 million shares, 2.76 million shares, and 2.7 million shares of Amazon.
+This optimism is a bit surprising given the weakening state of retail sales and the large percentage of revenue Amazon derives from its online marketplace. Nevertheless, these eight billionaires wisely recognize that e-commerce is a generally low-margin operating segment for the company. The divisions that provide Amazon with the lion's share of its cash flow are still growing by a double-digit percentage.
+As an example, Amazon has been able to use its online retail sales dominance to get more than 200 million people worldwide to subscribe to Prime. Keep in mind this "200 million" figure is from Amazon as of April 2021. Retail sales steadily shifting to e-commerce, coupled with the company having the exclusive rights to Thursday Night Football, has assuredly sent this figure even higher. Excluding currency movements, subscription revenue is growing in the mid-teens on a year-over-year basis. 
+Even more important than subscription services is cloud infrastructure service segment Amazon Web Services (AWS). AWS recently surpassed an $85 billion annual sales run rate and is responsible for the bulk of Amazon's operating income, despite accounting for only around one-sixth of the company's net revenue. Enterprise cloud spending is still in its early innings, which gives AWS plenty of runway to significantly grow Amazon's operating cash flow.
+While it could be difficult for some investors to look past short-term weakness in Amazon's top revenue-generating segment (online sales), the company's cash-flow needle is pointing decisively higher. Based on future cash flow, Amazon is cheaper now than it's ever been.
+10 stocks we like better than AlphabetWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Alphabet wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Suzanne Frey, an executive at Alphabet, is a member of The Motley Fool's board of directors. John Mackey, former CEO of Whole Foods Market, an Amazon subsidiary, is a member of The Motley Fool's board of directors. Randi Zuckerberg, a former director of market development and spokeswoman for Facebook and sister to Meta Platforms CEO Mark Zuckerberg, is a member of The Motley Fool's board of directors. Sean Williams has positions in Alphabet, Amazon.com, and Meta Platforms. The Motley Fool has positions in and recommends Alphabet, Amazon.com, Apple, Meta Platforms, Microsoft, and Netflix. The Motley Fool recommends the following options: long March 2023 $120 calls on Apple and short March 2023 $130 calls on Apple. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

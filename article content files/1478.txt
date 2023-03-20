@@ -1,0 +1,49 @@
+March 15, 2023 — 11:56 am EDT
+
+      Written by
+                        Joe Orsini for                             
+        
+
+
+
+
+CoinDesk ->
+
+
+It’s a common question: Is bitcoin (BTC) a store of value? While proponents say, “Yes” without hesitation, skeptics note its historically large drawdowns. And that’s fair. Not long ago, in November 2021, bitcoin reached nearly $70,000 but is now around $20,000. That said, BTC also used to trade below 1 cent so, using just prices, the answer to the initial question is, “It’s hard to tell.”
+For an asset in its speculative, price-discovery phase, volatility should be expected. New opportunities and technologies often capture the attention of speculators and traders, often resulting in wild fluctuations as participants seek to determine true value.
+You’re reading Crypto Long & Short, our weekly newsletter featuring insights, news and analysis for the professional investor. Sign up here to get it in your inbox every Wednesday.
+Pair growing interest with the skepticism, controversy and industry speed bumps experienced thus far, and the roller coaster of highs and lows makes sense at just 14 years of age.
+While the asset exhibits qualities of sound money (it’s durable, portable, scarce, uniform and divisible), acceptance is the final uncertainty.
+Through the following on-chain metrics, I aim to prove that bitcoin’s users believe it’s a store of value (SoV), despite the volatility.
+Realized capitalization
+One measure of bitcoin’s use as an SoV is its “realized capitalization.” Different from traditional market cap, this alternative considers the last transfer price of each bitcoin rather than the current market price.
+In doing so, realized capitalization is an aggregate cost basis of bitcoin’s on-chain users. The total realized cap is the amount of money that has been stored in the network over time.
+To me, this is a proxy for inflows. Realized capitalization rises when transfers are made at higher prices than before and declines when transfers are made at lower prices.
+According to Glassnode data, bitcoin stores a total of about $380 billion in value, down from a peak of $460 billion. But, importantly, this is four times more than in December 2017 – when bitcoin was priced around where it is today. So, money has flowed into the network – to store value.
+Holding trends
+Not only that, but bitcoin’s users also are holding the asset for longer and longer. Just last week, the percentage of supply that has been held for long periods has hit all-time highs despite the drop in prices since late 2021. As of March 7, according to Glassnode data:
+Conclusion
+There is a saying that “perception is reality.” Remember, bitcoin has essentially been willed into existence. Despite the noise and skepticism, money continues to flow into the network and its users are holding their assets for longer periods of time.
+The next time somebody questions bitcoin’s use as a store of value, show them these charts. As Satoshi Nakamoto wrote, “If enough people think the same way, that becomes a self-fulfilling prophecy.”
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

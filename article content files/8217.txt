@@ -1,0 +1,190 @@
+February 28, 2023 — 11:00 pm EST
+
+      Written by
+                        Motley Fool Transcribing for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Image source: The Motley Fool.
+Invitae (NYSE: NVTA)Q4 2022 Earnings CallFeb 28, 2023, 4:30 p.m. ET
+Operator
+Hello, everybody, and welcome to the Invitae fourth quarter 2020 financial results conference call. My name is Sam, and I will be coordinating your call today. [Operator instructions] I would now like to turn you over to your host, Hoki Luk, head of investor relations and capital markets, to begin. Hoki, please go ahead.
+Hoki Luk -- Head of Investor Relations and Capital Markets
+Thank you, operator, and good afternoon, everyone. Thank you for participating in today's call. Joining us today are president and CEO, Ken Knight; and our CFO, Roxi Wen. Before we begin, I'd like to remind you that various remarks that we make on this call that are not historical including those about our vision and business model, the company's strategic business realignment, future financial and operating results; expectations of future growth and reduction in burn rates, expectations regarding the exchange and equitization of existing notes and extension of debt maturity and future products, services and our product pipeline and the timing.
+Certain points we make will constitute forward-looking statements within the meaning of the Safe Harbor provisions of the Private Securities Litigation Reform Act. It is difficult to accurately predict demand across services and therefore, our actual results could differ materially from our stated outlook. Statements on future company performance assumes, among other things, that we don't conclude any additional business acquisitions, investments, restructuring, or legal settlements. We refer you to our most recent 10-Q and 10-K in particular to the section titled Risk Factors.
+10 stocks we like better than InvitaeWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.* 
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Invitae wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of February 8, 2023
+
+For additional information on factors that could cause actual results to differ materially from our current expectations. These forward-looking statements speak only as of the date hereof. To supplement our consolidated financial statements prepared in accordance with generally accepted accounting principles in the United States, or GAAP, we monitor and consider several non-GAAP measures. We encourage you to review our GAAP to non-GAAP reconciliations, which are available in the press release and in the appendix of the earnings slide deck, both of which you can access by visiting the Investors section of the company's website at ir.invitae.com.
+Today, Ken Knight will discuss our financing announcement, our fourth quarter and full-year highlights, our road map and portfolio strategy, financials, and key metrics for the fourth quarter and full year, as well as our 2023 guidance. We will then proceed to conclude the call with Q&A. With that, I'll turn the call over to Ken. 
+Ken Knight -- President and Chief Executive Officer
+Thank you, Hoki, and thank you all for joining us today. Let me start with the financing activity. We have just announced steps taken to reduce our debt and successfully extended the vast majority of the near-term debt obligation. Roxi will discuss the terms in detail in her remarks.
+Overall, we are very pleased with these transactions, and they highlight our ongoing commitment to taking the action needed to improve the health of our balance sheet. I'd also like to thank our investors and other stakeholders for their continued support and confidence in the long-term opportunities of Invitae. Now, moving on to an overview of our quarterly performance, which demonstrated continued operational execution against our realignment plan. Revenue for the fourth quarter was $122.5 million versus $126.1 million a year ago, reflecting the impact of businesses and geographies that we have exited.
+This was paired with solid improvement in our gross margin, with non-GAAP gross margin of 47.8% in the quarter compared to 36.5% in Q4 2021 and 45.9% in Q3 2022. Additionally, our effort to reshape our cost profile continues to gain momentum and is reflected in the reduction of our non-GAAP operating expenses to roughly 111% of revenues compared to 171% of revenues in Q4 2021 and 112% of revenues in Q3 2022. Over the last six months, the major initiatives under our strategic realignment have been largely completed with our most recent step being the sale of certain assets related to the distributed RUO kitted solution that was executed at the end of 2022. Collectively, this work helped us reduce our ongoing cash burn to $77 million for the quarter if we exclude certain items.
+This is a significant reduction compared to $196 million in Q4 2021, and our cash burn has continued its declining trend over the past five quarters. Overall, looking at full-year results. We delivered 12% year-over-year growth in our top line. Non-GAAP gross margin was 42.5%, which was in line with our 2022 guidance.
+Our full-year cash burn of $510 million also performed significantly better than our guidance. Note that this reported cash number includes all restructuring and past acquisition-related expenses, as well as the cash inflow from our RUO kitted solution sales. Later, Roxi will provide some perspectives on our ongoing cash burn trend excluding these special items. We have also started 2023 in a strong fashion and two months into the year, we remain on track to continue to perform well against our objective of extending our cash runway through 2024 and driving toward profitable growth.
+Overall, we are pleased with our team's performance and ability to deliver on our goals, and we appreciate their unwavering commitment to our patience, over 3 million of them whom we have serve, to our mission, and to our future. So, as I just pointed out, we have largely completed the major initiatives surrounding our realignment efforts. We have stabilized our portfolio reduced our ongoing cash burn and profitable growth is the foundation on which we built our business plan for 2023 and beyond.2023 will also be a year of investment and innovation into our future to fuel our next wave of new growth opportunities. While we will drive growth and better execution of our core businesses, we must also deliver new capabilities, products, and services for the long term.
+One of the big growth bets for us is in somatic oncology, specifically our minimum residual disease product, PCM, which has shown great utility for monitoring and surveillance of cancer. We are investing in clinical confirmation, adoption, ease of use, and reimbursement in advance of full commercialization. In addition to our capability in bringing high-performing assays to the market, another growth driver will be our efforts at integrating and connecting our portfolio, especially for nongenetic expert adoption. This will offer us a distinct advantage as we can leverage call points and utilize customer-facing digital tools to make it easier for practices and healthcare systems to use our entire suite of offerings.
+Another area of investment will be in our data and patient network platform and this utility to provide solutions to multiple partner types. We remain committed to growing a patient network, which will offer a unique dataset with more enriched longitudinal engagement, combined with our industry-leading variant interpretation. Lastly, when we enter our acceleration phase, we will have implemented the differentiated technology and services needed to fully enable our major growth opportunities. We will be valued for our ability to help put the puzzle pieces together for the patient journey and we're building this with a focus on generating positive cash flow.
+Now, a few words on our portfolio rationalization and strategy. The chart on the left represents an overview of our product offerings as we closed out 2022 and where they stand relative to each other based on their revenue size, non-GAAP gross margin, and growth rate profile. At the end of 2022, the entire business was much improved from where we were a year ago, including the sharp rise in overall non-GAAP gross margins exiting the fourth quarter. The progress we've made in women's health has been significant and teams are actively replicating those successes in our rare disease product line as well.
+In 2023, we're driving the core businesses toward continually growing revenues and expanding gross margin and hereditary cancer continues to be the largest and most profitable business. On the right side, we're showing how we see the portfolio evolving over the next two to three years. As new products become material drivers of revenue, they are depicted by new bubbles of their own. Somatic shows up here.
+As PCM flows in the clinical commercial usage and moves toward positive gross margin with the full benefit of reimbursement practices that are coming into play more and more, the somatic market is still nascent, as the level and timing of reimbursement for clinical use is still to be solidified, yet we are encouraged to see the recent progress in the landscape. As it relates to our own path, we have taken the necessary steps to secure favorable reimbursement while preparing for widespread launch activities. I'd encourage you to watch for additional data and publications on that front. We have also separated pharmacogenomics, PGX, from rare disease to highlight our expectation that it will become a more significant part of our business based on improving reimbursement and broader adoption.
+A third new bubble is our patient network, which is combining our genotypic insights with phenotypic clinical insights to solve puzzles for patients, advocacy groups, and biopharma in a unique and time-saving platform. All of our portfolio offerings, along with our strong foundational variant interpretation capability, have a role to play in building sustainable growth for Invitae, delivering an increased number of solutions for physicians and patients, and speeding the development of new therapies. Before I hand the call over to Roxi, I'd like to remind everyone of our strategic vision for the business. Currently, we're taking the steps to evolve from one patient, one test, which is today's norm in our industry.
+Once that expansion is established, we can take the next step and leverage the data from our integrated network, allowing for collective insights for many patients to provide multiple solutions for multiple use cases and customer types. This is the multiplying value proposition. Invitae is uniquely positioned to do this, not simply because we think it makes sense, but because patients will demand it and we are getting after it. Let me now pass it to Roxi to go over the financials.
+Roxi Wen -- Chief Financial Officer
+Thank you, Ken. I'll spend the next few minutes summarizing recent announcements related to our debt and finance management. First, we have signed a $336 million transaction led by Deerfield Management. This transaction effectively addresses 96% of the outstanding convertible debt deal in 2024 and sets us on a more stable financing footing for years to come.
+Investors will exchange 90% of their current 2024 notes with new senior secured notes due in 2028 and also will equitize 10% of their holdings. In addition, each -- certain investors will provide an additional $30 million of capital to help address most of the remaining 2024 notes, leaving a balance of approximately $14 million due in 2024. We truly appreciate their support and confidence in the company's future. Additionally, we have now fully repaid the $135 million senior secured term loan.
+In early February, we had elected to pay down $50 million of the outstanding balance, reflecting the $45 million inflow from the RUO sale. In light of the larger debt transaction and our continued cash burn reduction, we are able to pay down the total amount without significantly impacting our overall cash runway. By deploying the added capital to extinguishing the stat, we eliminated a total of $135 million debt and associated interest obligations in a rising rate environment. We estimate debt repayment will save us over $15 million of interest expense.
+Once completed, these transactions will push out our debt obligations significantly and reduce the payment deal in 2024 from $485 million to $14 million, an easily manageable figure. More importantly, we'll also decrease our total debt by over $165 million, making notable progress in improving our balance sheet. We estimate that the company will have a pro forma cash balance of $450 million at the close of the transaction. Based on the current plan, we continue to expect we have a cash runway until the end of 2024.
+In addition, we also about -- have about $245 million secured debt capacity available after this transaction, and utilization of such could further extend our runway. Needless to say, these transactions represent a fundamental change and benefit to our capital structure and the financial health of the company. Now, moving on to our financial results. In the fourth quarter of 2022, we generated approximately $122 million of revenue and the breakdown was as follows, $76 million from oncology, including hereditary cancer, therapy selection, and PCM services offered to pharmaceutical partners, $20 million from our women's health business, including NIPS and carrier testing services, $16 million from rare DX, pharmacogenomics, and other testing products, data, and patient network revenue was about $11 million.
+This includes our sponsor testing programs, data management, and a number of data partnership programs. Non-GAAP gross margin was 47.8%, which is an improvement of over 1,000 basis points from the prior year and 190 basis points from the prior quarter. Non-GAAP operating expenses was $136 million compared to $216 million in the fourth quarter of 2021 and $150 million in the third quarter of 2022. As a result of our realignment plan, we also incurred about $9 million of expenses including employee separation, asset impairment, and professional services fees.
+These items and the gain from the RUO sales were excluded from our Q4 non-GAAP operating expenses in today's presentation. Moving on to cash performance. Cash, cash equivalents, restricted cash, and marketable securities totaled $557 million on December 31, 2022, compared to $596 million on September 30, 2022. Total revenue for the year was $516 million or 12% growth from prior year.
+Non-GAAP gross margin in the full year 2022 was 42.5%, which improved by almost 600 basis points over the 36.6% in 2021. Non-GAAP operating expenses in 2022 were $695 million or 135% of revenue, compared to $771 million or 167% of revenue in 2021. In the full year, expenses related to the realignment activities the RUO sales, and impairment charges for goodwill and certain IPR&D assets were excluded from the full-year non-GAAP operating expenses in today's presentation. We think that it's important to look at our ongoing cash burn trend, excluding the proceeds from the RUO sales and the realignment plan, as well as prior acquisition-related cash expenses.
+In the fourth quarter, the cash burn for our ongoing business was about $77 million. This was again a meaningful reduction as compared to the run rate at the beginning of 2022 and last quarter. Stepping to the business metrics. For the sake of continuity through 2022, we will provide the same metrics established prior to last year.
+However, following our realignment activities and considering the company's current maturity and scale, we will be considering -- we'll be consolidating our metrics to measurements that are more relevant to our progress into the coming year. For 2023, we'll eliminate metrics associated with active accounts, active partners, and new product vitality. Financial metrics related to gross margins, cash burn, and operating expenses will be covered in financial performance discussions. Our business metrics in 2023 will include revenue per patient, total number of patients served, number of patients available for data sharing, as well as variable cost productivity.
+Now to the 2022 metrics. Under portfolio growth, our active accounts and active partners were both relatively stable in Q4, primarily as a result of our realignment plan. However, the number of patients and the ones who are available for data sharing continue to expand. We now have served over 3.6 million patients with over 62% of them available for data sharing.
+Our new product vitality has improved slightly from Q3 and returned to a similar level to previous quarters. Revenue per patient, measured by total company revenue divided by the number of ordering patients for the quarter, has continued to increase in the recent quarters, as we have focused our broader efforts on achieving higher quality of revenue. Moving to operational excellence. We're seeing continued quarter-over-quarter improvement in all categories, non-GAAP gross margin, variable cost productivity, non-GAAP opex as a percentage of revenue, as well as cash burn.
+Moving to our financial guidance. On a pro forma basis, we exited fourth quarter of 2022 with an annualized revenue of roughly $450 million for our remaining business. For 2023, we're expecting revenue to be over $500 million, representing low double-digit year-over-year growth. And so, far, the performance in the first couple of months in 2023 supports that expectation.
+We also anticipate the revenue breakdown to be roughly 45% to 48% in the first half of the year and 52% to 55% for the second half. We've also given additional color as to the product mix, expressed as a percent of total revenue. In 2023, we expect top-line growth to be driven by call point expansion for hereditary cancer, women's health industry consolidation, the higher average price per test due to better reimbursement and revenue management, in particular, rare DX. We also expect our non-GAAP gross margin to continue to expand from the 47.8% in Q4 to be between 48% to 50%, thanks to our more focused portfolio, higher quality of revenue, as well as sustained improvement in lab operations, supply chain, and logistics.
+Looking at our cash burn, we now expect full-year 2023 to be between $250 million and $275 million, a more than 45% improvement from the $510 million in 2022, driven by our top-line growth, improved gross margins, reduced opex, as well as working capital improvement. In 2022, we incurred approximately $38 million of cash expenses related to our realignment efforts, which compares favorably to the $75 million original estimate. In 2023, we anticipate a small amount of realignment-related cash expenses, and thus, the current guidance reflects largely our ongoing cash burn target. We're encouraged by our progress today and are confident in our team's ability to deliver.
+Back to you, Ken.
+Ken Knight -- President and Chief Executive Officer
+Thanks, Roxi. There are three areas that summarize our focus. First, Invitae is moving from a broad, somewhat disconnected portfolio of individual tests to an integrated and connected portfolio of solutions. In that regard, patient service, valuable and rich data, and sales and marketing synergies are how we are building our competitive advantage.
+Secondly, our business model is evolving to unlock profitable growth with customer experience, adoption, partnership value and clinical insights and solutions as growth levers balanced against reimbursement, cash flow and affordability. Early results are demonstrating that we are all in and making great progress. Finally, we have an incredibly talented group of engineers and scientists at Invitae who have shown they can do big things. Moving forward, our innovation efforts will focus on offering integrated solutions for our customers in addition to going after big bet opportunities, with the potential for long-term growth and a healthy margin profile for the company.
+I firmly believe this is the right strategy, and I'm excited about the opportunities ahead of us. Operator, I'll hand it over to you for questions.
+Operator
+Thank you. [Operator instructions] Our first question comes from Tejas Savant from Morgan Stanley. Tejas, your line is now open. Please go ahead.
+Unknown speaker
+Hi. This is Gaby on for Tejas. Thanks for taking my question. So, in your 48% to 50% gross margin guidance for 2023, how should we think about this trending throughout the year?
+Roxi Wen -- Chief Financial Officer
+Yes. We have -- the 48% to 50% is an average throughout the year, and we exited the quarter Q4, with 47.8%, so it should be a pretty smooth improvement throughout the year.
+Unknown speaker
+OK. Great. And then just in terms of NIPS coverage, where do you think stand in terms of winning back share, particularly in California following the legal decision? Thanks.
+Ken Knight -- President and Chief Executive Officer
+Yeah. This is Ken. I'll take a stab at that. I mean, our NIPS business has grown consistently throughout 2022.
+And we've been really pleased with the progress that we've made there in terms of market penetration. We continue to be optimistic about the developments that have happened in California relative to the injunction that was placed. And so, we still are -- we're bullish on our ability to grow our presence in California, as well as the rest of the country.
+Unknown speaker
+Great. Thank you. And then just one more for me on the Morehouse partnership. So, just curious, what other efforts are you making to address healthcare disparities among underrepresented groups beyond Morehouse? And then looking longer term, how do you plan to integrate this into your offerings?
+Ken Knight -- President and Chief Executive Officer
+Yeah. So, let me start with the Morehouse partnership. We are extremely excited about that opportunity. First of all, obviously, as you mentioned, to be able to bring genetics into what are historically underrepresented populations in terms of use of genetic information.
+Morehouse also is -- helps us with understanding the community health setting a little bit better than we do today. So, we see it as actually serving both the patients and clients better than we have today. We've had studies and partnerships with other diverse populations across the world. And so, we're not just newly starting this effort, but Morehouse gives us a really focused effort intended upon the underrepresented populations here in the United States.
+So, it's really a part of the way we see this unfolding, and how we think we can serve the world better than we had before as we think about our support of diversity equity inclusion and how we think about our ESG efforts and sustainability. This is really a part of the core of Invitae, and we're excited about the work that's going on specifically with Morehouse.
+Unknown speaker
+OK. Great. That's great to hear. Thank you.
+Ken Knight -- President and Chief Executive Officer
+Thank you.
+Operator
+Our next question comes from Andrew Brackmann of William Blair. Andrew, your line is now open. Please go ahead.
+Unknown speaker
+Hi. This is Dustin on the line for Andrew. Maybe just on the revenue guidance here. I think in the past, you talked about sort of a 15% to 25% baseline growth rate, recognizing there are some moving pieces there with the baseline.
+But just wondering if you could talk about those and maybe help us put this guidance that you gave today versus those prior comments made.
+Ken Knight -- President and Chief Executive Officer
+Yeah, this is Ken. I'll start. The way we view the 15% to 25% is we still are confident that that's really how we will see our revenue growth play out at least for the next several years. Now, as we look at 2023, obviously, we're coming out of the realignment activities.
+We have a strong base of clients and customers. There is obviously still some macroeconomic uncertainty still to play itself out as well. Is it going to be a recession? Is it not? So, I think as we look at the -- our best view of 2023, we feel pretty confident that what we are signaling in terms of low-double-digit growth is how we see it best today. With all those inputs being considered, that's how we see it best today.
+But it doesn't change long-term view on how the business is going to unfold.
+Unknown speaker
+Got it. OK. Thank you. Another question we have is, we're wondering if you can talk about some of the investments that are needed on the data and patient network front.
+How should we think about those being done organically versus you guys potentially forming some partnerships?
+Ken Knight -- President and Chief Executive Officer
+I'll let Roxi start with that. She's actually leading our patient network efforts more personally. So, I'll let us start and then I'll maybe add some comments.
+Roxi Wen -- Chief Financial Officer
+Yeah. Thanks for the question, Dustin. Patient network and data business is one of the two big bets we have, like, as Ken mentioned in his note today and previously as well. We're very excited about the potential of this space.
+And we have some unique capabilities through the 3.6 million patients we have so far tested, and over 60% of them give us availability to work with them to share their data, so that's a very deep database and data source. And also, we have a very significant varying interpretation capability throughout the decade of Invita's product development effort. And in addition to that, our acquisition of the Ciitizen platform has added a very unique capability to our entire data and patient network capability. Ken talked about the adding clinical record into our genetic data source.
+But in addition to that, as you probably have seen, we have announced and executed a number of partnerships. So, from our combined in-house capability, our combined strength with our -- with the Citizen network, as well as the partnerships, we're very excited about the future of this.
+Unknown speaker
+OK. Great. Thank you. That's it for our questions.
+Operator
+And the next question comes from Matthew Sykes of Goldman Sachs. Matthew, your line is now open. Please go ahead.
+Unknown speaker
+This is Ivy on for Matt. Congrats on the debt transactions. Just a couple for me. So, historically, in oncology, you've been the provider that's driving more affordable access to genetic testing.
+As you look to commercialize your PCM franchise and given you have a more differentiated product with the tumor informed, do you believe you'll be able to charge a premium? Or one, will you continue to compete on price in that? And then if it's more the former what kind of impact will that have on like long-term gross margin?
+Ken Knight -- President and Chief Executive Officer
+Yeah. This is Ken. I'll take a stab at that. First of all, our commitment to lower prices and make genetic information more affordable than accessible is not wavering.
+We still believe that the path to genetic information being mainstream for the world is enabled through affordable and accessible genetic information. As it relates to the -- our market presence in oncology, I would describe it as we're going to have -- we believe we're going to have a great product that's going to be technically superior to most and that we will get a representative value in return in terms of revenue for that product and as we built our business case together, it's built -- and consistent with our plan to drive down prices in the marketplace, but it's also built on the foundation of profitable growth. And so, without going into specific details, that's how I would summarize our plan to commercialize PCM.
+Unknown speaker
+OK. Great. That's super helpful. And then also, as you look to commercialize that -- I know you're doing like biopharma activities right now, but as you look to commercialize that, what does that timeline look like? And will there be an uplift in gross margin as you're making those investments?
+Ken Knight -- President and Chief Executive Officer
+Yeah. So, if you refer to the slide that we included, you see that as we see the next couple of years playing out, somatic has shown probably at lower gross margins than it will be long term. And so, that's really kind of the transition of getting the product into the marketplace, getting solidified reimbursement in play, and growing commercial adoption. But what we believe and what we've seen from the products that are in the marketplace is that this is going to be an uplift accretive to gross margin for us in the long term.
+And so, we've got some transition period to get there, but it's going to be accretive in gross margin. That's how we see it.
+Unknown speaker
+OK. Great. And then any like investments in like operating expenses as you're ramping that up?
+Ken Knight -- President and Chief Executive Officer
+I mean, you know what? The investments that I talked about to get clinical utility, to get adoption, to work on reimbursement, all of those are operating expense investments. They're not kind of capacity related. They're really about how we are going to get the product into the marketplace, those are built into our 2023 plan.
+Unknown speaker
+OK. Great. Thank you so much.
+Operator
+[Operator instructions] Our next question comes from Jeffrey Cohen of Ladenburg. Jeffrey, Your line is now open. Please go ahead.
+Jeffrey Cohen -- Ladenburg Thalmann and Company -- Analyst
+Hi, Ken and Roxi. Thank you for taking our questions.
+Ken Knight -- President and Chief Executive Officer
+Hi, Jeff.
+Jeffrey Cohen -- Ladenburg Thalmann and Company -- Analyst
+So, firstly, could you talk a little bit about rare disease and other as calling out that as your highest growth platforms? Can you talk about any specific drivers there do 2023?
+Ken Knight -- President and Chief Executive Officer
+Yeah. Our rare disease as we focus a lot of it in pediatric rare disease, and we've got some great products that are helping solve the puzzles for these young folks as they're going through this diagnostic odyssey. And what we've also seen is rare disease has become a great partner for our patient network that we're building that Roxi talked about. As a matter of fact, we launched a rare disease patient network last year, and many of the partnerships that we've been doing with the pharma teams have been in things like epilepsy, pediatric epilepsy, things like that.
+And so, rare disease as a product for us is growing. And we're working on really improving our reimbursement and our average payment per test. And it's going to be a great product in our portfolio and the teams are completely focused on really driving the improvements in the overall health of the business there. But we've got great customers.
+We've got great product. We've got good partnerships that are growing. We just got to put those things all together and make sure that we have a healthy business that can reinvest in itself, by the way.
+Jeffrey Cohen -- Ladenburg Thalmann and Company -- Analyst
+Got it. And, Ken, could you talk a little bit about the general nature of coding and payers this year? I know that you and others in the space continue to kind of press on the payers with meaningful data and efficacy, etc. So, could you talk about how that may pull through in '23 or '24, where you'd anticipate on some of the testing fronts?
+Ken Knight -- President and Chief Executive Officer
+Yeah. I probably don't want to go into specific product lines, Jeff. Well, I would just say this is -- you know, it's an ongoing effort to stay in great communication with the payer community. We've had the benefit of guideline expansion.
+If you remember back in 2022, we had NIPS expanded to be covered for average-risk pregnancies. We just had some guideline expansion for breast cancer usage, genetic testing for breast cancer patients, colorectal cancer patients, I mean -- so we're getting the support in the guideline space. And we also then take our access team to work with the payers to get support and reimbursement for those tests as we are doing great service on behalf of the patients. We're just trying to get -- and by the way, we're unapologetic about this.
+We're just trying to get fairly compensated for the tremendous value that we generate today. And we're working with our payer community. I have teams that are working with them every day, and we will continue to do that, not in an adversarial type of an environment, but in a collaborative environment where we believe we have support for what we're doing, and we just want to garner their support and reimbursement.
+Jeffrey Cohen -- Ladenburg Thalmann and Company -- Analyst
+Got it. And then, lastly for us, Ken, any commentary about -- I know that we've seen some guidance for you as for organic growth and some new product areas to think about, but all organic. Is there any M&A stance there for '23? Or you're fairly locked and loaded on the current platform and portfolios that you have in fact with plans to grow those out and build them?
+Ken Knight -- President and Chief Executive Officer
+Yeah. I mean, what we've guided to when we talked about 2023 is what we look to do within our own control. And that's what we're really focused on. I mean, we really have done -- the team has done a tremendous amount of work.
+I mean, if you think about what is taken to redo our cost profile to extend our cash runway to 2024, to reset the product portfolio and where we're doing business, it's really been quite a bit of outstanding work on behalf of the team. And '23 is really where we're going to put those things into motion and really deliver onto the next phase. We call them at our execution phase. And so, that's what we're focused on.
+I can't predict the future, but I can tell you that that's the arena that we're focused on for 2023.
+Jeffrey Cohen -- Ladenburg Thalmann and Company -- Analyst
+Great. That's super helpful. Thanks for taking my questions.
+Ken Knight -- President and Chief Executive Officer
+You're welcome.
+Operator
+And there are no more further questions. I'll hand back to the management team for any closing remarks.
+Ken Knight -- President and Chief Executive Officer
+Well, as always, thank you, everyone, for joining us. I appreciate your continued support and look forward to sharing more updates in the near future. Have a great afternoon and evening. Thanks a lot.
+Roxi Wen -- Chief Financial Officer
+Goodbye.
+Operator
+[Operator signoff]
+Duration: 0 minutes
+Hoki Luk -- Head of Investor Relations and Capital Markets
+Ken Knight -- President and Chief Executive Officer
+Roxi Wen -- Chief Financial Officer
+Unknown speaker
+Jeffrey Cohen -- Ladenburg Thalmann and Company -- Analyst
+
+More NVTA analysis
+All earnings call transcripts
+This article is a transcript of this conference call produced for The Motley Fool. While we strive for our Foolish Best, there may be errors, omissions, or inaccuracies in this transcript. As with all our articles, The Motley Fool does not assume any responsibility for your use of this content, and we strongly encourage you to do your own research, including listening to the call yourself and reading the company's SEC filings. Please see our Terms and Conditions for additional details, including our Obligatory Capitalized Disclaimers of Liability.
+The Motley Fool has positions in and recommends Invitae. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

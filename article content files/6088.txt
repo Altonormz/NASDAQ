@@ -1,0 +1,59 @@
+March 06, 2023 — 06:07 am EST
+
+      Written by
+                        Rich Smith for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Something amazing just happened at SpaceX -- and no, I'm not talking about Thursday's Crew-6 launch.
+After not six, but actually seven successful launches (counting the 2020 Demo-2 mission), SpaceX's commercial crew program -- shuttling NASA astronauts to the International Space Station and back -- has become almost routine. What happened on Monday, however, was something quite new.
+On Monday, Feb. 27, SpaceX launched its first full batch of 21 second-generation Starlink satellites into orbit. There, working alongside more than 3,600 operational first-generation Starlink satellites, the Gens 2s promise to deliver a quantum leap in Starlink's capabilities, bandwidth, and -- eventually -- profits for SpaceX.  
+They might even hasten the day we see an initial public offering of Starlink.
+Image source: Getty Images.
+SpaceX received Federal Communications Commission approval to put 7,500 Gen2 Starlink satellites into orbit a few months ago. It was a pivotal moment.
+In contrast to Gen1 Starlink satellites, Gen 2s differ in at least two important respects. First, they're bigger. Compared to Gen 1 Starlinks, which reportedly weigh about 570 lbs. each, CNET says the new Gen2 satellites weigh closer to 2,800 pounds -- nearly five times more than Gen1. Naturally, this means that SpaceX won't be able to carry as many of them per rocket launch. But apparently it doesn't mean they'll have to five times less, either. 
+We know this because, as SpaceX advised in describing Monday's launch, its rocket carried 21 second-generation Starlinks to orbit. That was only one-third (i.e. not one-fifth) as many as the 51 Gen1 Starlink carried in the Feb. 17 launch that preceded it, or the 51 in the launch scheduled for Friday. 
+Of course, SpaceX is rushing to launch as many Starlinks as possible, as quickly as possible, in order to increase the bandwidth of its satellite constellation to support its rapid user growth. But if that's the case, then why would SpaceX want to carry any fewer Starlinks per launch than it absolutely has to?
+The answer to that question is our second crucial difference between Gen1 and Gen2: Gen2 offers "almost an order of magnitude" -- i.e. 10 times -- more bandwidth than Gen1. Thus, even carrying fewer Gen2s per launch permits SpaceX to build bandwidth quicker. 
+Basic algebra tells us why. If a launch carrying 51 Gen1 Starlinks provides 51 times "X" amount of bandwidth, and 21 Gen2 Starlinks provide 21 times 10X bandwidth, then each full load of Gen2 Starlinks puts four times more bandwidth into orbit than a full load of Gen1s can.
+The implications of SpaceX's new Gen2 satellites for Amazon.com (NASDAQ: AMZN), and its planned constellation of Project Kuiper satellites, should be obvious. In contrast to SpaceX, which is launching new batches of Starlinks as frequently as once or even twice a week, Amazon has yet to put a single "KuiperSat" in orbit.
+And now SpaceX is effectively accelerating its Starlink deployment by 4x. 
+With each Gen2 Starlink launch, SpaceX will only increase its lead over its would-be rival, and make the chances of Amazon ever catching up vanishingly small. Factor in SpaceX's cost advantages -- from producing satellites at scale, and from launching satellites with its own rockets, rather than having to buy launch services from other companies -- and it's hard to see how Amazon will ever be able to compete with SpaceX on price, and still earn a profit.
+At the same time, Gen2 opens up some interesting possibilities for Starlink.
+Consider that a lack of bandwidth is a big reason that SpaceX had to raise prices on Starlink last year. (It's simple economics: When demand is high and supply of bandwidth is low, prices rise until demand and supply reach equilibrium.)
+At the same time, the deficit in bandwidth in some markets has been slowing download speeds, making Starlink relatively less attractive to would-be customers. Complicating matters further, in markets where Starlink customers are sparse and bandwidth is plentiful, SpaceX has reportedly been cutting prices, hoping to attract more customers.
+Gen2 Starlink satellites could empower SpaceX to solve all three problems in one fell swoop. By positioning Gen2 satellites over high-demand regions of the globe, SpaceX can both increase bandwidth (to keep customers happy) and sell all the bandwidth the market will bear. At the same time, existing Gen1 Starlink satellites can be shifted to cover areas where demand is low, giving those customers no more bandwidth than they need (or can pay for).
+To me this sounds like a recipe for maximizing profits from Starlink. And as a final added bonus for investors, the closer Starlink gets to profitability, the better the prospects for a Starlink IPO.
+10 stocks we like better than Amazon.comWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Amazon.com wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+John Mackey, former CEO of Whole Foods Market, an Amazon subsidiary, is a member of The Motley Fool's board of directors. Rich Smith has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Amazon.com. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

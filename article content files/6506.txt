@@ -1,0 +1,87 @@
+March 03, 2023 — 03:21 pm EST
+
+      Written by
+                        BNK Invest for                             
+        
+
+
+
+
+BNK Invest ->
+
+
+Among the underlying components of the Russell 3000 index, we saw noteworthy options trading volume today in MongoDB Inc (Symbol: MDB), where a total of 14,721 contracts have traded so far, representing approximately 1.5 million underlying shares.  That amounts to about 104.9% of MDB's average daily trading volume over the past month of 1.4 million shares.  Particularly high volume was seen for the $152.50 strike put option expiring March 10, 2023, with 1,144 contracts trading so far today, representing approximately 114,400 underlying shares of MDB.  Below is a chart showing MDB's trailing twelve month trading history, with the $152.50 strike highlighted in orange:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C3.ai Inc (Symbol: AI) saw options trading volume of 283,174 contracts, representing approximately 28.3 million underlying shares or approximately 91.7% of AI's average daily trading volume over the past month, of 30.9 million shares.
+Particularly high volume was seen for the $26 strike call option expiring March 03, 2023, with 12,248 contracts trading so far today, representing approximately 1.2 million underlying shares of AI.  Below is a chart showing AI's trailing twelve month trading history, with the $26 strike highlighted in orange:
+
+
+
+
+
+
+
+
+
+
+
+
+And Xponential Fitness Inc (Symbol: XPOF) saw options trading volume of 6,074 contracts, representing approximately 607,400 underlying shares or approximately 90.1% of XPOF's average daily trading volume over the past month, of 673,900 shares.
+Especially high volume was seen for the $40 strike call option expiring July 21, 2023, with 2,873 contracts trading so far today, representing approximately 287,300 underlying shares of XPOF.  Below is a chart showing XPOF's trailing twelve month trading history, with the $40 strike highlighted in orange:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+For the various different available expirations for MDB options, AI options,  or XPOF options,  visit StockOptionsChannel.com.
+
+
+Today's Most Active Call & Put Options of the S&P 500 »
+
+
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

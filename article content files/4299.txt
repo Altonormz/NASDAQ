@@ -1,0 +1,65 @@
+March 09, 2023 — 02:17 pm EST
+
+      Written by
+                        Larry Ramer for                             
+        
+
+
+
+
+InvestorPlace ->
+
+
+InvestorPlace - Stock Market News, Stock Advice & Trading Tips
+The Street is realizing what computer scientists and many observers have known for years: artificial intelligence has become tremendously powerful and will have a huge impact on our lives. Moreover, AI enables companies to perform tremendously valuable services for each other and consumers. Consequently, companies with outstanding, well-developed AI technology will become very profitable, making these firms and their AI stocks wonderful investments.
+Healthcare and IT are the two areas in which AI is having and will have the greatest positive impact. That’s because, in both sectors, AI eliminates the need for very labor-intensive, expensive human work. Consequently, the tech firms that provide highly effective AI for companies within those sectors will generate huge profits.
+These three companies all provide highly effective, extremely valuable AI for healthcare and IT companies, making their shares great AI stocks in which to invest.
+
+Source: PopTika/Shutterstock
+
+Dynatrace ‘s (NYSE:DT) AI enables “businesses to automate their IT operations, and update and launch new software.” Thanks to DT’s automation and automatic software updates and launches, the firm enables companies to save a great deal of money by hiring fewer IT professionals. The company’s AI also allows its customers to easily view and keep track of the data they have stored on the cloud. That feature probably enables Dynatrace’s customers to hire fewer IT employees to monitor their data.
+Dynatrace’s software-as-a-service works in conjunction with the cloud offerings of Alphabet (NASDAQ:GOOG, NASDAQ:GOOGL), Amazon (NASDAQ:AMZN), and Microsoft (NASDAQ:MSFT).
+Last quarter, its revenue jumped 24% year-over-year to $297.5 million, while its earnings per share soared 39% YOY to 39 cents.
+In January, Wells Fargo wrote, “We believe that DT has the only enterprise-grade cloud platform capable of supporting modern workloads in a hybrid environment. This should enable DT to maintain strong win rates in the enterprise market.”
+
+Source: jejim / Shutterstock.com
+
+Check Point (NASDAQ:CHKP) is an IT security company that extensively uses AI for three main tasks. It calls these three tasks Campaign Hunting, Huntress, and CADET.
+Campaign Hunting consists of AI checking “millions of known indicators of compromise and hunt[ing] for additional similar ones.” The system allows CHKP’s customers to defeat attacks that neither they nor Check Point’s offerings have encountered previously.
+Huntress uses data to find dangerous programs that are running, and ” Huntress is capable of detecting malicious executables beyond what antivirus and static analysis would find,” Check Point explained.
+Finally, Cadet examines “thousands of parameters” of IT systems to determine multiple important data points about every suspicious program.
+Earlier this year, CHKP launched a product called Horizon XDR/XPR. According to CHKP, the product is “an industry-first, AI powered, extended detection, protection and response framework meant to handle complex attacks on all fronts.”
+The company’s Chief Security Adviser, Dan Wiley, explained that the product would allow organizations to monitor system-on-chip systems with only “one click” instead of 12-14 IT employees.
+
+Source: shutterstock.com/Den Rise
+
+Schrodinger (NASDAQ:SDGR), which uses artificial intelligence to greatly speed up the drug-development process, recently reported very strong fourth-quarter results and 2023 guidance. The company’s earnings confirmed my previous thesis that it’s very well-positioned to earn large amounts of money from the royalties it receives from drug companies.
+More importantly, for the short-and-medium term outlook of SDGR stock, the strong results and powerful guidance appear to have made the Street realize the company’s huge potential and the great outlook of SDGR’s shares.
+The company’s total revenue climbed 23% year-over-year last quarter to $56.8 million, while its drug discovery revenue, i.e., the funds it received from its royalties, climbed 19% YOY to $9 million.
+Most impressively and importantly, however, its drug discovery revenue for all of 2022 jumped 84% to $45.4 million, while the company predicts that its 2023 drug discovery revenue will soar from $70 million to $90 million.
+In other words, its drug discovery revenue is clearly growing by leaps and bounds. Given the tremendous power of AI in general and Schrodinger’s technology in particular, that trend is quite likely to continue for the foreseeable future.
+And Wall Street has apparently caught onto that situation, as SDGR stock jumped 21% between March 1, the day the company reported its Q4 results, and March 3.
+As of the date of publication, Larry Ramer owned shares of SDGR  The opinions expressed in this article are those of the writer, subject to the InvestorPlace.com Publishing Guidelines.
+Larry Ramer has conducted research and written articles on U.S. stocks for 15 years. He has been employed by The Fly and Israel’s largest business newspaper, Globes. Larry began writing columns for InvestorPlace in 2015. Among his highly successful, contrarian picks have been PLUG, XOM and solar stocks. You can reach him on Stocktwits at @larryramer.
+The post 3 Amazing AI Stocks for Your March Buy List appeared first on InvestorPlace.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

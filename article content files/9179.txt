@@ -1,0 +1,48 @@
+February 27, 2023 — 07:21 am EST
+
+      Written by
+                        Gabriel Osorio-Mazilli, MarketBeat Contributor for                             
+        
+
+
+
+
+MarketBeat ->
+
+
+
+
+CEOs and other C-suite executives find it easy to throw around grand plans and projections with pretty colors to underlings and investors alike; very seldom do markets get to experience a high-quality leadership that is selfless in executing such projects and being in the trenches with the rest of the team. 
+Pat Gelsinger, CEO of Intel Corp (NASDAQ: INTC), is an example of the latter. Appointed to run Intel back in 2021, his first order of business was to develop a grandiose plan to bring the company back to its glory days, such as the ones experienced by his mentor Andy Grove; Grove was responsible for most of Intel's growth and transition from a memory chip company into a microprocessor company in the 1970s and 1980s. So will Gelsinger look to fill in his mentor's giant shoes? 
+To open up capacity for his turnaround initiative, Gelsinger started by cutting executive pay - his own took a 25% reduction - so that they could focus and measure what matters for the future survival of Intel. Executive pay is only the start of the initiatives to check expenses; the company has started layoffs which are expected to continue into 2023; the firm is also announcing it will reduce the match it currently offers to its employees' pension contributions.
+This will surely affect the payroll population for Intel, both by direct layoffs and by a high probable attrition rate by employees who don't take these changes with a smile. 
+A more drastic but necessary sacrifice was cutting the stock's historically reliable dividend by 66%. This is also sure to cleanse the investor base the firm currently holds, from those who are interested in quarterly results and preferential treatment in dividends to those who are interested in partaking in the company's long-term growth plans. Finally, the first pivotal change management declared for the new tempo is a $20 billion CAPEX item for future U.S.-based fabs. 
+These investments into U.S.-based fabs may come from Gelsinger's understanding of the effects of over-dependence on Taiwan Semiconductor Manufacturing (NYSE: TSM), which provides ~37% of the world's chip manufacturing capacity at the lowest rates. Taiwan's government has committed to keeping its currency undervalued to make its chip exports more attractive to other nations. However, markets realized that not having control of supply chains can cause significant disruptions and economic losses to products like automobiles, phones and even simple home appliances. Can Intel move to fix these issues? 
+Knowing that most U.S. electronic goods firms, even Intel itself, rely on Taiwan Semiconductor Manufacturing to receive their finalized chips, Pat has devised a plan to compete with Taiwan and also South Korea's Samsung Electronics (OTCMKTS: SSNLF) to receive machinery materials and designs from other technology giants to produce the finalized chips for them.
+This seems like a logical business move that could have been made years ago; however, what both Taiwan and South Korea possess that Intel does not have is access to fabs that use EUV (Extreme Ultraviolet) lithography to make the most advanced chips. 
+Having realized Intel's disadvantage in chip manufacturing technology - and capacity -, the firm could have never been able to compete against Taiwan or South Korea; that is, until Pat landed a deal with ASML (NASDAQ: ASML) to gain access to the latest beta tools allowing for state-of-the-art EUV lithography manufacturing. This new beta tool is expected to be operational in one of Intel's newest U.S. facilities by 2025, one small step for the chip industry and a giant step for Intel's future. 
+Being able to make the most advanced chips through new EUV lithography manufacturing technology and investing in and opening several new fabs in Ohio and Arizona, Intel is now beginning to dig itself into a comfortable competitive position to compete against the manufacturing capacity and capabilities of Taiwan and South Korea. 
+This would make Andy Grove proud of his mentee, returning Intel's reputation to being a disruptor and visionary for the industry. But are markets willing to see that far out into the future for investors to add INTC to their watchlists?
+Trading near the 78% Fibonacci retracement level for a weekly study chart, bullish divergences on RSI and Stochastic studies, and a consensus 16.35% upside based on analyst targets - who may not be considering the responsibility that Intel may adopt in keeping the U.S. in a competitive position for chip manufacturing.
+ 
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

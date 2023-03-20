@@ -1,0 +1,118 @@
+With everyone trading electronically, it’s easy to think that trades and quote changes happen simultaneously. But they don’t. In fact, all data is delayed. Even proprietary feeds.
+It’s just physics.
+That’s one reason why, despite the rest of the world looking up to the U.S. consolidated tape model, the NBBO in the U.S. will never actually be in real-time either. In fact, despite the U.S. market being only 40 miles wide, one of the problems the regulators and participants are still trying to solve remains SIP latency, as we discuss below.
+European regulators are likely to decide that the cost of having a consolidated tape is worth the benefit. They also want a near real-time EBBO. 
+On March 1, 2023, the European Parliament announced its support for the creation of a pre- and post-trade consolidated tape as close to real-time as technically possible. This follows the European Council’s announcement in December last year of its support for the creation of a post-trade consolidated tape with some pre-trade elements. 
+A well-designed tape could benefit investors by providing them with information from all execution mechanisms and venues, especially dark venues. In fact, 14 exchange groups in Europe, including Nasdaq, recently announced they are collaborating on the provision of a consolidated tape as regulators in the bloc look to make European markets more attractive. 
+It is worth noting that the consolidator will need to wait for quotes from all around the region to update, meaning the EBBO will often reflect prices of the venue that is furthest away, even if those prices no longer exist. That’s important considering other research suggests that national primary venues currently have the best prices and the lowest geographic latency.
+That means the consolidated tape will always be slower than the rest of the market. Consequently, it cannot (and should not) be used for trading. It’s best for analyzing trades after they have been executed.
+With a fragmented market of 16 exchanges and over 30 dark venues, the consolidated tapes (SIPs) do a reasonable job of creating a single virtual Best Price (NBBO) that includes venue and share quantity. 
+One important thing the U.S. consolidated tapes do is that they reward data providers in a way that encourages price transparency and market quality. 
+Although it seems clear that the fixed prices and revenues for SIP data create more efficient markets, they also create cross-subsidies and distortions. Some research also suggests that the model significantly cross-subsidizes venues that mostly “peg” to other exchanges’ prices.
+For most users, the SIP is fast. It compiles a consolidated national best bid and offer a thousand times faster than humans could blink.
+This NBBO is then used to protect retail investors via its use as a benchmark price in “Rule 605” reports. These reports quantify how much actual trade prices end up better (or worse) than prices available on exchanges. Importantly, this is a post-trade use of data. In fact, 605 reports are done monthly.
+Exhibit 1: Different types of users have different data and infrastructure wants — most need less expensive human-speed data
+Whilst it’s true that humans make up the majority of SIP customers, it’s also a fact that they don’t make up the majority of trading. And this is where some problems arise.
+The same U.S. NBBO is also used to “protect” quotes, which is a “pre-trade” use of the data. 
+Trading rules ban locked or crossed markets, which means that a trader can’t bid at a price that the data says still has a seller – even if the seller has already traded.
+In short, because all data is delayed, creating any aggregated data feed just adds to the delays, as the whole market waits for the last venue to update its prices. 
+And even then, the new NBBO has to be sent back to everyone in the market. So, it also depends on how far away each trader is from the consolidator.
+This lag (often in thousandths of a second) is seen as such a big problem in the U.S. that regulators decided to trade off their “golden source” NBBO just to potentially speed the SIP up. And yet, despite adding additional fixed costs for the industry, sophisticated traders would still be faster than this new, potentially faster SIP.
+Ironically, a much faster BBO can create opportunities for latency arbitrage. As we show below, the BBO is always going to be the slowest to update because it needs to wait to hear back from all venues in the market, even the slowest. In venues that “peg” to these consolidated prices, that could create opportunities for latency arbitrage, where traders can trade at “old” prices when they know (from direct feeds) that the market has already changed.
+However, it’s important to also realize that most sophisticated traders know this, and usually, the prices in the market react – not in real time – but fast enough that a trade mostly can’t take advantage of an apparent mispricing. We would highlight one study in particular, which accounted for the time it takes messages to travel to the traders in the U.S. market, and for those traders to send orders back to the mis-priced market. What they found was that mis-pricings were mostly resolved faster than the traders could actually trade against the theoretically “stale” prices. In almost a year of trading, they found total aggregate profits across all U.S. lit venues of just $14.4 million.
+Although the speed of light is fast, it is not instantaneous. Light moves no faster than one foot (30cm) each nanosecond, so even a co-located server will see trades and quote updates after they have occurred and traveled from the matching engine throughout the data center.
+Even in the U.S., where almost all trading occurs within a 40-mile triangle in the State of New Jersey, it can take up to 0.5 milliseconds to share a new quote with the whole market. This is mostly due to geography, as it takes only 0.02 milliseconds to actually compute the NBBO. However, waiting for the slowest venue to add their price updates still results in stale quotes that can hold up actual price changes. 
+In a market the size of Europe, that’s a completely different problem.
+The distance from Stockholm to Madrid is around 2,600km. That’s around a 4-hour flight. Although to be fair, not many Swedish stocks are traded out of Madrid, or vice versa.
+In reality, six major data centers host most of the exchanges in Europe:
+Exhibit 2: Illustrative fiber message travel times around Europe
+The other thing we need to consider is the refractive index of glass. That’s important because it makes messages travel faster through the air than optic fiber. However, there is a trade-off between using fiber and microwave:
+Because reliability and capacity are important for a consolidated tape, optic fiber transmissions give traders with microwave another advantage that a consolidator can’t overcome. This also means that traders using microwave will always have a speed advantage - it’s just physics. However, there are other ways traders can have a speed advantage too, including programming in machine language and buying faster chips or building a network so it has more processing power.
+It’s probably easiest to understand how this all works by using an example. Let’s consider an example involving a hypothetical stock listed in Nasdaq Stockholm. We further assume that the consolidated tape is located somewhere roughly in the middle of the market, like Frankfurt.
+1. At Time = 0 milliseconds 
+ Nasdaq and CBOE Europe have 100 shares, each available for sale at 10.01. 
+The EBO is, therefore, 200 shares at 10.01.
+Exhibit 3.A: The market for a hypothetical stock listed in Nasdaq Stockholm at t=0
+2. At Time = 0.01 milliseconds: 
+A buyer colocated in Stockholm sends an order to lift all shares on the offer (EBO). The broker lifts the 100 shares available locally in Stockholm. This leads to a change in the Nasdaq best offer to say 50 shares at 10.02. 
+The buy order starts its journey to London for the other 100 shares, traveling at the speed of light (in fiber). The quote update starts traveling to London and Frankfurt.
+At this time, only traders at Stockholm know that the trade has occurred, and the EBO remains unchanged at 200 shares at 10.01.
+Exhibit 3.B: Buyer located in Stockholm lifts the local offer at t=0, and message updates start
+3. At Time = 10ms: the buy order for 100 shares reaches London
+After 10ms, the buy order will reach London, where it should execute against the offer at CBOE Europe (assuming the seller hasn’t canceled using microwave speed lines). 
+The new CBOE best offer becomes 150 shares at 10.03. The trade and the quote update begin their journey to Frankfurt.
+At roughly the same time, the trade message from Stockholm arrives in Frankfurt, where the consolidated tape is located. The EBO in Frankfurt changes to 100 shares at 10.01. The new EBO starts its journey to London and Stockholm.
+Exhibit 3.C: At t = 10ms, buyer’s order hits CBOE offer and 1st EBO update in Frankfurt
+4. At Time = 15ms: the CBOE updates reach Frankfurt 
+ The new CBOE London execution and best offer reaches Frankfurt allowing the EBO in Frankfurt to update to 50 shares at 10.02, which is the actual best offer across the whole market.
+ At roughly the same time, the EBO update from Step 3 arrives in London, ironically showing that CBOE London still has 100 shares at 10.01 (even though that trade just updated the EBO in Frankfurt). 
+ Stockholm, on the other hand, still sees an EBO of 200 shares at 10.01, as none of the EBO updates have yet made it back to the primary.
+Importantly, there is a different EBO at each city in our triangle, and the only one that is “right” is the one furthest from all the trades.
+Exhibit 3.D: At t = 15ms, 1st EBO update reaches London and 2nd EBO update in Frankfurt
+5. At t=20ms: the 2nd EBO update reaches London. 
+ The London trade confirmation and the 1st EBO update reaches Stockholm. 
+Although the EBO is now “correct” (for now) in Frankfurt and London, the EBO in Stockholm remains stale.
+Exhibit 3.E: At t = 20ms, 2nd EBO update reaches London and 1st EBO update reaches Stockholm
+6. At t=25ms: The Stockholm EBBO reflects the trade that started at t=0. 
+Ironically, Stockholm is the last location to see the 10.01 offer disappear, despite the trade that lifted that price starting in Stockholm.
+The EBO is the same and reflects an actual quote in the market across Stockholm, Frankfurt, and London (for now).
+Exhibit 3.F: At t = 25ms, 2nd EBO update reaches Stockholm and all locations in sync
+From the above example, we see is that for a period 25ms after every quote change or trade in Stockholm, the EBBO is waiting for all the venues to confirm that trades and quote updates have happened.
+The EBBO latencies will be different depending on where trades start, given all the other markets in Europe. However, using the same approach as above, we estimate it can range from 10ms to 32ms, depending on which country the stock traded is listed in and whether the trade starts in the primary or an MTF (Exhibit 4). 
+Exhibit 4: EBBO transmission latencies for European listings assuming a consolidated tape in Frankfurt
+What this means is that for quite a while (in computer time), the EBBO reflects bids and offers that probably don’t exist anymore.
+At first, 25ms doesn’t seem like much (after all, it takes at least 10 times longer to blink). However, over a day of active electronic trading, it can add up, especially for the most liquid stocks in Europe. For instance: 
+In fact, for the most actively traded stocks in the Stoxx Europe 600 index, the EBBO can be stale for almost 67% of the continuous trading session on a volatile day and usually over 20% of the day even when volatility is low (Exhibit 5, left side).
+Smaller stocks tend to trade less frequently, but looking at the whole Stoxx Europe 600, the EBBO in the average stock is stale around 25% of the time on a volatile day and still over 5% of the time on a more normal day.
+And that’s before we start looking at quote changes without trades.
+Exhibit 5: Cumulative percent of time the average STOXX Europe 600 stock would have a stale EBBO
+Ironically, most of Europe’s retail trading still has a pretty strong “home country” bias. 
+Based on the example above, and other data, we know that the primary (local) markets in each country have most of the liquidity and the majority of the price discovery. That may mean an EBBO for retail traders could do more harm than good.
+For example, brokers handling retail orders in Nasdaq’s Nordic markets see primary market data updates with latencies of no more than 500µs (or 0.5ms) and reflecting the majority of actual trades. That’s around 50 times less than the average 25ms delay the consolidated tape data would carry. This large delay makes the consolidated tape unsuitable for trading.
+It remains an open question whether the existence of a consolidated tape, in and of itself, will correct the home country bias, as settlement and custody are also fairly localized in Europe, affecting how retail brokers set up their trading offerings.
+Given all of this, it’s important that regulators everywhere are clear on the use cases for a consolidated tape since some investors will assume by default that it is “the benchmark,” even though it will often reflect bids and offers that no longer exist.
+Worst case, a pre-trade consolidated tape tempts regulators to make their tape as “near real time” as possible. As the U.S. has found, that’s like finding the end of a rainbow. You can endlessly improve speed – but what you have is still a delayed consolidated BBO. It’s just physics.
+A potential solution to this problem is to build a real-time post-trade tape with pre-trade elements at the time of transaction – this would provide a solution for many of the consolidated tape use cases. But to be sure it is not used in the wrong way, it should be labeled in a way that makes it clear that it is not suitable for trading.
+Phil Mackintosh is Chief Economist and a Senior Vice President at Nasdaq. His team is responsible for a variety of projects and initiatives in the U.S. and Europe to improve market structure, encourage capital formation and enhance trading efficiency. 
+Satchit Sagade works as Director of Research in the Economic and Statistical Research (Europe) department at Nasdaq. In this role, he conducts empirical research in equity and equity derivatives market structure, focusing on liquidity and price discovery, market design issues, market regulation, and market technology to enable market participants and stakeholders to unlock the full potential of Nasdaq’s markets. 
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+Type a symbol or company name. When the symbol you want to add appears, add it to My Quotes by selecting it and pressing Enter/Return.
+Copy and paste multiple symbols separated by spaces.
+                
+These symbols will be available throughout the site during your session.
+
+
+
+Type a symbol or company name. When the symbol you want to add appears, add it to My Quotes by selecting it and pressing Enter/Return.
+Copy and paste multiple symbols separated by spaces.
+                
+These symbols will be available throughout the site during your session.
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+Type a symbol or company name. When the symbol you want to add appears, add it to Watchlist by selecting it and pressing Enter/Return.
+Copy and paste multiple symbols separated by spaces.
+                
+These symbols will be available throughout the site during your session.
+
+
+
+Type a symbol or company name. When the symbol you want to add appears, add it to Watchlist by selecting it and pressing Enter/Return.
+Copy and paste multiple symbols separated by spaces.
+                
+These symbols will be available throughout the site during your session.
+
+These symbols will be available throughout the site during your session.

@@ -1,0 +1,66 @@
+February 26, 2023 — 05:06 am EST
+
+      Written by
+                        Sean Williams for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+As much as we'd like the stock market to only move higher, history shows that stock market corrections are a normal, and relatively common, part of the investing cycle.
+Since the beginning of 1950, there have been 39 separate double-digit percentage declines in the benchmark S&P 500 (SNPINDEX: ^GSPC), according to data from sell-side consultancy firm Yardeni Research. The 30-component Dow Jones Industrial Average (DJINDICES: ^DJI) and growth-focused Nasdaq Composite (NASDAQINDEX: ^IXIC) have an extensive history of double-digit drops, too.
+In 2022, investors contended with Wall Street's worst performance since 2008. The Dow Jones, S&P 500, and Nasdaq Composite all, respectively, entered a bear market and closed the year lower by 9%, 19%, and 33%.
+Image source: Getty Images.
+Although we can't concretely predict when bear markets will develop, how long they'll last, or how steep the decline will be, it certainly doesn't stop investors from trying. While there is no such thing as a foolproof indicator, there are predictive tools that have exceptional track records when it comes to forecasting where the S&P 500 (and very likely the Dow and Nasdaq Composite) will head next.
+Last week, when examining Berkshire Hathaway CEO Warren Buffett's buying and selling activity during the fourth quarter, I noted that it had been a "very long time since the major stock indexes bottomed out before a recession was even declared." Today I'm going to add substance to that statement, courtesy of data published by independent research firm Ned Davis Research and its Chief U.S. Strategist Ed Clissold.
+Since the beginning of 1946 (i.e., roughly four months after World War II ended), there have been 13 bear markets. If we exclude the current bear market, the previous 12 bear markets were all accompanied by recessions of varying lengths -- between two months and 18 months.
+But here's the interesting part: In all 12 bear markets, a bottom wasn't reached until after an eight-economist committee that's part of the National Bureau of Economic Research (NBER) declared the start of a recession. Since the S&P 500's mid-October intra-day low, the broad-based index has bounced almost 15%.
+Many conflicting prophecies on economy and markets. A 🧵on how they could fit: A bear market has never ended before the start of a recession. Most economists say US is not in recession but it's likely so logical conclusion is lows are not in place. Makes sense. @NDR_RESEARCH 1/9 pic.twitter.com/tOvbuIGdm4
+
+
+As you can see from Ed Clissold's tweet, it's taken the broader market a median of 5.3 months and an average of 5.9 months to reach its bear market nadir following the official declaration of a recession by the NBER.
+The caveat to the data above is that the NBER would need to declare a recession, which hasn't happened during the current bear market. However, three recession-forecasting tools with extensive track records suggest you can all but pencil in an economic downturn.
+First up is the Federal Reserve Bank of New York's recession probability indicator, which analyzes the spread between the three-month and 10-year U.S. Treasury yields to determine the likelihood of a recession taking place within the next 12 months. Over the past 56 years, every single time this indicator has topped 40%, a recession was eventually declared. The NY Fed's recession probability indicator hit 57.13% in January 2023.
+
+US ISM Manufacturing New Orders Index data by YCharts. Gray zones denote recessions.
+The second recession-forecasting tool with an immaculate track record is the U.S. ISM Manufacturing New Orders Index. As its name implies, this index is designed to analyze new industrial orders.
+The ISM Manufacturing New Orders Index is measured on a scale of 0 to 100, with 50 being the baseline. Any figure above 50 implies new order expansion, while a number below 50 signals contraction. Over the past 70 years, any reading below 43.5 has been a precursor to a recession. The January 2023 ISM Manufacturing New Orders Index came in at 42.5.
+The third recession indicator with a perfect track record of calling U.S. economic downturns is the Conference Board Leading Economic Index (LEI). The LEI is comprised of 10 inputs and is measured as a six-month annualized growth rate.
+The important line-in-the-sand figure for the Conference Board LEI is a six-month decline of 4% or greater. Looking back 64 years, anytime the LEI has declined by this magnitude, a recession has materialized. In December 2022, the Conference Board LEI had fallen 4.2%.
+These three indicators strongly support the idea that a U.S. recession will be declared by the NBER within the next year. Likewise, the data provided by Ned Davis Research intimates that the current bear market has yet to find its true bottom.
+Image source: Getty Images.
+Let's be blunt: This all probably sounds a bit scary. But in the grand scheme of things, every bear market drop throughout history has represented a surefire buying opportunity for patient investors. Once again, we can't predict precisely when bottoms will occur or how long they'll take to reach. However, historic data clearly shows that bull markets eventually wipe away bear markets every single time.
+Recently, market analytics company Crestmont Research updated its annual report that examines the rolling 20-year total returns, including dividends paid, of the S&P 500. This report shows investors what their annualized return would have been if they, hypothetically, had purchased an S&P 500 tracking index at any point since 1900 and held for 20 years.
+The key takeaway from Crestmont's data is simple: As long as you held for 20 years, you walked away richer 100% of the time. Whereas just a handful of the 104 ending years examined (1919 to 2022) resulted in an annualized total return of 5% or less over 20 years, more than 40% of the end years examined led to an annualized total return of at least 10.8%.
+Smart investors are going to continue putting their money to work rather than trying to time when the stock market will bottom.
+In addition to S&P 500 tracking-index funds, which Crestmont Research's data shows are long-term winners, dividend stocks tend to be a genius way to put your money to work during periods of volatility and uncertainty for the broader market. Companies that regularly pay a dividend are typically profitable on a recurring basis and have previously shown investors they can navigate a challenging economic environment.
+It also doesn't hurt that income stocks have historically crushed non-paying companies in the return department over long periods. If you're looking for a way to stay the course while hedging your downside during the current bear market, dividend stocks are a fantastic place to kick off your research.
+10 stocks we like better than WalmartWhen our award-winning analyst team has an investing tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Walmart wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+Stock Advisor returns as of February 8, 2023
+Sean Williams has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Berkshire Hathaway. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

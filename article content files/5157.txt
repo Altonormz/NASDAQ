@@ -1,0 +1,58 @@
+March 08, 2023 — 06:33 am EST
+
+      Written by
+                        Chris MacDonald for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+The cryptocurrency market is in constant flux, with digital currencies soaring and tanking daily. Amid this volatility, it might be difficult to pick a token worth buying into.
+That said, looking among this year's biggest gainers, Lido DAO (CRYPTO: LDO) is one token that has caught my attention. I think this is a crypto that's worth buying, despite its incredible year-to-date move of more than 170%.
+Let's dive into why this decentralized liquid-staking solution for Ethereum (CRYPTO: ETH) is worth considering as it continues to soar.
+Before considering the bull thesis with Lido, let's look at what this blockchain project does.
+Lido is a leading liquid-staking solution for digital assets supported by proof-of-stake consensus mechanisms. Proof-of-stake cryptos secure their networks and validate transactions via a process whereby users put up their tokens (their stake) as a means of verifying transactions are accurate. This is in contrast to proof-of-work networks, such as that of Bitcoin, which require significant computing power to solve mathematical problems to accomplish the same effect.
+Thus, Lido's network supports a much more energy-efficient future for crypto. Currently, Lido's staking solution mainly supports Ethereum, though the project does bring together node operators to manage the validation infrastructure on Solana and the blockchains as well. 
+Lido essentially allows smaller crypto investors to pool their funds to get into the staking game. For Ethereum, the amount needed to set up a validator node is 32 ETH tokens (roughly $50,000). For those without those kinds of funds invested in Ethereum, Lido is realistically the only game in town. 
+Investors can think of Lido as a platform that decentralizes the staking process altogether. For those bullish on decentralization, this project has a lot to like.
+Lido DAO offers several attractive benefits when it comes to investing in cryptocurrency. First, users can participate in the governance of the projects they support and earn rewards for doing so. This creates an engaged community and drives up demand for a given token.
+And a portion of all fees from transactions on the platform is redistributed to holders of Lido's LDO tokens as dividends, making it an excellent choice for investors looking to earn passive income.
+Other benefits include the option of taking out loans against crypto assets, earning yield and access to staking pools with higher rewards than traditional decentralized finance (DeFi) protocols. And Lido's intelligent contracts are audited by Chainsecurity, so users can be sure that the protocols are secure and compliant.
+But what about a potential SEC staking ban?
+That's not to say there aren't risks with Lido's current model. As the staking leader for the massive Ethereum platform, how regulators choose to view staking matters a great deal to Lido. Accordingly, comments from the Securities and Exchange Commission (SEC) about the potential for staking to be restricted to individual investors has raised eyebrows in the crypto community.
+While still rumors at the time, Coinbase Global CEO Brian Armstrong came out ahead of subsequent SEC comments, calling the restriction of staking activity a "terrible path" for the U.S. in its fight to gain crypto dominance, and at least control how this technology is directed globally.
+The extent to which these comments will influence regulators remains to be seen. But suffice it to say that many in the crypto community will be watching how regulation plays out from here.
+Lido DAO represents the future of decentralized staking, for good or bad. Regulators are clearly keeping an eye on this yield-producing process, but investors should take Lido's unique staking model and its market-share lead in Ethereum staking seriously.
+Those deeply involved in the crypto market know how important Lido's decentralized liquid-staking solution is to the viability of proof-of-stake blockchains everywhere. For this sector to grow in an energy-efficient manner, projects like Lido are necessary.
+For these reasons and others, I think Lido is a token worth considering on any dips in the future.
+10 stocks we like better than Lido DAOWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Lido DAO wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Chris MacDonald has positions in Ethereum and Solana. The Motley Fool has positions in and recommends Coinbase Global, Ethereum, Lido DAO, and Solana. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

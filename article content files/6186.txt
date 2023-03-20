@@ -1,0 +1,61 @@
+March 05, 2023 — 12:00 pm EST
+
+      Written by
+                        Jon Quast for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+On March 1, data storage and analytics company Snowflake (NYSE: SNOW) reported financial results for the fourth quarter of its fiscal 2023 and gave guidance for its fiscal 2024. The stock immediately dropped more than 10% and is now down about 66% from its all-time high.
+All that will undoubtedly lead some investors to wonder if the worst is over for Snowflake and whether it's now safe to buy the stock. Let's look at its business going forward in light of fourth-quarter results and at some valuation concerns about buying the stock today.
+In fiscal 2023, Snowflake generated total revenue of almost $2.1 billion, up 69% year over year. Moreover, Snowflake has grown its revenue an astounding 680% over just the past three years. Growth at this scale is impressive.
+Snowflake is growing by winning over new customers. As business becomes generally more data-driven, its services are in increasing demand. The company ended fiscal 2023 with 7,828 total customers, up from just 2,392 three years ago. This currently includes 330 customers spending over $1 million annually, which is up 79% over the past year. 
+Clearly, all of these growth metrics are sensational for Snowflake. But I think one might beat them all. The company's remaining performance obligations (RPO) -- contracts with customers representing future revenue -- were almost $3.7 billion in the fourth quarter. That's up 22% just from the previous quarter.
+Snowflake's customers aren't required to sign long-term spending commitments. If they run out of credits, they can still make purchases from the company as needed to fill the gap. And that's significant to note. Management says that it seems like customers are hesitant to sign long-term commitments right now, even though its RPO spike suggests otherwise.
+In other words, contracted growth looks great for Snowflake, and it doesn't even necessarily represent the total potential if its customers need to make additional purchases without increasing their contracts. 
+Therefore, in many ways, it still looks like a business doing a lot of things right.
+Management made the unusual decision to put forth financial expectations through its fiscal 2029, still six full years away. In fiscal 2029, it expects to generate product revenue of $10 billion. For perspective, it generated $1.9 billion in product revenue in fiscal 2023. Therefore, it would need to average a compound annual growth rate (CAGR) of 32% to hit its goal on time.
+The goal could be on shaky ground because revenue growth is already slowing significantly.
+
+SNOW revenue (quarterly YoY growth) data by YCharts. YOY = year over year.
+For fiscal 2024, Snowflake hopes to generate product revenue of $2.7 billion. Therefore, its growth rate is expected to slow from 70% to 40% in a single year. Moreover, this rate is only marginally better than the rate it needs to sustain over the next six years to hit its goal, meaning it can't experience much more of a slowdown from here.
+For what it's worth, there's a good case to be made that spending on data won't slow permanently but will rather ebb and flow. It seems unreasonable to assume that companies would become less dependent on enterprise data over time. The inverse seems more likely to me.
+Management says that its customers are merely "increasingly focused on better managing their business during more uncertain times." That said, growth can't slow much more for Snowflake, as previously noted, so shareholders certainly hope that's true.
+Most investors know that while its valuation has dropped, Snowflake's price-to-sales ratio of about 23 is still objectively expensive.
+
+SNOW PS Ratio data by YCharts.
+What investors might not know is that the stock has the risk of getting more expensive due to the dilution of shareholder value. According to management, its share count could increase about 14% in the next year alone. 
+Management will keep the damage to a minimum by potentially repurchasing $2 billion of its stock. But even if it uses all of this authorization, the share count could still go up more than 9%. Moreover, using $2 billion to offset dilution still comes at a price to shareholders, considering that money could have been used elsewhere -- even just sitting on the balance sheet, it's still part of the company's value.
+With a pricey valuation, growth potentially slowing below high expectations, and a substantial increase to the share count likely in the coming year, Snowflake stock still appears like a risky investment to me today, despite how well the business is performing in many areas. Personally, I believe investors can find opportunities in other stocks where the valuation risk is more in their favor.
+10 stocks we like better than SnowflakeWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Snowflake wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Jon Quast has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Snowflake. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

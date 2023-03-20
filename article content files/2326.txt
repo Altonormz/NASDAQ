@@ -1,0 +1,54 @@
+March 14, 2023 — 05:13 am EDT
+
+      Written by
+                        Dominic Basulto for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+In early March, the U.S. Treasury announced plans to impose a 30% tax on U.S.-based crypto mining operations. Moreover, the U.S. Treasury signaled that, moving forward, all crypto mining companies will need to provide a detailed report of their electricity consumption, with a goal of getting these crypto miners to become as energy efficient as possible. As might be expected, this has been universally acknowledged as bad news for Bitcoin (CRYPTO: BTC) miners everywhere.
+But what impact will the new crypto mining taxes have on the future value of Bitcoin? After all, the U.S. is now the top country in the world for Bitcoin mining, so any negative impact on U.S.-based miners is going to impact the overall Bitcoin ecosystem in a big way. Here's a closer look at three different scenarios and how they might play out.
+The good news, if you want to call it that, is that the tax on Bitcoin mining operations won't be effective immediately. It would be phased in over a period of three years, at a rate of an additional 10% each year. This would theoretically give crypto miners the chance to adapt to the new reality. They would have two basic choices: move to a new crypto-friendly jurisdiction abroad or go all-in on clean energy sources that consume a minimum level of electricity. 
+Image source: Getty Images.
+This scenario has happened before, and it hasn't had a lasting effect on the value of Bitcoin. For example, China's ban on crypto mining, which first started to go into effect in 2019, was supposed to tank the value of Bitcoin, but that never happened. At that time, China accounted for more than one-half of the world's crypto mining activity. Bitcoin miners simply picked up their operations and moved to other countries with plentiful energy resources, including Canada, Kazakhstan, and the United States. Moreover, a number of the biggest Bitcoin mining operations now claim to be relatively green in terms of their energy consumption. Instead of relying on fossil fuel, they already use solar, wind, and geothermal power.
+So, in this scenario, there wouldn't be a big hit to the value of Bitcoin. The long-term growth story for Bitcoin remains in place, and the world's most popular crypto would be relatively unconstrained on its long march back to previous all-time highs.
+The bad news is that the new crypto tax is an "excise tax" -- the type of tax usually levied against a product like alcohol or cigarettes that a government does not want you consuming. As the U.S. government indicated back in September 2022, it fears the perceived negative environmental impacts of crypto mining. 
+As a result, miners will be taxed not based on their profitability, but rather on how much energy they consume. There is no way around this tax, and the inevitable outcome might be a disturbing pattern of high-profile Bitcoin miner failures. Bitcoin miners are already having a tough go of it, and this new 30% tax might be a death knell for all but the biggest and most profitable mining operations.
+If the Bitcoin mining industry becomes too centralized, with just a handful of big players left, then it could start to have a real impact on how Bitcoin is used on a global basis. After all, Bitcoin miners are used to validate new transactions and add new blocks to the Bitcoin blockchain. With a lack of real competition, this process might take longer or become prohibitively expensive for many transactions.
+In this scenario, the price of Bitcoin might encounter quite a bit of resistance. Most likely, investors would begin to turn away completely from cryptos such as Bitcoin that require mining. Instead, they would fully embrace proof-of-stake cryptos such as Ethereum that do not require mining. In fact, this might be the catalyst for the mythical "Flippening" -- the moment in time when the market cap of Ethereum overtakes the market cap of Bitcoin.
+This final scenario is one that's just too painful to acknowledge for many Bitcoin bulls. Suppose the centralization of Bitcoin mining becomes too high, and one Bitcoin miner eventually finds a way to control more than 51% of total Bitcoin mining activity. In that case, Bitcoin could face an existential crisis. As described by the crypto textbooks, this could lead to the dreaded "51% attack," which is one of the worst things that could ever happen to a blockchain. In this scenario, the Bitcoin blockchain might cease to function, bringing with it disastrous consequences for the price of Bitcoin.
+Right now, it looks like the only crypto mining stocks worth buying are the greenest, cleanest, and most eco-friendly ones. Suppose you are thinking about buying a crypto mining stock. In that case, it's time to stop focusing exclusively on profitability and revenue, and to consider energy consumption as well because only the greenest Bitcoin miners are going to make it. The story for Bitcoin miners, then, is pretty cut-and-dried.
+The outlook is more complex for Bitcoin, which has come a long way over its 14-year history. At each new inflection point, it has found a way to innovate, thanks to its incredibly decentralized network and passionate user community. While there is no doubt that the Bitcoin mining industry is becoming more and more consolidated, the "bad" and the "ugly" scenarios described above would probably take years, if not decades, to play out. 
+So I'm still bullish on the long-term future of Bitcoin. But I'm also hedging my bets by taking a closer look at clean, energy-efficient, proof-of-stake cryptos that might eventually supplant Bitcoin as the preferred crypto payment option globally.
+10 stocks we like better than BitcoinWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Bitcoin wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of March 8, 2023
+ 
+Dominic Basulto has positions in Bitcoin and Ethereum. The Motley Fool has positions in and recommends Bitcoin and Ethereum. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

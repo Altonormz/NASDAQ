@@ -1,0 +1,72 @@
+March 06, 2023 — 05:05 am EST
+
+      Written by
+                        Leo Sun for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+C3.ai's (NYSE: AI) stock price popped 18% during after-hours trading on March 2 after its latest earnings report. For the third quarter of fiscal 2023 (ended on Jan. 31), the enterprise artificial intelligence (AI) software provider's revenue fell 4% year over year to $66.7 million but beat analysts' estimates by $2.4 million. Its adjusted net loss narrowed from $7.7 million to $6.2 million, or $0.06 per share, which also topped the consensus forecast by $0.16.
+C3.ai management said it expects its revenue to decline 0% to 3% year over year in the fourth quarter and to rise 4% to 5% for the full year. That would represent a significant slowdown from its 38% revenue growth in fiscal 2022. It also expects its adjusted operating margins to stay negative in the fourth quarter and the full year.
+Image source: Getty Images.
+Those headline numbers weren't impressive, but Wall Street had set a low bar and C3.ai's stock remains more than 40% below its IPO price of $42. The market's growing interest in AI stocks, which was driven by the rising popularity of OpenAI's ChatGPT, also kept investors interested in C3.ai. Should investors buy C3.ai's stock after its post-earnings pop?
+C3.ai has a history of rebranding itself to fit the latest trends. It was founded in 2009 as C3, then renamed C3 Energy in 2012 to provide data processing, maintenance, and monitoring software to energy companies. In 2016, it renamed itself C3 IoT (Internet of Things) to highlight its expansion beyond the energy sector while capitalizing on the market's growing interest in IoT devices and services. In 2019, it rebranded itself again as C3.ai to highlight the growth of its AI services.
+Those name changes suggested that C3.ai's founder and CEO Tom Siebel -- who previously sold Siebel Systems to Oracle for $5.85 billion -- was repeatedly dressing up older technologies as newer ones.
+Yet C3.ai's core business remains firmly rooted in the energy sector. Baker Hughes (NASDAQ: BKR), C3.ai's top customer, still accounts for more than 30% of its annual revenue through a joint venture that will expire in fiscal 2025. Baker Hughes already reduced its annual revenue commitments to that venture through two renegotiations in 2020 and 2021, and there's no guarantee it will extend that deal. Baker also divested 15% of its equity stake in C3.ai last year.
+C3.ai claims its AI algorithms, which can be integrated into a company's existing software or used as stand-alone services, can be used to streamline operations, automate tasks, cut costs, detect fraud, and improve employee safety. But over the past year, the company's growth in revenue and remaining performance obligations (RPO) -- or the remaining value of its contracts it expects to recognize as revenue -- slowed to a crawl.
+Metric
+Q3 2022
+Q4 2022
+Q1 2023
+Q2 2023
+Q3 2023
+Revenue growth (YOY)
+42%
+38%
+25%
+7%
+(4%)
+RPO (non-GAAP) growth (YOY)
+42%
+38%
+25%
+(14%)
+(19%)
+Data source: C3.ai. YOY = Year over year.
+That slowdown was caused by macro headwinds, which caused large companies to rein in their spending on big software upgrades, and the decision to pivot away from recurring subscriptions toward usage-based fees. C3.ai claims usage-based fees give it more flexibility and the ability to reach more customers during economic downturns, but this also reduces its revenue per customer while lowering its competitive defenses.
+C3.ai's growth stalled out even after it announced several new partnerships and deals with Alphabet's Google Cloud, Microsoft's Azure, and the U.S. military. That's why investors should take C3.ai's recent introduction of its new tools for "generative AI" platforms like ChatGPT with a grain of salt. That announcement might temporarily lift C3.ai's shares with other AI stocks, but those tools probably won't boost its revenue or reduce its long-term dependence on Baker Hughes.
+C3.ai's outlook suggests that slowdown will continue in the fourth quarter. Its adjusted gross margin also declined year over year from 79% to 78% in the first nine months of fiscal 2023, which suggests it's gradually losing its pricing power in the crowded market for enterprise AI services.
+Lastly, C3.ai remains deeply unprofitable on a generally accepted accounting principles (GAAP) basis. In the first nine months of fiscal 2023, its net loss widened from $134 million to $204 million -- which is a lot of red ink compared to its $311 million in cash and equivalents at the end of the third quarter. But on the bright side, it still held $461 million in short-term investments -- and its low debt-to-equity ratio of 0.16 gives it ample room to raise more cash.
+C3.ai might have a catchy ticker symbol, but its growth is slowing down, its losses are widening, and it has severe customer concentration issues. With an enterprise value of $1.6 billion, it also can't be considered a bargain at 5 times this year's sales. Simply put, investors should probably focus on other stocks instead of C3.ai to capitalize on the growth of the AI market.
+10 stocks we like better than C3.aiWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and C3.ai wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Suzanne Frey, an executive at Alphabet, is a member of The Motley Fool's board of directors. Leo Sun has positions in Alphabet. The Motley Fool has positions in and recommends Alphabet and Microsoft. The Motley Fool recommends C3.ai. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

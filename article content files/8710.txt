@@ -1,0 +1,51 @@
+February 28, 2023 — 06:45 am EST
+
+      Written by
+                        Timothy Green for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+The battle between Advanced Micro Devices (NASDAQ: AMD) and Intel (NASDAQ: INTC) for the hearts and minds of PC gamers took a turn last year in favor of Intel. Intel's Raptor Lake chips generally beat AMD's latest Ryzen 7000 chips across all types of workloads, and aggressive pricing gave Intel a significant edge in terms of performance-per-dollar.
+AMD's Ryzen 7000 chips have been selling at retail with steep discounts for months, making them a bit more competitive. But in terms of raw gaming performance, Intel's Raptor Lake has been tough to beat. That changes today as AMD officially launches its Ryzen 7950X3D chip. Featuring an extra slab of ultra-fast cache memory, the 3D V-Cache enabled processor is the new king of gaming.
+PC games are sensitive to single-threaded performance. While games can generally make use of multiple threads, they don't scale nearly as well as other types of applications with the number of CPU cores.
+This dependence on single-threaded performance is one reason why Intel's Raptor Lake chips have fared so well in gaming applications. AMD's Ryzen 7000 chips are plenty fast, but they're not quite as fast as Intel's best.
+One other thing matters for gaming performance: the amount of cache memory. An ultra-fast CPU that sits idle waiting for data from system memory isn't going to reach its full potential. The more cache that sits close to the CPU, the more data that can be copied over, and the less time the CPU spends waiting.
+This is the premise behind AMD's 3D V-Cache chips. By adding an additional module of L3 cache stacked on top of the processor, AMD's 7950X3D comes with a whopping 144 MB of total cache. That's more than double the cache available on Intel's high-end 13900K.
+In many types of applications, this extra cache doesn't matter. But for video games, where there's a ton of data being shuffled around, the more cache, the better. Tom's Hardware found that the 7950X3D delivered 12% greater gaming performance on average at a 1080P resolution than Intel's 13900K. Some games benefit from the extra cache more than others, but taken altogether, AMD's new chip is the clear winner.
+Price-to-performance is a different story. That 12% gap in performance comes at a heavy cost. The 7950X3D is priced at $699, while the 13900K from Intel sells at retail today for around $569. The 12% bump in gaming performance comes at a 23% higher price tag, which means this new chip from AMD will only make sense for those wanting the absolute best gaming performance no matter the price.
+Other than the high price, AMD's 7950X3D comes with another downside: Performance in non-gaming applications is lackluster. That extra layer of memory requires lower clock speeds, so when it comes to productivity applications, AMD's standard Ryzen 7950X and Intel's 13900K come out on top in nearly every benchmark.
+Tom's Hardware found that Intel's 13900K wins by 17% in single-threaded applications and by 4% in multithreaded applications. As an all-around chip, the 7950X3D and its sky-high price tag doesn't make a lot of sense.
+While the 7950X3D will certainly find some customers willing to pay top dollar for the best gaming performance, it likely won't change the balance of power in the PC CPU market.
+10 stocks we like better than Advanced Micro DevicesWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Advanced Micro Devices wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Timothy Green has positions in Intel. The Motley Fool has positions in and recommends Advanced Micro Devices and Intel. The Motley Fool recommends the following options: long January 2023 $57.50 calls on Intel, long January 2025 $45 calls on Intel, and short January 2025 $45 puts on Intel. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

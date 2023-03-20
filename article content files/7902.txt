@@ -1,0 +1,81 @@
+March 01, 2023 — 10:56 am EST
+
+      Written by
+                        BNK Invest for                             
+        
+
+
+
+
+BNK Invest ->
+
+
+Investors in Wintrust Financial Corp (Symbol: WTFC) saw new options begin trading this week, for the September 15th expiration.  One of the key data points that goes into the price an option buyer is willing to pay, is the time value, so with 198 days until expiration the newly trading contracts represent a potential opportunity for sellers of puts or calls to achieve a higher premium than would be available for the contracts with a closer expiration.   At Stock Options Channel, our YieldBoost formula has looked up and down the WTFC options chain for the new September 15th contracts and identified one put and one call contract of particular interest.
+The put contract at the $80.00 strike price has a current bid of $2.15.  If an investor was to sell-to-open that put contract, they are committing to purchase the stock at $80.00, but will also collect the premium, putting the cost basis of the shares at $77.85 (before broker commissions).  To an investor already interested in purchasing shares of WTFC, that could represent an attractive alternative to paying $91.78/share today.
+
+
+Because the $80.00 strike represents an approximate 13% discount to the current trading price of the stock (in other words it is out-of-the-money by that percentage), there is also the possibility that the put contract would expire worthless.  The current analytical data (including greeks and implied greeks) suggest the current odds of that happening are 78%.  Stock Options Channel will track those odds over time to see how they change, publishing a chart of those numbers on our website under the contract detail page for this contract.  Should the contract expire worthless, the premium would represent a 2.69% return on the cash commitment, or 4.96% annualized — at Stock Options Channel we call this the YieldBoost.
+
+
+
+Below is a chart showing the trailing twelve month trading history for Wintrust Financial Corp, and highlighting in green where the $80.00 strike is located relative to that history:
+
+
+
+
+
+
+
+
+
+
+
+
+Turning to the calls side of the option chain, the call contract at the $100.00 strike price has a current bid of $3.20.  If an investor was to purchase shares of WTFC stock at the current price level of $91.78/share, and then sell-to-open that call contract as a "covered call," they are committing to sell the stock at $100.00.  Considering the call seller will also collect the premium, that would drive a total return (excluding dividends, if any) of 12.44% if the stock gets called away at the September 15th expiration (before broker commissions).  Of course, a lot of upside could potentially be left on the table if WTFC shares really soar, which is why looking at the trailing twelve month trading history for Wintrust Financial Corp, as well as studying the business fundamentals becomes important.   Below is a chart showing WTFC's trailing twelve month trading history, with the $100.00 strike highlighted in red:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Considering the fact that the $100.00 strike represents an approximate 9% premium to the current trading price of the stock (in other words it is out-of-the-money by that percentage), there is also the possibility that the covered call contract would expire worthless, in which case the investor would keep both their shares of stock and the premium collected.  The current analytical data (including greeks and implied greeks) suggest the current odds of that happening are 57%.  On our website under the contract detail page for this contract, Stock Options Channel will track those odds over time to see how they change and publish a chart of those numbers (the trading history of the option contract will also be charted).   Should the covered call contract expire worthless, the premium would represent a 3.49% boost of extra return to the investor, or 6.43% annualized, which we refer to as the YieldBoost.
+
+
+
+The implied volatility in the put contract example is 33%, while the implied volatility in the call contract example is 30%.
+Meanwhile, we calculate the actual trailing twelve month volatility (considering the last 251 trading day closing values as well as today's price of $91.78) to be 30%.  For more put and call options contract ideas worth looking at, visit StockOptionsChannel.com.
+
+Top YieldBoost Calls of the S&P 500 »
+
+
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

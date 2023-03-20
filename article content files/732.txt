@@ -1,0 +1,49 @@
+March 16, 2023 — 03:11 pm EDT
+
+      Written by
+                        Dillon Healy for                             
+        
+
+
+
+
+Bitcoin Magazine ->
+
+
+So much has happened in the last week that it may be helpful to look at the totality of these events in relation to bitcoin.
+
+This is an opinion editorial by Dillon Healy, institutional partnerships at Bitcoin Magazine and Bitcoin 2023.
+The biggest news of the last week has been the banking sector collapses, specifically crypto-friendly banks. On March 2, in their own SEC filing, Silvergate raised concerns around their solvency and ability to continue operating. This was, in my opinion, undeniably a result of direct and/or indirect exposure to the continuing contagion within the crypto industry created by collapses of Luna, 3AC, and FTX. As expected, a bank run followed from Silvergate partners to distance themselves and withdraw assets. 
+Silvergate’s stock ($SI) immediately tumbled over 50% as reports piled up of clients moving elsewhere. 
+"It is now getting increasingly difficult for crypto companies to establish or sustain relationships with a U.S. bank," said Ivan Kachkovski, FX and crypto strategist at UBS.Speculation piled up around how a Silvergate unwind would affect stablecoins and other crypto-servicing banks. Silvergate has been the main issuer of the second most popular stable coin USDC.
+Contagion concerns then shifted to Signature Bank, the other popular crypto-servicing bank. 
+“Signature noted that it had previously stated as of Feb. 1, it would no longer support any of its crypto exchange customers in buying and selling amounts of less than $100,000. Signature said in December that it would be reducing its exposure to the crypto sector, although not eliminating it entirely.”
+On March 8, Silvergate officially announced that they were unwinding operations and liquidating assets via a press release.
+The official collapse of Silvergate meant more wide-spread contagion and increased uncertainty and fear of banking customers and USDC users. On March 9 and 10, Silicon Valley Bank suffered a classic bank run. Billions in withdrawals piled up from the fractional reserve bank, many withdrawals from their core clientele, startup companies. 
+SVB stock crashed 60% and by the end of the day regulators had shut down the bank and assets had changed hands to the FDIC. The SVB unwind was the second largest bank collapse in U.S. history.Trust in banks was deteriorating rapidly as most publicly-traded firms tumbled.
+With the SVB unwind happening attention once again turned to Circle’s USDC, the second largest stablecoin with a $43 billion market capitalization, as it was reported that Circle had an undisclosed part of its $9.8 billion cash reserves at the now collapsed Silicon Valley Bank. During March 11 the USDC/USD peg began to break reaching $0.87.
+Over the weekend fear continued to spread, thousands of start-ups banked at SVB would not have access to their funds or payroll on Monday. Signature Bank was also officially closed by U.S. regulators. By Sunday the Fed, along with the FDIC and U.S. Treasury, stepped in with a statement:“Depositors will have access to all of their money starting Monday, March 13. No losses associated with the resolution of Silicon Valley Bank will be borne by the taxpayer.”Amidst all of the contagion, there were reports of Signature Bank being specifically targeted by anti-crypto regulators. “I think part of what happened was that regulators wanted to send a very strong anti-crypto message,” said Signature Bank board member Barney Frank.The obfuscated bailout allowed the failing banks to borrow against their negative collateral value at par instead of at market value. 
+The week opened with the new government bank deposit backstop in place, and concerns are on-going around what banks warrant counterparty risk for both individuals and businesses. In the wake of several fractional reserve banking collapses, bitcoin seemed to trade on fundamentals rather than speculation for the first time in a while. The risks associated with fractional reserve banking combined with centralized monetary policy and volatile interest rates are on full display, meanwhile fully-backed banking solutions are seemingly actively blocked by the Fed. 
+The events of the last few weeks should serve to educate people on the dangers brought on by a centrally-controlled economy reliant on credit and leverage. I highly recommend that people interested in learning how Bitcoin operates outside of this system attend Bitcoin 2023 in Miami on May 18-20, where the topic will be discussed in depth. 
+This is a guest post by Dillon Healy. Opinions expressed are entirely their own and do not necessarily reflect those of BTC Inc or Bitcoin Magazine.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

@@ -1,0 +1,58 @@
+March 16, 2023 — 06:45 am EDT
+
+      Written by
+                        John Ballard for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Artificial intelligence (AI) is proving to be a game changer in new product development. We're already seeing incredible breakthroughs with intelligent language generators, such as OpenAI's ChatGPT. But spending on AI technology is just starting to ramp up.
+The International Data Corporation estimates that global spending on hardware, software, and services used for AI-centric systems will grow 27% per year, surpassing $300 billion by 2026. 
+There are no companies better positioned to benefit from this growth than Apple (NASDAQ: AAPL) and Nvidia (NASDAQ: NVDA). These industry leaders have the necessary resources and technological expertise to capitalize on the growing adoption of AI and deliver attractive returns to investors. Here's how these companies are benefiting from this opportunity.
+Apple has one of the strongest brands, a mountain of cash, and an installed base of over 2 billion active devices in people's hands. It's about as unstoppable of a business as there is, and it is increasingly implementing AI-powered features to make its products even better.
+CEO Tim Cook told analysts on a recentearnings callthat AI "will affect every product and every service that we have." Customers are already engaging with an AI-powered feature every time they unlock their device. Apple's Face ID feature uses deep learning, a subset of AI, that learns to recognize a user's face, which is a key part of the company's security solution for iPhone and iPad.
+One of the most common ways AI is used today is personalized recommendations. This is how Apple's Siri learns which apps the user tends to open at different times during the day and conveniently organizes them in the control center menu on iOS. Apple's iOS also uses AI to recognize and translate text in photos.
+The tech titan has unleashed all these useful features following a series of acquisitions in recent years. In fact, GlobalData found that between 2016 and 2020, Apple acquired more AI start-ups than Alphabet, Meta Platforms, and Microsoft. 
+With management's fiscal Q2 guidance calling for improved iPhone sales versus last quarter's 8% year-over-year decline, which was partly driven by supply shortages, the business is proving to be fairly resilient in this uncertain economic environment.
+Apple has grown its user base by maintaining high customer satisfaction scores, and AI will be crucial to sustaining that brand loyalty. With $97 billion in trailing free cash flow, the company has all the resources it needs to invest in new services that improve the user experience. 
+Apple is so well financed, it's difficult to imagine a competitor ever knocking it down. That explains why the stock has been high on the buy list of world renowned investor Warren Buffett.
+Nvidia is the backbone of AI. It's the top dog in graphics processing units (GPUs) and software systems used for training AI models. Nvidia has been the leader in gaming GPUs for many years, but over the last decade, it has been successful in adapting its GPU capabilities to serve the needs of the enterprise space.
+Nvidia's revenue has more than doubled over the last five years, with its data center segment responsible for much of that growth. Unlike Intel and Advanced Micro Devices, Nvidia is completely focused on GPU design and innovation, which is a key advantage.
+Nvidia is further cementing its lead by pushing into software. Nvidia AI is available from major cloud service providers and helps companies more efficiently implement AI training. It offers pretrained models for cybersecurity, speech recognition, and other AI use cases. It says 25,000 companies and start-ups are using Nvidia AI. 
+Another sign that Nvidia is positioned to lead this disruptive tech revolution is its multiyear partnership with Microsoft, in which the two tech behemoths are working to build the world's most powerful AI supercomputer.  
+AI is also impacting Nvidia's design of gaming GPUs, where its RTX ray-tracing technology uses AI to render more realistic image quality in video games.  While gaming revenue fell last year due to macroeconomic headwinds, the company's gaming segment will be a key growth driver over the long term.
+Nvidia experienced a slowdown across its business last year, which sent the stock tumbling, but that is only a temporary hurdle. The shares are up 65% year to date, as management sees a better environment for gaming GPU sales this year, especially in China.  
+Over the long term, the opportunity in data center is still massive. Management estimates its long-term addressable market opportunity is $150 billion in software alone. Mordor Intelligence expects the demand for GPUs to climb at a compound annual rate of 32.7% through 2027, driven not only by AI use cases but also gaming, virtual reality, and the development of self-driving cars. 
+However, Nvidia's stock is expensive, trading at a forward price-to-earnings ratio of 55. Furthermore, the near-term business environment is still uncertain, which presents some obstacles for Nvidia this year. Investors should expect the shares to be volatile, but those who hold for the long term and gradually keep adding to their position should earn market-beating returns with this growth tech stock.
+10 stocks we like better than AppleWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Apple wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of March 8, 2023
+ 
+Suzanne Frey, an executive at Alphabet, is a member of The Motley Fool’s board of directors. Randi Zuckerberg, a former director of market development and spokeswoman for Facebook and sister to Meta Platforms CEO Mark Zuckerberg, is a member of The Motley Fool's board of directors. John Ballard has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Advanced Micro Devices, Alphabet, Apple, Intel, Meta Platforms, Microsoft, and Nvidia. The Motley Fool recommends the following options: long January 2023 $57.50 calls on Intel, long January 2025 $45 calls on Intel, long March 2023 $120 calls on Apple, and short March 2023 $130 calls on Apple. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

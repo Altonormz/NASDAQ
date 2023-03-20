@@ -1,0 +1,56 @@
+March 02, 2023 — 09:30 am EST
+
+      Written by
+                        Harsh Chauhan for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Shares of Nvidia (NASDAQ: NVDA) have shot up big time in 2023, seeing gains of over 60% so far, and it looks like the chipmaker's hot rally could be here to stay thanks to the growing craze around generative artificial intelligence (AI) applications.
+The semiconductor bellwether could be a big beneficiary of the growing proliferation of artificial intelligence (AI) applications, which have sprung into the limelight in recent months thanks to chatbots such as Bard and ChatGPT. So, it was not surprising to see Nvidia management spending considerable time on its latest earnings conference call explaining how the company is all set to become an enabler of generative AI applications.
+Let's take a closer look at how the growing adoption of AI could turn out to be a tailwind for Nvidia and supercharge its long-term growth.
+Nvidia released its fiscal 2023 fourth-quarter results (for the three months ended Jan. 29) on Feb. 22. The graphics specialist's top line was down 21% year over year to $6.05 billion, while non-GAAP (generally accepted accounting principles) earnings fell 33% to $0.88 per share. The guidance wasn't convincing either, as the weakness in the personal computer (PC) market weighed heavily on Nvidia's gaming and professional visualization businesses.
+The chipmaker expects $6.5 billion in revenue this quarter, which would be a 21% drop over the year-ago period's revenue of $8.3 billion. Still, Nvidia stock surged 14% following its earnings report. That may seem baffling, given the company's poor numbers and guidance, but investors were happy with its better-than-expected results and management's comments about the opportunity in generative AI.
+CFO Colette Kress remarked on the call that Nvidia is working on a wide range of AI applications, such as "virtual customer service agents, speech AI, fraud detection, and bank process automation." She also added that "generative AI foundation model sizes continue to grow at exponential rates, driving the need for high-performance networking to scale out multinode accelerated workloads."
+In simpler words, the adoption of generative AI applications should ideally create the need for more powerful data center infrastructure, which should eventually boost sales of Nvidia's graphics processing units (GPUs). ChatGPT, for instance, has reportedly been trained using 10,000 Nvidia GPUs, as per UBS analyst Timothy Arcuri.
+Given that ChatGPT has been handling more capacity than it is designed to, it won't be surprising to see OpenAI scale up its infrastructure rapidly, which would mean that more Nvidia GPUs are likely to be deployed to power the chatbot. Not surprisingly, Wall Street sees Nvidia winning big from the proliferation of generative AI applications.
+According to Citigroup, ChatGPT could generate between $3 billion and $11 billion in revenue for Nvidia over a 12-month period. More importantly, chatbots and other generative AI applications could be a long-term catalyst for Nvidia stock. Mordor Intelligence forecasts that the chatbot industry could clock 30% annual growth through 2027. The overall generative AI space is expected to clock nearly 35% annual growth through 2030, according to Grand View Research.
+Nvidia is in a solid position to make the most of this fast-growing opportunity, considering its dominant position in data center GPUs. IDC estimates that Nvidia controls over 90% of the fast-growing data center GPU market. Grand View anticipates this space to clock 22.3% annual growth through 2030.
+And now, the arrival of chatbots and generative AI could give this market a nice boost and pave the way for stronger growth in Nvidia's data center business, which has already been growing impressively.
+Nvidia's top-line growth stagnated in fiscal 2023. The company's revenue of $26.9 billion was in line with the prior-year period. But the data center business stood tall amid the downturn. The segment's revenue increased 41% in fiscal 2023 to $15 billion, accounting for nearly 56% of the chipmaker's total revenue. Nvidia can sustain this terrific growth for a long time, given the expected growth of the data center GPU market and the company's dominant share of the same.
+Nvidia also sees a $150 billion market opportunity in data center chips and systems such as GPUs, central processing units (CPUs), and data processing units (DPUs). With the company expanding its presence into more types of data center chips such as CPUs and DPUs, Nvidia is leaving no stone unturned to make the most of this lucrative market.
+The robust health of the data center business is one of the key reasons why Nvidia's fortunes are expected to turn around in fiscal 2024. Its revenue is expected to increase 10% to $29.6 billion, while consensus estimates are projecting a 33% jump in earnings to $4.44 per share. Even better, Nvidia is expected to step on the gas in the next fiscal year, with an estimated 24% jump in revenue and a 33% spike in earnings per share.
+All this indicates that Nvidia's hot rally seems sustainable. This is why investors who have this AI stock in their portfolios should continue holding it in anticipation of more upside.
+Find out why Nvidia is one of the 10 best stocks to buy now
+Our award-winning analyst team has spent more than a decade beating the market. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed their ten top stock picks for investors to buy right now. Nvidia is on the list -- but there are nine others you may be overlooking.
+Click here to get access to the full list!
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Citigroup is an advertising partner of The Ascent, a Motley Fool company. Harsh Chauhan has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Nvidia. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

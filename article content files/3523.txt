@@ -1,0 +1,87 @@
+March 10, 2023 — 03:30 pm EST
+
+      Written by
+                        BNK Invest for                             
+        
+
+
+
+
+BNK Invest ->
+
+
+Looking at options trading activity among components of the Russell 3000 index, there is noteworthy activity today in NVIDIA Corp (Symbol: NVDA), where a total volume of 1.0 million contracts has been traded thus far today, a contract volume which is representative of approximately 102.8 million underlying shares (given that every 1 contract represents 100 underlying shares).  That number works out to 199.7% of NVDA's average daily trading volume over the past month, of 51.5 million shares.  Particularly high volume was seen for the $230 strike put option expiring March 10, 2023, with 103,124 contracts trading so far today, representing approximately 10.3 million underlying shares of NVDA.  Below is a chart showing NVDA's trailing twelve month trading history, with the $230 strike highlighted in orange:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bank OZK (Symbol: OZK) options are showing a volume of 15,994 contracts thus far today.  That number of contracts represents approximately 1.6 million underlying shares, working out to a sizeable 173% of OZK's average daily trading volume over the past month, of 924,315 shares.
+Particularly high volume was seen for the $35 strike put option expiring May 19, 2023, with 4,146 contracts trading so far today, representing approximately 414,600 underlying shares of OZK.  Below is a chart showing OZK's trailing twelve month trading history, with the $35 strike highlighted in orange:
+
+
+
+
+
+
+
+
+
+
+
+
+And GXO Logistics Inc (Symbol: GXO) saw options trading volume of 12,770 contracts, representing approximately 1.3 million underlying shares or approximately 166.2% of GXO's average daily trading volume over the past month, of 768,245 shares.
+Particularly high volume was seen for the $60 strike call option expiring July 21, 2023, with 5,952 contracts trading so far today, representing approximately 595,200 underlying shares of GXO.  Below is a chart showing GXO's trailing twelve month trading history, with the $60 strike highlighted in orange:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+For the various different available expirations for NVDA options, OZK options,  or GXO options,  visit StockOptionsChannel.com.
+
+
+Today's Most Active Call & Put Options of the S&P 500 »
+
+
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

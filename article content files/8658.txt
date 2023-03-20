@@ -1,0 +1,54 @@
+February 28, 2023 — 07:36 am EST
+
+      Written by
+                        Leo Sun for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Salesforce (NYSE: CRM) and UiPath (NYSE: PATH) both make it easier for companies to automate and optimize their workflows with AI services. Salesforce, the world's largest provider of cloud-based customer relationship management (CRM) services, uses its AI platform Einstein to analyze trends and provide data-driven predictions.
+UiPath's robotic process automation (RPA) platform automates repetitive office tasks -- such as managing inventories, processing invoices, onboarding customers, and entering large amounts of data -- to reduce an organization's dependence on human employees.
+Salesforce and UiPath will both likely benefit from the secular expansion of the AI market and the digital transformations of large businesses. But over the past 12 months, Salesforce's stock declined 14% as UiPath's stock plunged 53%. Let's see why both stocks lost their luster, and if either one is a good turnaround play for 2023 and beyond.
+Image source: Getty Images.
+Salesforce expects its revenue to rise 17% in fiscal 2023, cooling from its 25% growth in fiscal 2022, as its adjusted EPS rises 3%. Its growth is decelerating as the macro headwinds force many companies to rein in their spending on big software deals. It's still the CRM leader, but stiff competition from Oracle, SAP, and Microsoft could limit its pricing power.
+Salesforce is growing at a slower rate than many of its cloud-based peers. For example, analysts still expect Monday and ServiceNow -- which also provide cloud-based digital transformation services -- to grow their revenues by 33% and 22%, respectively, in their current fiscal years. Salesforce believes it can still generate over $50 billion in annual revenue in fiscal 2026, but it would only need to grow its top line at a compound annual rate of at least 17% from fiscal 2023 to 2026 to hit that target. 
+There's also a lot of unrest at Salesforce as its growth cools off. It recently lost several of its top leaders -- including its co-CEO Bret Taylor, Chief Strategy Officer Gavin Patterson, Chief Marketing Officer Stephanie Buscemi, Slack CEO Stewart Butterfield, and Tableau CEO Mark Nelson -- in an executive exodus as it laid off 10% of its workforce. It also faces pressure from activist investors to cut costs and make some other big changes.
+All of that drama has overshadowed the fact that Salesforce is still growing. It's still locking in its customers with its sticky ecosystem of cloud-based sales, marketing, commerce, and analytics services -- and its stock is now historically cheap at 29 times forward earnings and 5 times next year's sales.
+UiPath's revenue rose 47% in fiscal 2022 (which ended last January), but it expects its revenue to only rise 15% in fiscal 2023. It was profitable on a non-GAAP (generally accepted accounting principles) basis in fiscal 2022, but it turned unprofitable again throughout the first nine months of fiscal 2023.
+Like Salesforce, UiPath lost its momentum as large companies reined in their spending to cope with the macro headwinds. Companies had been eager to install UiPath's software robots as they expanded their operations, but those upgrades took a backseat to hasty layoffs and other cost-cutting measures over the past year. That slowdown was exacerbated by Russia's invasion of Ukraine, which curbed UiPath's growth in Europe, and tough currency headwinds from a strong dollar. 
+UiPath still leads the niche RPA market, but it faces tough competition from newcomers like Salesforce's MuleSoft RPA (which is integrated into its cloud platform), Appian RPA, and AutomationEdge. That pressure could make it tough for UiPath to narrow its losses, which are widening as it expands its cloud infrastructure. It's been trying to offset that pressure with layoffs: It reduced its workforce by 5% last June, then let go another 6% of its remaining employees in late 2022.
+But unlike Salesforce, UiPath hasn't lost any major executives and isn't being aggressively targeted by activist investors. But it's also growing slower, isn't consistently profitable, and looks pricier at 7 times next year's sales.
+Salesforce and UiPath are both heavily exposed to the macro headwinds, but Salesforce is arguably a safer and more promising investment. Salesforce also offers investors some exposure to the RPA market through MuleSoft, even though it remains a much smaller player than UiPath.
+Simply put, Salesforce's scale, profitability, and diversification make it a better bet on the expansion of the AI and digital transformation markets than UiPath, which still needs to prove that its business model is actually sustainable. However, both stocks could remain under pressure until interest rates cool off and the macro environment improves. 
+10 stocks we like better than SalesforceWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Salesforce wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Leo Sun has positions in Salesforce. The Motley Fool has positions in and recommends Appian, Microsoft, Monday.com, Salesforce, ServiceNow, and UiPath. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

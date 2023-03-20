@@ -1,0 +1,70 @@
+March 07, 2023 — 11:59 am EST
+
+      Written by
+                        Thomas Yeung for                             
+        
+
+
+
+
+InvestorPlace ->
+
+
+InvestorPlace - Stock Market News, Stock Advice & Trading Tips
+Last week, I wrote that Troika Media (NASDAQ:TRKA) might be one of the most mispriced penny stocks of the year. The advertising firm’s fundamentals… and completely misunderstood balance sheet… meant that retail investors had likely found a 1,000% winner.
+In honesty, I also oversimplified matters by calling Troika Media a “surprisingly ordinary reverse merger.” What’s considered “standard” in my world can often cause unbelievably stupid decision-making among short-sellers.
+That’s how TRKA — a firm with a $4.70 justified value — ended up as 10-cent stock with 43% of its shares sold short. And now that an army of retail traders have entered, shares of Troika Media have virtually no choice but to keep going up.
+
+
+First, some background on Troika’s reverse merger.
+In March 2022, shell company Troika Media bought out Converge LLC, a customer acquisition and marketing firm generating around $300 million in revenues and $23 million in adjusted EBITDA per year.
+In Wall Street M&A, these reverse mergers are an ordinary part of the business. Companies like Converge know it’s expensive to list on an exchange like the Nasdaq. So rather than hire a top-tier investment bank… go on a roadshow… wine and dine potential investors… they find an existing firm and ask to get bought out. On Troika’s part, they’re happy to absorb a profitable firm since they don’t have much else going on.
+So how does Troika, a profitless shell, buy out Converge? For the $125 million merger, Troika issued $25 million in restricted common stock, handed over $25 million in cash, and raised another $75 million in debt from Blue Torch Capital, a credit investment firm.
+Now here’s where the fun begins.
+To entice Blue Torch Capital to fund the merger, Troika Media also gave the creditors $50 million worth of Series E convertible preferred stock, backed by an equivalent number of warrants. That’s around 33.33 million new shares, assuming a $1.50 conversion price. And if TRKA’s stock fell below $1.50, Blue Torch could convert at 80% of the current market price, subject to a 25-cent floor. In the worst-case scenario, the agreement forces Troika to issue 200 million new shares — a fact that’s not lost on Troika’s accountants. In April 2022, the firm filed an S-1 statement that allows the additional 200 million in stock.
+Of course, short-sellers see this as an excellent selling opportunity. Troika only had 64 million common shares outstanding, making a potential 200 million share dilution virtually ruinous to existing shareholders. All short-sellers needed to do was send prices below 25 cents (which they did) and wait for Blue Torch to convert its Series E preferred. It seemed like a one-sided trade where nothing could go wrong for the hedge funds…
+…unless Blue Torch failed to convert the shares.
+There are many reasons why Blue Torch’s management might have decided to snub the short-sellers. The most obvious is that converting them into 200 million shares at 25 cents would have saddled the creditors with an enormous number of unsellable shares. Most of Troika’s shares are closely held, so dumping 200 million shares onto a 32 million free-float firm would have tanked the stock. (Remember, Blue Torch is incentivized to sell its shares at a profit).
+The second was that Troika Media was performing well, at least from a fundamental standpoint. In November 2022, the company reported it had generated $6.4 million in operating income for the quarter, Troika’s first operating profit since 2007. And Wall Street now expects the marketing firm to generate $35.8 million in operating income by 2024. At that rate, the newly combined firm could repay its $75 million loan within 3-4 years and still leave Blue Torch with an additional $50 million in convertible stock.
+We’re not talking about a hypergrowth company here… just one that’s doing well enough to fulfill its original obligations.
+Blue Torch has also continued to work with Troika to keep things going. In September 2022, the two companies agreed to a new Series E agreement that limits dilution to 142 million shares. And despite breaking several covenants, Troika remains in “good faith negotiations” with Blue Torch. (The companies have amended their agreements around eight times now).
+
+So, that was the “ordinary” part of corporate M&A. Multiple share classes… misaligned incentives… broken covenants and loan amendments…
+…Merging small-cap companies rarely go smoothly. And Converge LLC’s backdoor listing is par for the course.
+But then things got spicy.
+On Feb. 17, Troika Media announced it was withdrawing the 200 million S-1 registration. Markets were confused, since they knew Troika needed the registration to fulfill its obligations to Blue Torch Capital. Shares rose 40% the following trading day on unusual trading volume, but then fell back to 28 cents.
+Troika then issued a press release that it was working with investment bank Jefferies to “optimize its capital structure and explore strategic alternatives.” The company followed up with an amended employment agreement with CEO Sid Toama — Converge LLC’s rainmaker — to offer a retention bonus if a financing agreement is reached.
+This further confused the market. Shares closed Feb. 23 at 26 cents.
+But then retail investors realized they were sitting on a mispriced short squeeze.
+And then it was off to the races.
+That’s because investors began to realize that the S-1 and Jeffries deal mean that Troika will recapitalize without share dilution. (That’s the only logical reason to withdraw an S-1 statement). And as share prices keep going up, Troika’s 43% short interest suddenly turns the company into a massive short squeeze.
+There are, of course, both fundamental and financial risks to an investment in TRKA.
+On the fundamental side, the firm appears to have a key-man risk, also known as a “hit by a bus” problem. CEO Sid Toama and his lieutenants pull in enormous amounts of revenue from top-tier companies; their 85-person firm generated $300 million in revenue in 2021. If any of their management were to leave, Converge/Troika’s business would immediately suffer.
+Then there’s the financial side. There’s still the possibility that Blue Torch Capital will cash out and cause a panic that even Jeffries can’t fix. Or that retail investors will lose interest and disappear as quickly as they entered.
+Still, investors with an appetite for risk (and a clear disdain for short-sellers) will want to stick around. Troika Media is one of the best opportunities I’ve seen in a long while. And if the company can deliver on its promises for moderate growth, shares could be worth anywhere from $1 to $4.70.
+On Penny Stocks and Low-Volume Stocks: With only the rarest exceptions, InvestorPlace does not publish commentary about companies that have a market cap of less than $100 million or trade less than 100,000 shares each day. That’s because these “penny stocks” are frequently the playground for scam artists and market manipulators. If we ever do publish commentary on a low-volume stock that may be affected by our commentary, we demand that InvestorPlace.com’s writers disclose this fact and warn readers of the risks.
+Read More: Penny Stocks — How to Profit Without Getting Scammed
+On the date of publication, Tom Yeung did not hold (either directly or indirectly) any positions in the securities mentioned in this article. The opinions expressed in this article are those of the writer, subject to the InvestorPlace.com Publishing Guidelines.
+Tom Yeung is a market analyst and portfolio manager of the Omnia Portfolio, the highest-tier subscription at InvestorPlace. He is the former editor of Tom Yeung’s Profit & Protection, a free e-letter about investing to profit in good times and protecting gains during the bad.
+The post TRKA Stock: The Troika Media Short Squeeze Is Real appeared first on InvestorPlace.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

@@ -1,0 +1,61 @@
+March 14, 2023 — 09:20 am EDT
+
+      Written by
+                        Rob Starks Jr for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Shares of CrowdStrike (NASDAQ: CRWD) opened 6% higher on March 8, the day after the company released its quarterly report that beat analysts' estimates for revenue and earnings. But between the Federal Reserve chairman suggesting that interest rates could go higher than the market is expecting and the collapse of Silicon Valley Bank (owned by SVB Financial) near the end of the week, the stock has dropped 3% from the price it traded at before its earnings results.
+Investors are rightly concerned because a bank failure is never good for the economy. And with the Federal Reserve seemingly determined to raise interest rates much higher, things could get much worse before getting better. So far, CrowdStrike has yet to release information about having deposits at risk at the bank. Still, because many tech and healthcare companies had deposits at Silicon Valley Bank, the potential loss of that cash could have knock-on effects that result in less spending on CrowdStrike's Falcon platform.
+The stock could fall further depending on how the government handles the shutdown of SVB and how much the Federal Reserve decides to raise interest rates. So, should you buy the dip in CrowdStrike's stock?
+Let's investigate.
+Even before the SVB collapse took down the whole market, many investors were concerned about CrowdStrike. Usually, in a downturn, consumer spending drops first, then enterprise spending. And within enterprises, expenditures on cybersecurity solutions are the last to decline because most view security as vital to an organization's core operations. So it will be one of the final things companies cut before the lights go out.
+One of the best measures of seeing what is going on with companies' spending on CrowdStrike's services is looking at sequential revenue growth trends that show the effect of the economic slowdown taking place today rather than quarterly year-over-year revenue growth trends, which compares this year's growth to a period when the slowdown in enterprise spending had yet to take hold.
+The chart below shows the spending slowdown on security through the rapid decline in sequential growth starting after the first quarter of the calendar year 2022. As a result, most of the stock's drop during the year occurred after sequential growth tanked. 
+
+CRWD data by YCharts
+Another critical metric is quarter-over-quarter net new annualized recurring revenue (AAR) growth, which can predict future revenue performance. Unfortunately, CrowdStrike's net new sequential ARR increase for Q4 2023 was 12%, well below the prior-year period's sequential net new ARR growth of 28%, signaling demand for CrowdStrike's services has dropped off a cliff. Third-quarter sequential fiscal 2023 net new ARR was even worse, dropping 9% from Q2.
+Before CrowdStrike released its fourth-quarter fiscal 2023 earnings, one thing investors worried about was whether competitors' heavy discounting of their security products resulted in the company either losing market share or lowering its prices. Fortunately, management soothed investors' concerns.
+CEO George Kurtz said during theearnings callthat its average selling prices remained stable. So, it hasn't lowered its product's prices to compete. He also cited a report from International Data Corporation that showed it had recently gained more market share than any other vendor in the modern endpoint security market, scooping up 3.8%.
+Kurtz also explained how CrowdStrike won deals with a leading financial institution in the Fortune 50 and a multinational fintech company. For example, it replaced four vendors and multiple single-purpose products, including Symantec, Trellix, Trend Micro, and Aqua, for the Fortune 50 financial institution. And the fintech identified eight vendors it could eliminate by using the Falcon platform, including Microsoft, Carbon Black, Trellix, Trend Micro, Sophos, ESET, F-Prot, and ClamAV.
+Despite some competitors undercutting CrowdStrike on the initial sale, some companies have learned the hard way through getting breached that the "low-cost, good-enough" approach costs more and still falls short of providing the equivalent functionality, simplicity, protection, and superior threat-hunting capabilities of the Falcon platform.
+CrowdStrike has already established itself as the clear market leader in cybersecurity.
+Its Falcon platform is extraordinarily sticky; the more modules users adopt, the harder it becomes to leave. It boasts high switching costs.
+Image source: CrowdStrike. 
+Falcon also enjoys a network effect: As each new user joins, it gains more data, from which the platform becomes more effective. These competitive advantages provide a thesis for believing that CrowdStrike can eventually produce excess returns on invested capital and profits.
+The market values the stock at a price-to-sales (P/S) ratio of 12.5, well below its median P/S ratio of 30.9 since going public in 2019.
+If you believe CrowdStrike is trending toward profitability within the next two years, this is a once-in-a-decade opportunity to buy today and dollar-cost average into the stock on any significant pullbacks.
+Find out why CrowdStrike is one of the 10 best stocks to buy now
+Our award-winning analyst team has spent more than a decade beating the market. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed their ten top stock picks for investors to buy right now. CrowdStrike is on the list -- but there are nine others you may be overlooking.
+Click here to get access to the full list!
+ 
+*Stock Advisor returns as of March 8, 2023
+{%sfr%}
+SVB Financial provides credit and banking services to The Motley Fool. Rob Starks Jr has positions in CrowdStrike and SVB Financial. The Motley Fool has positions in and recommends CrowdStrike, Microsoft, and SVB Financial. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

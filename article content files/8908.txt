@@ -1,0 +1,59 @@
+February 27, 2023 — 01:50 pm EST
+
+      Written by
+                        Jon Quast for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+I believe sell-side advertising platform (SSP) PubMatic (NASDAQ: PUBM) could underperform in the near term and management agrees with me. For the third quarter of 2022, executives had guided for revenue of at least $66 million. But it only generated Q3 revenue of $64.5 million.
+Acknowledging the shortfall, co-founder and CEO Rajeev Goel said, "Q3 marked an inflection point with respect to a deteriorating economic environment." And this decline in the digital ad market is why PubMatic is only guiding for revenue of $75 million to $78 million in the fourth quarter, which would represent measly 1% year-over-year growth at the midpoint.
+Goel went on to say, "I am confident in the medium- to long-term outlook for PubMatic," which is a statement that, of course, left out the near term -- as I said, management agrees that PubMatic might underperform for now. But the long-term story is more compelling for investors with patience.
+PubMatic works with publishers to sell their advertising slots, hoping to generate maximum revenue for its customers. Specifically, the company is a programmatic SSP, meaning ad slots are sold in split-second auctions based on as much information as is available regarding the audience that will view the ad.
+As of Q3, 34% of PubMatic's revenue comes from video ads. And this revenue source is growing at a 45% year-over-year rate -- faster than overall revenue and demonstrating how important video is to PubMatic.
+According to data cited by management, spending for programmatic advertising on digital video is expected to increase at a 24% compound annual growth rate (CAGR) from 2020 through 2025. Moreover, spending for connected-TV (CTV) and over-the-top (OTT) TV is expected to rise at a 27% CAGR during this time. Both are squarely inside of the company's focus.
+PubMatic estimates that it's already grabbed up to 4% market share in its space but intends to get to over 20%. That's ambitious but perhaps more realistic than it sounds at first.
+Consider that programmatic advertising is still relatively new and companies are still figuring out their strategies, making adjustments as needed over time.
+For example, clients for buy-side ad platform The Trade Desk only increased about 22% from the end of 2019 to the end of 2022. However, revenue for The Trade Desk increased 139% during that time period. To me, this suggests the company's clients came onboard spending slowly but have adjusted accordingly as they've seen the benefits of programmatic ads.
+In my opinion, advertisers and publishers are still ironing out their programmatic ad strategies. And when it comes to publishers, they often work with dozens of SSP players like PubMatic. However, many are looking to PubMatic for help to simplify things, ultimately only working with a few SSPs. This is called supply path optimization (SPO), and it's something the company's management is focusing on.
+In Q3, executives said that 30% of its business came from SPO deals. And if it can keep up its progress in this area, it can grow revenue by taking market share.
+To summarize up to this point, the programmatic ad market is growing. And PubMatic is looking to take a larger slice of this expanding pie, which could lead to much higher revenue in the long term. This is why Goel is "confident" about the company's prospects beyond the near term.
+From a price-to-sales (P/S) valuation perspective, PubMatic stock is inexpensive at a P/S of just 3. And it would only get cheaper if the company eventually experiences the exponential growth it's hoping for.
+
+PUBM PS Ratio data by YCharts
+Value investors may like PubMatic stock for another reason as well. The company is profitable even though its growth has slowed. Through the first three quarters of 2022, it's earned operating income of $24 million and net income of $16 million. And profitability should only get better with scale.
+This is because PubMatic doesn't rely on external tech infrastructure, choosing instead to keep everything in-house. On one hand, this elevates the company's execution risk -- if its tech stack fails for any reason, it could lose customers. This risk would be far lower if it did rely on a tech giant.
+On the other hand, PubMatic has greater cost control by owning its infrastructure and it shows. From the second quarter of 2020 to Q2 of 2022, the company cut its cost of revenue per million ad impressions almost in half. In other words, keeping everything in-house helps it scale profitability, which could be big if it reaches 20% market share as it hopes.
+PubMatic is scheduled to report Q4 results on Tuesday, Feb. 28, and the market may not like the near-term outlook. But eventually, I expect the stock to take off.
+10 stocks we like better than PubMaticWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and PubMatic wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Jon Quast has positions in PubMatic and Trade Desk. The Motley Fool has positions in and recommends PubMatic and Trade Desk. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

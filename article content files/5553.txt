@@ -1,0 +1,51 @@
+March 07, 2023 — 09:05 am EST
+
+      Written by
+                        Billy Duberstein for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Shares of server company Super Micro Computer (NASDAQ: SMCI) rose 35.4% in February, according to data provided by S&P Global Market Intelligence.
+Super Micro stock was the rare 2022 winner in the tech space, nearly doubling in a year when the Nasdaq fell over 30%. In January, the stock became the target of a short report from activist short-seller Spruce Point Capital, which caused the stock to sell off as investors booked gains and shorts piled in.
+However, Super Micro reported solid results on Jan. 31 after market close, and the stock regained its footing through February. Moreover, Super Micro is a close partner of Nvidia, which reported better-than-expected results and gave a positive outlook on artificial intelligence (AI) server demand.
+In its second fiscal quarter ending in December, Super Micro reported 53.8% revenue growth to $1.8 billion, beating expectations by $20 million, with non-GAAP (adjusted) earnings per share of $3.26, beating expectations by $0.23. 
+That's certainly eye-popping growth, and defies a lot of other technology hardware companies showing revenue declines. The outperformance can likely be attributed to Super Micro's energy-efficient and customizable server designs, which are finding favor among companies investing in AI and 5G capabilities, especially in an age of electricity price volatility.
+Of note, Super Micro did guide for a sequential decline in the quarter ahead; however, the March quarter is usually a seasonally lower quarter. Moreover, CEO Charles Liang said he expects mid-30% growth for fiscal 2023 ending in June. Even more encouraging and maybe surprising, Liang also said he expects 20% growth in fiscal 2024. 
+How does Super Micro plan to defy the tough economy? Given that Intel, Advanced Micro Devices, and Nvidia all have brand-new advanced chips that just hit the market, Liang believes that will sustain Super Micro's sales growth, despite the economic slowdown.
+Super Micro also has a close relationship with Nvidia. On Nvidia's Feb. 22earnings conference call CEO Jensen Huang had positive things to say about its data center business, claiming the advent of ChatGPT and generative AI had "brought AI to an inflection point." Nvidia CFO Colette Kress added she expects Nvidia's data center revenue to accelerate throughout the year.
+That also bodes well for Super Micro, which sells AI servers powered by Nvidia GPUs. On SMCI's conference call, management pointed to AI/GPU platforms showing strong outperformance, exceeding 20% of revenue and calling AI/GPU servers a "significant opportunity."
+Super Micro Computer is a server assembler, which doesn't seem like that great of a business. However, its close co-development relationships with Nvidia, AMD, and Intel, as well as its focus on energy-efficient server system design is certainly "serving" it well these days. Moreover, even after the stock's massive run, it only trades at a 9 P/E multiple. 
+All in all, Super Micro still looks like the value investor's way to play the AI megatrend. 
+10 stocks we like better than Super Micro ComputerWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Super Micro Computer wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Billy Duberstein has positions in Super Micro Computer and has the following options: short May 2023 $135 calls on Super Micro Computer and short May 2023 $140 calls on Super Micro Computer. His clients may own shares of the companies mentioned. The Motley Fool has positions in and recommends Advanced Micro Devices, Intel, and Nvidia. The Motley Fool recommends the following options: long January 2023 $57.50 calls on Intel, long January 2025 $45 calls on Intel, and short January 2025 $45 puts on Intel. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

@@ -1,0 +1,64 @@
+March 17, 2023 — 07:44 am EDT
+
+      Written by
+                        BNK Invest for                             
+        
+
+
+
+
+BNK Invest ->
+
+
+The financial media loves to get predictions from experts about where they think a given stock market index is headed. Some experts look at technical analysis patterns, others look at valuation metrics, others apply a broad macro view of the economy. In this article, we present another forecasting approach that investors may find interesting. Any given index is really a collection of individual stocks, each with specified weighting applied towards the total. For each of those individual stocks, analysts out there are working hard to thoroughly study the company and then come up with a 12-month price target. When more than one analyst publishes a target, we can compute an average target. 	
+
+
+But as relates to the Russell 2000, we can take this exercise a step further, comparing the current stock price of an individual component against its average analyst target, in order to calculate how much upside exists between the current stock price and the target. And then by doing that same exercise for each and every component, we can see how analysts as a group are feeling about the broad index itself. This represents a "wisdom of crowds" effort, because so many individualminds contributedto theultimate number, as opposed to what just one particular expert believes. Here at ETF Channel, we have done this exercise for all of the individual components of the iShares Russell 2000 ETF (Symbol: IWM), and then weighted the results together to determine the implied average analyst target for the ETF itself. 		For the iShares Russell 2000 ETF, we found that the implied analyst target price for the ETF based upon its underlying holdings is $227.06 per unit.
+
+
+
+With IWM trading at a recent price near $176.05 per unit, that means that analysts see 28.98% upside for this ETF looking through to the average analyst targets of the underlying holdings.   Three of IWM's underlying holdings with notable upside to their analyst target prices are Iovance Biotherapeutics Inc (Symbol: IOVA), AN2 Therapeutics Inc (Symbol: ANTX), and Zentalis Pharmaceuticals Inc (Symbol: ZNTL). Although IOVA has traded at a recent price of $6.62/share, the average analyst target is 202.11% higher at $20.00/share. Similarly, ANTX has 193.87% upside from the recent share price of $7.94 if the average analyst target price of $23.33/share is reached, and analysts on average are expecting ZNTL to reach a target price of $52.11/share, which is 175.28% above the recent price of $18.93. Below is a twelve month price history chart comparing the stock performance of IOVA, ANTX, and ZNTL:  
+
+
+
+
+
+
+
+
+
+
+
+Below is a summary table of the current analyst target prices discussed above:
+
+
+
+Are analysts justified in these targets, or overly optimistic about where these stocks will be trading 12 months from now? Do the analysts have a valid justification for their targets, or are they behind the curve on recent company and industry developments? A high price target relative to a stock's trading price can reflect optimism about the future, but can also be a precursor to target price downgrades if the targets were a relic of the past. These are questions that require further investor research.  
+
+
+
+10 ETFs With Most Upside To Analyst Targets »
+
+
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

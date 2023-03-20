@@ -1,0 +1,55 @@
+March 03, 2023 — 08:00 am EST
+
+      Written by
+                        Keithen Drury for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Of all the stocks that have seen strong rallies this year, one that doesn't make the list is cybersecurity firm CrowdStrike (NASDAQ: CRWD). This is noteworthy because CrowdStrike has consistently been a best-in-class performer among the tech companies.
+With the stock up 16% this year (much less than many of its software peers), could it see a stronger rally? Let's find out.
+Investing in cybersecurity companies can be lucrative because of their necessity. If the economy falters or a contract doesn't come through, companies likely won't axe their cybersecurity subscriptions. A cyber security attack can result in lost business, money, and reputation, so having good protection is crucial.
+While CrowdStrike doesn't offer an all-encompassing solution, its endpoint protection software is world-class. With CrowdStrike's product line, anything used to access a client's network (like a laptop or cloud workload) is continuously monitored for abnormal activity. CrowdStrike monitors trillions of data points collected weekly through its artificial intelligence (AI)-powered software to determine what is normal.
+The impact of deploying CrowdStrike's software can be enormous. Forrester Research found a CrowdStrike subscription provided the equivalent coverage of more than $1.5 million in IT staff and had a three-year return on investment (ROI) of 403%. It's uncommon to see any investment that can provide that level of ROI, but CrowdStrike meets that criteria.
+This usefulness has helped CrowdStrike rapidly expand its customer base, with more than 21,000 clients on its platform as of October 31, 2022, up 44% year over year. Among that client list were 537 of the Global 2000 and 258 of the Fortune 500, showing CrowdStrike isn't anywhere close to being finished capturing the most prominent customers.
+To back up its top-notch offering, CrowdStrike's financials are also solid.
+In Q3 of FY 2023 (ending October 31, 2022), CrowdStrike's annual recurring revenue (ARR) rose 54% to $2.34 billion. It increases revenue in two ways: new customers and expansion. I've noted CrowdStrike's rapid customer growth above, but it also does a phenomenal job of getting existing customers to adopt more modules and increase coverage.
+In Q3, its revenue retention rate was 124%, meaning existing customers spent $124 for every $100 they spent last year. CrowdStrike offers increased capability through more than 20 different modules, including log management, identity threat protection, and forensics. Over time, CrowdStrike has significantly expanded how many customers utilize multiple products, which will be a key factor moving forward.
+Data source: CrowdStrike. YOY = Year over year.
+While unprofitable from a net-income basis, CrowdStrike produces loads of free cash flow (FCF). In Q3 it generated $174 million in FCF on revenue of $581 million, indicating an impressive 30% margin. Over the past 12 months, CrowdStrike has produced nearly $600 million in FCF, giving the stock an expensive 47 times FCF valuation.
+
+CRWD Price to Free Cash Flow data by YCharts
+However, this valuation doesn't seem so bad when you utilize forward projections. Wall Street analysts expect 45% revenue growth in Q4, bringing the company's FY 2023 total to $2.23 billion. Those same analysts think CrowdStrike will grow its revenue by 33% in FY 2024 (ending January 31, 2024). Utilizing that revenue and a 30% FCF margin gives a forward price-to-FCF valuation of 32.4, which is quite a bargain for the growth CrowdStrike is putting up.
+Investors will learn more about CrowdStrike's current state in its Q4 FY2023 earnings report on March 7. I expect the company to report solid revenue growth with strong FCF margins. This could ignite the stock and send it higher like the rest of its SaaS (software-as-a-service) peers. As a result, investors should consider getting into the stock before then. But even if you wait, the long-term opportunity in cybersecurity software is massive, and CrowdStrike should be a long-term winner.
+10 stocks we like better than CrowdStrikeWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and CrowdStrike wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Keithen Drury has positions in CrowdStrike. The Motley Fool has positions in and recommends CrowdStrike. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

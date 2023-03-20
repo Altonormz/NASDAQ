@@ -1,0 +1,61 @@
+March 08, 2023 — 05:25 am EST
+
+      Written by
+                        Adam Spatacco for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+E-commerce is increasingly becoming a bigger component of consumerism. For many years, companies like Amazon, Etsy, Walmart, and others led the charge in online shopping. However, over the last decade, a small Canadian company called Shopify (NYSE: SHOP) began making inroads in the e-commerce industry. Shopify facilitates payments, shipping information, and other data analytics pertinent to customer demographics for small businesses.
+During the peak of the COVID-19 pandemic, Shopify experienced unprecedented growth. As people primarily stayed inside, online shopping boomed as did the creation of side hustles (people monetizing their hobbies from home). As a result, Shopify's financial results rocketed, and the stock price subsequently followed. However, following a stock split in 2022, combined with its business results normalizing, the stock still appears to trade at a rich valuation.
+Let's dig in and analyze Shopify's financial results and key performance indicators, and assess if the stock deserves a spot in your portfolio.   
+On the surface, Shopify's financial results look pretty impressive. According to the company's investor presentation, it holds approximately 10% of the U.S. e-commerce market and expects further penetration. Considering how saturated the e-commerce landscape is, investors may find this market share and outlook encouraging. For 2022, Shopify generated $5.6 billion in total revenue, which represented 21% growth (or 23% on a constant currency basis).
+However, when analyzing the company's income statement, it may appear on the surface that Shopify's management is not the most efficient when it comes to capital allocation. For example,the company's total operating expenses increased from $2.2 billion in 2021 to $3.6 billion in 2022, representing nearly 64% year-over-year growth. Furthermore, operating expenses increased across all major line items: sales and marketing, research and development, and general and administrative expenses.
+When analyzing a company's financials, it is critical not to take things at face value. While Shopify's expense profile appears to have increased across all major categories, some of this can be explained pretty easily. The company's CFO, Jeff Hoffmeister, explained:
+The increase year over year is primarily due to the incremental headcount from Deliverr and the implementation of our new compensation system. Of note, when you compare the operating expenses of Q3 and Q4 and remove the onetime items that impacted both periods, we were able to keep our operating expense dollars relatively flat and still deliver strong revenue growth quarter over quarter. A key driver of our stabilizing [operating expenses] for the quarter was a decline in headcount from Q3 to Q4. We also have several other key initiatives already in process in order to help us manage operating expenses, including greater focus on our cloud infrastructure spend, heightened scrutiny of the performance of our marketing programs and their associated payback periods and, in general, an increased emphasis on better leveraging technology internally to automate previously manual processes, and thereby improve the speed, accuracy and efficiency of delivering great products and solutions for our merchants.
+These operational improvements serve as a good indicator of our commitment to make Shopify nimble, lean and highly adaptable, goals that will persist for us well into the future and are not short-term cost fixes.
+There is a lot to unpack from Hoffmeister's commentary. First and foremost, Shopify acquired logistics and fulfillment company Deliverr last May in a multi-billion transaction. Over the last 10 months, the company has been working on integration efforts. In the short term, it should be expected that headcount costs may rise as Deliverr employees are now part of Shopify's ecosystem. 
+The rationale for the Deliverr acquisition was to layer its merchant solutions on top of Shopify's fulfillment network (SFN) infrastructure. The goal of SFN is to provide small businesses with an end-to-end solution to help monitor inventory supply, consumer demand, and processing orders. During theearnings call Shopify's management clearly stated that SFN will have a dilutive impact on the company's margin profile during 2023, as product development and integration are still in the early innings. 
+Given growth in expenses far outpaced any increases in revenue, the company's operating income swung from positive $269 million in 2021 to negative $822 million in 2022, nearly a $1 billion disparity. Unsurprisingly, Shopify's cash flow was significantly impacted by the erosion of operating leverage, and the company finished 2022 with $1.6 billion of cash on its balance sheet, which was about $1 billion lower than cash at the end of 2021.     
+Image source: Getty Images.
+Following the earnings report, several Wall Street banks issued updated equity research. Several of these financial institutions seem divided on the stock.  
+Goldman Sachs and Citigroup issued price targets in the range of $36-$40 per share and $50 per share, respectively. At the time of this writing, Shopify stock trades at a slight premium to Goldman's target, but well below Citigroup's. Despite the delta in price target estimates, perhaps the more eye-raising observation would be that both banks have a neutral rating on the stock. 
+By contrast, RBC Capital and Oppenheimer both have buy-equivalent ratings and a high-end estimate of $65 per share, which implies over 50% upside from current trading levels.
+Typically when Wall Street is so divided on a stock, one of the underlying factors is company guidance. While Shopify guided revenue growth in the range of high-teen percentages based on year-over-year growth, the company also guided for low-single-digit growth in operating expenses compared to the fourth quarter of 2022. Most notably, the company made it clear that investments from SFN will serve as a headwind to operating margins in 2023 in particular.
+While some analysts are likely fixated on the expense profile, some are more lenient when it comes internal investing for growth companies. However, during a time of economic uncertainty, fear of recession, and higher-than-historical inflation, other banks may be less forgiving. 
+There are many ways to analyze a company and assess its fair value, and given that Shopify is less than one year into Deliverr and its impact on SFN, it may be short-sighted to abandon the stock entirely. A growth company such as Shopify can present a more complex challenge because it is not consistently profitable on a net income basis. Traditional metrics such as the price-to-earnings ratio are not as useful. Furthermore, the price-to-sales ratio can also be misleading because Shopify's revenue growth is slowing and not as robust as it was during the peak stage of the pandemic. 
+One metric that could be used is enterprise value to free cash flow. The reason this multiple may prove useful for Shopify is that it accounts for volatility in enterprise value via the company's market capitalization, as well as the company's cash flow -- which is net of both revenue and expense growth.
+As pointed out above, Shopify burned $854 million of cash during 2022, and only generated $90 million in free cash flow. Yet despite this cash burn, Shopify's enterprise value is a whopping $48 billion at the time of this writing. While valuation is subjective, at nearly a $50 billion valuation and simultaneously burning nearly $1 billion in cash annually, coupled with forecasted growth in expenses, investors could argue that Shopify's current price is not appropriate or fundamentally reasonable. 
+Although Shopify's product serves a need for small and medium-sized businesses, the company clearly has its work cut out to create long-term shareholder value. From an investment perspective, it boils down to how much you believe in management's vision. Stated differently, some investors may not have the patience or the conviction that these growth initiatives will pay off. Today, Shopify stock appears richly valued, and it's likely worth assessing future earnings reports before buying.  
+10 stocks we like better than ShopifyWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Shopify wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Citigroup is an advertising partner of The Ascent, a Motley Fool company. John Mackey, former CEO of Whole Foods Market, an Amazon subsidiary, is a member of The Motley Fool's board of directors. Adam Spatacco has positions in Amazon.com and Shopify. The Motley Fool has positions in and recommends Amazon.com, Etsy, Goldman Sachs Group, Shopify, and Walmart. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

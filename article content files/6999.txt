@@ -1,0 +1,55 @@
+March 02, 2023 — 03:54 pm EST
+
+      Written by
+                        Nicholas Rossolillo for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+It's been a tumultuous year for cloud software pioneer Salesforce (NYSE: CRM), capped off by an especially tumultuous last few months. After enduring fast-rising interest rates due to the U.S. Federal Reserve, a subsequent rapid run-up in the value of the dollar, inflation and recessionary fears biting into customers' budgets, and a slew of executives leaving, Salesforce has now been dealing with activist investors pressuring it to aggressively cut costs and focus attention on profitability. 
+Despite the odds, co-founder and CEO Marc Benioff delivered the goods in typically grandiose fashion. The stock was up by a double-digit percentage following the company's quarterly update Wednesday. Shares have now rebounded over 42% so far in 2023. Is it still time to buy Salesforce stock?  
+Salesforce delivered exceptional results for the fourth quarter of fiscal 2023 (the three months ended January 2023) amid a general economic slowdown that has even begun to clobber the hot cloud computing market. Revenue was up 14% year over year to $8.38 billion, or up 17% when excluding currency exchange rates due to the negative impact of the U.S. dollar's record rise (more on that in a moment).  
+Growth came from every software segment at Salesforce this year, including at the still-sizzling Slack -- which is now housed in the platform unit. Slack revenue was up 33% year over year to $410 million. 
+Even more impressively, Salesforce turned up big on the adjusted profitability front -- as if it went scrounging for coins in an old sofa and turned up with bills. Non-GAAP (adjusted) operating profit margin was 29.2% in Q4, leading to a full-year margin of 22.5% -- obliterating the guidance provided three months ago for adjusted operating margin to be about 20.7% for fiscal 2023. 
+Full-year earnings per share (EPS) were a meager $0.21 (or $5.24 on an adjusted basis), but things are poised to change in fiscal 2024 (the current 12 month period that will end in January 2024). Benioff and company expect generally accepted accounting principles (GAAP) and non-GAAP operating margin to be a respective 10.8% and 27%. Salesforce will still need to prove that it can deliver in this new era where the bottom line is now the focus (versus all-out revenue expansion). But the outlook is nevertheless promising for this cloud software giant.  
+What's driving Salesforce's sudden scalability in profit generation? Of course, widespread unwinding of the hiring spree during the first two years of the pandemic is certainly (and unfortunately) helping as Salesforce has laid employees off. The company also disbanded its merger and acquisition committee, ending (at least for now) the long-standing practice of acquiring small peers. 
+But an expected 10% year-over-year increase in revenue growth in the next year also certainly helps. The company also expects to have little to no impact from currency exchange rates, an effect (caused by the strength of the U.S. dollar versus other currencies) that hurt both revenue and profit margin last year. An easing in the dollar's rise is no doubt going to flip from a headwind to -- if not a tailwind -- at least having a neutral impact on financials in fiscal 2024. 
+What's especially impressive about the outlook is it comes amid widespread analyst downgrades for the tech sector for the next 12 months. For example, tech researcher Gartner now expects the global IT space to expand at just a 2.4% pace in calendar year 2023 (corresponding to Salesforce's fiscal 2024), down from a previous outlook for over 5% IT sector growth. Salesforce is feeling the hurt, too, but expectations for double-digit revenue growth still imply this is a top growth opportunity in the software industry.  
+Even after its recent rally, Salesforce stock remains down nearly 50% from all-time highs reached late in 2021. That doesn't necessarily mean shares are a good value, though.  
+Growth of free cash flow (which will more closely mirror adjusted profit metrics at Salesforce) can be a good measure of this company's value. In dollar terms, free cash flow was $6.31 billion last year, up 19%. Shares currently trade for 30 times trailing-12-month free cash flow, and 27 times expected 2024 adjusted earnings per share. In an expression of confidence in its ability to crank out cash, the board of directors also added another $10 billion in stock repurchases (doubling the original $10 billion repurchase plan) to fully offset the effect of employee stock-based compensation. 
+Perhaps the company's former long-running streak of free-cash-flow-per-share growth will make a big comeback this year.
+
+Data by YCharts.
+After the stock price rebound, I don't think Salesforce is quite the fantastic value it was just a few months ago. Nevertheless, there was a lot to like about this quarterly report as the company made a hard pivot from a high-growth to a profitable-growth enterprise in very short order. This company still looks like a great one to build a diversified collection of cloud software stock holdings around.
+10 stocks we like better than SalesforceWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Salesforce wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Nicholas Rossolillo and his clients have positions in Salesforce. The Motley Fool has positions in and recommends Salesforce. The Motley Fool recommends Gartner. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

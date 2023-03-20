@@ -1,0 +1,66 @@
+February 28, 2023 — 08:58 am EST
+
+      Written by
+                        Leo Sun for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Alibaba (NYSE: BABA) posted its latest quarterly report on Feb. 23. For the third quarter of fiscal 2023 (ended on Dec. 31), the Chinese e-commerce and cloud giant's revenue grew 2% year over year to 247.8 billion yuan ($35.9 billion) and beat analysts' estimates by $40 million. Its adjusted net income rose 12% to 49.9 billion yuan ($7.2 billion), or $2.79 per ADS, and also cleared the consensus forecast by $0.39.
+However, that earnings beat didn't bring the bulls back to Alibaba, and its stock remains more than 70% below its all-time high from October 2020. Is this a buying opportunity for investors who can look past its near-term challenges?
+Image source: Getty Images.
+Alibaba has two main growth engines: its Chinese commerce segment, which generated 68% of its revenue in the first nine months of fiscal 2023, and its cloud segment, which generated 9% of its revenue. The Chinese commerce segment houses Tmall and Taobao, the country's two largest online marketplaces, and its brick-and-mortar stores. The cloud segment handles Alibaba Cloud, the top cloud infrastructure platform in China with a 36% share of the market, according to Canalys.
+The bulls expected those two businesses to drive Alibaba's long-term growth. But an antitrust probe in 2021, which led to a record fine and tighter restrictions, curbed the growth of Alibaba's e-commerce business. Inflation, sluggish consumer spending, and intermittent COVID-19 lockdowns exacerbated that deceleration last year. Those macro headwinds also caused companies to spend less money on Alibaba's cloud services. As a result, both segments experienced severe slowdowns in fiscal 2023:
+Revenue Growth (YOY)
+FY 2022
+First Nine Months of FY 2023
+China commerce segment
+18%
+1%
+Cloud segment
+23%
+5%
+Total
+19%
+2%
+Data source: Alibaba. YOY = year over year. 
+The slower growth of those two core businesses was worrisome since they were the only two units that generated profits on an adjusted EBITA (earnings before interest, taxes, and amortization) basis. Those adjusted profits regularly funded the expansion of Alibaba's smaller and unprofitable businesses -- which include its overseas marketplaces, logistics network, digital media and entertainment services, and innovation initiatives unit. 
+But there's a silver lining: The adjusted EBITA margins of the Chinese commerce and cloud segments stayed flat year over year, at 33% and 2%, respectively, in the first nine months of fiscal 2023. Alibaba also reined in its spending across all of its unprofitable business divisions during that period, and its total adjusted EBITA margin expanded from 18% to 19%.
+Alibaba expects its growth to stabilize this year as China relaxes its zero-COVID restrictions. During the conference call, CEO Daniel Zhang said even though its sales of physical goods "remained weak" in January and February, its merchants were expressing a "strong desire" to get back to business as the impacts of COVID-19 and travel during the Lunar New Year (which curbed its online sales) subsided. Zhang said the company expected this recovery to continue throughout the year.
+Zhang also expects the cloud business to stabilize as large companies resume their spending on hybrid cloud deployments that had been delayed by the COVID-19 lockdowns. Furthermore, the growth of Alibaba Cloud across the financial services, education, and automotive verticals also offset its declining revenue from the internet sector. That decline can be largely attributed to ByteDance's decision to start removing TikTok from Alibaba's overseas servers in 2021.
+Alibaba didn't provide any guidance, but analysts expect its revenue to rise 3% in fiscal 2023 and another 12% in fiscal 2024 as China's macro situation improves. They expect its earnings per share to grow 13% this year and 67% in fiscal 2024.
+Based on those projections, Alibaba's stock looks historically cheap at 14 times next year's earnings. Its cloud and media rival Tencent trades at 23 times next year's earnings, while its American counterpart Amazon has a forward price-to-earnings ratio of 56.
+Yet Alibaba might also deserve that discount because its recovery is shaky, it still faces delisting threats in the U.S., and its cloud business could be affected by the Biden administration's recent ban on advanced chip sales to China. It also arguably makes more sense to invest in Alibaba's rival Pinduoduo -- which operates a simpler business model and is growing at a much faster rate -- as a long-term play on China's e-commerce market.
+Alibaba's valuation might limit its downside potential, but I don't see any reasons for the stock to take off this year. I'd keep a close eye on it, but I wouldn't rush to buy it when other high-quality stocks are still on sale.
+10 stocks we like better than Alibaba GroupWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Alibaba Group wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+John Mackey, former CEO of Whole Foods Market, an Amazon subsidiary, is a member of The Motley Fool's board of directors. Leo Sun has positions in Amazon.com. The Motley Fool has positions in and recommends Amazon.com and Tencent. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

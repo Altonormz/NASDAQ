@@ -1,0 +1,63 @@
+February 28, 2023 — 05:06 am EST
+
+      Written by
+                        Sean Williams for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+Unless you invest in cryptocurrencies, the weekend is a time when you don't have to worry about major news releases. The one exception to that rule is Warren Buffett's company, Berkshire Hathaway (NYSE: BRK.A)(NYSE: BRK.B), which has consistently released its quarterly and full-year operating results on a Saturday for a long time.
+This past Saturday, Feb. 25, Berkshire Hathaway announced its much-anticipated fourth-quarter and full-year operating results. While most people were focused on Warren Buffett's annual letter to shareholders, which contained nuggets of investing wisdom the Oracle of Omaha has mined over the past 80 years, they may have missed a truly worrisome number buried in Berkshire Hathaway's more than 140-page annual report.
+Berkshire Hathaway CEO Warren Buffett. Image source: The Motley Fool.
+Let me state up front that Berkshire Hathaway's net loss of $22.8 billion for 2022 -- following nearly $90 billion in net income in 2021 -- isn't the figure that should have investors concerned. That's because the entirety of this loss is due to legislation passed in 2016 (ASU 2016-01) that requires Berkshire Hathaway to recognize the fair value of its investments at the end of each quarter. If Wall Street endures a difficult year and the value of Berkshire's investment portfolio sinks, the company is effectively forced to recognize these unrealized movements as a loss.
+Last year, the roughly five dozen companies Berkshire Hathaway owns collectively delivered record annual operating earnings of $30.8 billion. From this standpoint, the company's unrealized losses due to the 2022 bear market can be virtually ignored.
+To find the single most terrifying number in Berkshire Hathaway's latest results, you have to locate the company's "cash flows from investing activities" on page K-74 of its annual report. 
+When examined as a full-year total, Berkshire Hathaway's $67.93 billion in equity security purchases, relative to its $33.66 billion in equity security sales, sounds optimistic. It shows that the Oracle of Omaha and his investment team put some of their company's capital to work in 2022.
+But during the fourth quarter, Berkshire Hathaway made just $1.68 billion in equity purchases and sold a whopping $16.32 billion in equities. That works out to a frightening $14.64 billion in net equity sales -- at a time when the Dow Jones Industrial Average, S&P 500 (SNPINDEX: ^GSPC), and Nasdaq Composite are all well below their all-time highs. 
+To be perfectly fair, we didn't need to wait for Berkshire Hathaway's earnings release to know Warren Buffett and his team were net-sellers of equities during the fourth quarter. Berkshire's Form 13F filing with the Securities and Exchange Commission gave away that secret.
+A 13F is a required quarterly filing by money managers and institutional investors with at least $100 million in assets under management. It allows investors a look under the hood at what the top money managers on Wall Street bought and sold in the most recent quarter.
+During the fourth quarter, Warren Buffett and his investing lieutenants, Todd Combs and Ted Weschler, made small additions to existing positions in Apple, which is Berkshire Hathaway's largest holding, as well as Paramount Global and Louisiana-Pacific.
+By comparison, Buffett and his team aggressively sold stakes in three previously major holdings, as well as reduced its stake in five additional holdings. This included selling more than 71.1 million shares of U.S. Bancorp, dumping nearly 51.8 million shares of Taiwan Semiconductor Manufacturing, and parting ways with more than 37.1 million shares of Bank of New York Mellon.
+To be crystal clear, these sales had nothing to do with year-end tax-loss harvesting. Berkshire Hathaway recognized realized gains from its collective security sales during the fourth quarter.
+Image source: Getty Images.
+The fact that Warren Buffett and his team were significant net-sellers of equities during the fourth quarter sends a very clear message to investors: Stocks aren't cheap.
+When examined with a wide lens, Warren Buffett is one of the biggest bulls you'll find on Wall Street. He's been cautioning people for decades "not to bet against America," and has encouraged investors that buying an S&P 500 tracking index can be a genius move. Data published annually by Crestmont Research shows that buying and holding an S&P 500 tracking index for 20 years has been a surefire method to build wealth.
+But actions speak louder than words. Even though Warren Buffett and his investing lieutenants would never admit to trying to "time the market," it's pretty evident by the net-selling activity during the fourth quarter that Buffett, Combs, and Weschler aren't seeing many intriguing values.
+There are a couple of valuation-based metrics that back up the idea that stocks aren't particularly inexpensive, especially considering the rapid rise in interest rates and the growing likelihood that corporate earnings will deteriorate if the U.S. enters a recession.
+For instance, the S&P 500 is currently valued at 17.5 times Wall Street's forward-year consensus earnings. Although that's not particularly expensive when looking back over the past quarter-century, it is considerably higher than where the S&P 500 has found its valuation bottom during previous stock market corrections. Over the past quarter of a century, a forward-year price-to-earnings (P/E) ratio of 13 to 14 has often been where the benchmark index troughs.
+
+S&P 500 Shiller CAPE Ratio data by YCharts.
+Likewise, the Shiller P/E ratio (also known as the cyclically adjusted price-to-earnings ratio, or CAPE ratio) shows that stocks are pricey. Whereas the traditional P/E ratio divides a company's share price by its trailing-12-month earnings, the Shiller P/E is based on average inflation-adjusted earnings from the previous 10 years. Anytime the S&P 500 Shiller P/E surpasses 30, it's eventually been bad news for stocks. In recent weeks, it had, once again, topped 30. 
+If you've been waiting to scoop up high-quality stocks at an even bigger discount, these valuation-based metrics, along with Buffett being a net-seller of equities during the fourth quarter, suggest you'll soon get your chance.
+10 stocks we like better than Berkshire HathawayWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Berkshire Hathaway wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Sean Williams has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Apple, Berkshire Hathaway, and Taiwan Semiconductor Manufacturing. The Motley Fool recommends the following options: long March 2023 $120 calls on Apple and short March 2023 $130 calls on Apple. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.

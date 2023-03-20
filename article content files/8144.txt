@@ -1,0 +1,61 @@
+March 01, 2023 — 06:30 am EST
+
+      Written by
+                        Billy Duberstein for                             
+        
+
+
+
+
+The Motley Fool ->
+
+
+The years of pandemic-fueled digitization and rock-bottom interest rates drove tech and fintech stocks upward without much regard for traditional valuation metrics. Those rising stock prices made it easier for tech companies to compensate their employees with highly priced stock, and for a time, growth-oriented investors seemed to ignore stock-based compensation as a real cost. Many tech companies that were not profitable reported adjusted earnings numbers -- which conveniently left out stock-based comp -- that turned GAAP losses into non-GAAP profits.
+However, with interest rates higher and investors fretting about a potential recession, tech and fintech stocks have largely crashed. And those lower share prices mean that stock-based compensation is more dilutive than it was to shareholders, who have rediscovered some discipline when it comes to valuations.
+Block (NYSE: SQ) was certainly a victim of the tech slump. Its shares are down almost 75% from their all-time highs. Yet a year and a half after its stock began that decline, Block's management appears to have gotten religion when it comes to controlling spending, especially stock-based comp -- and that's great news for shareholders. 
+In its fourth-quarter earnings release, Block's management put forward a new internal investing framework. Henceforth it will target a "Rule of 40" benchmark -- a familiar and widely used metric among growth and venture capital investors over the past decade.
+The Rule of 40 is built on the understanding that younger software companies often have to accept losses as they are en route to reaching scale, while mature software companies don't grow as fast but do turn profits. The premise is that great software companies will have combined revenue growth rates and profit margins of 40. So a company growing its top line at 45% with a profit margin of negative 5% would qualify, as would a company growing its revenues at 10% and achieving a 30% margin.
+Of course, companies that tout the Rule of 40 sometimes stretch the definition of what their "real" profit margin is, as many tech companies have a bad habit of leaving stock-based comp out of adjusted operating margins. 
+However, as Warren Buffett said on this topic in his 2015 letter to shareholders:
+... it has become common for managers to tell their owners to ignore certain expense items that are all too real. "Stock-based compensation" is the most egregious example. The very name says it all: "compensation." If compensation isn't an expense, what is it? And, if real and recurring expenses don't belong in the calculation of earnings, where in the world do they belong? 
+Therefore, it was good to see Block not only give itself a rigorous benchmark to hit, but also that it said explicitly that it will count stock-based comp as a real expense when calculating operating earnings as part of its Rule of 40 calculation. As CEO Jack Dorsey said on the earnings conference call:
+... [stock-based comp] is a real meaningful ongoing cost to operating our business. It isn't a cash expense, but it's a real expense. So, we're going to include it in how we assess our investments and performance.
+It should be noted that Block isn't hitting its Rule of 40 benchmark yet. Last year, its combined gross profit growth and operating income of 33%, but really 23%, when you strip out the growth of its early 2022 acquisition of "buy now, pay later" platform Afterpay. 
+Still, the fact that Block will apply a more stringent framework for its internal investments is a good sign. Many companies give themselves targets they are confident they can hit -- especially when it comes to executive compensation incentives. That Block has set itself a difficult goal to achieve is a strong choice on management's part.
+Image source: Getty Images.
+In conjunction with the earnings release, management noted it plans to slow headcount expansion and sales, general, and administrative (SG&A) expense growth in 2023. Management is now targeting 10% headcount growth for this year compared with 46% last year, and aims to increase SG&A expenses by just 5% to 10% versus 25% growth last year. 
+Block also set additional benchmarks. Management wants to have a greater than 100% net retention rate for each of its cohorts. In other words, Block is setting a rigorous internal goal to get its existing customers to use Cash App more, and for Square merchants to expand their use of the different services Block offers, every single year. That benchmark really gives management an idea of customer satisfaction, and therefore is another prudent metric to pursue.
+Encouragingly, Dorsey said, "this framework has already informed some decisions for us."
+Given that its Rule of 40 metric was just 23 on an organic basis last year, Block has a long way to go to achieve that goal. Moreover, the stock is by no means cheap, even down nearly 75% from its highs. Today, Block trades at around 7.8 times its 2022 gross profit, and 47 times 2022 adjusted EBITDA (earnings before interest, taxes, depreciation, and amortization).
+Yet Block is forecasting $1.3 billion in adjusted EBITDA for 2023, giving it a forward EBITDA multiple of 36. Management also projects a $150 million adjusted operating loss, factoring in stock-based comp -- roughly the same as it was in 2022.
+
+That leaves this year's growth metric as a big question mark. Block produced solid gross profit growth of 36% last year -- will it be able to maintain that kind of growth rate? Especially considering its plan to rein in SG&A expenses? Will the addition of Afterpay into Block's ecosystem boost revenue synergies and cross-selling opportunities?
+All of these remain open questions. However, long-term shareholders should feel encouraged. The company has acknowledged the importance of GAAP profitability and has given itself tough aspirational benchmarks to hit. That's to be applauded.
+10 stocks we like better than BlockWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Block wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of February 8, 2023
+ 
+Billy Duberstein has no position in any of the stocks mentioned. His clients may own shares of the companies mentioned. The Motley Fool has positions in and recommends Block. The Motley Fool has a disclosure policy.
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+© 2023, Nasdaq, Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
+To add symbols:
+
+
+These symbols will be available throughout the site during your session.
