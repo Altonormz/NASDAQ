@@ -4,9 +4,14 @@ monkey.patch_all()
 import grequests
 from bs4 import BeautifulSoup
 import Class_Article
+import json
 
 BATCH_SIZE = 10
 PAGES = 1000
+
+with open("conf.json") as f:
+    config = json.load(f)
+
 
 def scrape_page(URL):
     """
