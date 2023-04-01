@@ -1,3 +1,7 @@
+import argparse
+import datetime
+import dateparser
+
 from gevent import monkey
 
 monkey.patch_all()
@@ -19,8 +23,6 @@ logger = logging.getLogger("NASDAQ_scraper.log")
 def scrape_page(URL):
     """
     gathers articles urls from a NASDAQ articles web page
-    :param URL: response from server
-    :return: articles urls (beside the last one which is empty)
     """
     soup = BeautifulSoup(URL.text, 'html.parser')
     pages = [f"https://www.nasdaq.com{a['href']}" for a in soup.find_all('a', class_="content-feed__card-title-link")]
@@ -30,8 +32,6 @@ def scrape_page(URL):
 def get_response(urls):
     """
     using grequests threads to get responses from several web pages at a time
-    :param urls: list of urls
-    :return: responses from server
     """
     headers = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) '
                              'Chrome/75.0.3770.142 Safari/537.36'}
@@ -89,8 +89,25 @@ def fetch_articles_urls():
     save_links(new_links)
 
 
-def main():
+def calculate_date(days):
+    return datetime.datetime.today() - datetime.timedelta(days)
+
+
+def parse():
+    parser = argparse.ArgumentParser(prog='NASDAQ_scraper',
+                                     description='web scraper for NASDAQ website',
+                                     epilog='for further information please see README.md file')
+    parser.add_argument('--scrape_all', action='store_true', help="scrape all pages and info")
+    parser.add_argument('-pages', type=int, help="scrape x pages (starting from first)", default=1000)
+    parser.add_argument('-days', type=int, help="scrape pages s days back till today", default=30)
+    args = parser.parse_args()
+    args.days = calculate_date(args.days)
+    return args
+
+
+def scraper_main():
     try:
+        args = parse()
         fetch_articles_urls()  # creates file with articles urls.
         Class_Article.main()  # Creates DataFrame with articles info, and saves their content in a sub-folder.
     except Exception as err:
@@ -98,7 +115,7 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    scraper_main()
 
 
 ### Start of class_article functions.

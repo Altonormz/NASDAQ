@@ -1,4 +1,6 @@
-# NASDAQ 
+# NASDAQ
+
+Authors: Alot Mecilati & Jonathan Schwarz
 
 ## NASDAQ Market News and Insights 
 
@@ -33,6 +35,3 @@ To start the program please run "NASDAQ_scraper.py" file with no parameters.
 
 Please download the "Class_Article.py" and "JSON.config" file, and make sure to follow the "requirements.txt"
 installations before running the program.
-
-**Important Note:** the program requires 32GB RAM. 
-
