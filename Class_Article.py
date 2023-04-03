@@ -26,6 +26,8 @@ class Article:
         self.authors = None
         self.date = None
         self.tags = None
+        self.tickers_name = []
+        self.stocks_change = []
         self.id_num = id_num
         self.url = url
 
@@ -86,7 +88,7 @@ class Article:
         tickers_block = soup.find('div', {"class": "jupiter22-c-related-stocks-horizontal__list"})
         if tickers_block:
             tickers_list = tickers_block.get_text(" ").split()
-            tickers_dict = {tickers_list[i]: tickers_list[i + 1] for i in range(0, len(tickers_list), 2)}
+            tickers_dict = {tickers_list[i]: tickers_list[i + 1] for i in range(0, len(tickers_list) - 1, 2)}
         else:
             tickers_dict = {}
         return tickers_dict
@@ -96,11 +98,13 @@ class Article:
         Sets the article information to the class from the response.
         """
         soup = get_soup(response)
-        self.title = self._get_title(soup)
-        self.authors = self._get_authors(soup)
-        self.date = self._get_date(soup)
-        self.tags = self._get_tags(soup)
+        self.title = Article._get_title(soup)
+        self.authors = Article._get_authors(soup)
+        self.date = Article._get_date(soup)
+        self.tags = Article._get_tags(soup)
         self._create_article_content_file(self.id_num, soup)
+        tickers_dict = Article._get_tickers_dict(soup)
+        self.tickers_name, self.stocks_change = list(tickers_dict.keys()), list(tickers_dict.values())
 
     @staticmethod
     def _create_article_content_file(id_num, soup):
@@ -163,19 +167,22 @@ def setting_info(article_list, df, config):
 
     for response in grequests.imap(rs, size=config["BATCH_SIZE"]):
         if response.status_code == 200:
-            article = next(t for t in article_list if t.url == response.url)
-            article.set_info(response)
-            print(article)
-            logging.info(f"successfully scraped {article.title}\n")
+            article = next((t for t in article_list if t.url == response.url), None)
+            if article:
+                article.set_info(response)
+                print(article)
+                logging.info(f"successfully scraped {article.title}\n")
 
-            new_row_df = pd.DataFrame([article.row_info()])
-            df = pd.concat([df, new_row_df], ignore_index=True)
-            countdown += 1
-            if countdown >= 500:
-                df.to_csv('article_info.csv', index=False)
-                countdown = 0
-        else:
-            logging.error(f"Request failed with status code: {response.status_code}")
+                new_row_df = pd.DataFrame([article.row_info()])
+                df = pd.concat([df, new_row_df], ignore_index=True)
+                countdown += 1
+                if countdown >= 500:
+                    df.to_csv('article_info.csv', index=False)
+                    countdown = 0
+                else:
+                    logging.error(f"Request failed with status code: {response.status_code}")
+            else:
+                logging.error(f"Request failed with status code: {response.status_code}")
 
     df.to_csv('article_info.csv', index=False)
 

@@ -1,49 +1,32 @@
-March 17, 2023 — 11:35 am EDT
+March 20, 2023 — 09:05 am EDT
 
       Written by
-                        BNK Invest for                             
+                        John Reese for                             
         
 
 
 
 
-BNK Invest ->
+Validea ->
 
 
-The DividendRank formula at Dividend Channel ranks a coverage universe of thousands of dividend stocks, according to a proprietary formula designed to identify those stocks that combine two important characteristics — strong fundamentals and a valuation that looks inexpensive.  Johnson Controls International plc (Symbol: JCI) presently has an above average rank, in the top 50% of the coverage universe, which suggests it is among the top most "interesting" ideas that merit further research by investors.
+Below is Validea's guru fundamental report for HOME DEPOT INC (HD). Of the 22 guru strategies we follow,  HD rates highest using our Patient Investor model based on the published strategy of Warren Buffett. This strategy seeks out firms with long-term, predictable profitability and low debt that trade at reasonable valuations.
+HOME DEPOT INC (HD) is a large-cap growth stock in the Retail (Home Improvement) industry. The rating using this strategy is 82% based on the firm’s underlying fundamentals and the stock’s valuation. A score of 80% or above typically indicates that the strategy has some interest in the stock and a score above 90% typically indicates strong interest.
+The following table summarizes whether the stock meets each of this strategy's tests. Not all criteria in the below table receive equal weighting or are independent, but the table provides a brief overview of the strong and weak points of the security in the context of the strategy's criteria.
 
-
-
-But making Johnson Controls International plc an even more interesting and timely stock to look at, is the fact that in trading on Friday, shares of JCI entered into oversold territory, changing hands as low as $56.90 per share.  We define oversold territory using the Relative Strength Index, or RSI, which is a technical analysis indicator used to measure momentum on a scale of zero to 100.  A stock is considered to be oversold if the RSI reading falls below 30.  
-
-In the case of Johnson Controls International plc, the RSI reading has hit 27.7 — by comparison, the universe of dividend stocks covered by Dividend Channel currently has an average RSI of 34.7.  A falling stock price — all else being equal — creates a better opportunity for dividend investors to capture a higher yield.  Indeed, JCI's recent annualized dividend of 1.44/share (currently paid in quarterly installments) works out to an annual yield of 2.42% based upon the recent $59.45 share price.
-
-
-
-A bullish investor could look at JCI's 27.7 RSI reading today as a sign that the recent heavy selling is in the process of exhausting itself, and begin to look for entry point opportunities on the buy side.  Among the fundamental datapoints dividend investors should investigate to decide if they are bullish on JCI is its dividend history.  
-
-In general, dividends are not always predictable; but, looking at the history chart below can help in judging whether the most recent dividend is likely to continue.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Click here to find out what 9 other oversold dividend stocks you need to know about »
-
-
-
+Detailed Analysis of HOME DEPOT INC
+HD Guru Analysis
+HD Fundamental Analysis
+More Information on Warren Buffett
+Warren Buffett Portfolio
+Top Warren Buffett Stocks
+About Warren Buffett: Warren Buffett is considered by many to be the greatest investor of all time. As the chairman of Berkshire Hathaway, Buffett has consistently outperformed the S&P 500 for decades, and in the process has become one of the world's richest men. (Forbes puts his net worth at $37 billion.) Despite his fortune, Buffett is known for living a modest lifestyle, by billionaire standards. His primary residence remains the gray stucco Nebraska home he purchased for $31,500 nearly 50 years ago, according to Forbes, and his folksy Midwestern manner and penchant for simple pleasures -- a cherry Coke, a good burger, and a good book are all near the top of the list -- have been well-documented. 
+Additional Research Links
+Factor-Based Stock Portfolios
+Factor-Based ETF Portfolios
+Harry Browne Permanent Portfolio
+Ray Dalio All Weather Portfolio
+About Validea: Validea is aninvestment researchservice that follows the published strategies of investment legends. Validea offers both stock analysis and model portfolios based on gurus who have outperformed the market over the long-term, including Warren Buffett, Benjamin Graham, Peter Lynch and Martin Zweig. For more information about Validea, click here
 The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
 
 © 2023, Nasdaq, Inc. All Rights Reserved.
