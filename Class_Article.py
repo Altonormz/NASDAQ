@@ -29,7 +29,8 @@ class Article:
         self.id_num = id_num
         self.url = url
 
-    def _get_title(self, soup):
+    @staticmethod
+    def _get_title(soup):
         """
         Returns the name of the title of the article from the soup object.
         """
@@ -40,7 +41,8 @@ class Article:
         else:
             return None
 
-    def _get_authors(self, soup):
+    @staticmethod
+    def _get_authors(soup):
         """
         Returns the names of the authors of the article from the soup object.
         """
@@ -51,7 +53,8 @@ class Article:
             authors = "Unknown"
         return authors
 
-    def _get_date(self, soup):
+    @staticmethod
+    def _get_date(soup):
         """
         Returns the date of the article from the soup object.
         """
@@ -62,7 +65,8 @@ class Article:
             time_stamp = "Unknown"
         return time_stamp
 
-    def _get_tags(self, soup):  # Fix
+    @staticmethod
+    def _get_tags(soup):
 
         """
         Returns the tags of the article from the soup object.
@@ -74,6 +78,19 @@ class Article:
             tags_list = ["Unknown"]
         return tags_list
 
+    @staticmethod
+    def _get_tickers(soup):
+        """
+        Returns the tickers of the article from the soup object.
+        """
+        tickers_block = soup.find('div', {"class": "jupiter22-c-related-stocks-horizontal__list"})
+        if tickers_block:
+            tickers_list = tickers_block.get_text(" ").split()
+            tickers_dict = {tickers_list[i]: tickers_list[i + 1] for i in range(0, len(tickers_list), 2)}
+        else:
+            tickers_dict = {}
+        return tickers_dict
+
     def set_info(self, response):
         """
         Sets the article information to the class from the response.
@@ -83,21 +100,22 @@ class Article:
         self.authors = self._get_authors(soup)
         self.date = self._get_date(soup)
         self.tags = self._get_tags(soup)
-        self._create_article_content_file(soup)
+        self._create_article_content_file(self.id_num, soup)
 
-    def _create_article_content_file(self, soup):
+    @staticmethod
+    def _create_article_content_file(id_num, soup):
         """
         Creates a text file containing the article content in a subfolder.
         """
         if not os.path.isdir("article content files"):
             os.mkdir("article content files")
         try:
-            with open(os.path.join("article content files", f'{self.id_num}.txt'), 'w') as f:
+            with open(os.path.join("article content files", f'{id_num}.txt'), 'w') as f:
                 paragraphs = soup.find_all('p')
                 content = "\n".join([p.get_text() for p in paragraphs])
                 f.write(content)
         except Exception as e:
-            print(f"Error writing content for article {self.id_num}: {e}")
+            print(f"Error writing content for article {id_num}: {e}")
 
     def __str__(self):
         """
