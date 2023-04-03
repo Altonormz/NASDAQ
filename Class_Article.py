@@ -79,7 +79,7 @@ class Article:
         return tags_list
 
     @staticmethod
-    def _get_tickers(soup):
+    def _get_tickers_dict(soup):
         """
         Returns the tickers of the article from the soup object.
         """
