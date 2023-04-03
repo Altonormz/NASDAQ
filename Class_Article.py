@@ -1,13 +1,13 @@
 from gevent import monkey
 
 monkey.patch_all()
-import os
 import grequests
 from bs4 import BeautifulSoup
 import pandas as pd
 from fake_useragent import UserAgent
 import json
 import logging
+
 
 # logging config
 logging.basicConfig(level=logging.INFO, filename="Class_Article.log", filemode="w",
@@ -26,8 +26,9 @@ class Article:
         self.authors = None
         self.date = None
         self.tags = None
+        self.article_content = None
         self.tickers_name = []
-        self.stocks_change = []
+        # self.stocks_change = [] ## In case we want the information in the future
         self.id_num = id_num
         self.url = url
 
@@ -93,33 +94,29 @@ class Article:
             tickers_dict = {}
         return tickers_dict
 
-    def set_info(self, response):
+    def set_info(self, soup):
         """
         Sets the article information to the class from the response.
         """
-        soup = get_soup(response)
+
         self.title = Article._get_title(soup)
         self.authors = Article._get_authors(soup)
         self.date = Article._get_date(soup)
         self.tags = Article._get_tags(soup)
-        self._create_article_content_file(self.id_num, soup)
+        self.article_content = Article._get_article_content(soup)
         tickers_dict = Article._get_tickers_dict(soup)
-        self.tickers_name, self.stocks_change = list(tickers_dict.keys()), list(tickers_dict.values())
+        self.tickers_name = list(tickers_dict.keys())
+        # self.stocks_change = list(tickers_dict.values()) ## In case we want the information in the future.
 
     @staticmethod
-    def _create_article_content_file(id_num, soup):
+    def _get_article_content(soup):
         """
-        Creates a text file containing the article content in a subfolder.
+        Returns a string containing the article content.
         """
-        if not os.path.isdir("article content files"):
-            os.mkdir("article content files")
-        try:
-            with open(os.path.join("article content files", f'{id_num}.txt'), 'w') as f:
-                paragraphs = soup.find_all('p')
-                content = "\n".join([p.get_text() for p in paragraphs])
-                f.write(content)
-        except Exception as e:
-            print(f"Error writing content for article {id_num}: {e}")
+
+        paragraphs = soup.find_all('p')
+        content = "\n".join([p.get_text() for p in paragraphs])
+        return content
 
     def __str__(self):
         """
@@ -141,80 +138,3 @@ class Article:
         return data
 
 
-def get_soup(response):
-    """
-    Parses the HTML content and returns a soup object.
-    """
-    return BeautifulSoup(response.content, "html.parser")
-
-
-def setting_info(article_list, df, config):
-    """
-    Takes a list of Article objects and creates a dataframe with the article information.
-    Prints the article short information without the content.
-    The article content will be saved into a text file in a sub-folder named "article content files".
-    """
-    ua = UserAgent()
-    headers = {'user-agent': ua.random}
-    try:
-        rs = (grequests.get(t.url, headers=headers, timeout=config['TIMEOUT']) for t in article_list)
-        logging.info(f'successfully got responses from server')
-    except Exception as err:
-        logging.error(f"error getting responses from server")
-        raise RuntimeError(f"error getting responses: {err}")
-
-    countdown = 0
-
-    for response in grequests.imap(rs, size=config["BATCH_SIZE"]):
-        if response.status_code == 200:
-            article = next((t for t in article_list if t.url == response.url), None)
-            if article:
-                article.set_info(response)
-                print(article)
-                logging.info(f"successfully scraped {article.title}\n")
-
-                new_row_df = pd.DataFrame([article.row_info()])
-                df = pd.concat([df, new_row_df], ignore_index=True)
-                countdown += 1
-                if countdown >= 500:
-                    df.to_csv('article_info.csv', index=False)
-                    countdown = 0
-                else:
-                    logging.error(f"Request failed with status code: {response.status_code}")
-            else:
-                logging.error(f"Request failed with status code: {response.status_code}")
-
-    df.to_csv('article_info.csv', index=False)
-
-
-def get_articles():
-    """
-    Returns a list of Article objects containing the id number and URL of an article.
-    """
-    try:
-        with open('links_list.txt', 'r') as f:
-            links_list = f.read().splitlines()
-            article_list = [Article(index, url) for index, url in enumerate(links_list)]
-            return article_list
-
-    except FileNotFoundError as er:
-        logging.error(f"{er}: links_list.txt wasn't found")
-        return []
-
-
-def main():
-    try:
-        with open("conf.json") as f:
-            config = json.load(f)
-    except FileNotFoundError as er:
-        print(f'{er}: Please make sure config file exists in the folder.')
-        return
-
-    article_list = get_articles()
-    columns = ['id', 'title', 'authors', 'date', 'tags', 'URL']
-    df = pd.DataFrame(columns=columns)
-    setting_info(article_list, df, config)
-
-
-if __name__ == "__main__":
-    main()
