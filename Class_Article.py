@@ -1,11 +1,7 @@
 from gevent import monkey
 
 monkey.patch_all()
-import grequests
-from bs4 import BeautifulSoup
-import pandas as pd
-from fake_useragent import UserAgent
-import json
+
 import logging
 
 
@@ -18,16 +14,21 @@ logger = logging.getLogger("Class_Article.log")
 class Article:
     """
     Class Article holds information about a news article from Nasdaq.com/markets.
-    Information includes: id, title, authors, date, and tags.
+    Information includes: id, title, author, date, and tags.
     """
 
-    def __init__(self, id_num, url):
-        self.title = None
-        self.authors = None
-        self.date = None
-        self.tags = None
-        self.article_content = None
-        self.tickers_name = []
+    def __init__(self, id_num, url, title=None, author=None, date=None, tags=None, article_content=None,
+                 tickers=None):
+        if tickers is None:
+            tickers = []
+        if tags is None:
+            tags = []
+        self.title = title
+        self.author = author
+        self.date = date
+        self.tags = tags
+        self.article_content = article_content
+        self.tickers = tickers
         # self.stocks_change = [] ## In case we want the information in the future
         self.id_num = id_num
         self.url = url
@@ -45,16 +46,16 @@ class Article:
             return None
 
     @staticmethod
-    def _get_authors(soup):
+    def _get_author(soup):
         """
-        Returns the names of the authors of the article from the soup object.
+        Returns the names of the author of the article from the soup object.
         """
-        authors_block = soup.find('span', {"class": "jupiter22-c-author-byline__author-no-link"})
-        if authors_block:
-            authors = authors_block.get_text().strip()
+        author_block = soup.find('span', {"class": "jupiter22-c-author-byline__author-no-link"})
+        if author_block:
+            author = author_block.get_text().strip()
         else:
-            authors = "Unknown"
-        return authors
+            author = "Unknown"
+        return author
 
     @staticmethod
     def _get_date(soup):
@@ -96,16 +97,16 @@ class Article:
 
     def set_info(self, soup):
         """
-        Sets the article information to the class from the response.
+        Sets the article information to the class from the soup object.
         """
 
         self.title = Article._get_title(soup)
-        self.authors = Article._get_authors(soup)
+        self.author = Article._get_author(soup)
         self.date = Article._get_date(soup)
         self.tags = Article._get_tags(soup)
         self.article_content = Article._get_article_content(soup)
         tickers_dict = Article._get_tickers_dict(soup)
-        self.tickers_name = list(tickers_dict.keys())
+        self.tickers = list(tickers_dict.keys())
         # self.stocks_change = list(tickers_dict.values()) ## In case we want the information in the future.
 
     @staticmethod
@@ -121,7 +122,7 @@ class Article:
     def __str__(self):
         """
         Returns a string representation of the Article object.        """
-        message = f"ID: {self.id_num}, Name: {self.title}, Authors: {self.authors}, Date: {self.date}, " \
+        message = f"ID: {self.id_num}, Name: {self.title}, Author: {self.author}, Date: {self.date}, " \
                   f"Tags: {self.tags}, URL: {self.url}"
         return message
 
@@ -131,10 +132,13 @@ class Article:
         """
         data = {'id': self.id_num,
                 'title': self.title,
-                'authors': self.authors,
+                'author': self.author,
                 'date': self.date,
                 'tags': self.tags,
-                'URL': self.url}
+                'tickers': self.tickers,
+                'article_content': self.article_content,
+                'url': self.url,
+                }
         return data
 
 
