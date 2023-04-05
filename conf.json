@@ -5,5 +5,7 @@
     "BATCH_SIZE": 10,
     "log_file": "NASDAQ.log",
     "TIMEOUT": 15,
-    "PAGES": 1000
+    "PAGES": 1000,
+    "STATUS_CODE": 200,
+    "INSERT": 500
   }

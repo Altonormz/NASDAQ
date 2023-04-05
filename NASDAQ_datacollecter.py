@@ -109,3 +109,11 @@ def add_article_tags_to_database(article_id, tag_ids, connection):
                        (tag_id, article_id))
         cursor.execute("SELECT stock_article_id FROM Article_Tags WHERE stock_id = ? AND article_id = ? ",
                        (tag_id, article_id))
+
+
+def get_all_urls(connection):
+    """
+    get a list of urls currently in the DB
+    """
+    cursor = connection.cursor()
+    return list(cursor.execute("SELECT url FROM Articles"))
