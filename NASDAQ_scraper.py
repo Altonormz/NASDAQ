@@ -1,3 +1,4 @@
+import pymysql.cursors
 from gevent import monkey
 
 monkey.patch_all()
@@ -8,11 +9,9 @@ import logging
 from Class_Article import Article
 from fake_useragent import UserAgent
 import argparse
-import pandas as pd
+import datetime
 import dateparser
 import NASDAQ_datacollecter
-import sqlite3
-import os
 
 with open("conf.json") as f:
     config = json.load(f)
@@ -33,6 +32,8 @@ def scrape_page(URL, args):
     times = soup.find_all('div', class_='content-feed__card-timestamp')
     if args.time is not None:
         for i, time in enumerate(times[0:-2:2]):
+            print(dateparser.parse(time.text))
+            print(args.time)
             if dateparser.parse(time.text) < args.time:
                 return True, pages[:i - 1]
     return False, pages[:len(pages) - 1]
@@ -41,11 +42,9 @@ def scrape_page(URL, args):
 def get_response(urls):
     """
     using grequests threads to get responses from several web pages at a time
-    :param urls: list of urls
-    :return: responses from server
     """
-    headers = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) '
-                             'Chrome/75.0.3770.142 Safari/537.36'}
+    ua = UserAgent()
+    headers = {'user-agent': ua.random}
     request = [grequests.get(url, headers=headers) for url in urls]
     responses = grequests.map(request)
     return responses
@@ -60,7 +59,6 @@ def fetch_articles_urls(args):
     stop = False
 
     for i in range(1, args.pages, config["BATCH_SIZE"]):
-
         ten_pages = [f'https://www.nasdaq.com/news-and-insights/topic/markets/page/{j}' for j in
                      range(i, i + config["BATCH_SIZE"])]
         logging.info(f'successfully created links batch number: {i // config["BATCH_SIZE"] + 1}.\n The links: '
@@ -82,12 +80,10 @@ def fetch_articles_urls(args):
                     logging.error(f"could not scrape response page")
                 new_links = new_links + scraped_pages
                 if stop:
-                    print(f'Batch number {i // config["BATCH_SIZE"] + 1}/100 done')
                     return new_links
             else:
                 logging.error(f"Request failed with status code: {url.status_code}")
-        print(f'Batch number {i // config["BATCH_SIZE"] + 1}/100 done')
-        return new_links
+    return new_links
 
 
 def get_soup(response):
@@ -128,7 +124,7 @@ def setting_info(article_list):
 
                 article_object_info.append(article)
                 countdown += 1
-                if countdown >= 10:
+                if countdown >= config["INSERT"]:
                     NASDAQ_datacollecter.update_database(article_object_info)
                     article_object_info = []
                     countdown = 0
@@ -173,17 +169,21 @@ def parse():
 def main():
     # try:
         args = parse()
-        if not os.path.exists(config["SQL_DB_PATH"]):
-            NASDAQ_datacollecter.create_dataframe(config["DB_COMMANDS_FILE"], config["SQL_DB_PATH"])
+        NASDAQ_datacollecter.create_database(config["DB_COMMANDS_FILE"])
 
+        co = pymysql.connect(host='localhost',
+                             user=config["USER"],
+                             password=config["PASSWORD"],
+                             database='NASDAQ',
+                             cursorclass=pymysql.cursors.DictCursor)
         new_links = fetch_articles_urls(args)  # creates file with articles urls.
 
-        conn = sqlite3.connect(config['SQL_DB_PATH'])
-        urls = NASDAQ_datacollecter.get_all_urls(conn)
+        urls = NASDAQ_datacollecter.get_all_urls(co)
 
         new_links = list(set(new_links) - set(urls))
 
         get_objects = get_articles(new_links)
+
         setting_info(get_objects)
         # Creates DataFrame with articles info, and saves their content in a sub-folder.
     # except Exception as err:

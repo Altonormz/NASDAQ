@@ -8,6 +8,7 @@
     "PAGES": 1000,
     "STATUS_CODE": 200,
     "INSERT": 500,
-    "SQL_DB_PATH": "NASDAQ_database.sqlite",
-    "DB_COMMANDS_FILE": "NASDAQ.sql"
+    "DB_COMMANDS_FILE": "NASDAQ_sql_schema.sql",
+    "USER": "root",
+    "PASSWORD": "root"
   }

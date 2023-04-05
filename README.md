@@ -1,7 +1,7 @@
 
-<img width="300" src="https://upload.wikimedia.org/wikipedia/commons/8/87/NASDAQ_Logo.svg">
+<img width="300" src="https://upload.wikimedia.org/wikipedia/commons/8/87/NASDAQ_Logo.svg" alt="nasdaq_image">
 
-
+[NASDAQ_repo](https://github.com/Altonormz/NASDAQ)
 #
 Authors: Alot Mecilati & Jonathan Schwarz
 
@@ -22,7 +22,7 @@ We chose to scrape the following information from these news articles:
 - Titles
 - Authors 
 - Content of articles 
-- Stocks discussed (tickers) and their trend
+- Stocks discussed (tickers)
 
 All the info is gathered inorder to better understand stocks trends and their effect on the market.
 
@@ -48,33 +48,92 @@ bs4. The urls are transferred to the second phase - the article scraping.
 4. Acquiring the urls from the previous stage, the next stage makes use of an object called Article.
 Requests (using grequests threads in batches of 10) are made to the server using the urls read and for each url. If the 
 request was successful, with the help of bs4, data regrading the date, title, authors, tags and the text is collected
-into the object attributes. All the info mentioned is then transferred to the last stage 
+into the object attributes. All the info mentioned is then transferred to the last stage.
+5. The last step takes a list of article objects and inserts the data within them to the DB created in stage 2.
+The data is checked, and if not found within the DB the data is inserted.
 
 ### User Arguments:
-3 filters are available:
+3 filters arguments are available:
 - scrape_all - scraping all data from all pages and article with no filter (when used no other argument may be used).
 - pages - scrape x number of pages starting from the first (*see note 1 below) the default value is 1000 pages.
 - time - given a date and possibly time (**important note:** use ISO format) the program will scrape any article from 
 today till the date and time mentioned (*see notes below).
 
-note 1: the pages and time arguments may be operated together, however, the first to reach its limit will determine the
+    - note 1: the pages and time arguments may be operated together, however, the first to reach its limit will determine the
 amount of articles scraped.
 
-note 2: depending on the recent news the date of the last article may vary, meaning that the date entered may scape 
+    - note 2: depending on the recent news the date of the last article may vary, meaning that the date entered may scape 
 more, less or all data.
 
 example: 
+
+    `python NASDAQ_scraper.py --scrape_all -pages 500 -time 2023-04-04T05:00:00`
+
 
 ### Installations Required
 
 All the installations required including versions can be found in the "requirements.txt"  file
 
+
 ## Database Structure and Features
 
+![ERD.png](ERD.png)
+
+**Authors:**
+- author_id [int] - primary key generated automatically
+- author_name [varchar] - author name
+
+**Articles:**
+- article_id [int] - primary key generated automatically
+- author_id [int] - Foreign key from Authors
+- title [varchar] - the title of the article
+- article_content [varchar] - the article text
+- url [varchar] - the article url
+- published_date [datetime] - thr date and time the article was published
+
+**Article_Tags:**
+- article_tag_id [int] - primary key generated automatically
+- article_id [int] - Foreign key from Articles
+- tag_id [int] - Foreign key from Tags
+
+**Tags:**
+- tag_id [int] - primary key generated automatically
+- tag_name [varchar] - the tag name (text)
+
+**Stock_Articles:**
+- stock_article_id [int] - primary key generated automatically
+- stock_id [int] - Foreign key from Stocks
+- article_id [int] - Foreign key from Articles
+
+**Stocks:**
+- stock_id [int] - primary key generated automatically
+- stock_tick [varchar] - stock tick (symbol)
 
 ## Running the program
 
-To start the program please run "NASDAQ_scraper.py" file with no parameters.
+To start the program please run "NASDAQ_scraper.py" (with the arguments of your choice).
 
-Please download the "Class_Article.py" and "JSON.config" file, and make sure to follow the "requirements.txt"
-installations before running the program.
+Please download "Class_Article.py", "NASDAQ_datacollecter.py"  and "conf.json", and make sure to follow the
+"requirements.txt" installations before running the program.
+
+Before running the program please change the detail of the MySQL username and password in "conf.json" file:
+
+"USER": "root"
+
+"PASSWORD": "root"
+
+
+## Authors:
+### Alot Mecilati:
+<img src="T0465J1ATNJ-U04QC18RRNX-c642a0e43fbc-512.jpeg" alt="Alt Text" width="200"/>
+
+[Git](https://github.com/Altonormz)
+
+[LinkIn](https://www.linkedin.com/in/alon-mecilati/)
+
+### Jonathan Schwarz:
+<img src="T0465J1ATNJ-U04RM4GPJKA-1f8915af8719-512.png" alt="Alt Text" width="200"/>
+
+[Git](https://github.com/Jonnyds)
+
+[LinkIn](https://www.linkedin.com/in/jonathan-schwarz91/)

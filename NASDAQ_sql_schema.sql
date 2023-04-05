@@ -2,7 +2,7 @@ CREATE TABLE IF NOT EXISTS `Articles` (
   `article_id` INTEGER PRIMARY KEY AUTO_INCREMENT,
   `author_id` int,
   `title` varchar(255),
-  `article_content` varchar(255),
+  `article_content` LONGTEXT,
   `url` varchar(255),
   `published_date` datetime
 );
