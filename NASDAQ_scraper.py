@@ -59,6 +59,7 @@ def fetch_articles_urls(args):
     stop = False
 
     for i in range(1, args.pages, config["BATCH_SIZE"]):
+
         ten_pages = [f'https://www.nasdaq.com/news-and-insights/topic/markets/page/{j}' for j in
                      range(i, i + config["BATCH_SIZE"])]
         logging.info(f'successfully created links batch number: {i // config["BATCH_SIZE"] + 1}.\n The links: '
@@ -80,6 +81,7 @@ def fetch_articles_urls(args):
                     logging.error(f"could not scrape response page")
                 new_links = new_links + scraped_pages
                 if stop:
+                    print(f'Batch number {i // config["BATCH_SIZE"] + 1}/100 done')
                     return new_links
             else:
                 logging.error(f"Request failed with status code: {url.status_code}")
