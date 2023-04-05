@@ -11,6 +11,8 @@ import argparse
 import pandas as pd
 import dateparser
 import NASDAQ_datacollecter
+import sqlite3
+import os
 
 with open("conf.json") as f:
     config = json.load(f)
@@ -95,7 +97,7 @@ def get_soup(response):
     return BeautifulSoup(response.content, "html.parser")
 
 
-def setting_info(article_list, df):
+def setting_info(article_list):
     """
     Takes a list of Article objects and creates a dataframe with the article information.
     Prints the article short information without the content.
@@ -112,6 +114,7 @@ def setting_info(article_list, df):
 
     countdown = 0
 
+    article_object_info = []
     for response in grequests.imap(rs, size=config["BATCH_SIZE"]):
         if response.status_code == config["STATUS_CODE"]:
             article = next((t for t in article_list if t.url == response.url), None)
@@ -121,16 +124,19 @@ def setting_info(article_list, df):
                 print(article)
                 logging.info(f"successfully scraped {article.title}\n")
 
-                new_row_df = pd.DataFrame([article.row_info()])
-                df = pd.concat([df, new_row_df], ignore_index=True)
+                # concat to object list
+
+                article_object_info.append(article)
                 countdown += 1
-                if countdown >= config["INSERT"]:
-                    df.to_csv('article_info.csv', index=False)
+                if countdown >= 10:
+                    NASDAQ_datacollecter.update_database(article_object_info)
+                    article_object_info = []
                     countdown = 0
                 else:
                     logging.error(f"Request failed with status code: {response.status_code}")
             else:
                 logging.error(f"Request failed with status code: {response.status_code}")
+    NASDAQ_datacollecter.update_database(article_object_info)
 
     # df.to_csv('article_info.csv', index=False)
 
@@ -167,17 +173,18 @@ def parse():
 def main():
     # try:
         args = parse()
-    # check if DB exists
+        if not os.path.exists(config["SQL_DB_PATH"]):
+            NASDAQ_datacollecter.create_dataframe(config["DB_COMMANDS_FILE"], config["SQL_DB_PATH"])
+
         new_links = fetch_articles_urls(args)  # creates file with articles urls.
-    # add connection
+
+        conn = sqlite3.connect(config['SQL_DB_PATH'])
         urls = NASDAQ_datacollecter.get_all_urls(conn)
 
-        new_links = list(set(urls) - set(new_links))
+        new_links = list(set(new_links) - set(urls))
 
         get_objects = get_articles(new_links)
-        columns = ['id', 'title', 'authors', 'date', 'tags', 'URL']
-        df = pd.DataFrame(columns=columns)
-        setting_info(get_objects, df)
+        setting_info(get_objects)
         # Creates DataFrame with articles info, and saves their content in a sub-folder.
     # except Exception as err:
     #     print(f'Error: {err}')
