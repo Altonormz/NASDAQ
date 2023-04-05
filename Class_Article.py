@@ -1,13 +1,9 @@
 from gevent import monkey
 
 monkey.patch_all()
-import os
-import grequests
-from bs4 import BeautifulSoup
-import pandas as pd
-from fake_useragent import UserAgent
-import json
+
 import logging
+
 
 # logging config
 logging.basicConfig(level=logging.INFO, filename="Class_Article.log", filemode="w",
@@ -18,18 +14,27 @@ logger = logging.getLogger("Class_Article.log")
 class Article:
     """
     Class Article holds information about a news article from Nasdaq.com/markets.
-    Information includes: id, title, authors, date, and tags.
+    Information includes: id, title, author, date, and tags.
     """
 
-    def __init__(self, id_num, url):
-        self.title = None
-        self.authors = None
-        self.date = None
-        self.tags = None
+    def __init__(self, id_num, url, title=None, author=None, date=None, tags=None, article_content=None,
+                 tickers=None):
+        if tickers is None:
+            tickers = []
+        if tags is None:
+            tags = []
+        self.title = title
+        self.author = author
+        self.date = date
+        self.tags = tags
+        self.article_content = article_content
+        self.tickers = tickers
+        # self.stocks_change = [] ## In case we want the information in the future
         self.id_num = id_num
         self.url = url
 
-    def _get_title(self, soup):
+    @staticmethod
+    def _get_title(soup):
         """
         Returns the name of the title of the article from the soup object.
         """
@@ -40,18 +45,20 @@ class Article:
         else:
             return None
 
-    def _get_authors(self, soup):
+    @staticmethod
+    def _get_author(soup):
         """
-        Returns the names of the authors of the article from the soup object.
+        Returns the names of the author of the article from the soup object.
         """
-        authors_block = soup.find('span', {"class": "jupiter22-c-author-byline__author-no-link"})
-        if authors_block:
-            authors = authors_block.get_text().strip()
+        author_block = soup.find('span', {"class": "jupiter22-c-author-byline__author-no-link"})
+        if author_block:
+            author = author_block.get_text().strip()
         else:
-            authors = "Unknown"
-        return authors
+            author = "Unknown"
+        return author
 
-    def _get_date(self, soup):
+    @staticmethod
+    def _get_date(soup):
         """
         Returns the date of the article from the soup object.
         """
@@ -62,7 +69,8 @@ class Article:
             time_stamp = "Unknown"
         return time_stamp
 
-    def _get_tags(self, soup):  # Fix
+    @staticmethod
+    def _get_tags(soup):
 
         """
         Returns the tags of the article from the soup object.
@@ -74,35 +82,47 @@ class Article:
             tags_list = ["Unknown"]
         return tags_list
 
-    def set_info(self, response):
+    @staticmethod
+    def _get_tickers_dict(soup):
         """
-        Sets the article information to the class from the response.
+        Returns the tickers of the article from the soup object.
         """
-        soup = get_soup(response)
-        self.title = self._get_title(soup)
-        self.authors = self._get_authors(soup)
-        self.date = self._get_date(soup)
-        self.tags = self._get_tags(soup)
-        self._create_article_content_file(soup)
+        tickers_block = soup.find('div', {"class": "jupiter22-c-related-stocks-horizontal__list"})
+        if tickers_block:
+            tickers_list = tickers_block.get_text(" ").split()
+            tickers_dict = {tickers_list[i]: tickers_list[i + 1] for i in range(0, len(tickers_list) - 1, 2)}
+        else:
+            tickers_dict = {}
+        return tickers_dict
 
-    def _create_article_content_file(self, soup):
+    def set_info(self, soup):
         """
-        Creates a text file containing the article content in a subfolder.
+        Sets the article information to the class from the soup object.
         """
-        if not os.path.isdir("article content files"):
-            os.mkdir("article content files")
-        try:
-            with open(os.path.join("article content files", f'{self.id_num}.txt'), 'w') as f:
-                paragraphs = soup.find_all('p')
-                content = "\n".join([p.get_text() for p in paragraphs])
-                f.write(content)
-        except Exception as e:
-            print(f"Error writing content for article {self.id_num}: {e}")
+
+        self.title = Article._get_title(soup)
+        self.author = Article._get_author(soup)
+        self.date = Article._get_date(soup)
+        self.tags = Article._get_tags(soup)
+        self.article_content = Article._get_article_content(soup)
+        tickers_dict = Article._get_tickers_dict(soup)
+        self.tickers = list(tickers_dict.keys())
+        # self.stocks_change = list(tickers_dict.values()) ## In case we want the information in the future.
+
+    @staticmethod
+    def _get_article_content(soup):
+        """
+        Returns a string containing the article content.
+        """
+
+        paragraphs = soup.find_all('p')
+        content = "\n".join([p.get_text() for p in paragraphs])
+        return content
 
     def __str__(self):
         """
         Returns a string representation of the Article object.        """
-        message = f"ID: {self.id_num}, Name: {self.title}, Authors: {self.authors}, Date: {self.date}, " \
+        message = f"ID: {self.id_num}, Name: {self.title}, Author: {self.author}, Date: {self.date}, " \
                   f"Tags: {self.tags}, URL: {self.url}"
         return message
 
@@ -112,84 +132,13 @@ class Article:
         """
         data = {'id': self.id_num,
                 'title': self.title,
-                'authors': self.authors,
+                'author': self.author,
                 'date': self.date,
                 'tags': self.tags,
-                'URL': self.url}
+                'tickers': self.tickers,
+                'article_content': self.article_content,
+                'url': self.url,
+                }
         return data
 
 
-def get_soup(response):
-    """
-    Parses the HTML content and returns a soup object.
-    """
-    return BeautifulSoup(response.content, "html.parser")
-
-
-def setting_info(article_list, df, config):
-    """
-    Takes a list of Article objects and creates a dataframe with the article information.
-    Prints the article short information without the content.
-    The article content will be saved into a text file in a sub-folder named "article content files".
-    """
-    ua = UserAgent()
-    headers = {'user-agent': ua.random}
-    try:
-        rs = (grequests.get(t.url, headers=headers, timeout=config['TIMEOUT']) for t in article_list)
-        logging.info(f'successfully got responses from server')
-    except Exception as err:
-        logging.error(f"error getting responses from server")
-        raise RuntimeError(f"error getting responses: {err}")
-
-    countdown = 0
-
-    for response in grequests.imap(rs, size=config["BATCH_SIZE"]):
-        if response.status_code == 200:
-            article = next(t for t in article_list if t.url == response.url)
-            article.set_info(response)
-            print(article)
-            logging.info(f"successfully scraped {article.title}\n")
-
-            new_row_df = pd.DataFrame([article.row_info()])
-            df = pd.concat([df, new_row_df], ignore_index=True)
-            countdown += 1
-            if countdown >= 500:
-                df.to_csv('article_info.csv', index=False)
-                countdown = 0
-        else:
-            logging.error(f"Request failed with status code: {response.status_code}")
-
-    df.to_csv('article_info.csv', index=False)
-
-
-def get_articles():
-    """
-    Returns a list of Article objects containing the id number and URL of an article.
-    """
-    try:
-        with open('links_list.txt', 'r') as f:
-            links_list = f.read().splitlines()
-            article_list = [Article(index, url) for index, url in enumerate(links_list)]
-            return article_list
-
-    except FileNotFoundError as er:
-        logging.error(f"{er}: links_list.txt wasn't found")
-        return []
-
-
-def main():
-    try:
-        with open("conf.json") as f:
-            config = json.load(f)
-    except FileNotFoundError as er:
-        print(f'{er}: Please make sure config file exists in the folder.')
-        return
-
-    article_list = get_articles()
-    columns = ['id', 'title', 'authors', 'date', 'tags', 'URL']
-    df = pd.DataFrame(columns=columns)
-    setting_info(article_list, df, config)
-
-
-if __name__ == "__main__":
-    main()

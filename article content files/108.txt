@@ -1,31 +1,46 @@
-March 17, 2023 — 02:07 pm EDT
+March 20, 2023 — 10:54 am EDT
 
       Written by
-                        John Reese for                             
+                        BNK Invest for                             
         
 
 
 
 
-Validea ->
+BNK Invest ->
 
 
-Below is Validea's guru fundamental report for ALBEMARLE CORPORATION (ALB). Of the 22 guru strategies we follow,  ALB rates highest using our Twin Momentum Investor model based on the published strategy of Dashan Huang. This momentum model looks for a combination of fundamental momentum and price momentum.
-ALBEMARLE CORPORATION (ALB) is a large-cap value stock in the Chemical Manufacturing industry. The rating using this strategy is 100% based on the firm’s underlying fundamentals and the stock’s valuation. A score of 80% or above typically indicates that the strategy has some interest in the stock and a score above 90% typically indicates strong interest.
-The following table summarizes whether the stock meets each of this strategy's tests. Not all criteria in the below table receive equal weighting or are independent, but the table provides a brief overview of the strong and weak points of the security in the context of the strategy's criteria.
+Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the iShares S&P 500 Value ETF (Symbol: IVE) where we have detected an approximate $261.6 million dollar outflow -- that's a 1.1% decrease week over week (from 166,250,000 to 164,450,000).  Among the largest underlying components of IVE, in trading today Verizon Communications Inc (Symbol: VZ) is up about 1.3%, Nike (Symbol: NKE) is up about 1.3%, and Netflix Inc (Symbol: NFLX) is lower by about 0.1%. For a complete list of holdings, visit the IVE Holdings page » 
 
-Detailed Analysis of ALBEMARLE CORPORATION
-ALB Guru Analysis
-ALB Fundamental Analysis
-More Information on Dashan Huang
-Dashan Huang Portfolio
-About Dashan Huang: Dashan Huang is an Assistant Professor of Finance at the Lee Kong Chian School of Business at Singapore Management University. His paper "Twin Momentum" looked at combining traditional price momentum with improving fundamentals to generate market outperformance. In the paper, he identified seven fundamental variables (earnings, return on equity, return on assets, accrual operating profitability to equity, cash operating profitability to assets, gross profit to assets and net payout ratio) that he combined into a single fundamental momentum measure. He showed that stocks in the top 20% of the universe according to that measure outperformed the market going forward. When he combined that measure with price momentum, he was able to double its outperformance. 
-Additional Research Links
-Factor-Based Stock Portfolios
-Factor-Based ETF Portfolios
-Harry Browne Permanent Portfolio
-Ray Dalio All Weather Portfolio
-About Validea: Validea is aninvestment researchservice that follows the published strategies of investment legends. Validea offers both stock analysis and model portfolios based on gurus who have outperformed the market over the long-term, including Warren Buffett, Benjamin Graham, Peter Lynch and Martin Zweig. For more information about Validea, click here
+The chart below shows the one year price performance of IVE, versus its 200 day moving average:
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+Looking at the chart above, IVE's low point in its 52 week range is $127.33 per share, with $160.30 as the 52 week high point — that compares with a last trade of $146.43.  Comparing the most recent share price to the 200 day moving average can also be a useful technical analysis technique -- learn more about the 200 day moving average ».
+
+
+
+
+
+Exchange traded funds (ETFs) trade just like stocks, but instead of ''shares'' investors are actually buying and selling ''units''.  These ''units'' can be traded back and forth just like stocks, but can also be created or destroyed to accommodate investor demand.  Each week we monitor the week-over-week change in shares outstanding data, to keep a lookout for those ETFs experiencing notable inflows (many new units created) or outflows (many old units destroyed).  Creation of new units will mean the underlying holdings of the ETF need to be purchased, while destruction of units involves selling underlying holdings, so large flows can also impact the individual components held within ETFs.
+
+
+
+Click here to find out which 9 other ETFs experienced notable outflows »
+
+
+
 The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
 
 © 2023, Nasdaq, Inc. All Rights Reserved.

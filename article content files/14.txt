@@ -1,37 +1,26 @@
-March 17, 2023 — 05:03 pm EDT
+March 19, 2023 — 09:31 pm EDT
 
       Written by
-                        RJ Fulton for                             
+                        RTTNews.com for                             
         
 
 
 
 
-The Motley Fool ->
+RTTNews ->
 
 
-Down more than 81% from its all-time high and yet up by more than 88% since the beginning of 2023, Coinbase Global (NASDAQ: COIN) is in a peculiar position. Benefitting from the recent rally in the crypto market, Coinbase's price jumped significantly in the last few months as a renewed sense of optimism has investors hoping that the worst might just be over. 
-However, there is reason to believe that bumpy and dangerous roads are ahead. 
-After a tumultuous and controversial 2022, which was riddled with multiple cryptocurrency companies going bankrupt, U.S. regulators have ratcheted up pressure on the crypto industry as a whole. This could be bad news for Coinbase.
-At the beginning of February, the Securities and Exchange Commission (SEC) reached a settlement with the cryptocurrency exchange platform Kraken after alleging that their staking service met the criteria of an unregistered security. As a result, Kraken was forced to discontinue its staking product and pay a fine of $30 million. 
-More recently, New York Attorney General (NYAG) introduced a lawsuit with KuCoin, another cryptocurrency exchange. Similar to the SEC-Kraken case, the state of New York alleges that KuCoin's staking products are technically unregistered securities and, as such, are currently out of compliance. 
-Furthermore, the NYAG took the allegations a step further and claimed that not only were the staking products technically securities, but that the world's second-most valuable cryptocurrency, Ethereum (CRYPTO: ETH), also met the criteria of a security. 
-This is where things could get particularly troublesome for Coinbase.
-To diversify revenue outside of just transaction fees, Coinbase has prioritized building out its staking services and intends to become "the best platform to generate rewards on crypto." 
-Potentially even worse for Coinbase is the NYAG's allegations that Ethereum is technically a security. If this is judged to be true, it could deal a serious blow to Coinbase's future profits. 
-The reason why is due to a planned Ethereum upgrade scheduled for 2023 and Coinbase's dependence on the cryptocurrency to generate revenue. 
-The new upgrade, known as Shanghai, would allow those who stake Ethereum to withdraw their funds. Currently, users are unable to do so, and as a result, the number of users who stake Ethereum is drastically lower than other proof-of-stake cryptocurrencies which allow withdrawals, like Cardano or Solana. 
-In a recent report by J.P. Morgan, analysts found that around 25% of all trading volume on Coinbase is Ethereum-based. The company generates roughly $50 million from clients currently staking the cryptocurrency. J.P. Morgan analysts continued that with the promise of Shanghai looming, Coinbase could significantly bolster profits if it leads to an increase in users looking to utilize the exchange for their staking needs.
-J.P. Morgan estimated that on the low end, profits could increase to $225 million and possibly even up to $545 million if 95% of retail investors currently using the platform decide to stake their Ethereum. 
-But this could all come crashing down. There are arguably too many question marks around Coinbase's Ethereum staking. It's a potentially significant money-making project, but regulators have to pin down their approach to this stuff in order to make it an investable quality. If Ethereum is deemed a security in the NYAG case and the SEC decides to zero in on Coinbase, it could deal a serious blow to Coinbase's future revenue growth.
-While much remains unknown in the regulatory environment, it might be best to hold off on adding any Coinbase to portfolios until a clearer picture comes into focus. There are plenty of alternatives available to crypto investors who want a proper stock in the digital asset sector, after all.
-10 stocks we like better than Coinbase GlobalWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
-They just revealed what they believe are the ten best stocks for investors to buy right now... and Coinbase Global wasn't one of them! That's right -- they think these 10 stocks are even better buys.
-See the 10 stocks
- 
-*Stock Advisor returns as of March 8, 2023
- 
-JPMorgan Chase is an advertising partner of The Ascent, a Motley Fool company. RJ Fulton has positions in Cardano, Ethereum, and Solana. The Motley Fool has positions in and recommends Cardano, Coinbase Global, Ethereum, JPMorgan Chase, and Solana. The Motley Fool has a disclosure policy.
+(RTTNews) - Swiss banking giant UBS agreed to buy troubled rival Credit Suisse for 3 billion Swiss francs or about $3.24 billion.
+The move comes after the Swiss Federal Department of Finance, the Swiss National Bank and the Swiss Financial Market Supervisory Authority FINMA asked both companies to conclude the transaction to restore necessary confidence in the stability of the Swiss economy and banking system, Credit Suisse said in a statement on Sunday.
+Under the terms of the all-share transaction, Credit Suisse shareholders will receive 1 UBS share for every 22.48 Credit Suisse shares held, equivalent to 0.76 francs per share for a total consideration of 3 billion francs.
+As of on 17th March 2023, Credit Suisse has market cap of $8.55 Billion.
+The merger is expected to be completed by end of 2023. UBS expects that the merger will generate annual run-rate of cost reductions of more than $8 billion by 2027.
+UBS has expressed its confidence that the employment of the staff of Credit Suisse will be continued.
+UBS anticipates that the transaction is earnings per share accretive by 2027 and the bank remains capitalized well above its target of 13%.
+UBS Chairman Colm Kelleher will be Chairman of the combined entity and UBS Chief Executive Officer Ralph Hamers will be Group CEO of the merged entity.
+The transaction is not subject to shareholder approval. UBS has obtained pre-agreement from FINMA, Swiss National Bank, Swiss Federal Department of Finance and other core regulators on the timely approval of the transaction.
+Credit Suisse last week said it would borrow up to 50 billion Swiss Francs or around $53.7 billion from the Swiss National Bank after the Swiss banking major lost much of its value in the wake of latest banking industry turmoil. The development came as its largest investor Saudi National Bank said that it could not provide the Swiss bank with more financial assistance.
+Since 10th March, the global banking industry has been facing scrutiny following the failure of U.S banks Silicon Valley Bank and Signature Bank, deemed as the biggest U.S. banking failures since the 2008 financial crisis. 
 The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
 
 © 2023, Nasdaq, Inc. All Rights Reserved.

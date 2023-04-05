@@ -1,31 +1,63 @@
-March 17, 2023 — 02:07 pm EDT
+March 20, 2023 — 10:55 am EDT
 
       Written by
-                        John Reese for                             
+                        BNK Invest for                             
         
 
 
 
 
-Validea ->
+BNK Invest ->
 
 
-Below is Validea's guru fundamental report for PROLOGIS INC (PLD). Of the 22 guru strategies we follow,  PLD rates highest using our Multi-Factor Investor model based on the published strategy of Pim van Vliet. This multi-factor model seeks low volatility stocks that also have strong momentum and high net payout yields.
-PROLOGIS INC (PLD) is a large-cap growth stock in the Real Estate Operations industry. The rating using this strategy is 50% based on the firm’s underlying fundamentals and the stock’s valuation. A score of 80% or above typically indicates that the strategy has some interest in the stock and a score above 90% typically indicates strong interest.
-The following table summarizes whether the stock meets each of this strategy's tests. Not all criteria in the below table receive equal weighting or are independent, but the table provides a brief overview of the strong and weak points of the security in the context of the strategy's criteria.
+Investors in SeaWorld Entertainment Inc. (Symbol: SEAS) saw new options become available this week, for the May 19th expiration.   At Stock Options Channel, our YieldBoost formula has looked up and down the SEAS options chain for the new May 19th contracts and identified one put and one call contract of particular interest.
+The put contract at the $55.00 strike price has a current bid of $1.80.  If an investor was to sell-to-open that put contract, they are committing to purchase the stock at $55.00, but will also collect the premium, putting the cost basis of the shares at $53.20 (before broker commissions).  To an investor already interested in purchasing shares of SEAS, that could represent an attractive alternative to paying $59.26/share today.
 
-Detailed Analysis of PROLOGIS INC
-PLD Guru Analysis
-PLD Fundamental Analysis
-More Information on Pim van Vliet
-Pim van Vliet Portfolio
-About Pim van Vliet: In investing, you typically need to take more risk to get more return. There is one major exception to this in the factor investing world, though. Low volatility stocks have been proven to outperform their high volatility counterparts, and do so with less risk. Pim van Vliet is the head of Conservative Equities at Robeco Asset Management. His research into conservative factor investing led to the creation of this strategy and the publication of the book "High Returns From Low Risk: A Remarkable Stock Market Paradox". Van Vliet holds a PhD in Financial and Business Economics from Erasmus University Rotterdam.
-Additional Research Links
-Factor-Based Stock Portfolios
-Factor-Based ETF Portfolios
-Harry Browne Permanent Portfolio
-Ray Dalio All Weather Portfolio
-About Validea: Validea is aninvestment researchservice that follows the published strategies of investment legends. Validea offers both stock analysis and model portfolios based on gurus who have outperformed the market over the long-term, including Warren Buffett, Benjamin Graham, Peter Lynch and Martin Zweig. For more information about Validea, click here
+
+Because the $55.00 strike represents an approximate 7% discount to the current trading price of the stock (in other words it is out-of-the-money by that percentage), there is also the possibility that the put contract would expire worthless.  The current analytical data (including greeks and implied greeks) suggest the current odds of that happening are 68%.  Stock Options Channel will track those odds over time to see how they change, publishing a chart of those numbers on our website under the contract detail page for this contract.  Should the contract expire worthless, the premium would represent a 3.27% return on the cash commitment, or 19.91% annualized — at Stock Options Channel we call this the YieldBoost.
+
+
+
+Below is a chart showing the trailing twelve month trading history for SeaWorld Entertainment Inc., and highlighting in green where the $55.00 strike is located relative to that history:
+
+
+
+
+
+
+
+
+
+
+
+
+Turning to the calls side of the option chain, the call contract at the $60.00 strike price has a current bid of $4.00.  If an investor was to purchase shares of SEAS stock at the current price level of $59.26/share, and then sell-to-open that call contract as a "covered call," they are committing to sell the stock at $60.00.  Considering the call seller will also collect the premium, that would drive a total return (excluding dividends, if any) of 8.00% if the stock gets called away at the May 19th expiration (before broker commissions).  Of course, a lot of upside could potentially be left on the table if SEAS shares really soar, which is why looking at the trailing twelve month trading history for SeaWorld Entertainment Inc., as well as studying the business fundamentals becomes important.   Below is a chart showing SEAS's trailing twelve month trading history, with the $60.00 strike highlighted in red:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Considering the fact that the $60.00 strike represents an approximate 1% premium to the current trading price of the stock (in other words it is out-of-the-money by that percentage), there is also the possibility that the covered call contract would expire worthless, in which case the investor would keep both their shares of stock and the premium collected.  The current analytical data (including greeks and implied greeks) suggest the current odds of that happening are 48%.  On our website under the contract detail page for this contract, Stock Options Channel will track those odds over time to see how they change and publish a chart of those numbers (the trading history of the option contract will also be charted).   Should the covered call contract expire worthless, the premium would represent a 6.75% boost of extra return to the investor, or 41.06% annualized, which we refer to as the YieldBoost.
+
+
+
+The implied volatility in the put contract example is 49%, while the implied volatility in the call contract example is 53%.
+Meanwhile, we calculate the actual trailing twelve month volatility (considering the last 250 trading day closing values as well as today's price of $59.26) to be 49%.  For more put and call options contract ideas worth looking at, visit StockOptionsChannel.com.
+
+Top YieldBoost Calls of Stocks Conducting Buybacks »
+
+
+
 The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
 
 © 2023, Nasdaq, Inc. All Rights Reserved.

@@ -1,39 +1,31 @@
-March 17, 2023 — 03:59 pm EDT
+March 19, 2023 — 03:20 pm EDT
 
       Written by
-                        BNK Invest for                             
+                        John Reese for                             
         
 
 
 
 
-BNK Invest ->
+Validea ->
 
 
-In trading on Friday, shares of MSA Safety Inc (Symbol: MSA) crossed below their 200 day moving average of $128.57, changing hands as low as $128.18 per share.  MSA Safety Inc shares are currently trading off about 3.5% on the day.  The chart below shows the one year performance of MSA shares, versus its 200 day moving average:
+Below is Validea's guru fundamental report for VISTEON CORP (VC). Of the 22 guru strategies we follow,  VC rates highest using our Quantitative Momentum Investor model based on the published strategy of Wesley Gray. This momentum model looks for stocks with strong and consistent intermediate-term relative performance.
+VISTEON CORP (VC) is a mid-cap growth stock in the Auto & Truck Parts industry. The rating using this strategy is 88% based on the firm’s underlying fundamentals and the stock’s valuation. A score of 80% or above typically indicates that the strategy has some interest in the stock and a score above 90% typically indicates strong interest.
+The following table summarizes whether the stock meets each of this strategy's tests. Not all criteria in the below table receive equal weighting or are independent, but the table provides a brief overview of the strong and weak points of the security in the context of the strategy's criteria.
 
-
-
-
-
-
-
-
-
-
-
-
-Looking at the chart above, MSA's low point in its 52 week range is $108.75 per share, with $146.33 as the 52 week high point — that compares with a last trade of $128.62.
-
-
-
-
-
-
-Click here to find out which 9 other dividend stocks recently crossed below their 200 day moving average »
-
-
-
+Detailed Analysis of VISTEON CORP
+VC Guru Analysis
+VC Fundamental Analysis
+More Information on Wesley Gray
+Wesley Gray Portfolio
+About Wesley Gray: Wesley Gray is the founder of Alpha Architect and the author (along with co-author Jack Vogel) of "Quantitative Momentum A Practitioner's Guide to Building a Momentum-Based Stock Selection System". He is also the author (along with co-author Tobias Carlisle) of "Quantitative Value: A Practitioner's Guide to Automating Intelligent Investment and Eliminating Behavioral Errors". He is an industry recognized expert in the application of quantitative investing strategies. Wes is also a former Marine and has his Phd from the Univerisity of Chicago, where he studied under Nobel Prize winner Eugene Fama.
+Additional Research Links
+Factor-Based Stock Portfolios
+Factor-Based ETF Portfolios
+Harry Browne Permanent Portfolio
+Ray Dalio All Weather Portfolio
+About Validea: Validea is aninvestment researchservice that follows the published strategies of investment legends. Validea offers both stock analysis and model portfolios based on gurus who have outperformed the market over the long-term, including Warren Buffett, Benjamin Graham, Peter Lynch and Martin Zweig. For more information about Validea, click here
 The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
 
 © 2023, Nasdaq, Inc. All Rights Reserved.

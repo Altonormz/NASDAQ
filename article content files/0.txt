@@ -1,47 +1,22 @@
-March 17, 2023 — 10:20 pm EDT
+March 20, 2023 — 02:25 am EDT
 
       Written by
-                        Dan Caplinger for                             
+                        RTTNews.com for                             
         
 
 
 
 
-The Motley Fool ->
+RTTNews ->
 
 
-Stock-market investors remained unconvinced that the recent crisis in the regional banking industry has come to an end, and Friday's market action showed the extent of their nervousness. Many bank stocks fell anew on fears that action taken by the nation's biggest banks wouldn't address the core challenges facing the industry.
-That sent the Dow Jones Industrial Average (DJINDICES: ^DJI) and S&P 500 (SNPINDEX: ^GSPC) down more than 1%, although the Nasdaq Composite (NASDAQINDEX: ^IXIC) held up a bit better.
-Index
-Percentage Change
-Point Change
-Dow Jones Industrials
-(1.19%)
-(385)
-S&P 500
-(1.10%)
-(44)
-Nasdaq Composite
-(0.74%)
-(87)
-Data source: Yahoo! Finance.
-With generally downbeat sentiment among investors, it was nice to see some stocks manage to post gains. XPeng (NYSE: XPEV) rose after the Chinese electric-vehicle (EV) specialist released its latest financial report. Newmont (NYSE: NEM) also enjoyed gains as the gold miner saw favorable market conditions in the precious metals sector. Below, you'll learn more about what's affecting these two companies.
-Shares of XPeng finished the day up 6%, but the EV stock had a volatile ride. The stock had been up as much as 14% earlier Friday as investors digested the company's fourth-quarter financial report.
-XPeng struggled amid a tough environment in China for EV sellers. Quarterly revenue fell 40% year over year, with vehicle deliveries falling by 47% to just over 22,200. Margin performance was weaker, and that led to significantly wider losses for the automaker than XPeng saw in the fourth quarter of 2021.
-Things haven't seemed to get much better to start 2023, as deliveries in January and February added up to just 11,228. XPeng projected that it will finish the first quarter with deliveries between 18,000 and 19,000, down 45% to 48% from the first quarter of 2022. Revenue will likely be down 44% to 46% year over year as well.
-Given all that, it was a bit surprising to see XPeng stock rise. Yet investors seemed to like the idea that the company would shift its focus away from its vehicles themselves, to focus more on the technologies that drive them. Combining that factor with cost-cutting measures and attempts to boost efficiency, XPeng seemed to capture what shareholders wanted to see in an admittedly tough market for Chinese EV manufacturers.
-Image source: Getty Images.
-Elsewhere, shares of Newmont rose 5%. It was a generally good day for stocks of gold miners; the precious metal has gotten more favorable attention lately, as it's a traditional safe haven in times of financial distress.
-Gold prices soared more than $70 per ounce on Friday, or almost 4%, on worries about the global banking system. That brought the price of the yellow metal to $1,994 per ounce, stopping just short of the psychologically critical (though fundamentally unmeaningful) $2,000 level. Some market commentators noted that with future action by the Federal Reserve now uncertain, the possibility that interest rates might fall sooner than expected makes gold look more attractive.
-Investors can own physical gold directly, but owning shares of Newmont has some advantages. The stock has exposure to gold prices, but it also makes dividend payments based on industry conditions. With a current yield of 3.6%, Newmont looks attractive as an income-producing investment as well as a play on precious metals. In addition, Newmont has made efforts to grow its business, with a $17 billion buyout bid for Australian peer Newcrest being just its latest strategic move.
-If gold keeps doing well, then Newmont is likely to participate in its gains. And with the stock notably lower from where it was this time in 2022, that strength could send Newmont's share price considerably higher.
-10 stocks we like better than XPengWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
-They just revealed what they believe are the ten best stocks for investors to buy right now... and XPeng wasn't one of them! That's right -- they think these 10 stocks are even better buys.
-See the 10 stocks
- 
-*Stock Advisor returns as of March 8, 2023
- 
-Dan Caplinger has no position in any of the stocks mentioned. The Motley Fool has no position in any of the stocks mentioned. The Motley Fool has a disclosure policy.
+(RTTNews) - Roche (RHHBY) said that new four year data for its Evrysdi reinforced long-term efficacy and safety profile in some of the most severely affected people with types 2 and 3 spinal muscular atrophy.
+Data from pivotal SUNFISH study showed increases in motor function observed during the first year were maintained through the fourth year, while the overall rate of adverse events continued to decrease over the 48 month period.
+Participants also reported continuous improvement or stabilization when independently performing activities of daily living such as eating, drinking and picking up and moving objects.
+More than 8,500 people—from newborns to the over 60s—have been treated with Evrysdi , which is now approved in more than 90 countries worldwide.
+In addition, Genentech said it leads its clinical development as part of a collaboration with the SMA Foundation and PTC Therapeutics. Genentech is currently investigating Evrysdi in combination with an anti-myostatin molecule targeting muscle growth in the Phase II/III trial MANATEE for the treatment of SMA.
+Evrysdi is a survival motor neuron 2 (SMN2) splicing modifier designed to treat SMA caused by mutations in chromosome 5q that lead to survival motor neuron (SMN) protein deficiency. Evrysdi is administered daily at home in liquid form by mouth or by feeding tube.
+For More Such Health News, visit rttnews.com 
 The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
 
 © 2023, Nasdaq, Inc. All Rights Reserved.

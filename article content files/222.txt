@@ -1,63 +1,36 @@
-March 17, 2023 — 11:35 am EDT
+March 20, 2023 — 09:10 am EDT
 
       Written by
-                        BNK Invest for                             
+                        Kody Kester for                             
         
 
 
 
 
-BNK Invest ->
+The Motley Fool ->
 
 
-Investors in Star Bulk Carriers Corp (Symbol: SBLK) saw new options begin trading this week, for the November 17th expiration.  One of the key data points that goes into the price an option buyer is willing to pay, is the time value, so with 245 days until expiration the newly trading contracts represent a potential opportunity for sellers of puts or calls to achieve a higher premium than would be available for the contracts with a closer expiration.   At Stock Options Channel, our YieldBoost formula has looked up and down the SBLK options chain for the new November 17th contracts and identified one put and one call contract of particular interest.
-The put contract at the $14.00 strike price has a current bid of 75 cents.  If an investor was to sell-to-open that put contract, they are committing to purchase the stock at $14.00, but will also collect the premium, putting the cost basis of the shares at $13.25 (before broker commissions).  To an investor already interested in purchasing shares of SBLK, that could represent an attractive alternative to paying $20.72/share today.
-
-
-Because the $14.00 strike represents an approximate 32% discount to the current trading price of the stock (in other words it is out-of-the-money by that percentage), there is also the possibility that the put contract would expire worthless.  The current analytical data (including greeks and implied greeks) suggest the current odds of that happening are 85%.  Stock Options Channel will track those odds over time to see how they change, publishing a chart of those numbers on our website under the contract detail page for this contract.  Should the contract expire worthless, the premium would represent a 5.36% return on the cash commitment, or 7.98% annualized — at Stock Options Channel we call this the YieldBoost.
-
-
-
-Below is a chart showing the trailing twelve month trading history for Star Bulk Carriers Corp, and highlighting in green where the $14.00 strike is located relative to that history:
-
-
-
-
-
-
-
-
-
-
-
-
-Turning to the calls side of the option chain, the call contract at the $21.00 strike price has a current bid of 90 cents.  If an investor was to purchase shares of SBLK stock at the current price level of $20.72/share, and then sell-to-open that call contract as a "covered call," they are committing to sell the stock at $21.00.  Considering the call seller will also collect the premium, that would drive a total return (excluding dividends, if any) of 5.69% if the stock gets called away at the November 17th expiration (before broker commissions).  Of course, a lot of upside could potentially be left on the table if SBLK shares really soar, which is why looking at the trailing twelve month trading history for Star Bulk Carriers Corp, as well as studying the business fundamentals becomes important.   Below is a chart showing SBLK's trailing twelve month trading history, with the $21.00 strike highlighted in red:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Considering the fact that the $21.00 strike represents an approximate 1% premium to the current trading price of the stock (in other words it is out-of-the-money by that percentage), there is also the possibility that the covered call contract would expire worthless, in which case the investor would keep both their shares of stock and the premium collected.  The current analytical data (including greeks and implied greeks) suggest the current odds of that happening are 47%.  On our website under the contract detail page for this contract, Stock Options Channel will track those odds over time to see how they change and publish a chart of those numbers (the trading history of the option contract will also be charted).   Should the covered call contract expire worthless, the premium would represent a 4.34% boost of extra return to the investor, or 6.47% annualized, which we refer to as the YieldBoost.
-
-
-
-The implied volatility in the put contract example is 67%, while the implied volatility in the call contract example is 62%.
-Meanwhile, we calculate the actual trailing twelve month volatility (considering the last 251 trading day closing values as well as today's price of $20.72) to be 57%.  For more put and call options contract ideas worth looking at, visit StockOptionsChannel.com.
-
-Top YieldBoost Calls of the S&P 500 »
-
-
-
+The goal of every dividend growth investor is to build a stream of passive income that can rise through just about any economic environment. This can be accomplished by picking businesses that sell goods and/or services that are in high demand, with well-covered dividends and a proven track record of dividend growth.
+Here are three companies that have been reliably growing their dividends for decades that dividend growth investors should consider for their portfolios.
+Image source: Getty Images.
+With over 40,000 restaurants in 100-plus countries, McDonald's (NYSE: MCD) is the most dominant fast-food chain in the world. McDonald's essentially has three levers that it has pulled over the decades to achieve its success that should continue to help it grow in the future.
+First, the company's name alone is synonymous with the fast food industry because of its incredible brand recognition. Second, this has allowed McDonald's to leverage its unprecedented brand power to draw in franchisees to put up their own capital. The company's dominance in the industry and established blueprint for its restaurants inspires confidence in prospective franchisees, which explains how 95% of its restaurants are franchisee owned and operated. That allows McDonald's to put up little to no capital of their own to open additional stores, while they also reap the financial benefits of selling the rights to their brand to franchisees.
+Finally, the company's dollar menu makes it a cheap and convenient option difficult for consumers to pass up, regardless of the economic environment. These factors are why analysts believe McDonald's non-GAAP, or generally accepted accounting principles, (adjusted) diluted earnings per share (EPS) will grow by 7.3% annually over the next five years. 
+The stock's 2.3% dividend yield is relatively attractive compared to the S&P 500 index's 1.7% yield. And with the dividend payout ratio coming in at just 56% in 2022, McDonald's should keep building on its nearly half-century dividend growth streak. Best of all, the stock's forward price-to-earnings (P/E) ratio of 23.1 is basically in line with the restaurant industry average forward P/E ratio of 22.9. 
+Water is the most important ingredient in the world to supporting life. By extension, this makes A.O. Smith (NYSE: AOS) a business that is essential to its customers. The company is a leading manufacturer of residential and commercial water heaters and boilers. These products allow individuals to shower, wash dishes, and do laundry, and businesses to complete critical business functions. 
+As more of the world becomes economically developed, demand for water heaters and boilers has almost nowhere to go but up. And thanks to A.O. Smith's status as an industry leader, analysts expect its earnings to compound 8% annually through the next five years. 
+The company's 1.8% dividend yield provides above-average income to its shareholders. And given that the dividend payout ratio was only a bit higher than 36% last year, the payout is quite safe. Investors can scoop up shares of the stock at a forward P/E ratio of 18.8, which is close to the specialty industrial machinery industry average forward P/E ratio of 18.2. 
+Just as an abundance of water is paramount to the industrialized world, so is electricity. NextEra Energy's (NYSE: NEE) base of 12 million electric customers in Florida alone makes it the largest electric utility in the country. 
+As economic activity increases and the population of its service areas grows, the demand for the company's electricity will also go up. That's why analysts believe that NextEra Energy's earnings will expand by 10.2% annually over the next five years.
+Robust earnings growth prospects and a dividend payout ratio of just 58.6% in 2022 should lead to double-digit annual payout growth moving forward. Paired with a 2.5% dividend yield, the company offers solid starting income with healthy growth potential. 
+Considering NextEra Energy's impressive growth profile, the stock's forward P/E ratio of 22.7 isn't unreasonable. This is why analysts have an average 12-month price target of $94, which is 25% upside from the current $75 share price. 
+10 stocks we like better than McDonald'sWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+They just revealed what they believe are the ten best stocks for investors to buy right now... and McDonald's wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+See the 10 stocks
+ 
+*Stock Advisor returns as of March 8, 2023
+ 
+Kody Kester has positions in A. O. Smith, McDonald's, and NextEra Energy. The Motley Fool has positions in and recommends NextEra Energy. The Motley Fool recommends A. O. Smith. The Motley Fool has a disclosure policy.
 The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
 
 © 2023, Nasdaq, Inc. All Rights Reserved.

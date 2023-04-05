@@ -1,39 +1,29 @@
-March 17, 2023 — 05:43 pm EDT
+March 19, 2023 — 10:19 pm EDT
 
       Written by
-                        Anders Bylund for                             
+                        RTTNews.com for                             
         
 
 
 
 
-The Motley Fool ->
+RTTNews ->
 
 
-Most cryptocurrencies have been soaring in 2023. As of Friday morning, Bitcoin had gained 60.5% year to date and Ethereum was up by 45.3% over the same period. Solana is recovering nicely from its association with the FTX meltdown last November, posting a 105.7% gain so far in 2023.
-But XRP (CRYPTO: XRP) didn't get the memo. The cross-border payments specialist has only gained 10.8% this year, missing out on the sectorwide bonanza. XRP's stagnant valuation works out to a 23.7% underperformance compared to Ethereum, a 29.6% dip relative to Bitcoin, and a 46.8% slump versus Solana. 
-Sure, XRP's token price has gone up as measured in U.S. dollars, even outpacing a 2.7% year-to-date gain for the S&P 500 stock market index. But it's a significant dip in relation to its crypto-market peers. One Bitcoin was worth 48,068 XRP tokens when the New Year's fireworks lit the sky. Today, the same Bitcoin token will get you 68,310 XRP coins.
-So let's say you want to invest in some crypto as the sector seems to be thawing out of the latest crypto winter. Should you buy XRP on this relative dip, or are you better off with the tried-and-true Bitcoin and Ethereum tokens? Maybe even a somewhat speculative bet on a full-throated Solana comeback?
-First and foremost, we need to address the elephant in the room: the ongoing Securities and Exchange Commission (SEC) lawsuit against Ripple Labs, the company that created XRP. This legal battle has been dragging on since December 2020, and it's undoubtedly holding back XRP's valuation. Until the lawsuit is resolved, one way or another, XRP's price may remain stagnant or even decline further.
-American crypto exchanges such as Robinhood Markets and Coinbase Global won't even let you buy, sell, send, or receive any XRP tokens until the legal conundrum is resolved. And for good reason, of course -- if the SEC prevails, doing business with XRP tokens could open the exchanges up for lawsuits and other penalties of their own.
-However, there are reasons to believe that even an unfavorable outcome in the lawsuit won't be the end of the road for XRP. As I've said many times before, the crypto market is hungry for a sensible regulatory framework. In fact, even a draconian and borderline punitive rulebook would be better than the lack of clarity investors have today. So while a negative outcome for Ripple may set a tough precedent, it would also provide a much-needed push forward on proper regulation of digital assets.
-But let's put the lawsuit aside for a moment and focus on Ripple's fundamentals. The company has been making significant strides in expanding its global payment network, with partnerships across various industries and regions. Ripple plays a central part in the development of central bank digital currencies, working closely with governments in places like Eastern Europe and Southeast Asia.
-Another factor to consider is XRP's unique use case. Bitcoin primarily serves as a store of value while Ethereum powers decentralized apps with smart contracts. XRP is different. Instead, it serves as a bridge currency in cross-border payments. This means that XRP's success is tied to the adoption of Ripple's technology in the global financial system.
-And on that note, XRP is making its way on the market despite the SEC lawsuit's chilling effects. XRP is the sixth-largest crypto on the market today in terms of total market value. It's also in active use with a global transaction volume of $915 million in the past 24 hours. Only Bitcoin, Ethereum, Binance Coin, and the three most popular stablecoins can beat that figure.
-So, should you buy the XRP dip? In my opinion, it's a great idea.
-Despite XRP's lackluster performance compared to other cryptocurrencies in 2023, the company's unique use case and global expansion make it a promising investment opportunity. Although the ongoing SEC lawsuit against XRP is a significant concern, it should be viewed as a mere speed bump rather than a game changer. Even a negative outcome in the lawsuit won't drop the final curtain on XRP. Remember, any outcome at all should support the development of much-needed regulation in the crypto market.
-And the legal pain has been priced into XRP's chart since the SEC filed its lawsuit. The token has lost 36% of its value during the courtroom struggle. At the same time, Bitcoin and the S&P 500 have moved largely sideways. A $10,000 investment in Ethereum has grown to $25,500 today and Solana's tenfold increase would make this chart quite unreadable:
-
-XRP Price data by YCharts
-With XRP's active use and sixth largest market value in the crypto space, investing in XRP during this relative dip could prove to be a wise decision. This crypto has some catching up to do.
-Fortune favors the bold, and investing in XRP could be a bold move that pays off in the long run. And if the end of the lawsuit brings another price drop, I'll take another look and perhaps double down on this promising idea at an even better starting price.
-10 stocks we like better than XRPWhen our award-winning analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
-They just revealed what they believe are the ten best stocks for investors to buy right now... and XRP wasn't one of them! That's right -- they think these 10 stocks are even better buys.
-See the 10 stocks
+(RTTNews) - The Japanese stock market is significantly lower on Monday, giving up some of the gains in the previous session, with the Nikkei 225 falling below the 27,200 level, following the broadly negative cues from global markets on Friday, as traders continued to assess the impact of the crisis in the global banking sector.
  
-*Stock Advisor returns as of March 8, 2023
- 
-Anders Bylund has positions in Binance Coin, Bitcoin, Coinbase Global, Ethereum, Solana, and XRP. The Motley Fool has positions in and recommends Bitcoin, Coinbase Global, Ethereum, and Solana. The Motley Fool has a disclosure policy.
+The benchmark Nikkei 225 Index is down 190.63 or 0.70 percent at 27,143.16, after hitting a low of 27,105.71 earlier. Japanese shares ended significantly higher on Friday.
+Market heavyweight SoftBank Group is gaining almost 1 percent, while Uniqlo operator Fast Retailing is losing 1.5 percent. Among automakers, Honda is losing almost 1 percent and Toyota is also down almost 1 percent.
+In the tech space, Screen Holdings and Advantest are edging down 0.2 to 0.3 percent, while Tokyo Electron is down almost 1 percent.
+In the banking sector, Sumitomo Mitsui Financial and Mitsubishi UFJ Financial are gaining almost 1 percent each, while Mizuho Financial is edging down 0.5 percent.
+The major exporters are lower. Canon and Panasonic are losing almost 1 percent each, while Sony is edging up 0.3 percent. Mitsubishi Electric is flat.
+Among the other major losers, Sapporo Holdings is losing almost 4 percent, while Daiichi Sankyo, Isetan Mitsukoshi and Nippon Yusen K.K. are declining almost 3 percent each.
+Conversely, there are no other major gainers.
+In the currency market, the U.S. dollar is trading in the lower 132 yen-range on Monday.
+On Wall Street, stocks pulled back sharply during trading on Friday after moving sharply higher over the course of Thursday's session. The major averages all showed notable moves to the downside on the day, with the Nasdaq snapping a four-day winning streak.
+The major averages finished the session off their worst levels but still firmly negative. The Dow tumbled 384.57 points or 1.2 percent to 31,861.98, the Nasdaq slid 86.76 points or 0.7 percent to 11,630.51 and the S&P 500 slumped 43.64 points or 1.1 percent to 3,916.64.
+The major European markets also showed notable moves to the downside on the day. While the U.K.'s FTSE 100 Index slumped 1.0 percent, the German DAX Index and the French CAC 40 Index tumbled by 1.3 percent and 1.4 percent, respectively.
+Crude oil prices sank Friday as rising concerns about the health of the banking sector continued to fuel worries about economic growth and the outlook for energy demand. West Texas Intermediate Crude oil futures for April dropped $1.61 or 2.4 percent at $66.74 a barrel. WTI crude futures tumbled 13 percent in the week. 
 The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
 
 © 2023, Nasdaq, Inc. All Rights Reserved.

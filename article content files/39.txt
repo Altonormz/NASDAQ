@@ -1,42 +1,31 @@
-March 17, 2023 — 04:03 pm EDT
+March 19, 2023 — 03:20 pm EDT
 
       Written by
-                        BNK Invest for                             
+                        John Reese for                             
         
 
 
 
 
-BNK Invest ->
+Validea ->
 
 
-Legendary investor Warren Buffett advises to be fearful when others are greedy, and be greedy when others are fearful.  One way we can try to measure the level of fear in a given stock is through a technical analysis indicator called the Relative Strength Index, or RSI, which measures momentum on a scale of zero to 100.  A stock is considered to be oversold if the RSI reading falls below 30.
+Below is Validea's guru fundamental report for FULL TRUCK ALLIANCE CO LTD - ADR (YMM). Of the 22 guru strategies we follow,  YMM rates highest using our Small-Cap Growth Investor model based on the published strategy of Motley Fool. This strategy looks for small cap growth stocks with solid fundamentals and strong price performance.
+FULL TRUCK ALLIANCE CO LTD - ADR (YMM) is a mid-cap growth stock in the Software & Programming industry. The rating using this strategy is 48% based on the firm’s underlying fundamentals and the stock’s valuation. A score of 80% or above typically indicates that the strategy has some interest in the stock and a score above 90% typically indicates strong interest.
+The following table summarizes whether the stock meets each of this strategy's tests. Not all criteria in the below table receive equal weighting or are independent, but the table provides a brief overview of the strong and weak points of the security in the context of the strategy's criteria.
 
-
-In trading on Friday, shares of Minerals Technologies, Inc. (Symbol: MTX) entered into oversold territory, hitting an RSI reading of 29.9, after changing hands as low as $55.74 per share.  By comparison, the current RSI reading of the S&P 500 ETF (SPY) is 42.8.  A bullish investor could look at MTX's 29.9 RSI reading today as a sign that the recent heavy selling is in the process of exhausting itself, and begin to look for entry point opportunities on the buy side.    The chart below shows the one year performance of MTX shares:
-   
-
-
-
-
-
-
-
-
-
-
-
-Looking at the chart above, MTX's low point in its 52 week range is $49.38 per share, with $73.57 as the 52 week high point — that compares with a last trade of $56.02.  
-
-
-
-
-
-
-Find out what 9 other oversold stocks you need to know about »
-
-
-
+Detailed Analysis of FULL TRUCK ALLIANCE CO LTD - ADR
+YMM Guru Analysis
+YMM Fundamental Analysis
+More Information on Motley Fool
+Motley Fool Portfolio
+About Motley Fool: Brothers David and Tom Gardner often wear funny hats in public appearances, but they're hardly fools -- at least not the kind whose advice you should readily dismiss. The Gardners are the founders of the popular Motley Fool web site, which offers frank and often irreverent commentary on investing, the stock market, and personal finance. The Gardners' "Fool" really is a multi-media endeavor, offering not only its web content but also several books written by the brothers, a weekly syndicated newspaper column, and subscription newsletter services.
+Additional Research Links
+Factor-Based Stock Portfolios
+Factor-Based ETF Portfolios
+Harry Browne Permanent Portfolio
+Ray Dalio All Weather Portfolio
+About Validea: Validea is aninvestment researchservice that follows the published strategies of investment legends. Validea offers both stock analysis and model portfolios based on gurus who have outperformed the market over the long-term, including Warren Buffett, Benjamin Graham, Peter Lynch and Martin Zweig. For more information about Validea, click here
 The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
 
 © 2023, Nasdaq, Inc. All Rights Reserved.

@@ -1,49 +1,31 @@
-March 17, 2023 — 11:35 am EDT
+March 20, 2023 — 09:05 am EDT
 
       Written by
-                        BNK Invest for                             
+                        John Reese for                             
         
 
 
 
 
-BNK Invest ->
+Validea ->
 
 
-The DividendRank formula at Dividend Channel ranks a coverage universe of thousands of dividend stocks, according to a proprietary formula designed to identify those stocks that combine two important characteristics — strong fundamentals and a valuation that looks inexpensive.  Olin Corp. (Symbol: OLN) presently has an above average rank, in the top 50% of the coverage universe, which suggests it is among the top most "interesting" ideas that merit further research by investors.
+Below is Validea's guru fundamental report for ELI LILLY AND CO (LLY). Of the 22 guru strategies we follow,  LLY rates highest using our Twin Momentum Investor model based on the published strategy of Dashan Huang. This momentum model looks for a combination of fundamental momentum and price momentum.
+ELI LILLY AND CO (LLY) is a large-cap growth stock in the Biotechnology & Drugs industry. The rating using this strategy is 94% based on the firm’s underlying fundamentals and the stock’s valuation. A score of 80% or above typically indicates that the strategy has some interest in the stock and a score above 90% typically indicates strong interest.
+The following table summarizes whether the stock meets each of this strategy's tests. Not all criteria in the below table receive equal weighting or are independent, but the table provides a brief overview of the strong and weak points of the security in the context of the strategy's criteria.
 
-
-
-But making Olin Corp. an even more interesting and timely stock to look at, is the fact that in trading on Friday, shares of OLN entered into oversold territory, changing hands as low as $50.63 per share.  We define oversold territory using the Relative Strength Index, or RSI, which is a technical analysis indicator used to measure momentum on a scale of zero to 100.  A stock is considered to be oversold if the RSI reading falls below 30.  
-
-In the case of Olin Corp., the RSI reading has hit 28.7 — by comparison, the universe of dividend stocks covered by Dividend Channel currently has an average RSI of 34.7.  A falling stock price — all else being equal — creates a better opportunity for dividend investors to capture a higher yield.  Indeed, OLN's recent annualized dividend of 0.8/share (currently paid in quarterly installments) works out to an annual yield of 1.54% based upon the recent $52.00 share price.
-
-
-
-A bullish investor could look at OLN's 28.7 RSI reading today as a sign that the recent heavy selling is in the process of exhausting itself, and begin to look for entry point opportunities on the buy side.  Among the fundamental datapoints dividend investors should investigate to decide if they are bullish on OLN is its dividend history.  
-
-In general, dividends are not always predictable; but, looking at the history chart below can help in judging whether the most recent dividend is likely to continue.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Click here to find out what 9 other oversold dividend stocks you need to know about »
-
-
-
+Detailed Analysis of ELI LILLY AND CO
+LLY Guru Analysis
+LLY Fundamental Analysis
+More Information on Dashan Huang
+Dashan Huang Portfolio
+About Dashan Huang: Dashan Huang is an Assistant Professor of Finance at the Lee Kong Chian School of Business at Singapore Management University. His paper "Twin Momentum" looked at combining traditional price momentum with improving fundamentals to generate market outperformance. In the paper, he identified seven fundamental variables (earnings, return on equity, return on assets, accrual operating profitability to equity, cash operating profitability to assets, gross profit to assets and net payout ratio) that he combined into a single fundamental momentum measure. He showed that stocks in the top 20% of the universe according to that measure outperformed the market going forward. When he combined that measure with price momentum, he was able to double its outperformance. 
+Additional Research Links
+Factor-Based Stock Portfolios
+Factor-Based ETF Portfolios
+Harry Browne Permanent Portfolio
+Ray Dalio All Weather Portfolio
+About Validea: Validea is aninvestment researchservice that follows the published strategies of investment legends. Validea offers both stock analysis and model portfolios based on gurus who have outperformed the market over the long-term, including Warren Buffett, Benjamin Graham, Peter Lynch and Martin Zweig. For more information about Validea, click here
 The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
 
 © 2023, Nasdaq, Inc. All Rights Reserved.

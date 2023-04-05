@@ -1,42 +1,31 @@
-March 17, 2023 — 04:08 pm EDT
+March 19, 2023 — 03:20 pm EDT
 
       Written by
-                        BNK Invest for                             
+                        John Reese for                             
         
 
 
 
 
-BNK Invest ->
+Validea ->
 
 
-Legendary investor Warren Buffett advises to be fearful when others are greedy, and be greedy when others are fearful.  One way we can try to measure the level of fear in a given stock is through a technical analysis indicator called the Relative Strength Index, or RSI, which measures momentum on a scale of zero to 100.  A stock is considered to be oversold if the RSI reading falls below 30.
+Below is Validea's guru fundamental report for ONE GAS INC (OGS). Of the 22 guru strategies we follow,  OGS rates highest using our Shareholder Yield Investor model based on the published strategy of Meb Faber. This strategy looks for companies returning cash to shareholders via dividends, buybacks and debt paydown.
+ONE GAS INC (OGS) is a mid-cap growth stock in the Natural Gas Utilities industry. The rating using this strategy is 85% based on the firm’s underlying fundamentals and the stock’s valuation. A score of 80% or above typically indicates that the strategy has some interest in the stock and a score above 90% typically indicates strong interest.
+The following table summarizes whether the stock meets each of this strategy's tests. Not all criteria in the below table receive equal weighting or are independent, but the table provides a brief overview of the strong and weak points of the security in the context of the strategy's criteria.
 
-
-In trading on Friday, shares of NV5 Global Inc (Symbol: NVEE) entered into oversold territory, hitting an RSI reading of 28.0, after changing hands as low as $100.04 per share.  By comparison, the current RSI reading of the S&P 500 ETF (SPY) is 42.8.  A bullish investor could look at NVEE's 28.0 RSI reading today as a sign that the recent heavy selling is in the process of exhausting itself, and begin to look for entry point opportunities on the buy side.    The chart below shows the one year performance of NVEE shares:
-   
-
-
-
-
-
-
-
-
-
-
-
-Looking at the chart above, NVEE's low point in its 52 week range is $95.5101 per share, with $154.968 as the 52 week high point — that compares with a last trade of $100.44.  
-
-
-
-
-
-
-Find out what 9 other oversold stocks you need to know about »
-
-
-
+Detailed Analysis of ONE GAS INC
+OGS Guru Analysis
+OGS Fundamental Analysis
+More Information on Meb Faber
+Meb Faber Portfolio
+About Meb Faber: Meb Faber is the founder of Cambria Investments. His research has covered a wide spectrum of the investment world, including topics like shareholder yield, trend following, global asset allocation and home country bias. His shareholder yield strategy, which is based on his book "Shareholder Yield" and forms the basis for an ETF of the same name, looks for companies that are focused on creating value for shareholders by returning cash to them in the form of dividends, share buybacks and debt paydown. Meb is also the author of 4 other books and numerous white papers on investing related topics.
+Additional Research Links
+Factor-Based Stock Portfolios
+Factor-Based ETF Portfolios
+Harry Browne Permanent Portfolio
+Ray Dalio All Weather Portfolio
+About Validea: Validea is aninvestment researchservice that follows the published strategies of investment legends. Validea offers both stock analysis and model portfolios based on gurus who have outperformed the market over the long-term, including Warren Buffett, Benjamin Graham, Peter Lynch and Martin Zweig. For more information about Validea, click here
 The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
 
 © 2023, Nasdaq, Inc. All Rights Reserved.

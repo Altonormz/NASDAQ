@@ -1,49 +1,31 @@
-March 17, 2023 — 11:35 am EDT
+March 20, 2023 — 09:05 am EDT
 
       Written by
-                        BNK Invest for                             
+                        John Reese for                             
         
 
 
 
 
-BNK Invest ->
+Validea ->
 
 
-The DividendRank formula at Dividend Channel ranks a coverage universe of thousands of dividend stocks, according to a proprietary formula designed to identify those stocks that combine two important characteristics — strong fundamentals and a valuation that looks inexpensive.  AT&T Inc (Symbol: T) presently has an above average rank, in the top 50% of the coverage universe, which suggests it is among the top most "interesting" ideas that merit further research by investors.
+Below is Validea's guru fundamental report for JOHNSON & JOHNSON (JNJ). Of the 22 guru strategies we follow,  JNJ rates highest using our P/B Growth Investor model based on the published strategy of Partha Mohanram. This growth model looks for low book-to-market stocks that exhibit characteristics associated with sustained future growth.
+JOHNSON & JOHNSON (JNJ) is a large-cap growth stock in the Biotechnology & Drugs industry. The rating using this strategy is 88% based on the firm’s underlying fundamentals and the stock’s valuation. A score of 80% or above typically indicates that the strategy has some interest in the stock and a score above 90% typically indicates strong interest.
+The following table summarizes whether the stock meets each of this strategy's tests. Not all criteria in the below table receive equal weighting or are independent, but the table provides a brief overview of the strong and weak points of the security in the context of the strategy's criteria.
 
-
-
-But making AT&T Inc an even more interesting and timely stock to look at, is the fact that in trading on Friday, shares of T entered into oversold territory, changing hands as low as $18.12 per share.  We define oversold territory using the Relative Strength Index, or RSI, which is a technical analysis indicator used to measure momentum on a scale of zero to 100.  A stock is considered to be oversold if the RSI reading falls below 30.  
-
-In the case of AT&T Inc, the RSI reading has hit 27.9 — by comparison, the universe of dividend stocks covered by Dividend Channel currently has an average RSI of 34.7.  A falling stock price — all else being equal — creates a better opportunity for dividend investors to capture a higher yield.  Indeed, T's recent annualized dividend of 1.11/share (currently paid in quarterly installments) works out to an annual yield of 6.04% based upon the recent $18.39 share price.
-
-
-
-A bullish investor could look at T's 27.9 RSI reading today as a sign that the recent heavy selling is in the process of exhausting itself, and begin to look for entry point opportunities on the buy side.  Among the fundamental datapoints dividend investors should investigate to decide if they are bullish on T is its dividend history.  
-
-In general, dividends are not always predictable; but, looking at the history chart below can help in judging whether the most recent dividend is likely to continue.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Click here to find out what 9 other oversold dividend stocks you need to know about »
-
-
-
+Detailed Analysis of JOHNSON & JOHNSON
+JNJ Guru Analysis
+JNJ Fundamental Analysis
+More Information on Partha Mohanram
+Partha Mohanram Portfolio
+About Partha Mohanram: Sometimes the best investing strategies don't come from the world of investing. Sometimes research that changes the investing world can come from the halls of academia. Partha Mohanram is a great example of this. While academic research has shown that value investing works over time, it has found the opposite for growth investing. Mohanram turned that research on its head by developing a growth model that produced significant market outperformance. His research paper "Separating Winners from Losers among Low Book-to-Market Stocks using Financial Statement Analysis" looked at the criteria that can be used to separate growth stocks that continue their upward trajectory from those that don't. Mohanram is currently the John H. Watson Chair in Value Investing at the University of Toronto and was previously an Associate Professor at the Columbia Business School.
+Additional Research Links
+Factor-Based Stock Portfolios
+Factor-Based ETF Portfolios
+Harry Browne Permanent Portfolio
+Ray Dalio All Weather Portfolio
+About Validea: Validea is aninvestment researchservice that follows the published strategies of investment legends. Validea offers both stock analysis and model portfolios based on gurus who have outperformed the market over the long-term, including Warren Buffett, Benjamin Graham, Peter Lynch and Martin Zweig. For more information about Validea, click here
 The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
 
 © 2023, Nasdaq, Inc. All Rights Reserved.
