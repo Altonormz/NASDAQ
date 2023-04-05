@@ -125,12 +125,12 @@ def update_database(articles_list):  # Function assumes database was created in 
     Gets a list of article objects and updates the database with new information.
     """
     if articles_list:
-        database_path = "NASDAQ_database.sqlite"  # Add to conf file
+        database_path = config["SQL_DB_PATH"]  # Add to conf file
         connection = sqlite3.connect(database_path)
         for article in articles_list:
             article_data_dict = article.row_info()
 
-            author_name = article['author']
+            author_name = article_data_dict['author']
             author_id = add_author_to_database(author_name=author_name, connection=connection)
 
             title, article_content, url, published_date = article['title'], \
