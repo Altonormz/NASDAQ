@@ -113,10 +113,11 @@ def add_article_tags_to_database(article_id, tag_ids, connection):
 
 def get_all_urls(connection):
     """
-    get a list of urls currently in the DB
+    get a list of urls currently in the database
     """
     cursor = connection.cursor()
-    return list(cursor.execute("SELECT url FROM Articles"))
+    cursor.execute("SELECT url FROM Articles")
+    return list(cursor.fetchall())
 
 
 def update_database(articles_list):  # Function assumes database was created in the main program
