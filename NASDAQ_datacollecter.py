@@ -43,12 +43,17 @@ def add_author_to_database(author_name, connection):
     Returns the authors_id
     """
     cursor = connection.cursor()
-    cursor.execute("INSERT IGNORE INTO Authors (author_name) VALUES (%s)", (author_name,))
-    connection.commit()
-    cursor.execute("SELECT author_id FROM Authors WHERE author_name = %s ", (author_name,))
-    author_id = cursor.fetchone()['author_id']
-    connection.commit()
-    return author_id
+    cursor.execute("SELECT author_id FROM Authors WHERE author_name = %s", (author_name,))
+    result = cursor.fetchone()
+    if result:
+        return result['author_id']
+    else:
+        cursor.execute("INSERT INTO Authors (author_name) VALUES (%s)", (author_name,))
+        connection.commit()
+        cursor.execute("SELECT author_id FROM Authors WHERE author_name = %s ", (author_name,))
+        author_id = cursor.fetchone()['author_id']
+        connection.commit()
+        return author_id
 
 
 def add_article_to_database(author_id, title, article_content, url, published_date, connection):
@@ -57,15 +62,15 @@ def add_article_to_database(author_id, title, article_content, url, published_da
     Returns the article_id
     """
     cursor = connection.cursor()
+
     sql = """
-          INSERT IGNORE INTO Articles (author_id, title, article_content,url,
+          INSERT INTO Articles (author_id, title, article_content,url,
           published_date) VALUES (%s, %s, %s, %s, %s)
           """
     cursor.execute(sql, (author_id, title, article_content, url, published_date))
     connection.commit()
     cursor.execute("SELECT article_id FROM Articles WHERE url = %s", (url,))
     article_id = cursor.fetchone()['article_id']
-
     return article_id
 
 
@@ -77,10 +82,15 @@ def add_tickers_to_database(ticker_list, connection):
     cursor = connection.cursor()
     stock_ids = []
     for tick in ticker_list:
-        cursor.execute("INSERT IGNORE INTO Stocks (stock_tick) VALUES (%s)", (tick,))
-        connection.commit()
         cursor.execute("SELECT stock_id FROM Stocks WHERE stock_tick = %s", (tick,))
-        stock_ids.append(cursor.fetchone()['stock_id'])
+        result = cursor.fetchone()
+        if result:
+            stock_ids.append(result['stock_id'])
+        else:
+            cursor.execute("INSERT INTO Stocks (stock_tick) VALUES (%s)", (tick,))
+            connection.commit()
+            cursor.execute("SELECT stock_id FROM Stocks WHERE stock_tick = %s", (tick,))
+            stock_ids.append(cursor.fetchone()['stock_id'])
 
     return stock_ids
 
@@ -91,11 +101,9 @@ def add_stock_articles_to_database(article_id, stock_ids, connection):
     """
     cursor = connection.cursor()
     for stock_id in stock_ids:
-        cursor.execute("INSERT IGNORE INTO Stock_Articles (stock_id, article_id) VALUES (%s, %s)",
+        cursor.execute("INSERT INTO Stock_Articles (stock_id, article_id) VALUES (%s, %s)",
                        (stock_id, article_id))
         connection.commit()
-        cursor.execute("SELECT stock_article_id FROM Stock_Articles WHERE stock_id = %s AND article_id = %s ",
-                       (stock_id, article_id))
 
 
 def add_tags_to_database(tag_list, connection):
@@ -106,10 +114,15 @@ def add_tags_to_database(tag_list, connection):
     cursor = connection.cursor()
     tag_ids = []
     for tag_name in tag_list:
-        cursor.execute("INSERT IGNORE INTO Tags (tag_name) VALUES (%s)", (tag_name,))
-        connection.commit()
         cursor.execute("SELECT tag_id FROM Tags WHERE tag_name = %s", (tag_name,))
-        tag_ids.append(cursor.fetchone()['tag_id'])
+        result = cursor.fetchone()
+        if result:
+            tag_ids.append(result['tag_id'])
+        else:
+            cursor.execute("INSERT INTO Tags (tag_name) VALUES (%s)", (tag_name,))
+            connection.commit()
+            cursor.execute("SELECT tag_id FROM Tags WHERE tag_name = %s", (tag_name,))
+            tag_ids.append(cursor.fetchone()['tag_id'])
     return tag_ids
 
 
@@ -119,11 +132,9 @@ def add_article_tags_to_database(article_id, tag_ids, connection):
     """
     cursor = connection.cursor()
     for tag_id in tag_ids:
-        cursor.execute("INSERT IGNORE INTO Article_Tags (tag_id, article_id) VALUES (%s, %s)",
+        cursor.execute("INSERT INTO Article_Tags (tag_id, article_id) VALUES (%s, %s)",
                        (tag_id, article_id))
         connection.commit()
-        cursor.execute("SELECT article_tag_id FROM Article_Tags WHERE tag_id = %s AND article_id = %s ",
-                       (tag_id, article_id))
 
 
 def get_all_urls(connection):
@@ -134,8 +145,9 @@ def get_all_urls(connection):
     cursor = connection.cursor()
     cursor.execute("SELECT url FROM Articles")
     query = cursor.fetchall()
-    for result in query:
-        url_list.append(result['url'])
+    if query:
+        for result in query:
+            url_list.append(result['url'])
     return url_list
 
 
