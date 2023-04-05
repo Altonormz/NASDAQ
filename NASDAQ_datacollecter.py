@@ -59,18 +59,18 @@ def add_article_to_database(author_id, title, article_content, url, published_da
     return article_id
 
 
-def add_stocks_to_database(tickers, connection):
+def add_tickers_to_database(tickers, connection):
     """
     Gets tickers list and adds them to the database
     Returns the list of ticks_ids
     """
     cursor = connection.cursor()
-    tickers_ids = []
+    stock_ids = []
     for tick in tickers:
         cursor.execute("INSERT OR IGNORE INTO Stocks (stock_tick) VALUES (?)", tick)
         cursor.execute("SELECT stock_id FROM Stocks WHERE ?", tick)
-        tickers_ids.append(cursor.fetchone()[0])
-    return tickers_ids
+        stock_ids.append(cursor.fetchone()[0])
+    return stock_ids
 
 
 def add_stock_articles_to_database(article_id, stock_ids, connection):
@@ -117,3 +117,41 @@ def get_all_urls(connection):
     """
     cursor = connection.cursor()
     return list(cursor.execute("SELECT url FROM Articles"))
+
+
+def update_database(articles_list):  # Function assumes database was created in the main program
+    """
+    Gets a list of article objects and updates the database with new information.
+    """
+    if articles_list:
+        database_path = "NASDAQ_database.sqlite"  # Add to conf file
+        connection = sqlite3.connect(database_path)
+        for article in articles_list:
+            article_data_dict = article.row_info()
+
+            author_name = article['author']
+            author_id = add_author_to_database(author_name=author_name, connection=connection)
+
+            title, article_content, url, published_date = article['title'], \
+                article['article_content'], article['tags'], article['published_date']
+            article_id = add_article_to_database(author_id=author_id, title=title, article_content=article_content,
+                                                 url=url, published_date=published_date, connection=connection)
+
+            tickers = article_data_dict['tickers']
+            stock_ids = add_tickers_to_database(tickers, connection)
+
+            add_stock_articles_to_database(article_id=article_id, stock_ids=stock_ids, connection=connection)
+
+            tags = article_data_dict['tags']
+            tag_ids = add_tags_to_database(tags=tags, connection=connection)
+
+            add_article_tags_to_database(article_id=article_id, tag_ids=tag_ids, connection=connection)
+            logging.info(f'article "{title}" was added to the database with id: {article_id}')
+    else:
+        logging.info('articles_list was empty')
+
+
+
+
+
+
