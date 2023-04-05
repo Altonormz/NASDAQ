@@ -169,7 +169,7 @@ def parse():
 
 
 def main():
-    # try:
+    try:
         args = parse()
         NASDAQ_datacollecter.create_database(config["DB_COMMANDS_FILE"])
 
@@ -187,9 +187,8 @@ def main():
         get_objects = get_articles(new_links)
 
         setting_info(get_objects)
-        # Creates DataFrame with articles info, and saves their content in a sub-folder.
-    # except Exception as err:
-    #     print(f'Error: {err}')
+    except Exception as err:
+        print(f'Error: {err}')
 
 
 if __name__ == "__main__":
