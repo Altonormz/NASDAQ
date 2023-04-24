@@ -10,5 +10,9 @@
     "INSERT": 500,
     "DB_COMMANDS_FILE": "NASDAQ_sql_schema.sql",
     "USER": "root",
-    "PASSWORD": "password"
+    "PASSWORD": "password",
+    "API": {
+            "info_token": "3HE3BQS6ZKOOJU0I",
+            "prices_token": "A67L7K250FJ9WY6K"
+            }
   }
