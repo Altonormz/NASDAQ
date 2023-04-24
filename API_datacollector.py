@@ -124,6 +124,9 @@ def update_stock_prices():
                    "Stocks_Prices.stock_id = Stocks.stock_id) AS j GROUP BY j.stock_tick ORDER BY MAX(date)) AS jj "
                    "WHERE jj.MAX_DATE < CURDATE()")
     last_prices = pd.DataFrame(cursor.fetchall())
+    if last_prices.empty:
+        logger.info("No stock tickers available for update.")
+        return
     price_token_flag = True
     for i, ticker in enumerate(last_prices['stock_tick']):
         if price_token_flag:
