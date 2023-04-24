@@ -25,7 +25,23 @@ CREATE TABLE IF NOT EXISTS `Article_Tags` (
 
 CREATE TABLE IF NOT EXISTS `Stocks` (
   `stock_id` INTEGER PRIMARY KEY AUTO_INCREMENT,
-  `stock_tick` varchar(255)
+  `stock_tick` varchar(255),
+  `name` varchar(255),
+  `currency` varchar(255),
+  `country` varchar(255),
+  `sector` varchar(255),
+  `industry` varchar(255)
+);
+
+CREATE TABLE IF NOT EXISTS `Stocks_Prices` (
+  `stock_price_id` INTEGER PRIMARY KEY AUTO_INCREMENT,
+  `stock_id` int,
+  `date` datetime,
+  `open` int,
+  `high` int,
+  `low` int,
+  `close` int,
+  `volume` int
 );
 
 CREATE TABLE IF NOT EXISTS `Stock_Articles` (

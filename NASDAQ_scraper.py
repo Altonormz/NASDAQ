@@ -32,8 +32,6 @@ def scrape_page(URL, args):
     times = soup.find_all('div', class_='content-feed__card-timestamp')
     if args.time is not None:
         for i, time in enumerate(times[0:-2:2]):
-            print(dateparser.parse(time.text))
-            print(args.time)
             if dateparser.parse(time.text) < args.time:
                 return True, pages[:i - 1]
     return False, pages[:len(pages) - 1]
@@ -58,12 +56,17 @@ def fetch_articles_urls(args):
     new_links = []
     stop = False
 
-    for i in range(1, args.pages, config["BATCH_SIZE"]):
-
-        ten_pages = [f'https://www.nasdaq.com/news-and-insights/topic/markets/page/{j}' for j in
-                     range(i, i + config["BATCH_SIZE"])]
-        logging.info(f'successfully created links batch number: {i // config["BATCH_SIZE"] + 1}.\n The links: '
-                     f'{ten_pages}')
+    for i in range(1, args.pages + 1, config["BATCH_SIZE"]):
+        if args.pages - i < 10:
+            ten_pages = [f'https://www.nasdaq.com/news-and-insights/topic/markets/page/{j}' for j in
+                            range(i, i + (args.pages - i + 1))]
+            logging.info(f'successfully created links batch number: {args.pages}.\n The links: '
+                        f'{ten_pages}')
+        else:
+            ten_pages = [f'https://www.nasdaq.com/news-and-insights/topic/markets/page/{j}' for j in
+                        range(i, i + config["BATCH_SIZE"])]
+            logging.info(f'successfully created links batch number: {i // config["BATCH_SIZE"] + 1}.\n The links: '
+                        f'{ten_pages}')
         try:
             responses = get_response(ten_pages)
             logging.info(f'successfully got responses from server for the urls: {ten_pages}')
