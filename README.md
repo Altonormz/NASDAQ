@@ -78,7 +78,7 @@ All the installations required including versions can be found in the "requireme
 
 ## Database Structure and Features
 
-![da68d2da-f84e-4cac-b053-6b8d34a8839c.jpeg](da68d2da-f84e-4cac-b053-6b8d34a8839c.jpeg)
+![da68d2da-f84e-4cac-b053-6b8d34a8839c.jpeg](Images%2Fda68d2da-f84e-4cac-b053-6b8d34a8839c.jpeg)
 
 **Authors:**
 - author_id [int] - primary key generated automatically
@@ -173,14 +173,14 @@ Please see the log file if you suspect that is the case.
 
 ## Authors:
 ### Alot Mecilati:
-<img src="T0465J1ATNJ-U04QC18RRNX-c642a0e43fbc-512.jpeg" alt="Alt Text" width="200"/>
+<img src="Images/T0465J1ATNJ-U04QC18RRNX-c642a0e43fbc-512.jpeg" alt="Alt Text" width="200"/>
 
 [Git](https://github.com/Altonormz)
 
 [LinkIn](https://www.linkedin.com/in/alon-mecilati/)
 
 ### Jonathan Schwarz:
-<img src="T0465J1ATNJ-U04RM4GPJKA-1f8915af8719-512.png" alt="Alt Text" width="200"/>
+<img src="Images/T0465J1ATNJ-U04RM4GPJKA-1f8915af8719-512.png" alt="Alt Text" width="200"/>
 
 [Git](https://github.com/Jonnyds)
 
