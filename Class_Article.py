@@ -29,7 +29,6 @@ class Article:
         self.tags = tags
         self.article_content = article_content
         self.tickers = tickers
-        # self.stocks_change = [] ## In case we want the information in the future
         self.id_num = id_num
         self.url = url
 
@@ -90,10 +89,9 @@ class Article:
         tickers_block = soup.find('div', {"class": "jupiter22-c-related-stocks-horizontal__list"})
         if tickers_block:
             tickers_list = tickers_block.get_text(" ").split()
-            tickers_dict = {tickers_list[i]: tickers_list[i + 1] for i in range(0, len(tickers_list) - 1, 2)}
         else:
-            tickers_dict = {}
-        return tickers_dict
+            tickers_list = []
+        return tickers_list
 
     def set_info(self, soup):
         """
