@@ -155,62 +155,6 @@ def get_all_urls(connection):
     return url_list
 
 
-def call_stocks_api(connection):
-    cursor = connection.cursor()
-    cursor.execute('SELECT stock_tick FROM Stocks where name IS NULL')
-    tickers = cursor.fetchall()
-    tickers = [ticker['stock_tick'] for ticker in tickers]
-    tick_info = []
-
-    for i, ticker in enumerate(tickers):
-        if i > 250:
-            break
-        if (i > 0) and (i % 5 == 0):
-            time.sleep(65)
-        api_url = f"https://www.alphavantage.co/query?function=OVERVIEW&symbol={ticker}&apikey=3HE3BQS6ZKOOJU0I"
-        response = requests.get(api_url)
-        tick_info.append(response.json())
-    tick_info = pd.DataFrame(tick_info)
-    update_stocks(tick_info, connection)
-    time.sleep(65)
-    for i, ticker in enumerate(tickers):
-        if i > 250:
-            break
-        if (i > 0) and (i % 5 == 0):
-            time.sleep(65)
-        api_url = f"https://www.alphavantage.co/query?function=TIME_SERIES_DAILY_ADJUSTED&symbol={ticker}&outputsize=compact&apikey=3HE3BQS6ZKOOJU0I"
-        response = requests.get(api_url)
-        response = response.json()
-        prices = pd.DataFrame(response["Time Series (Daily)"]).T
-        insert_stock_prices(prices, ticker, connection)
-
-
-def update_stocks(tick_info, connection):
-    for i, row in tick_info.iterrows():
-        cursor = connection.cursor()
-        cursor.execute(f'UPDATE Stocks SET name = %s, currency = %s, country = %s, sector = %s, industry = %s '
-                       f'WHERE stock_tick = %s;', (row['Name'], row['Currency'], row['Country'], row['Sector'],
-                                                   row['Industry'], row['Symbol'],))
-        connection.commit()
-
-def insert_stock_prices(prices, ticker, connection):
-    cursor = connection.cursor()
-    cursor.execute('SELECT stock_id FROM Stocks where stock_tick = %s', (ticker,))
-    stock_id = cursor.fetchone()['stock_id']
-    for i, row in prices.iterrows():
-        cursor.execute("INSERT INTO Stocks_Prices (stock_id, date, open, high, low, close, volume) VALUES (%s,"
-                       " %s, %s, %s, %s, %s, %s)", (stock_id, row.name, row['1. open'], row['2. high'], row['3. low'],
-                                                    row['4. close'], row['6. volume']))
-        connection.commit()
-
-def update_stock_prices(connection):
-    cursor = connection.cursor()
-    cursor.execute("SELECT j.stock_tick, MAX(j.date) FROM (SELECT stock_tick, date FROM Stocks_Prices LEFT JOIN Stocks ON "
-                   "Stocks_Prices.stock_id = Stocks.stock_id) as j GROUP BY j.stock_tick ORDER BY MAX(date) DESC")
-    last_prices = pd.DataFrame(cursor.fetchall())
-    print(last_prices)
-
-
 def update_database(articles_list):  # Function assumes database was created in the main program
     """
     Gets a list of article objects and updates the database with new information.

@@ -57,6 +57,7 @@ The data is checked, and if not found within the DB the data is inserted.
 - scrape_all - scraping all data from all pages and article with no filter (when used no other argument may be used).
 - pages - scrape x number of pages starting from the first (*see note 1 below) the default value is 1000 pages.
 - time - given a date and possibly time the program will scrape any article from 
+- update - updates the stock prices in the database from the API
 today till the date and time mentioned (*see notes below).
 For full list of options for this argument please see: https://dateparser.readthedocs.io/en/latest/
 
