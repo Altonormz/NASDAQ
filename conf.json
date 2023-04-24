@@ -14,6 +14,7 @@
     "API": {
             "info_token": "3HE3BQS6ZKOOJU0I",
             "price_token": "A67L7K250FJ9WY6K",
-            "query_limit" : 250
+            "query_limit" : 250,
+            "sleep_time": 65
             }
   }

@@ -159,8 +159,7 @@ def parse():
                                      description='web scraper for NASDAQ website',
                                      epilog='for further information please see README.md file')
     parser.add_argument('--scrape_all', action='store_true', help="scrape all pages and info")
-    parser.add_argument('-update', type=dateparser.parse, help="update prices from API",
-                        default=None)
+    parser.add_argument('--update', action='store_true', help="update prices from API")
     parser.add_argument('-pages', type=int, help="scrape x pages (starting from first)", default=config['PAGES'])
     parser.add_argument('-time', type=dateparser.parse, help="scrape pages x days back till today",
                         default=None)
@@ -177,22 +176,25 @@ def main():
     try:
         args = parse()
         NASDAQ_datacollecter.create_database(config["DB_COMMANDS_FILE"])
+        if args.update:
+            API_datacollector.update_stock_prices()
+        else:
 
-        co = pymysql.connect(host='localhost',
-                             user=config["USER"],
-                             password=config["PASSWORD"],
-                             database='NASDAQ',
-                             cursorclass=pymysql.cursors.DictCursor)
-        new_links = fetch_articles_urls(args)  # creates file with articles urls.
+            co = pymysql.connect(host='localhost',
+                                 user=config["USER"],
+                                 password=config["PASSWORD"],
+                                 database='NASDAQ',
+                                 cursorclass=pymysql.cursors.DictCursor)
+            new_links = fetch_articles_urls(args)  # creates file with articles urls.
 
-        urls = NASDAQ_datacollecter.get_all_urls(co)
+            urls = NASDAQ_datacollecter.get_all_urls(co)
 
-        new_links = list(set(new_links) - set(urls))
+            new_links = list(set(new_links) - set(urls))
 
-        get_objects = get_articles(new_links)
+            get_objects = get_articles(new_links)
 
-        setting_info(get_objects)
-        API_datacollector.new_tickers()
+            setting_info(get_objects)
+            API_datacollector.new_tickers()
     except Exception as err:
         print(f'Error: {err}')
 

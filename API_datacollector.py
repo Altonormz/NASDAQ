@@ -26,6 +26,19 @@ def start_sql_connection():
     return connection
 
 
+def check_database_exists(connection):
+    """
+    Returns True if the database and required tables exist, else returns False.
+    """
+    cursor = connection.cursor()
+    cursor.execute("SHOW TABLES LIKE 'Stocks'")
+    stocks_exists = cursor.fetchone()
+    cursor.execute("SHOW TABLES LIKE 'Stocks_Prices'")
+    stocks_prices_exists = cursor.fetchone()
+
+    return stocks_exists and stocks_prices_exists
+
+
 def call_info_stocks_api(ticker, info_token_flag):
     """
     Returns DataFrame containing the information about the ticker.
@@ -97,13 +110,18 @@ def update_stock_prices():
     """
     Updates the Table Stocks_Prices, with the most recent available prices without duplicates.
     """
+
     connection = start_sql_connection()
+    if not check_database_exists(connection):
+        logger.error("Database or required tables do not exist.")
+        return
+
     cursor = connection.cursor()
     # Query to get the last date the price was updated with the ticker name.
-    cursor.execute("SELECT jj.stock_tick as stock_tick, jj.MAX_DATE as last_date FROM ("
-                   "SELECT j.stock_tick as stock_tick, DATE(MAX(j.date)) as MAX_DATE FROM ("
+    cursor.execute("SELECT jj.stock_tick AS stock_tick, jj.MAX_DATE AS last_date FROM ("
+                   "SELECT j.stock_tick AS stock_tick, DATE(MAX(j.date)) AS MAX_DATE FROM ("
                    "SELECT stock_tick, date FROM Stocks_Prices LEFT JOIN Stocks ON "
-                   "Stocks_Prices.stock_id = Stocks.stock_id) as j GROUP BY j.stock_tick ORDER BY MAX(date)) as jj "
+                   "Stocks_Prices.stock_id = Stocks.stock_id) AS j GROUP BY j.stock_tick ORDER BY MAX(date)) AS jj "
                    "WHERE jj.MAX_DATE < CURDATE()")
     last_prices = pd.DataFrame(cursor.fetchall())
     price_token_flag = True
@@ -123,6 +141,10 @@ def new_tickers():
     Adds the tickers Information and stock prices to DataBase for stocks with no information.
     """
     connection = start_sql_connection()
+    if not check_database_exists(connection):
+        logger.error("Database or required tables do not exist.")
+        return
+
     cursor = connection.cursor()
     cursor.execute('SELECT stock_tick FROM Stocks where name IS NULL')
     tickers = cursor.fetchall()
@@ -132,7 +154,7 @@ def new_tickers():
         if i > config['API']['query_limit']:
             break
         if (i > 0) and (i % 2 == 0):
-            time.sleep(65)
+            time.sleep(config['API']['sleep_time'])
 
         if info_token_flag:
             tick_info_df, info_token_flag = call_info_stocks_api(ticker, info_token_flag)
