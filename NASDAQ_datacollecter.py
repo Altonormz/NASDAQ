@@ -172,7 +172,7 @@ def call_stocks_api(connection):
         tick_info.append(response.json())
     tick_info = pd.DataFrame(tick_info)
     update_stocks(tick_info, connection)
-
+    time.sleep(65)
     for i, ticker in enumerate(tickers):
         if i > 250:
             break
@@ -180,7 +180,8 @@ def call_stocks_api(connection):
             time.sleep(65)
         api_url = f"https://www.alphavantage.co/query?function=TIME_SERIES_DAILY_ADJUSTED&symbol={ticker}&outputsize=compact&apikey=3HE3BQS6ZKOOJU0I"
         response = requests.get(api_url)
-        prices = pd.DataFrame(response.json()["Time Series (Daily)"]).T
+        response = response.json()
+        prices = pd.DataFrame(response["Time Series (Daily)"]).T
         insert_stock_prices(prices, ticker, connection)
 
 
@@ -203,7 +204,11 @@ def insert_stock_prices(prices, ticker, connection):
         connection.commit()
 
 def update_stock_prices(connection):
-    print("")
+    cursor = connection.cursor()
+    cursor.execute("SELECT j.stock_tick, MAX(j.date) FROM (SELECT stock_tick, date FROM Stocks_Prices LEFT JOIN Stocks ON "
+                   "Stocks_Prices.stock_id = Stocks.stock_id) as j GROUP BY j.stock_tick ORDER BY MAX(date) DESC")
+    last_prices = pd.DataFrame(cursor.fetchall())
+    print(last_prices)
 
 
 def update_database(articles_list):  # Function assumes database was created in the main program
