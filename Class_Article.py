@@ -82,7 +82,7 @@ class Article:
         return tags_list
 
     @staticmethod
-    def _get_tickers_dict(soup):
+    def _get_tickers_list(soup):
         """
         Returns the tickers of the article from the soup object.
         """
@@ -103,9 +103,7 @@ class Article:
         self.date = Article._get_date(soup)
         self.tags = Article._get_tags(soup)
         self.article_content = Article._get_article_content(soup)
-        tickers_dict = Article._get_tickers_dict(soup)
-        self.tickers = list(tickers_dict.keys())
-        # self.stocks_change = list(tickers_dict.values()) ## In case we want the information in the future.
+        self.tickers = Article._get_tickers_list(soup)
 
     @staticmethod
     def _get_article_content(soup):
