@@ -9,9 +9,9 @@ import logging
 from Class_Article import Article
 from fake_useragent import UserAgent
 import argparse
-import datetime
 import dateparser
 import NASDAQ_datacollecter
+import API_datacollector
 
 with open("conf.json") as f:
     config = json.load(f)
@@ -159,6 +159,8 @@ def parse():
                                      description='web scraper for NASDAQ website',
                                      epilog='for further information please see README.md file')
     parser.add_argument('--scrape_all', action='store_true', help="scrape all pages and info")
+    parser.add_argument('-update', type=dateparser.parse, help="update prices from API",
+                        default=None)
     parser.add_argument('-pages', type=int, help="scrape x pages (starting from first)", default=config['PAGES'])
     parser.add_argument('-time', type=dateparser.parse, help="scrape pages x days back till today",
                         default=None)
@@ -190,6 +192,7 @@ def main():
         get_objects = get_articles(new_links)
 
         setting_info(get_objects)
+        API_datacollector.new_tickers()
     except Exception as err:
         print(f'Error: {err}')
 
