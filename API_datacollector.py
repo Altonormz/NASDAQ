@@ -22,10 +22,10 @@ def start_sql_connection():
     """
     Returns connection to MySQL, using the user and password from the config file.
     """
-    connection = pymysql.connect(host='localhost',
-                                 user=config["USER"],
-                                 password=config["PASSWORD"],
-                                 database='NASDAQ',
+    connection = pymysql.connect(host='data-mining-db1.cttpnp4olbpx.us-west-1.rds.amazonaws.com',
+                                 user='alon_jonathan',
+                                 password='alon_jonathan',
+                                 database='alon_jonathan',
                                  cursorclass=pymysql.cursors.DictCursor)
     logger.info("Connection started to SQL")
     return connection

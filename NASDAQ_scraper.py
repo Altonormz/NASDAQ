@@ -188,11 +188,11 @@ def main():
             API_datacollector.update_stock_prices()
         else:
 
-            co = pymysql.connect(host='localhost',
-                                 user=config["USER"],
-                                 password=config["PASSWORD"],
-                                 database='NASDAQ',
-                                 cursorclass=pymysql.cursors.DictCursor)
+            co = pymysql.connect(host='data-mining-db1.cttpnp4olbpx.us-west-1.rds.amazonaws.com',
+                                         user='alon_jonathan',
+                                         password='alon_jonathan',
+                                         database='alon_jonathan',
+                                         cursorclass=pymysql.cursors.DictCursor)
             new_links = fetch_articles_urls(args)  # creates file with articles urls.
 
             urls = NASDAQ_datacollecter.get_all_urls(co)

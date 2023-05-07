@@ -16,19 +16,19 @@ formatter = logging.Formatter("%(asctime)s - %(levelname)s - %(message)s")
 handler.setFormatter(formatter)
 logger.addHandler(handler)
 
+
 def create_database(database_create_code):
     """
     Creates a database for the NASDAQ articles according to the NASDAQ_sql_schema.sql file
     """
     try:
-        co = pymysql.connect(host='localhost',
-                             user=config["USER"],
-                             password=config["PASSWORD"],
-                             cursorclass=pymysql.cursors.DictCursor)  # Probably should ask for password from  user
+        co = pymysql.connect(host='data-mining-db1.cttpnp4olbpx.us-west-1.rds.amazonaws.com',
+                                     user='alon_jonathan',
+                                     password='alon_jonathan',
+                                     database='alon_jonathan',
+                                     cursorclass=pymysql.cursors.DictCursor)
         with co:
             with co.cursor() as cursor:
-                cursor.execute('CREATE DATABASE IF NOT EXISTS `NASDAQ`')
-                cursor.execute('USE `NASDAQ`')
                 with open(database_create_code, 'r') as file:
                     sql_script = file.read()
                     queries = sql_script.split(';')
@@ -161,10 +161,10 @@ def update_database(articles_list):  # Function assumes database was created in 
     """
     logger.info(f'Number of articles: {len(articles_list)}')
     if articles_list and type(articles_list) == list:
-        connection = pymysql.connect(host='localhost',
-                                     user=config["USER"],
-                                     password=config["PASSWORD"],
-                                     database='NASDAQ',
+        connection = pymysql.connect(host='data-mining-db1.cttpnp4olbpx.us-west-1.rds.amazonaws.com',
+                                     user='alon_jonathan',
+                                     password='alon_jonathan',
+                                     database='alon_jonathan',
                                      cursorclass=pymysql.cursors.DictCursor)
         for article in articles_list:
             article_data_dict = article.row_info()

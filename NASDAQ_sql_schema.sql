@@ -1,3 +1,8 @@
+CREATE TABLE IF NOT EXISTS `Authors` (
+  `author_id` INTEGER PRIMARY KEY AUTO_INCREMENT,
+  `author_name` varchar(255)
+);
+
 CREATE TABLE IF NOT EXISTS `Articles` (
   `article_id` INTEGER PRIMARY KEY AUTO_INCREMENT,
   `author_id` int,
@@ -10,10 +15,7 @@ CREATE TABLE IF NOT EXISTS `Articles` (
   ON DELETE CASCADE
 );
 
-CREATE TABLE IF NOT EXISTS `Authors` (
-  `author_id` INTEGER PRIMARY KEY AUTO_INCREMENT,
-  `author_name` varchar(255)
-);
+
 
 CREATE TABLE IF NOT EXISTS `Tags` (
   `tag_id` INTEGER PRIMARY KEY AUTO_INCREMENT,
