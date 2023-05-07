@@ -1,3 +1,4 @@
+import logging
 import pymysql.cursors
 import gevent.monkey
 if not gevent.monkey.saved:
@@ -5,7 +6,6 @@ if not gevent.monkey.saved:
 import grequests
 from bs4 import BeautifulSoup
 import json
-import logging
 from Class_Article import Article
 from fake_useragent import UserAgent
 import argparse
@@ -13,13 +13,15 @@ import dateparser
 import NASDAQ_datacollecter
 import API_datacollector
 
-with open("conf.json") as f:
-    config = json.load(f)
 
 # logging config
 logging.basicConfig(level=logging.INFO, filename="NASDAQ_scraper.log", filemode="w",
                     format="%(asctime)s - %(levelname)s - %(message)s")
 logger = logging.getLogger("NASDAQ_scraper.log")
+
+with open("conf.json") as f:
+    config = json.load(f)
+
 
 
 def scrape_page(URL, args):
@@ -55,7 +57,6 @@ def fetch_articles_urls(args):
     functions
     """
     new_links = []
-    stop = False
 
     for i in range(1, args.pages + 1, config["BATCH_SIZE"]):
         if args.pages - i < 10:
