@@ -131,3 +131,6 @@ dmypy.json
 
 # Files
 test.py
+
+# Key Files
+*.pem
