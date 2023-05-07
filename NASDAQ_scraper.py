@@ -141,10 +141,8 @@ def setting_info(article_list):
                     NASDAQ_datacollecter.update_database(article_object_info)
                     article_object_info = []
                     countdown = 0
-                else:
-                    logger.error(f"Request failed with status code: {response.status_code}")
-            else:
-                logger.error(f"Request failed with status code: {response.status_code}")
+        else:
+            logger.error(f"Request failed with status code: {response.status_code}")
     NASDAQ_datacollecter.update_database(article_object_info)
 
 
