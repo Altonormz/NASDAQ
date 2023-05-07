@@ -12,7 +12,7 @@ CREATE TABLE IF NOT EXISTS `Articles` (
   `published_date` datetime,
   CONSTRAINT `FK_Articles_Authors` FOREIGN KEY (`author_id`)
   REFERENCES `Authors` (`author_id`)
-  ON DELETE CASCADE
+  ON DELETE SET NULL
 );
 
 
