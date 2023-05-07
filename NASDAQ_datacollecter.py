@@ -8,10 +8,13 @@ with open("conf.json") as f:
     config = json.load(f)
 
 # logging config
-logging.basicConfig(level=logging.INFO, filename="NASDAQ_scraper.log", filemode="w",
-                    format="%(asctime)s - %(levelname)s - %(message)s")
-logger = logging.getLogger("NASDAQ_scraper.log")
 
+logger = logging.getLogger("NASDAQ_datacollector")
+logger.setLevel(logging.INFO)
+handler = logging.FileHandler("logs/NASDAQ_datacollector.log", mode="w")
+formatter = logging.Formatter("%(asctime)s - %(levelname)s - %(message)s")
+handler.setFormatter(formatter)
+logger.addHandler(handler)
 
 def create_database(database_create_code):
     """
@@ -32,7 +35,7 @@ def create_database(database_create_code):
                     for query in queries[:-1]:
                         cursor.execute(query)
                         co.commit()
-                logging.info('NASDAQ database was created')
+                logger.info('NASDAQ database was created')
 
     except FileNotFoundError as er:
         print(f'{er} Please make sure the sql file exists')
@@ -156,6 +159,7 @@ def update_database(articles_list):  # Function assumes database was created in 
     """
     Gets a list of article objects and updates the database with new information.
     """
+    logger.info(f'Number of articles: {len(articles_list)}')
     if articles_list and type(articles_list) == list:
         connection = pymysql.connect(host='localhost',
                                      user=config["USER"],
@@ -182,6 +186,6 @@ def update_database(articles_list):  # Function assumes database was created in 
             tag_ids = add_tags_to_database(tag_list=tags, connection=connection)
 
             add_article_tags_to_database(article_id=article_id, tag_ids=tag_ids, connection=connection)
-            logging.info(f'article "{title}" was added to the database with id: {article_id}')
+            logger.info(f'article "{title}" was added to the database with id: {article_id}')
     else:
-        logging.error('articles_list was empty or in the wrong format')
+        logger.error(f'articles_list was empty or in the wrong format\n{articles_list}')

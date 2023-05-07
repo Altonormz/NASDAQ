@@ -1,12 +1,3 @@
-import logging
-
-
-# logging config
-logging.basicConfig(level=logging.INFO, filename="Class_Article.log", filemode="w",
-                    format="%(asctime)s - %(levelname)s - %(message)s")
-logger = logging.getLogger("Class_Article.log")
-
-
 class Article:
     """
     Class Article holds information about a news article from Nasdaq.com/markets.
@@ -93,7 +84,6 @@ class Article:
         """
         Sets the article information to the class from the soup object.
         """
-
         self.title = Article._get_title(soup)
         self.author = Article._get_author(soup)
         self.date = Article._get_date(soup)

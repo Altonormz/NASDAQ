@@ -1,4 +1,14 @@
 import logging
+import os
+if not os.path.exists("logs"):
+    os.makedirs("logs")
+# logging config
+logger = logging.getLogger("NASDAQ_scraper")
+logger.setLevel(logging.INFO)
+handler = logging.FileHandler("logs/NASDAQ_scraper.log", mode="w")
+formatter = logging.Formatter("%(asctime)s - %(levelname)s - %(message)s")
+handler.setFormatter(formatter)
+logger.addHandler(handler)
 import pymysql.cursors
 import gevent.monkey
 if not gevent.monkey.saved:
@@ -14,21 +24,16 @@ import NASDAQ_datacollecter
 import API_datacollector
 
 
-# logging config
-logging.basicConfig(level=logging.INFO, filename="NASDAQ_scraper.log", filemode="w",
-                    format="%(asctime)s - %(levelname)s - %(message)s")
-logger = logging.getLogger("NASDAQ_scraper.log")
+
 
 with open("conf.json") as f:
     config = json.load(f)
-
 
 
 def scrape_page(URL, args):
     """
     gathers articles urls from a NASDAQ articles web page
     """
-    logging.info(f'Scraping url: {URL}')
     soup = BeautifulSoup(URL.text, 'html.parser')
     pages = [f"https://www.nasdaq.com{a['href']}" for a in soup.find_all('a', class_="content-feed__card-title-link")]
     times = soup.find_all('div', class_='content-feed__card-timestamp')
@@ -44,7 +49,7 @@ def get_response(urls):
     using grequests threads to get responses from several web pages at a time
     """
     ua = UserAgent()
-    logging.info(f'Sending the following urls to grequests\n{urls}')
+    logger.info(f'Sending the following urls to grequests\n{urls}')
     headers = {'user-agent': ua.random}
     request = [grequests.get(url, headers=headers) for url in urls]
     responses = grequests.map(request)
@@ -53,7 +58,7 @@ def get_response(urls):
 
 def fetch_articles_urls(args):
     """
-    creates the article pages urls in batches of 10 and calls the get_response (server response) and scrape_page
+    creates the article pages urls in batches according to the conf file and calls the get_response (server response) and scrape_page
     functions
     """
     new_links = []
@@ -62,18 +67,18 @@ def fetch_articles_urls(args):
         if args.pages - i < 10:
             ten_pages = [f'https://www.nasdaq.com/news-and-insights/topic/markets/page/{j}' for j in
                          range(i, i + (args.pages - i + 1))]
-            logging.info(f'successfully created links batch number: {args.pages}.\n The links: '
+            logger.info(f'successfully created links batch number: {args.pages}.\n The links: '
                          f'{ten_pages}')
         else:
             ten_pages = [f'https://www.nasdaq.com/news-and-insights/topic/markets/page/{j}' for j in
                          range(i, i + config["BATCH_SIZE"])]
-            logging.info(f'successfully created links batch number: {i // config["BATCH_SIZE"] + 1}.\n The links: '
+            logger.info(f'successfully created links batch number: {i // config["BATCH_SIZE"] + 1}.\n The links: '
                          f'{ten_pages}')
         try:
             responses = get_response(ten_pages)
-            logging.info(f'successfully got responses from server for the urls: {ten_pages}')
+            logger.info(f'successfully got responses from server for the urls: {ten_pages}')
         except Exception as err:
-            logging.error(f"error getting responses from pages: {ten_pages}")
+            logger.error(f"error getting responses from pages: {ten_pages}")
             raise RuntimeError(f"error getting responses: {err}")
 
         for url in responses:
@@ -81,15 +86,15 @@ def fetch_articles_urls(args):
 
                 stop, scraped_pages = scrape_page(url, args)
                 if scraped_pages:
-                    logging.info(f"successfully scraped {scraped_pages}\n")
+                    logger.info(f"successfully scraped {scraped_pages}\n")
                 else:
-                    logging.error(f"could not scrape response page")
+                    logger.error(f"could not scrape response page")
                 new_links = new_links + scraped_pages
                 if stop:
                     print(f'Batch number {i // config["BATCH_SIZE"] + 1}/100 done')
                     return new_links
             else:
-                logging.error(f"Request failed with status code: {url.status_code}")
+                logger.error(f"Request failed with status code: {url.status_code}")
     return new_links
 
 
@@ -109,11 +114,11 @@ def setting_info(article_list):
     ua = UserAgent()
     headers = {'user-agent': ua.random}
     try:
-        logging.info('Setting Info Phases Started')
+        logger.info('Setting Info Phases Started')
         rs = (grequests.get(t.url, headers=headers, timeout=config['TIMEOUT']) for t in article_list)
-        logging.info(f'successfully got responses from server')
+        logger.info(f'successfully got responses from server')
     except Exception as err:
-        logging.error(f"error getting responses from server")
+        logger.error(f"error getting responses from server")
         raise RuntimeError(f"error getting responses: {err}")
 
     countdown = 0
@@ -126,7 +131,7 @@ def setting_info(article_list):
                 soup = get_soup(response)
                 article.set_info(soup)
                 print(article)
-                logging.info(f"successfully scraped {article.title}\n")
+                logger.info(f"successfully scraped {article.title}\n")
 
                 # concat to object list
 
@@ -137,12 +142,10 @@ def setting_info(article_list):
                     article_object_info = []
                     countdown = 0
                 else:
-                    logging.error(f"Request failed with status code: {response.status_code}")
+                    logger.error(f"Request failed with status code: {response.status_code}")
             else:
-                logging.error(f"Request failed with status code: {response.status_code}")
+                logger.error(f"Request failed with status code: {response.status_code}")
     NASDAQ_datacollecter.update_database(article_object_info)
-
-    # df.to_csv('article_info.csv', index=False)
 
 
 def get_articles(links_list):
@@ -176,10 +179,12 @@ def parse():
 
 
 def main():
+    args = parse()
+    logger.info(f'Args input: {args}')
     try:
-        args = parse()
         NASDAQ_datacollecter.create_database(config["DB_COMMANDS_FILE"])
         if args.update:
+            logger.info("Updating Stock Prices")
             API_datacollector.update_stock_prices()
         else:
 
@@ -195,8 +200,9 @@ def main():
             new_links = list(set(new_links) - set(urls))
 
             get_objects = get_articles(new_links)
-
+            logger.info(f"Collected {len(new_links)} new links")
             setting_info(get_objects)
+            logger.info("Adding new tickers to database")
             API_datacollector.new_tickers()
             print('Finished Running')
     except Exception as err:

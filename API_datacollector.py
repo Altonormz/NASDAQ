@@ -9,9 +9,13 @@ with open("conf.json") as f:
     config = json.load(f)
 
 # logging config
-logging.basicConfig(level=logging.INFO, filename="NASDAQ_scraper.log", filemode="w",
-                    format="%(asctime)s - %(levelname)s - %(message)s")
-logger = logging.getLogger("NASDAQ_scraper.log")
+logger = logging.getLogger("API_datacollector")
+logger.setLevel(logging.INFO)
+
+handler = logging.FileHandler("logs/API_datacollector.log", mode="w")
+formatter = logging.Formatter("%(asctime)s - %(levelname)s - %(message)s")
+handler.setFormatter(formatter)
+logger.addHandler(handler)
 
 
 def start_sql_connection():
@@ -23,6 +27,7 @@ def start_sql_connection():
                                  password=config["PASSWORD"],
                                  database='NASDAQ',
                                  cursorclass=pymysql.cursors.DictCursor)
+    logger.info("Connection started to SQL")
     return connection
 
 
@@ -35,7 +40,7 @@ def check_database_exists(connection):
     stocks_exists = cursor.fetchone()
     cursor.execute("SHOW TABLES LIKE 'Stocks_Prices'")
     stocks_prices_exists = cursor.fetchone()
-
+    logger.info(f"stocks_exists and stocks_prices_exists: {stocks_exists} and {stocks_prices_exists}")
     return stocks_exists and stocks_prices_exists
 
 
@@ -77,7 +82,6 @@ def call_price_stocks_api(ticker, price_token_flag):
             tick_prices_df = pd.DataFrame(response["Time Series (Daily)"]).T
 
     return tick_prices_df, price_token_flag
-
 
 
 def update_stocks(tick_info, connection):
@@ -136,7 +140,7 @@ def update_stock_prices():
                 tick_prices_df.index = pd.to_datetime(tick_prices_df.index)
                 tick_prices_df_new = tick_prices_df[tick_prices_df.index > last_prices['last_date'][i]]
                 insert_stock_prices(tick_prices_df_new, ticker, connection)
-                logging.info(f' "{ticker}" was updated in the Stocks_Prices table. ')
+                logger.info(f' "{ticker}" was updated in the Stocks_Prices table.')
 
 
 def new_tickers():
@@ -163,14 +167,14 @@ def new_tickers():
             tick_info_df, info_token_flag = call_info_stocks_api(ticker, info_token_flag)
             if not tick_info_df.empty:
                 update_stocks(tick_info_df, connection)
-                logging.info(f' "{ticker}" was updated in the Stocks table. ')
+                logger.info(f' "{ticker}" was updated in the Stocks table. ')
 
         price_token_flag = True
         if price_token_flag:
             tick_prices_df, price_token_flag = call_price_stocks_api(ticker, price_token_flag)
             if not tick_prices_df.empty:
                 insert_stock_prices(tick_prices_df, ticker, connection)
-                logging.info(f' "{ticker}" was updated in the Stocks_Prices table. ')
+                logger.info(f' "{ticker}" was updated in the Stocks_Prices table. ')
 
 
 
