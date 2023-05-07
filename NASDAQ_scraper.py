@@ -1,7 +1,7 @@
 import pymysql.cursors
-from gevent import monkey
-
-monkey.patch_all()
+import gevent.monkey
+if not gevent.monkey.saved:
+    gevent.monkey.patch_all()
 import grequests
 from bs4 import BeautifulSoup
 import json
@@ -26,7 +26,7 @@ def scrape_page(URL, args):
     """
     gathers articles urls from a NASDAQ articles web page
     """
-
+    logging.info(f'Scraping url: {URL}')
     soup = BeautifulSoup(URL.text, 'html.parser')
     pages = [f"https://www.nasdaq.com{a['href']}" for a in soup.find_all('a', class_="content-feed__card-title-link")]
     times = soup.find_all('div', class_='content-feed__card-timestamp')
@@ -42,6 +42,7 @@ def get_response(urls):
     using grequests threads to get responses from several web pages at a time
     """
     ua = UserAgent()
+    logging.info(f'Sending the following urls to grequests\n{urls}')
     headers = {'user-agent': ua.random}
     request = [grequests.get(url, headers=headers) for url in urls]
     responses = grequests.map(request)
@@ -59,14 +60,14 @@ def fetch_articles_urls(args):
     for i in range(1, args.pages + 1, config["BATCH_SIZE"]):
         if args.pages - i < 10:
             ten_pages = [f'https://www.nasdaq.com/news-and-insights/topic/markets/page/{j}' for j in
-                            range(i, i + (args.pages - i + 1))]
+                         range(i, i + (args.pages - i + 1))]
             logging.info(f'successfully created links batch number: {args.pages}.\n The links: '
-                        f'{ten_pages}')
+                         f'{ten_pages}')
         else:
             ten_pages = [f'https://www.nasdaq.com/news-and-insights/topic/markets/page/{j}' for j in
-                        range(i, i + config["BATCH_SIZE"])]
+                         range(i, i + config["BATCH_SIZE"])]
             logging.info(f'successfully created links batch number: {i // config["BATCH_SIZE"] + 1}.\n The links: '
-                        f'{ten_pages}')
+                         f'{ten_pages}')
         try:
             responses = get_response(ten_pages)
             logging.info(f'successfully got responses from server for the urls: {ten_pages}')
@@ -107,6 +108,7 @@ def setting_info(article_list):
     ua = UserAgent()
     headers = {'user-agent': ua.random}
     try:
+        logging.info('Setting Info Phases Started')
         rs = (grequests.get(t.url, headers=headers, timeout=config['TIMEOUT']) for t in article_list)
         logging.info(f'successfully got responses from server')
     except Exception as err:
@@ -165,7 +167,7 @@ def parse():
                         default=None)
     args = parser.parse_args()
 
-    if args.scrape_all: # if the user decides to enter scrape all with other arguments
+    if args.scrape_all:  # if the user decides to enter scrape all with other arguments
         args.pages = config['PAGES']
         args.time = None
 
@@ -195,14 +197,10 @@ def main():
 
             setting_info(get_objects)
             API_datacollector.new_tickers()
+            print('Finished Running')
     except Exception as err:
         print(f'Error: {err}')
 
 
 if __name__ == "__main__":
     main()
-
-
-
-
-

@@ -1,13 +1,10 @@
 import logging
 import json
-import requests
-import pandas as pd
 import pymysql.cursors
 import dateparser
-import time
-import datetime
 
-with open("conf.json") as f:  ## Add NASDAQ_sql_schema.sql file to conf file
+
+with open("conf.json") as f:
     config = json.load(f)
 
 # logging config
