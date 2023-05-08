@@ -145,6 +145,7 @@ def get_all_urls(connection):
     """
     get a list of urls currently in the database
     """
+    logger.info("Getting url links")
     url_list = []
     cursor = connection.cursor()
     cursor.execute("SELECT url FROM Articles")
@@ -152,6 +153,7 @@ def get_all_urls(connection):
     if query:
         for result in query:
             url_list.append(result['url'])
+    logger.info(f"Found {len(url_list)} url links")
     return url_list
 
 

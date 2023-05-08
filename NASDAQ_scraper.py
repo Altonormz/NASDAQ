@@ -51,8 +51,10 @@ def get_response(urls):
     ua = UserAgent()
     logger.info(f'Sending the following urls to grequests\n{urls}')
     headers = {'user-agent': ua.random}
-    request = [grequests.get(url, headers=headers) for url in urls]
+    request = [grequests.get(url, headers=headers, timeout=10) for url in urls]
     responses = grequests.map(request)
+    logger.info(f"Got these responses:\n{responses}")
+    responses = [res for res in responses if not res is None]
     return responses
 
 
@@ -76,7 +78,10 @@ def fetch_articles_urls(args):
                          f'{ten_pages}')
         try:
             responses = get_response(ten_pages)
-            logger.info(f'successfully got responses from server for the urls: {ten_pages}')
+            if responses:
+                logger.info(f'successfully got responses from server for the urls: {ten_pages}')
+            else:
+                logger.error(f"Got no responses from {ten_pages}")
         except Exception as err:
             logger.error(f"error getting responses from pages: {ten_pages}")
             raise RuntimeError(f"error getting responses: {err}")
@@ -118,7 +123,7 @@ def setting_info(article_list):
         rs = (grequests.get(t.url, headers=headers, timeout=config['TIMEOUT']) for t in article_list)
         logger.info(f'successfully got responses from server')
     except Exception as err:
-        logger.error(f"error getting responses from server")
+        logger.error(f"error getting responses from server: {err}")
         raise RuntimeError(f"error getting responses: {err}")
 
     countdown = 0
