@@ -111,14 +111,15 @@ def fetch_articles_urls(args):
                 stop, scraped_pages = scrape_page(url, args)
                 if scraped_pages:
                     logger.info(f"successfully scraped {scraped_pages}\n")
+                    new_links = new_links + scraped_pages
                 else:
                     logger.error(f"could not scrape response page")
-                new_links = new_links + scraped_pages
                 if stop:
                     print(f'Batch number {i // config["BATCH_SIZE"] + 1}/100 done')
                     return new_links
             else:
                 logger.error(f"Request failed with status code: {url.status_code}")
+    print(f"successfully scraped {len(new_links)}")
     return new_links
 
 
