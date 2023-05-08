@@ -9,10 +9,10 @@
     "STATUS_CODE": 200,
     "INSERT": 500,
     "DB_COMMANDS_FILE": "NASDAQ_sql_schema.sql",
-    "HOST": "https://data-mining-db1.cttpnp4olbpx.us-west-1.rds.amazonaws.com/",
-    "USER": "root",
+    "HOST": "data-mining-db1.cttpnp4olbpx.us-west-1.rds.amazonaws.com",
+    "USER": "alon_jonathan",
     "DB": "alon_jonathan",
-    "PASSWORD": "password",
+    "PASSWORD": "alon_jonathan",
     "API": {
             "info_token": "3HE3BQS6ZKOOJU0I",
             "price_token": "A67L7K250FJ9WY6K",
