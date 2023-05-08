@@ -12,7 +12,6 @@ import grequests
 from bs4 import BeautifulSoup
 import json
 from Class_Article import Article
-from fake_useragent import UserAgent
 import argparse
 import dateparser
 import NASDAQ_datacollecter
@@ -49,14 +48,12 @@ def get_response(urls):
     """
     using grequests threads to get responses from several web pages at a time.
     """
-    logger.info('Get Response Phase')
-    ua = UserAgent()
     logger.info(f'Sending the following urls to grequests\n{urls}')
-    headers = {'user-agent': ua.random}
+    headers = {'User-agent': config["HEADERS"]}
     request = [grequests.get(url, headers=headers, timeout=config['TIMEOUT']) for url in urls]
     responses = grequests.map(request)
     logger.info(f"Got these responses:\n{responses}")
-    responses = [res for res in responses if not res is None]
+    responses = [res for res in responses if res]
     return responses
 
 
@@ -89,7 +86,7 @@ def responses_batch(ten_pages):
         if responses:
             logger.info(f'Got responses from server for the urls: {ten_pages}')
         else:
-            print(f'Responses returned None for {ten_pages}')
+            print(f'{responses} Responses returned None for {ten_pages}')
             logger.error(f"Responses returned None {ten_pages}")
     except Exception as err:
         logger.error(f"error getting responses from pages: {ten_pages}")
@@ -132,8 +129,7 @@ def setting_info(article_list, connection):
     The article content will be saved into a text file in a sub-folder named "article content files".
     """
     logger.info('Setting Info Phase')
-    ua = UserAgent()
-    headers = {'user-agent': ua.random}
+    headers = {'User-agent': config["HEADERS"]}
     try:
         logger.info('Setting Info Phases Started')
         rs = (grequests.get(t.url, headers=headers, timeout=config['TIMEOUT']) for t in article_list)
@@ -215,7 +211,6 @@ def main():
             API_datacollector.update_stock_prices(connection)
         else:
             new_links = fetch_articles_urls(args)  # Gets list of urls to scrape
-
             urls = NASDAQ_datacollecter.get_all_urls(connection)  # Gets list of urls that exists in the database
 
             new_links = list(set(new_links) - set(urls))  # Keeps only the links that don't exist in the database

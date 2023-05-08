@@ -131,6 +131,9 @@ dmypy.json
 
 # Files
 test.py
+#Log Reports
+/logs
 
 # Key Files
 *.pem
+/logs/
