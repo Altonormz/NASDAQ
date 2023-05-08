@@ -50,7 +50,7 @@ def get_response(urls):
     """
     logger.info(f'Sending the following urls to grequests\n{urls}')
     headers = {'User-agent': config["HEADERS"]}
-    request = [grequests.get(url, headers=headers, timeout=config['TIMEOUT']) for url in urls]
+    request = [grequests.get(url, headers=headers) for url in urls]
     responses = grequests.map(request)
     logger.info(f"Got these responses:\n{responses}")
     for response in responses:
