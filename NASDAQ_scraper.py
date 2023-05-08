@@ -1,6 +1,7 @@
 import logging
 import os
-
+if not os.path.exists("logs"):
+    os.makedirs("logs")
 import pymysql.cursors
 import gevent.monkey
 if not gevent.monkey.saved:
@@ -15,8 +16,7 @@ import dateparser
 import NASDAQ_datacollecter
 import API_datacollector
 
-if not os.path.exists("logs"):
-    os.makedirs("logs")
+
 # logging config
 logger = logging.getLogger("NASDAQ_scraper")
 logger.setLevel(logging.INFO)
