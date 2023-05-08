@@ -1,3 +1,5 @@
+USE `alon_jonathan`;
+
 CREATE TABLE IF NOT EXISTS `Authors` (
   `author_id` INTEGER PRIMARY KEY AUTO_INCREMENT,
   `author_name` varchar(255)
