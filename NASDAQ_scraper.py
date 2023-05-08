@@ -53,7 +53,11 @@ def get_response(urls):
     request = [grequests.get(url, headers=headers, timeout=config['TIMEOUT']) for url in urls]
     responses = grequests.map(request)
     logger.info(f"Got these responses:\n{responses}")
+    for response in responses:
+        print(f"URL: {response.url}, Status code: {response.status_code}")
+        logger.info(f"URL: {response.url}, Status code: {response.status_code}")
     responses = [res for res in responses if res]
+
     return responses
 
 
