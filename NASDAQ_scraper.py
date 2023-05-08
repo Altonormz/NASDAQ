@@ -30,11 +30,11 @@ with open("conf.json") as f:
     config = json.load(f)
 
 
-def scrape_page(URL, args):
+def scrape_page(url, args):
     """
     gathers articles urls from a NASDAQ articles web page
     """
-    soup = BeautifulSoup(URL.text, 'html.parser')
+    soup = BeautifulSoup(url.text, 'html.parser')
     pages = [f"https://www.nasdaq.com{a['href']}" for a in soup.find_all('a', class_="content-feed__card-title-link")]
     times = soup.find_all('div', class_='content-feed__card-timestamp')
     if args.time is not None:
