@@ -9,6 +9,7 @@
     "STATUS_CODE": 200,
     "INSERT": 500,
     "DB_COMMANDS_FILE": "NASDAQ_sql_schema.sql",
+    "HOST": "https://data-mining-db1.cttpnp4olbpx.us-west-1.rds.amazonaws.com/",
     "USER": "root",
     "PASSWORD": "password",
     "API": {

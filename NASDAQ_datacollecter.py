@@ -1,6 +1,5 @@
 import logging
 import json
-import pymysql.cursors
 import dateparser
 
 
@@ -17,34 +16,29 @@ handler.setFormatter(formatter)
 logger.addHandler(handler)
 
 
-def create_database(database_create_code):
+def create_database(database_create_code, connection):
     """
-    Creates a database for the NASDAQ articles according to the NASDAQ_sql_schema.sql file
+    Creates a database for the NASDAQ articles according to the NASDAQ_sql_schema.sql file.
     """
     try:
-        co = pymysql.connect(host='data-mining-db1.cttpnp4olbpx.us-west-1.rds.amazonaws.com',
-                                     user='alon_jonathan',
-                                     password='alon_jonathan',
-                                     database='alon_jonathan',
-                                     cursorclass=pymysql.cursors.DictCursor)
-        with co:
-            with co.cursor() as cursor:
-                with open(database_create_code, 'r') as file:
-                    sql_script = file.read()
-                    queries = sql_script.split(';')
-                    for query in queries[:-1]:
-                        cursor.execute(query)
-                        co.commit()
-                logger.info('NASDAQ database was created')
+        cursor = connection.cursor()
+        logger.info('Creating database')
+        with open(database_create_code, 'r') as file:
+            sql_script = file.read()
+            queries = sql_script.split(';')
+            for query in queries[:-1]:
+                cursor.execute(query)
+        connection.commit()
+        logger.info('Database was created')
 
     except FileNotFoundError as er:
-        print(f'{er} Please make sure the sql file exists')
+        print(f'{er} Please make sure the sql file exist')
 
 
 def add_author_to_database(author_name, connection):
     """
-    Gets author name and adds it to the database
-    Returns the authors_id
+    Gets author name and adds it to the database.
+    Returns the authors_id.
     """
     cursor = connection.cursor()
     cursor.execute("SELECT author_id FROM Authors WHERE author_name = %s", (author_name,))
@@ -62,8 +56,8 @@ def add_author_to_database(author_name, connection):
 
 def add_article_to_database(author_id, title, article_content, url, published_date, connection):
     """
-    Gets author author_id, title, article_content,url, date and adds them to the database
-    Returns the article_id
+    Gets author author_id, title, article_content,url, date and adds them to the database.
+    Returns the article_id.
     """
     cursor = connection.cursor()
     published_date = dateparser.parse(published_date)
@@ -80,9 +74,10 @@ def add_article_to_database(author_id, title, article_content, url, published_da
 
 def add_tickers_to_database(ticker_list, connection):
     """
-    Gets tickers list and adds them to the database
-    Returns the list of ticks_ids
+    Gets tickers list and adds them to the database.
+    Returns the list of ticks_ids.
     """
+    logger.info(f'Adding {len(ticker_list)} tickers to the database')
     cursor = connection.cursor()
     stock_ids = []
     for tick in ticker_list:
@@ -101,7 +96,7 @@ def add_tickers_to_database(ticker_list, connection):
 
 def add_stock_articles_to_database(article_id, stock_ids, connection):
     """
-    Gets stock_ids list, article_id and adds them to the database
+    Gets stock_ids list, article_id and adds them to the database.
     """
     cursor = connection.cursor()
     for stock_id in stock_ids:
@@ -112,8 +107,8 @@ def add_stock_articles_to_database(article_id, stock_ids, connection):
 
 def add_tags_to_database(tag_list, connection):
     """
-    Gets tags list and adds them to the database
-    Returns the list of tag_ids
+    Gets tags list and adds them to the database.
+    Returns the list of tag_ids.
     """
     cursor = connection.cursor()
     tag_ids = []
@@ -132,7 +127,7 @@ def add_tags_to_database(tag_list, connection):
 
 def add_article_tags_to_database(article_id, tag_ids, connection):
     """
-    Gets tag_ids list, article_id and adds them to the database
+    Gets tag_ids list, article_id and adds them to the database.
     """
     cursor = connection.cursor()
     for tag_id in tag_ids:
@@ -143,7 +138,7 @@ def add_article_tags_to_database(article_id, tag_ids, connection):
 
 def get_all_urls(connection):
     """
-    get a list of urls currently in the database
+    get a list of urls currently in the database.
     """
     logger.info("Getting url links")
     url_list = []
@@ -157,17 +152,12 @@ def get_all_urls(connection):
     return url_list
 
 
-def update_database(articles_list):  # Function assumes database was created in the main program
+def update_database(articles_list, connection):  # Function assumes database was created in the main program
     """
     Gets a list of article objects and updates the database with new information.
     """
     logger.info(f'Number of articles: {len(articles_list)}')
     if articles_list and type(articles_list) == list:
-        connection = pymysql.connect(host='data-mining-db1.cttpnp4olbpx.us-west-1.rds.amazonaws.com',
-                                     user='alon_jonathan',
-                                     password='alon_jonathan',
-                                     database='alon_jonathan',
-                                     cursorclass=pymysql.cursors.DictCursor)
         for article in articles_list:
             article_data_dict = article.row_info()
 

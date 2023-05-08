@@ -1,14 +1,65 @@
-2023-05-08 11:42:12,420 - INFO - NASDAQ database was created
-2023-05-08 11:42:16,376 - INFO - Getting url links
-2023-05-08 11:42:16,621 - INFO - Found 107 url links
-2023-05-08 11:42:18,662 - INFO - Number of articles: 10
-2023-05-08 11:42:23,172 - INFO - article "Guru Fundamental Report for AGCO" was added to the database with id: 108
-2023-05-08 11:42:27,165 - INFO - article "Guru Fundamental Report for BAH" was added to the database with id: 109
-2023-05-08 11:42:31,056 - INFO - article "Guru Fundamental Report for CYBR" was added to the database with id: 110
-2023-05-08 11:42:35,050 - INFO - article "Guru Fundamental Report for DOCN" was added to the database with id: 111
-2023-05-08 11:42:38,532 - INFO - article "Guru Fundamental Report for RY - Peter Lynch" was added to the database with id: 112
-2023-05-08 11:42:42,320 - INFO - article "Guru Fundamental Report for BAM - Peter Lynch" was added to the database with id: 113
-2023-05-08 11:42:45,905 - INFO - article "Guru Fundamental Report for STNG" was added to the database with id: 114
-2023-05-08 11:42:49,589 - INFO - article "Guru Fundamental Report for NBIX" was added to the database with id: 115
-2023-05-08 11:42:53,175 - INFO - article "Guru Fundamental Report for PNR" was added to the database with id: 116
-2023-05-08 11:43:01,368 - INFO - article "3 Top Artificial Intelligence Stocks to Buy in May" was added to the database with id: 117
+2023-05-08 17:10:02,959 - INFO - Creating NASDAQ database
+2023-05-08 17:10:03,108 - INFO - NASDAQ database was created
+2023-05-08 17:10:06,675 - INFO - Getting url links
+2023-05-08 17:10:06,690 - INFO - Found 97 url links
+2023-05-08 17:10:12,476 - INFO - Number of articles: 30
+2023-05-08 17:10:12,544 - INFO - Adding 1 tickers to the database
+2023-05-08 17:10:12,576 - INFO - article "Guru Fundamental Report for RY - Peter Lynch" was added to the database with id: 98
+2023-05-08 17:10:12,605 - INFO - Adding 1 tickers to the database
+2023-05-08 17:10:12,631 - INFO - article "Guru Fundamental Report for AGCO" was added to the database with id: 99
+2023-05-08 17:10:12,655 - INFO - Adding 1 tickers to the database
+2023-05-08 17:10:12,682 - INFO - article "Guru Fundamental Report for CYBR" was added to the database with id: 100
+2023-05-08 17:10:12,697 - INFO - Adding 1 tickers to the database
+2023-05-08 17:10:12,721 - INFO - article "Guru Fundamental Report for WAB - Martin Zweig" was added to the database with id: 101
+2023-05-08 17:10:12,743 - INFO - Adding 0 tickers to the database
+2023-05-08 17:10:12,754 - INFO - article "SEC Awards Largest Ever Whistleblower Payout" was added to the database with id: 102
+2023-05-08 17:10:12,767 - INFO - Adding 1 tickers to the database
+2023-05-08 17:10:12,797 - INFO - article "Guru Fundamental Report for TFX - Benjamin Graham" was added to the database with id: 103
+2023-05-08 17:10:12,813 - INFO - Adding 0 tickers to the database
+2023-05-08 17:10:12,823 - INFO - article "A Reopening China is More Bust Than Blockbuster" was added to the database with id: 104
+2023-05-08 17:10:12,837 - INFO - Adding 4 tickers to the database
+2023-05-08 17:10:12,884 - INFO - article "3 Top Artificial Intelligence Stocks to Buy in May" was added to the database with id: 105
+2023-05-08 17:10:12,896 - INFO - Adding 1 tickers to the database
+2023-05-08 17:10:12,920 - INFO - article "Guru Fundamental Report for BAM - Peter Lynch" was added to the database with id: 106
+2023-05-08 17:10:12,931 - INFO - Adding 0 tickers to the database
+2023-05-08 17:10:12,937 - INFO - article "Australian Market Notably Higher" was added to the database with id: 107
+2023-05-08 17:10:12,951 - INFO - Adding 0 tickers to the database
+2023-05-08 17:10:12,958 - INFO - article "Thai Stock Market Expected To Open In The Green" was added to the database with id: 108
+2023-05-08 17:10:12,975 - INFO - Adding 1 tickers to the database
+2023-05-08 17:10:12,995 - INFO - article "Guru Fundamental Report for AVY - Warren Buffett" was added to the database with id: 109
+2023-05-08 17:10:13,004 - INFO - Adding 1 tickers to the database
+2023-05-08 17:10:13,022 - INFO - article "Guru Fundamental Report for ZIM" was added to the database with id: 110
+2023-05-08 17:10:13,031 - INFO - Adding 0 tickers to the database
+2023-05-08 17:10:13,038 - INFO - article "Hong Kong Stock Market Tipped To Extend Winning Streak" was added to the database with id: 111
+2023-05-08 17:10:13,051 - INFO - Adding 1 tickers to the database
+2023-05-08 17:10:13,067 - INFO - article "Guru Fundamental Report for PNR" was added to the database with id: 112
+2023-05-08 17:10:13,077 - INFO - Adding 0 tickers to the database
+2023-05-08 17:10:13,086 - INFO - article "Japanese Market Notably Lower" was added to the database with id: 113
+2023-05-08 17:10:13,107 - INFO - Adding 1 tickers to the database
+2023-05-08 17:10:13,130 - INFO - article "Guru Fundamental Report for TXRH" was added to the database with id: 114
+2023-05-08 17:10:13,150 - INFO - Adding 1 tickers to the database
+2023-05-08 17:10:13,167 - INFO - article "Guru Fundamental Report for BN" was added to the database with id: 115
+2023-05-08 17:10:13,191 - INFO - Adding 1 tickers to the database
+2023-05-08 17:10:13,209 - INFO - article "Guru Fundamental Report for CPT - Peter Lynch" was added to the database with id: 116
+2023-05-08 17:10:13,225 - INFO - Adding 0 tickers to the database
+2023-05-08 17:10:13,234 - INFO - article "Renewed Support Anticipated For China Stock Market" was added to the database with id: 117
+2023-05-08 17:10:13,247 - INFO - Adding 0 tickers to the database
+2023-05-08 17:10:13,253 - INFO - article "What's Eating Warren Buffett?" was added to the database with id: 118
+2023-05-08 17:10:13,264 - INFO - Adding 0 tickers to the database
+2023-05-08 17:10:13,269 - INFO - article "Indonesia Stock Market May Reverse Friday's Losses" was added to the database with id: 119
+2023-05-08 17:10:13,282 - INFO - Adding 1 tickers to the database
+2023-05-08 17:10:13,303 - INFO - article "Guru Fundamental Report for STNG" was added to the database with id: 120
+2023-05-08 17:10:13,315 - INFO - Adding 1 tickers to the database
+2023-05-08 17:10:13,335 - INFO - article "Guru Fundamental Report for ARGX" was added to the database with id: 121
+2023-05-08 17:10:13,355 - INFO - Adding 1 tickers to the database
+2023-05-08 17:10:13,378 - INFO - article "Guru Fundamental Report for MBLY" was added to the database with id: 122
+2023-05-08 17:10:13,402 - INFO - Adding 1 tickers to the database
+2023-05-08 17:10:13,422 - INFO - article "Edwards:Aortic Valve With Resilia Tissue Shows Favorable Durability& Efficacy Outcomes In 7-yrs Data" was added to the database with id: 123
+2023-05-08 17:10:13,438 - INFO - Adding 1 tickers to the database
+2023-05-08 17:10:13,459 - INFO - article "Guru Fundamental Report for DOCN" was added to the database with id: 124
+2023-05-08 17:10:13,478 - INFO - Adding 1 tickers to the database
+2023-05-08 17:10:13,491 - INFO - article "Guru Fundamental Report for BAH" was added to the database with id: 125
+2023-05-08 17:10:13,506 - INFO - Adding 1 tickers to the database
+2023-05-08 17:10:13,518 - INFO - article "Guru Fundamental Report for NBIX" was added to the database with id: 126
+2023-05-08 17:10:13,533 - INFO - Adding 1 tickers to the database
+2023-05-08 17:10:13,557 - INFO - article "Guru Fundamental Report for RGEN" was added to the database with id: 127

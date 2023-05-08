@@ -2,7 +2,6 @@ import logging
 import json
 import requests
 import pandas as pd
-import pymysql.cursors
 import time
 
 with open("conf.json") as f:
@@ -16,19 +15,6 @@ handler = logging.FileHandler("logs/API_datacollector.log", mode="w")
 formatter = logging.Formatter("%(asctime)s - %(levelname)s - %(message)s")
 handler.setFormatter(formatter)
 logger.addHandler(handler)
-
-
-def start_sql_connection():
-    """
-    Returns connection to MySQL, using the user and password from the config file.
-    """
-    connection = pymysql.connect(host='data-mining-db1.cttpnp4olbpx.us-west-1.rds.amazonaws.com',
-                                 user='alon_jonathan',
-                                 password='alon_jonathan',
-                                 database='alon_jonathan',
-                                 cursorclass=pymysql.cursors.DictCursor)
-    logger.info("Connection started to SQL")
-    return connection
 
 
 def check_database_exists(connection):
@@ -49,6 +35,7 @@ def call_info_stocks_api(ticker, info_token_flag):
     Returns DataFrame containing the information about the ticker.
     Returns a boolean flag representing if the queries are spent from the token.
     """
+    logger.info(f"getting info on {ticker}")
     tick_info = []
     info_token = config['API']['info_token']
     api_url = f"https://www.alphavantage.co/query?function=OVERVIEW&symbol={ticker}&apikey={info_token}"
@@ -68,6 +55,7 @@ def call_price_stocks_api(ticker, price_token_flag):
     Returns DataFrame containing the information about the ticker prices.
     Returns a boolean flag representing if the queries are spent from the token.
     """
+    logger.info(f'Getting {ticker} price info')
     tick_prices_df = pd.DataFrame({})
     price_token = config['API']['price_token']
     api_url = f"https://www.alphavantage.co/query?function=TIME_SERIES_DAILY_ADJUSTED&symbol={ticker}&outputsize" \
@@ -110,12 +98,11 @@ def insert_stock_prices(prices, ticker, connection):
         connection.commit()
 
 
-def update_stock_prices():
+def update_stock_prices(connection):
     """
     Updates the Table Stocks_Prices, with the most recent available prices without duplicates.
     """
 
-    connection = start_sql_connection()
     if not check_database_exists(connection):
         logger.error("Database or required tables do not exist.")
         return
@@ -143,11 +130,10 @@ def update_stock_prices():
                 logger.info(f' "{ticker}" was updated in the Stocks_Prices table.')
 
 
-def new_tickers():
+def new_tickers(connection):
     """
     Adds the tickers Information and stock prices to DataBase for stocks with no information.
     """
-    connection = start_sql_connection()
     if not check_database_exists(connection):
         logger.error("Database or required tables do not exist.")
         return

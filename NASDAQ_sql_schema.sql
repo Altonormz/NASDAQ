@@ -1,4 +1,3 @@
-USE `alon_jonathan`;
 
 CREATE TABLE IF NOT EXISTS `Authors` (
   `author_id` INTEGER PRIMARY KEY AUTO_INCREMENT,
