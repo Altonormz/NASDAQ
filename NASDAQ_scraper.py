@@ -201,9 +201,8 @@ def main():
             urls = NASDAQ_datacollecter.get_all_urls(co)
 
             new_links = list(set(new_links) - set(urls))
-
-            get_objects = get_articles(new_links)
             logger.info(f"Collected {len(new_links)} new links")
+            get_objects = get_articles(new_links)
             setting_info(get_objects)
             logger.info("Adding new tickers to database")
             API_datacollector.new_tickers()

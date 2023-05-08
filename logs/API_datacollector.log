@@ -1,0 +1,13 @@
+2023-05-08 11:43:02,385 - INFO - Connection started to SQL
+2023-05-08 11:43:02,904 - INFO - stocks_exists and stocks_prices_exists: {'Tables_in_alon_jonathan (Stocks)': 'Stocks'} and {'Tables_in_alon_jonathan (Stocks_Prices)': 'Stocks_Prices'}
+2023-05-08 11:44:00,248 - INFO -  "BRK.B" was updated in the Stocks_Prices table. 
+2023-05-08 11:44:58,924 - INFO -  "BRK.A" was updated in the Stocks_Prices table. 
+2023-05-08 11:46:05,850 - INFO -  "RDFN" was updated in the Stocks table. 
+2023-05-08 11:47:02,012 - INFO -  "RDFN" was updated in the Stocks_Prices table. 
+2023-05-08 11:47:03,958 - INFO -  "VICI" was updated in the Stocks table. 
+2023-05-08 11:48:00,996 - INFO -  "VICI" was updated in the Stocks_Prices table. 
+2023-05-08 11:49:07,046 - INFO -  "KO" was updated in the Stocks table. 
+2023-05-08 11:49:59,656 - INFO -  "KO" was updated in the Stocks_Prices table. 
+2023-05-08 11:50:00,490 - INFO -  "PEP" was updated in the Stocks table. 
+2023-05-08 11:50:53,546 - INFO -  "PEP" was updated in the Stocks_Prices table. 
+2023-05-08 11:51:59,494 - INFO -  "DLR" was updated in the Stocks table. 
